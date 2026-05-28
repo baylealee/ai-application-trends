@@ -1,0 +1,44 @@
+[
+  {
+    "id": "Gemini_PM_DailySecretary",
+    "date": "2026-05-28",
+    "title": "Gemini PM 每日秘書",
+    "ai_type": "gemini",
+    "scene": ["daily_ops", "pm_meeting"],
+    "tool": ["google_workspace", "apps_script"],
+    "status": "ready",
+    "priority": "s",
+    "summary": "每日讀取 Gmail、Calendar、PM Sheet，整理逾期、待催、今日會議與 workload 風險。",
+    "workflow": "Calendar → Gmail thread → PM Sheet → Gemini 摘要 → 每日待辦 / 逾期提醒 EDM",
+    "use_cases": ["找出超過 7 天未回覆的報價與合約", "整理今日會議、PM workload、待催事項", "搭配 Apps Script 寫回 Google Sheet"],
+    "url": "daily/2026-05-28.html"
+  },
+  {
+    "id": "GPT_PM_WarRoom",
+    "date": "2026-05-28",
+    "title": "GPT 會議戰情室",
+    "ai_type": "gpt",
+    "scene": ["pm_meeting", "crm_automation"],
+    "tool": ["slack"],
+    "status": "poc",
+    "priority": "a",
+    "summary": "會議中同步摘要需求、拆 owner、標記客製風險，會後輸出 Slack/Gmail 跟催內容。",
+    "workflow": "客戶會議語音 → GPT 摘要 → 判斷標準/客製 → 產出 action items → Slack/Gmail 跟催",
+    "use_cases": ["OMO Kickoff 與 SKA 專案週會", "把追加需求標示為可能加價", "同步產出 owner、deadline、風險等級"],
+    "url": "daily/2026-05-28.html"
+  },
+  {
+    "id": "Claude_SOP_RiskAdvisor",
+    "date": "2026-05-28",
+    "title": "Claude 導入風險顧問",
+    "ai_type": "claude",
+    "scene": ["sop_review", "onboarding", "knowledge_base"],
+    "tool": ["docs"],
+    "status": "knowledge_base",
+    "priority": "a",
+    "summary": "吃 SOP、API 文件與歷史案例，輸出導入風險、預估人天與 Presales handoff 清單。",
+    "workflow": "SOP / vendor 文件 / 結案紀錄 → Claude 分析 → 風險等級 → 預估人天 → 前置清單",
+    "use_cases": ["業務報價前判斷標準方案是否足夠", "分析 ERP/POS vendor 延遲點", "產出 Presales 到 PM handoff 清單"],
+    "url": "daily/2026-05-28.html"
+  }
+]
