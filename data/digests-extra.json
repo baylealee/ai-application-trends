@@ -14,7 +14,7 @@
     "use_cases": ["MCP 基礎理解", "AI Agent 入門", "非工程背景 AI 實作訓練", "企業工作流自動化概念"],
     "url": "category.html",
     "sources": [
-      {"title": "我跟你的討論內容", "url": "category.html"}
+      {"title": "Baylea 跟 GPT 討論的內容", "url": "category.html"}
     ]
   }
 ]
