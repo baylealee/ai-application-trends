@@ -1,20 +1,21 @@
 #!/usr/bin/env python3
 """
-Baylea AI Application Trends - Threads Clean Data Fetcher
+Baylea AI Application Trends - Threads Clean Data Fetcher v2
 
 Purpose:
 - Fetch public single Threads pages.
-- Try to recover post text from public HTML metadata / embedded JSON.
+- Recover post text from public HTML metadata / embedded JSON.
 - Output a conservative JSON payload for the AI source extractor.
 
 Important:
-- This script is for public pages only.
+- Public pages only.
 - Do not use Meta / Facebook / Instagram credentials.
-- Do not attempt to access private groups, private posts, or content behind login walls.
+- Do not access private groups, private posts, or content behind login walls.
 - If clear post text cannot be recovered, return status=need_context rather than guessing.
 
 Usage:
   python scripts/fetch_threads_clean_data.py "https://www.threads.com/@techtip_s/post/DY3If9hj1jA"
+  python scripts/fetch_threads_clean_data.py urls.txt --batch --debug
 """
 
 from __future__ import annotations
@@ -37,8 +38,8 @@ HEADERS = {
         "Chrome/123.0.0.0 Safari/537.36"
     ),
     "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
-
 
 TEXT_KEYS = {
     "caption",
@@ -48,11 +49,24 @@ TEXT_KEYS = {
     "message",
     "body",
     "title",
+    "name",
 }
+
+AI_WORKFLOW_KEYWORDS = [
+    "AI", "Claude", "ChatGPT", "GPT", "Gemini", "RAG", "MCP", "OpenClaw", "龍蝦",
+    "NotebookLM", "n8n", "Dify", "Make", "Apps Script", "Google Sheet", "Cursor",
+    "Qwen", "Codex", "agent", "Agent", "工作流", "自動化", "流程", "prompt", "提示詞",
+    "任務", "工具", "記憶", "知識庫", "會議", "摘要", "整理", "生成", "設計", "小工具",
+    "表單", "CRM", "Gmail", "Slack", "Notion", "GitHub", "Vercel",
+]
+
+GENERIC_BLOCKLIST = [
+    "Log in", "登入", "Sign up", "註冊", "Threads 上的貼文", "查看更多", "Meta", "Instagram",
+    "This content isn't available", "此內容無法使用", "請先登入", "Create an account",
+]
 
 
 def normalize_url(url: str) -> str:
-    """Normalize Threads URL enough for source storage."""
     url = url.strip()
     url = url.replace("https://www.threads.net/", "https://www.threads.com/")
     return url
@@ -63,12 +77,33 @@ def extract_author_from_url(url: str) -> str:
     return match.group(1) if match else "unknown"
 
 
+def safe_json_string_decode(value: str) -> str:
+    """Decode JSON string escapes without corrupting Chinese / emoji."""
+    if not value:
+        return ""
+    try:
+        return json.loads(f'"{value}"')
+    except Exception:
+        pass
+    try:
+        return bytes(value, "utf-8").decode("unicode_escape")
+    except Exception:
+        return value
+
+
 def clean_text(value: str) -> str:
     value = html.unescape(value or "")
-    value = value.encode("utf-8", errors="ignore").decode("utf-8", errors="ignore")
+    value = value.replace("\\/", "/")
     value = re.sub(r"\\u([0-9a-fA-F]{4})", lambda m: chr(int(m.group(1), 16)), value)
-    value = re.sub(r"\s+", " ", value).strip()
-    return value
+    value = value.replace("\\n", "\n").replace("\\t", "\t")
+    value = re.sub(r"[ \t\r\f\v]+", " ", value)
+    value = re.sub(r"\n{3,}", "\n\n", value)
+    return value.strip()
+
+
+def compact_for_debug(text: str, limit: int = 320) -> str:
+    text = clean_text(text).replace("\n", " ")
+    return text if len(text) <= limit else text[:limit] + "..."
 
 
 def get_meta_content(soup: BeautifulSoup, *, property_name: str | None = None, name: str | None = None) -> str:
@@ -84,7 +119,7 @@ def get_meta_content(soup: BeautifulSoup, *, property_name: str | None = None, n
 
 
 def candidate_meta_texts(soup: BeautifulSoup) -> List[Dict[str, str]]:
-    candidates = []
+    candidates: List[Dict[str, str]] = []
     meta_fields = [
         ("og:title", "property"),
         ("og:description", "property"),
@@ -104,7 +139,6 @@ def candidate_meta_texts(soup: BeautifulSoup) -> List[Dict[str, str]]:
 
 
 def iter_json_objects(obj: Any) -> Iterable[Any]:
-    """Yield all nested JSON-ish objects/lists."""
     yield obj
     if isinstance(obj, dict):
         for value in obj.values():
@@ -114,19 +148,20 @@ def iter_json_objects(obj: Any) -> Iterable[Any]:
             yield from iter_json_objects(item)
 
 
-def extract_texts_from_json(obj: Any) -> List[str]:
-    texts: List[str] = []
+def extract_texts_from_json(obj: Any) -> List[Dict[str, str]]:
+    results: List[Dict[str, str]] = []
     for node in iter_json_objects(obj):
-        if isinstance(node, dict):
-            # Common Threads pattern: caption: { text: "..." }
-            caption = node.get("caption")
-            if isinstance(caption, dict) and isinstance(caption.get("text"), str):
-                texts.append(clean_text(caption["text"]))
+        if not isinstance(node, dict):
+            continue
 
-            for key, value in node.items():
-                if key in TEXT_KEYS and isinstance(value, str):
-                    texts.append(clean_text(value))
-    return [t for t in texts if t]
+        caption = node.get("caption")
+        if isinstance(caption, dict) and isinstance(caption.get("text"), str):
+            results.append({"source": "json.caption.text", "text": clean_text(caption["text"])})
+
+        for key, value in node.items():
+            if key in TEXT_KEYS and isinstance(value, str):
+                results.append({"source": f"json.{key}", "text": clean_text(value)})
+    return [r for r in results if r["text"]]
 
 
 def candidate_script_texts(soup: BeautifulSoup) -> List[Dict[str, str]]:
@@ -139,72 +174,84 @@ def candidate_script_texts(soup: BeautifulSoup) -> List[Dict[str, str]]:
 
         script_type = (script.get("type") or "").lower()
 
-        # Strategy 1: Parse clean JSON / JSON-LD.
         if "json" in script_type:
             try:
                 parsed = json.loads(raw)
-                for text in extract_texts_from_json(parsed):
-                    candidates.append({"source": script_type or "application/json", "text": text})
+                candidates.extend(extract_texts_from_json(parsed))
             except Exception:
                 pass
 
-        # Strategy 2: Regex fallback for embedded caption text.
-        if "caption" in raw or "og:description" in raw or "description" in raw:
+        if any(token in raw for token in ["caption", "description", "text", "__bbox", "__spin"]):
             patterns = [
                 r'"caption"\s*:\s*\{\s*"text"\s*:\s*"((?:\\.|[^"\\])*)"',
                 r'"text"\s*:\s*"((?:\\.|[^"\\]){20,})"',
                 r'"description"\s*:\s*"((?:\\.|[^"\\]){20,})"',
+                r'"message"\s*:\s*"((?:\\.|[^"\\]){20,})"',
             ]
             for pattern in patterns:
                 for match in re.findall(pattern, raw):
-                    try:
-                        decoded = bytes(match, "utf-8").decode("unicode_escape")
-                    except Exception:
-                        decoded = match
-                    decoded = clean_text(decoded)
+                    decoded = clean_text(safe_json_string_decode(match))
                     if decoded:
                         candidates.append({"source": "script_regex", "text": decoded})
 
     return candidates
 
 
+def has_blocked_generic_text(text: str) -> bool:
+    normalized = text.lower()
+    return any(block.lower() in normalized for block in GENERIC_BLOCKLIST)
+
+
+def ai_keyword_hits(text: str) -> List[str]:
+    normalized = text.lower()
+    hits = []
+    for keyword in AI_WORKFLOW_KEYWORDS:
+        if keyword.lower() in normalized:
+            hits.append(keyword)
+    return hits
+
+
+def quality_for_text(text: str) -> Dict[str, Any]:
+    text = clean_text(text)
+    hits = ai_keyword_hits(text)
+    blocked = has_blocked_generic_text(text)
+
+    if not text or len(text) < 20:
+        return {"content_quality": "need_context", "source_level_hint": "need_context", "keyword_hits": hits}
+
+    if blocked and len(hits) == 0:
+        return {"content_quality": "need_context", "source_level_hint": "need_context", "keyword_hits": hits}
+
+    if len(text) >= 80 and len(hits) >= 2:
+        return {"content_quality": "strong", "source_level_hint": "A_or_B_candidate", "keyword_hits": hits}
+
+    if len(text) >= 50 and len(hits) >= 1:
+        return {"content_quality": "medium", "source_level_hint": "B_candidate", "keyword_hits": hits}
+
+    return {"content_quality": "weak", "source_level_hint": "need_context", "keyword_hits": hits}
+
+
 def score_text(text: str) -> int:
-    """Heuristic score: longer, Traditional Chinese, AI/workflow terms rank higher."""
     if not text:
         return 0
-    score = min(len(text), 500)
-    keywords = [
-        "AI",
-        "Claude",
-        "ChatGPT",
-        "Gemini",
-        "RAG",
-        "MCP",
-        "工作流",
-        "自動化",
-        "流程",
-        "prompt",
-        "任務",
-        "工具",
-        "記憶",
-        "知識庫",
-        "會議",
-        "Google",
-        "Sheet",
-        "Notion",
-    ]
-    for kw in keywords:
-        if kw.lower() in text.lower():
-            score += 100
-    # Prefer actual post-length content over generic meta title.
-    if len(text) > 80:
-        score += 200
+    quality = quality_for_text(text)
+    score = min(len(text), 700)
+    score += len(quality["keyword_hits"]) * 120
+    if quality["content_quality"] == "strong":
+        score += 500
+    elif quality["content_quality"] == "medium":
+        score += 250
+    elif quality["content_quality"] == "weak":
+        score -= 100
+    if has_blocked_generic_text(text):
+        score -= 300
     return score
 
 
-def pick_best_text(candidates: List[Dict[str, str]]) -> Optional[Dict[str, str]]:
-    cleaned: List[Dict[str, str]] = []
+def clean_candidates(candidates: List[Dict[str, str]], debug: bool = False) -> List[Dict[str, Any]]:
+    cleaned: List[Dict[str, Any]] = []
     seen = set()
+
     for item in candidates:
         text = clean_text(item.get("text", ""))
         if len(text) < 15:
@@ -212,16 +259,26 @@ def pick_best_text(candidates: List[Dict[str, str]]) -> Optional[Dict[str, str]]
         if text in seen:
             continue
         seen.add(text)
-        cleaned.append({"source": item.get("source", "unknown"), "text": text})
 
-    if not cleaned:
-        return None
+        quality = quality_for_text(text)
+        entry: Dict[str, Any] = {
+            "source": item.get("source", "unknown"),
+            "text": text if debug else compact_for_debug(text),
+            "score": score_text(text),
+            **quality,
+        }
+        cleaned.append(entry)
 
-    cleaned.sort(key=lambda x: score_text(x["text"]), reverse=True)
-    return cleaned[0]
+    cleaned.sort(key=lambda x: x["score"], reverse=True)
+    return cleaned
 
 
-def fetch_threads_clean_data(url: str, timeout: int = 12) -> Dict[str, Any]:
+def pick_best_text(candidates: List[Dict[str, str]]) -> Optional[Dict[str, Any]]:
+    cleaned = clean_candidates(candidates, debug=True)
+    return cleaned[0] if cleaned else None
+
+
+def fetch_threads_clean_data(url: str, timeout: int = 12, debug: bool = False) -> Dict[str, Any]:
     url = normalize_url(url)
     author = extract_author_from_url(url)
 
@@ -244,36 +301,62 @@ def fetch_threads_clean_data(url: str, timeout: int = 12) -> Dict[str, Any]:
         }
 
     soup = BeautifulSoup(response.text, "html.parser")
-    candidates = candidate_script_texts(soup) + candidate_meta_texts(soup)
-    best = pick_best_text(candidates)
+    raw_candidates = candidate_script_texts(soup) + candidate_meta_texts(soup)
+    candidates = clean_candidates(raw_candidates, debug=debug)
+    best = candidates[0] if candidates else None
 
     if not best:
         return {
             "status": "need_context",
+            "source_level_hint": "need_context",
+            "content_quality": "need_context",
             "message": "Unable to recover clear post text from public HTML metadata or embedded JSON.",
             "source_author": author,
             "source_url": url,
             "raw_content": "",
-            "candidates": candidates[:5],
+            "candidates": [],
         }
 
+    quality = best.get("content_quality", "need_context")
+    if quality in {"strong", "medium"}:
+        status = "success"
+    else:
+        status = "weak_content"
+
     return {
-        "status": "success",
+        "status": status,
+        "source_level_hint": best.get("source_level_hint", "need_context"),
+        "content_quality": quality,
+        "keyword_hits": best.get("keyword_hits", []),
         "source_author": author,
         "source_url": url,
-        "extraction_source": best["source"],
-        "raw_content": best["text"],
+        "extraction_source": best.get("source", "unknown"),
+        "raw_content": best.get("text", ""),
         "candidate_count": len(candidates),
+        "candidates": candidates[:10] if debug else candidates[:5],
     }
+
+
+def read_urls_from_file(path: str) -> List[str]:
+    with open(path, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip() and not line.strip().startswith("#")]
 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Fetch public Threads post text from metadata / embedded JSON.")
-    parser.add_argument("url", help="Single Threads post URL")
+    parser.add_argument("target", help="Single Threads post URL, or a text file of URLs when --batch is used")
     parser.add_argument("--timeout", type=int, default=12)
+    parser.add_argument("--debug", action="store_true", help="Return full candidate texts for debugging")
+    parser.add_argument("--batch", action="store_true", help="Treat target as a newline-delimited URL file")
     args = parser.parse_args()
 
-    result = fetch_threads_clean_data(args.url, timeout=args.timeout)
+    if args.batch:
+        urls = read_urls_from_file(args.target)
+        results = [fetch_threads_clean_data(url, timeout=args.timeout, debug=args.debug) for url in urls]
+        print(json.dumps(results, ensure_ascii=False, indent=2))
+        return 0
+
+    result = fetch_threads_clean_data(args.target, timeout=args.timeout, debug=args.debug)
     print(json.dumps(result, ensure_ascii=False, indent=2))
     return 0 if result.get("status") == "success" else 1
 
