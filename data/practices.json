@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-05-28",
+    "title": "今天先懂：AI 不是聊天，是幫你一起完成工作",
+    "for_beginners": "看完今天 3 篇後，先用這張小卡確認自己有沒有抓到 AI 應用的核心。",
+    "related_digest_ids": [
+      "TW_PM_Meeting_To_Action",
+      "TW_Claude_LongDoc_SOP_Reader",
+      "TW_Gemini_Gmail_DailyDigest"
+    ],
+    "items": [
+      "你知道 cowork 不是取代你，是跟你共工了嗎？",
+      "你分得出摘要、改寫、整理待辦的差別嗎？",
+      "你知道 RAG 是讓 AI 先查資料再回答嗎？",
+      "你能說出今天哪一個 workflow 最想偷用嗎？"
+    ]
+  }
+]
