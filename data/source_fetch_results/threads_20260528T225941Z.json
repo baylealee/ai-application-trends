@@ -1,0 +1,42 @@
+[
+  {
+    "status": "need_context",
+    "source_level_hint": "need_context",
+    "content_quality": "need_context",
+    "message": "Unable to recover clear post text from public HTML metadata or embedded JSON.",
+    "source_author": "techtip_s",
+    "source_url": "https://www.threads.com/@techtip_s/post/DY3If9hj1jA",
+    "raw_content": "",
+    "candidates": []
+  },
+  {
+    "status": "need_context",
+    "source_level_hint": "need_context",
+    "content_quality": "need_context",
+    "message": "Unable to recover clear post text from public HTML metadata or embedded JSON.",
+    "source_author": "wei_li_wei",
+    "source_url": "https://www.threads.com/@wei_li_wei/post/DY4P9I7EyPG",
+    "raw_content": "",
+    "candidates": []
+  },
+  {
+    "status": "need_context",
+    "source_level_hint": "need_context",
+    "content_quality": "need_context",
+    "message": "Unable to recover clear post text from public HTML metadata or embedded JSON.",
+    "source_author": "sally.sales.ttt",
+    "source_url": "https://www.threads.com/@sally.sales.ttt/post/DY4bdJBjwS_",
+    "raw_content": "",
+    "candidates": []
+  },
+  {
+    "status": "need_context",
+    "source_level_hint": "need_context",
+    "content_quality": "need_context",
+    "message": "Unable to recover clear post text from public HTML metadata or embedded JSON.",
+    "source_author": "ci.fullstack",
+    "source_url": "https://www.threads.com/@ci.fullstack/post/DY2Sc5bHXwB",
+    "raw_content": "",
+    "candidates": []
+  }
+]
