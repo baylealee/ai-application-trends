@@ -2,19 +2,10 @@ name: Fetch Threads Clean Data
 
 on:
   workflow_dispatch:
-    inputs:
-      url:
-        description: 'Single Threads URL to fetch'
-        required: true
-        type: string
-      debug:
-        description: 'Return full candidate text for debugging'
-        required: false
-        default: 'true'
-        type: choice
-        options:
-          - 'true'
-          - 'false'
+  push:
+    paths:
+      - 'data/pending_threads_urls.txt'
+      - 'scripts/fetch_threads_clean_data.py'
 
 permissions:
   contents: write
@@ -43,12 +34,12 @@ jobs:
           TS=$(date -u +'%Y%m%dT%H%M%SZ')
           echo "output_file=data/source_fetch_results/threads_${TS}.json" >> "$GITHUB_OUTPUT"
 
-      - name: Fetch Threads data
+      - name: Fetch pending Threads URLs
         run: |
-          if [ "${{ inputs.debug }}" = "true" ]; then
-            python scripts/fetch_threads_clean_data.py "${{ inputs.url }}" --debug > "${{ steps.prep.outputs.output_file }}"
+          if [ -f "data/pending_threads_urls.txt" ] && [ -s "data/pending_threads_urls.txt" ]; then
+            python scripts/fetch_threads_clean_data.py data/pending_threads_urls.txt --batch --debug > "${{ steps.prep.outputs.output_file }}"
           else
-            python scripts/fetch_threads_clean_data.py "${{ inputs.url }}" > "${{ steps.prep.outputs.output_file }}"
+            echo '{"status":"no_input","message":"data/pending_threads_urls.txt is missing or empty."}' > "${{ steps.prep.outputs.output_file }}"
           fi
           cat "${{ steps.prep.outputs.output_file }}"
 
