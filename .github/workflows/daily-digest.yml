@@ -6,26 +6,23 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-and-send:
+  build-daily-pages:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate daily digest placeholder
+      - name: Generate digest placeholder
         run: |
-          echo "Daily digest workflow placeholder"
+          echo "AI Daily Digest Builder"
           date
 
-      - name: Build latest archive
+      - name: Build latest archive placeholder
         run: |
-          echo "Future: generate JSON + daily HTML"
+          echo "Future: generate daily JSON and HTML pages"
+          echo "Future: update digests.json"
 
-      - name: Send EDM placeholder
-        env:
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          GAS_SUBSCRIBER_API: ${{ secrets.GAS_SUBSCRIBER_API }}
+      - name: Commit placeholder
         run: |
-          echo "Future: fetch subscribers from GAS"
-          echo "Future: send digest EDM via Resend"
+          echo "Future: auto commit generated pages"
