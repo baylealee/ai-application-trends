@@ -1,0 +1,2 @@
+# Put one public Threads URL per line.
+# Updating this file triggers .github/workflows/fetch-threads.yml automatically.
