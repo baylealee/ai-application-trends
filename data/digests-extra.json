@@ -1,0 +1,20 @@
+[
+  {
+    "id": "Discussion_CLI_vs_MCP_Beginner_Guide",
+    "date": "2026-05-28",
+    "title": "CLI vs MCP：人操作電腦，AI 操作工具的差異",
+    "ai_type": "knowledge_ai",
+    "scene": ["learning", "mcp", "workflow_automation", "mini_tool"],
+    "tool": ["chatgpt", "mcp", "api"],
+    "status": "save",
+    "priority": "s",
+    "summary": "CLI 是人用指令操作電腦；MCP 是讓 AI 用標準協議連接工具、資料與系統。可以把 CLI 想成人類打指令，MCP 則是 AI 的工具接孔，讓 AI 不只聊天，而是能讀資料、選工具、執行動作並回寫結果。",
+    "workflow": "先理解 CLI：人輸入 git、npm、ls 等指令 → 再理解 MCP：AI assistant 透過 MCP server 連到 GitHub、Notion、CRM、Sheet、API → 最後判斷企業工作流能不能被 AI 代理執行。",
+    "extra_html": "<div class='compare-table'><div class='compare-row compare-head'><span>項目</span><span>CLI</span><span>MCP</span></div><div class='compare-row'><span>本質</span><span>指令列</span><span>AI 工具協議</span></div><div class='compare-row'><span>操作者</span><span>人</span><span>AI</span></div><div class='compare-row'><span>用途</span><span>手動執行</span><span>AI 自動操作</span></div><div class='compare-row'><span>格式</span><span>bash command</span><span>JSON-RPC / tool protocol</span></div><div class='compare-row'><span>典型用途</span><span>git、deploy、檔案操作</span><span>AI agent 串 GitHub、Notion、CRM、Sheet</span></div><div class='compare-row'><span>一句話</span><span>人類操作電腦的方法</span><span>AI 操作工具的方法</span></div></div>",
+    "use_cases": ["MCP 基礎理解", "AI Agent 入門", "非工程背景 AI 實作訓練", "企業工作流自動化概念"],
+    "url": "category.html",
+    "sources": [
+      {"title": "我跟你的討論內容", "url": "category.html"}
+    ]
+  }
+]
