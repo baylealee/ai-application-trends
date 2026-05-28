@@ -1,0 +1,38 @@
+{
+  "ai_type": {
+    "gpt": "GPT",
+    "claude": "Claude",
+    "gemini": "Gemini"
+  },
+  "scene": {
+    "pm_meeting": "PM會議",
+    "sop_review": "SOP審查",
+    "daily_ops": "每日營運",
+    "crm_automation": "CRM自動化",
+    "onboarding": "導入流程",
+    "knowledge_base": "知識庫",
+    "sales_ops": "Sales Ops"
+  },
+  "tool": {
+    "google_workspace": "Google Workspace",
+    "apps_script": "Apps Script",
+    "slack": "Slack",
+    "zoho_crm": "Zoho CRM",
+    "salesforce": "Salesforce",
+    "docs": "Google Docs",
+    "dify": "Dify",
+    "make": "Make"
+  },
+  "status": {
+    "idea": "想法",
+    "design": "設計中",
+    "poc": "可PoC",
+    "ready": "可落地",
+    "knowledge_base": "知識庫型"
+  },
+  "priority": {
+    "s": "S級優先",
+    "a": "A級可做",
+    "b": "B級觀察"
+  }
+}
