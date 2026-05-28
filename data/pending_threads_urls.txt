@@ -1,3 +1,4 @@
 # Put one public Threads URL per line.
 # Updating this file triggers .github/workflows/fetch-threads.yml automatically.
 https://www.threads.com/@techtip_s/post/DY3If9hj1jA
+https://www.threads.com/@wei_li_wei/post/DY4P9I7EyPG
