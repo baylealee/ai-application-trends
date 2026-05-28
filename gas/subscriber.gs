@@ -11,7 +11,7 @@
  */
 
 const CONFIG = {
-  SHEET_ID: 'PASTE_YOUR_GOOGLE_SHEET_ID_HERE',
+  SHEET_ID: '1ttqxo8a2N9WjBFId7tS4d_F0SgPgmIfrIFWoImnApeU',
   SHEET_NAME: 'subscribers',
   SITE_BASE_URL: 'https://baylealee.github.io/ai-application-trends',
   DEFAULT_RECIPIENT: 'Btokaa@msn.com',
