@@ -2,3 +2,5 @@
 # Updating this file triggers .github/workflows/fetch-threads.yml automatically.
 https://www.threads.com/@techtip_s/post/DY3If9hj1jA
 https://www.threads.com/@wei_li_wei/post/DY4P9I7EyPG
+https://www.threads.com/@sally.sales.ttt/post/DY4bdJBjwS_
+https://www.threads.com/@ci.fullstack/post/DY2Sc5bHXwB
