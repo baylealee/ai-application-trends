@@ -1,0 +1,23 @@
+[
+  {
+    "status": "weak_content",
+    "source_level_hint": "need_context",
+    "content_quality": "weak",
+    "keyword_hits": [],
+    "source_author": "techtip_s",
+    "source_url": "https://www.threads.com/@techtip_s/post/DY3If9hj1jA",
+    "extraction_source": "json.description",
+    "raw_content": "intern site in general",
+    "candidate_count": 1,
+    "candidates": [
+      {
+        "source": "json.description",
+        "text": "intern site in general",
+        "score": -78,
+        "content_quality": "weak",
+        "source_level_hint": "need_context",
+        "keyword_hits": []
+      }
+    ]
+  }
+]
