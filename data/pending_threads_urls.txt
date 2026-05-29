@@ -1,4 +1,5 @@
 # Put one public Threads URL per line.
 # Updating this file triggers artifact workflow automatically.
-# trigger: 2026-05-29T08:00Z
+# trigger: 2026-05-29T08:20Z
 https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
