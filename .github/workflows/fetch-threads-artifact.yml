@@ -2,6 +2,8 @@ name: Fetch Threads Clean Data Artifact
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '30 0 * * *'
   push:
     paths:
       - 'data/pending_threads_urls.txt'
@@ -46,9 +48,26 @@ jobs:
           cat "${{ steps.prep.outputs.output_file }}"
 
       - name: Upload fetch result artifact
+        id: upload-result
         uses: actions/upload-artifact@v4
         with:
           name: threads-fetch-result
           path: data/source_fetch_results/*.json
           if-no-files-found: error
           retention-days: 7
+
+      - name: Post JSON to Google Sheet
+        env:
+          WEBHOOK_URL: ${{ secrets.SOURCE_RESULTS_WEBHOOK_URL }}
+          OUTPUT_FILE: ${{ steps.prep.outputs.output_file }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          ARTIFACT_URL: ${{ steps.upload-result.outputs.artifact-url }}
+        run: |
+          python scripts/post_source_results_to_sheet.py "$OUTPUT_FILE" "$WEBHOOK_URL" --run-id "$RUN_ID" --run-url "$RUN_URL" --artifact-url "$ARTIFACT_URL"
+
+      - name: Write result link to summary
+        run: |
+          echo "## Threads Fetch Result" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Artifact URL: ${{ steps.upload-result.outputs.artifact-url }}" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" >> "$GITHUB_STEP_SUMMARY"
