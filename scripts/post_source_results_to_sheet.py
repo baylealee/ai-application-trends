@@ -21,6 +21,7 @@ def main() -> int:
         results = json.load(f)
 
     payload = {
+        "action": "source_results",
         "meta": {
             "run_id": args.run_id,
             "run_url": args.run_url,
