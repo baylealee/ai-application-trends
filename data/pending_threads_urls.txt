@@ -1,6 +1,6 @@
 # Put one public Threads URL per line.
 # Updating this file triggers artifact workflow automatically.
-# trigger: 2026-06-01T09:25Z
+# trigger: 2026-06-21T09:00Z
 https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
@@ -11,3 +11,5 @@ https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 https://www.threads.com/@itszero/post/DYH_wqQGzgH
 https://www.threads.com/@notionhq/post/DYXi9DaEicv
 https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+https://www.threads.com/@govin999999/post/DZzhHaFmErI
