@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Matt Pocock Skills｜可組合的實戰軟體工程 Agent Skills",
+    "source_url": "https://github.com/mattpocock/skills",
+    "notion_url": "https://app.notion.com/3b4b34f27ab4812485eed4389af1a8ef",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "SEO & GEO Agent Skills｜把搜尋與生成式引擎優化拆成可執行技能",
+    "source_url": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "notion_url": "https://app.notion.com/3b4b34f27ab4813cabaff7a9905dea4d",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "NotebookLM Studio Skill｜用 Agent 串接研究、產出與交付流程",
+    "source_url": "https://github.com/Toolsai/notebooklm-studio-Skill",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481638c82db746cf602cf",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "caveman｜待確認用途的 GitHub 專案",
+    "source_url": "https://github.com/JuliusBrussee/caveman",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481a1b139cad712dcda8f",
+    "category": null,
+    "status": "待閱讀",
+    "difficulty": null,
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "NVIDIA SkillSpector｜掃描 AI Agent Skill 的安全風險",
+    "source_url": "https://github.com/NVIDIA/SkillSpector",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481a2a9d4f3c03c298337",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "open-slide｜為 AI Agent 設計的 React 簡報框架",
+    "source_url": "https://github.com/1weiho/open-slide",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481b382abea78bc0a4951",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "shadcn-admin｜以 Shadcn UI 與 Vite 打造可重用後台介面",
+    "source_url": "https://github.com/satnaing/shadcn-admin",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481dda837c4309285d1b4",
+    "category": "Agent／Workflow",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-07",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "Learn-GAS｜用 AI Agent 學習與開發 Google Apps Script",
+    "source_url": "https://github.com/iamraven-tw/Learn-GAS",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481e58bf2f054d23d6f1b",
+    "category": "GAS／自動化可靠性",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "crawl4ai｜AI 友善的 Web Crawling 與資料取得框架",
+    "source_url": "https://github.com/unclecode/crawl4ai",
+    "notion_url": "https://app.notion.com/3b4b34f27ab481ebb7d5f06c70349d9b",
+    "category": "Web Crawling／資料取得",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-06",
+    "source_system": "notion_daily_ai_learning"
+  }
+]
