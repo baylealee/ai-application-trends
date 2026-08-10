@@ -8,9 +8,10 @@ on:
     paths:
       - 'data/pending_threads_urls.txt'
       - 'scripts/fetch_threads_clean_data.py'
+      - 'scripts/build_learning_articles.py'
 
 permissions:
-  contents: read
+  contents: write
   actions: read
 
 jobs:
@@ -19,6 +20,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -34,7 +37,7 @@ jobs:
       - name: Prepare output path
         id: prep
         run: |
-          mkdir -p data/source_fetch_results
+          mkdir -p data/source_fetch_results data/learning_drafts
           TS=$(date -u +'%Y%m%dT%H%M%SZ')
           echo "output_file=data/source_fetch_results/threads_${TS}.json" >> "$GITHUB_OUTPUT"
 
@@ -46,6 +49,22 @@ jobs:
             echo '{"status":"no_input","message":"data/pending_threads_urls.txt is missing or empty."}' > "${{ steps.prep.outputs.output_file }}"
           fi
           cat "${{ steps.prep.outputs.output_file }}"
+
+      - name: Build learning article drafts
+        run: |
+          python scripts/build_learning_articles.py "${{ steps.prep.outputs.output_file }}" --out-dir data/learning_drafts --index data/learning_articles_index.json
+
+      - name: Commit generated learning drafts
+        run: |
+          if [ -n "$(git status --porcelain data/learning_drafts data/learning_articles_index.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/learning_drafts data/learning_articles_index.json
+            git commit -m "Generate Threads learning drafts"
+            git push
+          else
+            echo "No learning draft changes to commit."
+          fi
 
       - name: Upload fetch result artifact
         id: upload-result
@@ -64,7 +83,11 @@ jobs:
           RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
           ARTIFACT_URL: ${{ steps.upload-result.outputs.artifact-url }}
         run: |
-          python scripts/post_source_results_to_sheet.py "$OUTPUT_FILE" "$WEBHOOK_URL" --run-id "$RUN_ID" --run-url "$RUN_URL" --artifact-url "$ARTIFACT_URL"
+          if [ -n "$WEBHOOK_URL" ]; then
+            python scripts/post_source_results_to_sheet.py "$OUTPUT_FILE" "$WEBHOOK_URL" --run-id "$RUN_ID" --run-url "$RUN_URL" --artifact-url "$ARTIFACT_URL"
+          else
+            echo "SOURCE_RESULTS_WEBHOOK_URL is not set; skip Sheet post."
+          fi
 
       - name: Write result link to summary
         run: |
