@@ -4,11 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       push_to_notion:
-        description: 'Create missing GitHub learning items in Notion'
+        description: 'Create missing GitHub learning items in Notion when NOTION_TOKEN is configured'
         required: false
         default: 'false'
-  schedule:
-    - cron: '10 23 * * *'
 
 permissions:
   contents: write
@@ -27,12 +25,17 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Sync Notion learning database
+      - name: Sync Notion learning database if token exists
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           NOTION_LEARNING_DATABASE_ID: ${{ secrets.NOTION_LEARNING_DATABASE_ID }}
           PUSH_TO_NOTION: ${{ github.event.inputs.push_to_notion }}
         run: |
+          if [ -z "$NOTION_TOKEN" ]; then
+            echo "NOTION_TOKEN is not configured. Skip GitHub Actions Notion sync."
+            echo "Use ChatGPT Notion MCP sync when a source URL is submitted."
+            exit 0
+          fi
           FLAGS=""
           if [ "$PUSH_TO_NOTION" = "true" ]; then
             FLAGS="--push-to-notion"
@@ -54,5 +57,7 @@ jobs:
       - name: Summary
         run: |
           echo "## Notion Learning Sync" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Default mode: ChatGPT Notion MCP sync on submitted source URLs" >> "$GITHUB_STEP_SUMMARY"
+          echo "- GitHub Actions Notion sync only runs when NOTION_TOKEN is configured" >> "$GITHUB_STEP_SUMMARY"
           echo "- Output: data/notion_learning_items.json" >> "$GITHUB_STEP_SUMMARY"
           echo "- Duplicate report: data/notion_learning_duplicates.json" >> "$GITHUB_STEP_SUMMARY"
