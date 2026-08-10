@@ -88,5 +88,125 @@
     "difficulty": "進階",
     "date": "2026-08-06",
     "source_system": "notion_daily_ai_learning"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@_3cpj_",
+    "source_url": "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab4814da873d2a076f02dc5?pvs=204",
+    "category": "AI 產品案例",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@kai_ch_chen",
+    "source_url": "https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481d389d6fc94bb2c82af?pvs=204",
+    "category": "AI 產品案例",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@futurecommerce_official",
+    "source_url": "https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab4817c9d20f4c73a4696f6?pvs=204",
+    "category": "AI 產品案例",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@boris_cherny",
+    "source_url": "https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481968aaae5b255f9e982?pvs=204",
+    "category": "DevTools／軟體工程",
+    "status": "待閱讀",
+    "difficulty": "進階",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@kaochenlong",
+    "source_url": "https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481aeb245da206dff2a6e?pvs=204",
+    "category": "DevTools／軟體工程",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@henry.wen",
+    "source_url": "https://www.threads.com/@henry.wen/post/DYrzDyumRsq",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481c68b7dfecd0812907d?pvs=204",
+    "category": "SEO／GEO／行銷",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@techtip_s",
+    "source_url": "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab4810285d8c61c4033b3d3?pvs=204",
+    "category": "Prompt／需求定義",
+    "status": "待閱讀",
+    "difficulty": "入門",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@itszero",
+    "source_url": "https://www.threads.com/@itszero/post/DYH_wqQGzgH",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481a7b611c47f2f7efcea?pvs=204",
+    "category": "DevTools／軟體工程",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@notionhq",
+    "source_url": "https://www.threads.com/@notionhq/post/DYXi9DaEicv",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481eaa895ebe5f595f973?pvs=204",
+    "category": "Notion／知識治理",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@pmenance.manager",
+    "source_url": "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481d7b0b1d6f2d6449980?pvs=204",
+    "category": "AI 產品案例",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@atai_coding_data",
+    "source_url": "https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab481ca9a08c84fb92403cd?pvs=204",
+    "category": "DevTools／軟體工程",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
+  },
+  {
+    "title": "Threads AI 案例待整理｜@govin999999",
+    "source_url": "https://www.threads.com/@govin999999/post/DZzhHaFmErI",
+    "notion_url": "https://app.notion.com/p/3b8b34f27ab48128a068fbf18205f143?pvs=204",
+    "category": "AI 產品案例",
+    "status": "待閱讀",
+    "difficulty": "實作",
+    "date": "2026-08-10",
+    "source_system": "github_pending_threads"
   }
 ]
