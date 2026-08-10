@@ -1,0 +1,58 @@
+name: Sync Notion Learning Database
+
+on:
+  workflow_dispatch:
+    inputs:
+      push_to_notion:
+        description: 'Create missing GitHub learning items in Notion'
+        required: false
+        default: 'false'
+  schedule:
+    - cron: '10 23 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sync Notion learning database
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_LEARNING_DATABASE_ID: ${{ secrets.NOTION_LEARNING_DATABASE_ID }}
+          PUSH_TO_NOTION: ${{ github.event.inputs.push_to_notion }}
+        run: |
+          FLAGS=""
+          if [ "$PUSH_TO_NOTION" = "true" ]; then
+            FLAGS="--push-to-notion"
+          fi
+          python scripts/sync_notion_learning.py $FLAGS
+
+      - name: Commit synced learning database files
+        run: |
+          if [ -n "$(git status --porcelain data/notion_learning_items.json data/notion_learning_duplicates.json)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/notion_learning_items.json data/notion_learning_duplicates.json
+            git commit -m "Sync Notion learning database"
+            git push
+          else
+            echo "No Notion learning sync changes to commit."
+          fi
+
+      - name: Summary
+        run: |
+          echo "## Notion Learning Sync" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Output: data/notion_learning_items.json" >> "$GITHUB_STEP_SUMMARY"
+          echo "- Duplicate report: data/notion_learning_duplicates.json" >> "$GITHUB_STEP_SUMMARY"
