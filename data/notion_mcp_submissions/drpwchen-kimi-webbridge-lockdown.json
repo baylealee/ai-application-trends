@@ -1,0 +1,15 @@
+{
+  "title": "kimi-webbridge-lockdown｜限制 AI 瀏覽器控制工具存取銀行、券商與信箱",
+  "source_url": "https://github.com/drpwchen/kimi-webbridge-lockdown",
+  "notion_url": "https://app.notion.com/3b9b34f27ab4818da08df4d75d5ac388",
+  "category": "Security／治理",
+  "status": "待閱讀",
+  "difficulty": "實作",
+  "date": "2026-08-11",
+  "summary": "這個工具針對 Kimi WebBridge、Claude in Chrome 等能透過 chrome.debugger 控制瀏覽器的 AI 擴充套件，協助使用者用 Chrome/Edge enterprise policy 的 runtime_blocked_hosts 封鎖銀行、券商、Gmail 等高風險登入站台，同時保留其他網站的自動化能力。",
+  "practice": "閱讀 README 與 AGENTS.md，確認 Windows 與 macOS 的政策寫入差異；先用 status 讀取現況，再挑選 1–2 個非主要帳戶或測試 host 驗證 blocked host 是否無法 attach、一般網站是否仍可自動化。",
+  "origin": "notion_mcp",
+  "dedupe_key": "url:https://github.com/drpwchen/kimi-webbridge-lockdown",
+  "synced_at": "2026-08-11T11:42:00Z",
+  "notes": "Notion already had this source_url, so this file records the MCP sync event for GitHub-side dedupe without requiring NOTION_TOKEN."
+}
