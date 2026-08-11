@@ -1,0 +1,16 @@
+{
+  "title": "kimi-webbridge-lockdown｜封鎖 AI 瀏覽器控制擴充存取網銀與信箱",
+  "source_url": "https://github.com/drpwchen/kimi-webbridge-lockdown",
+  "notion_url": "https://app.notion.com/p/3b9b34f27ab4818da08df4d75d5ac388",
+  "category": "Security／治理",
+  "status": "待閱讀",
+  "difficulty": "實作",
+  "date": "2026-08-11",
+  "estimated_minutes": 20,
+  "summary": "這個工具針對 Kimi WebBridge、Claude in Chrome 等可用 chrome.debugger API 控制真實瀏覽器的 AI 擴充，透過瀏覽器 enterprise policy 的 ExtensionSettings.runtime_blocked_hosts，精確封鎖網銀、券商、Gmail 等關鍵 host，避免 AI agent 拿到既有登入 session。",
+  "practice": "閱讀 README.zh-TW 與 AGENTS.md，確認 Windows Edge／Chrome 與 macOS 的安裝流程；列出自己需要保護的銀行、券商、Gmail 登入 host；先用 status 唯讀檢查，再評估是否在測試瀏覽器 profile 執行。",
+  "notes": "重點不是單純封鎖網站，而是釐清 AI browser-control extension 的權限邊界：一般擴充設定中的逐站網站存取權擋不住 debugger 型擴充，真正有效的是 enterprise policy。適合整理成 AI 瀏覽器自動化安全治理 SOP。",
+  "origin": "notion_mcp",
+  "dedupe_key": "url:https://github.com/drpwchen/kimi-webbridge-lockdown",
+  "synced_at": "2026-08-11T13:01:00Z"
+}
