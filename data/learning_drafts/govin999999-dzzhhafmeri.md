@@ -4,13 +4,12 @@ source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-11T02:37:31+00:00"
+generated_at: "2026-08-12T03:07:50+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,28 +60,19 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: cwhitney90's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358030357_238009609014842_3260910190853756728_n.jpg?stp=dst-
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: ohiostrongmichaelorahoodjr1978's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/670581917_17959874214100173_203003344835
+[](http://www.threads.com/)
 
-## 抓取品質
+[](http://www.threads.com/)
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG、CLI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[](http://www.threads.com/search)
 
-## 原始抓取內容
+# [Home](http://www.threads.com/?error=invalid_post)
 
-```text
-Title: Threads • Log in
+[![I
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -95,35 +85,50 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: cwhitney90's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358030357_238009609014842_3260910190853756728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFzUG0P2Q0AznaNaJ4lrpqJ-QHFH70YrPWP15Dx6d-U0WGnCJirL5NJmE0I-NEXq3I&_nc_ohc=HvlQ6VN1-eEQ7kNvwHp1AlK&_nc_gid=11cX_k2G4RAqwrzJZrfgTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFDKpVyOVlNQo4JvIHZG71xlGuhvYDcVRf9KEYCgzUQXw&oe=6A807245&_nc_sid=10d13b)](https://www.threads.com/@cwhitney90)
+- ![Image 19](https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/772547350_1756550082350064_7931017273549323381_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2MTQ5NzgzNTU3NzI1MDEwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
+- [![Image 16: littlebluemaxrebo's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/552626382_17842694517583381_2592852076250124525_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scont
+- [![Image 1: veganroyalty's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724312646_17970011514117124_5911537087914594319_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent.cdninstag
 
-[cwhitney90](https://www.threads.com/@cwhitney90)
+## 抓取品質
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[22h](https://www.threads.com/@cwhitney90/post/Db2K4cQlFq8)
+## 原始抓取內容
 
-Benites wearing custom 
+```text
+Title: Threads • Log in
 
-[@aja22wilson](https://www.threads.com/@aja22wilson)
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
- A'Two shoes as cleats is TOUGH 😤🥶
+Markdown Content:
+[![Image 1: freebornanufa's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671030996_17956584615117987_4886681202320088936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=IKHpzmEt6mUQ7kNvwHqGdCL&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGxWHAUwP5B4I1XUBnWIbRMk026rtWy1E3LS4IxLz0B-w&oe=6A81BE85&_nc_sid=10d13b)](https://www.threads.com/@freebornanufa)
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/768787236_17976759564109765_3834780277838425064_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MDQwMDM0NjkxMTg4NDQwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAzMi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=49BDFyR0tboQ7kNvwHUm_MO&_nc_oc=AdoffqCqUD7z-9h5mbXtcSfhH0ZWgMT6QzOoUvnoioWp2-h2us_WLBfAifWi4eoItOc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=11cX_k2G4RAqwrzJZrfgTA&_nc_ss=7a22e&oh=00_AQFA8gJ7-Kwvzv3Vfjy_yybJlpJCLANqTA7g9Fg1FKKDWA&oe=6A806AEB)
+Don’t measure excitement.
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/772714534_17976759555109765_4515696994319162064_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MDQwMDM0ODE4Mjc3OTc5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=_jHfmpFr1QAQ7kNvwFQ04pT&_nc_oc=AdpgxzKX7wjDzRa4hWiDEO4kC3gM1u3C5hWwexek_J1KX2dErmhwUOwq31c3oNjRjfE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=11cX_k2G4RAqwrzJZrfgTA&_nc_ss=7a22e&oh=00_AQF_ZwwVatrLWsWg0k_fcwqJ-4HAzw2nfEb83K6TDf9oqQ&oe=6A804DC6)
+1
 
-506
+[![Image 2: mskamoryrose's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/689017399_18059492561518255_8289644238437742367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=KyehsArA-b8Q7kNvwG1CH22&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEBZzBFfvI6B60-4a0BIzx4iq7CldEuPnjF6qKT30DJsA&oe=6A81CC74&_nc_sid=10d13b)](https://www.threads.com/@mskamoryrose)
 
-5
+I don’t have proof of this, but my theory is that for plenty of highly attuned and spiritual Autistic/ADHD women, we tend to crave connection that feels otherworldly, bc our brains operate very differently. Bc of this, we sense what’s NOT being said through body language, through energy, through facial expressions, through pattern recognition. We feel when something or someone is off emotionally. We pay attention to things that other easily miss to the point where it sometimes feels supernatural
 
-30
+484
 
-4
+26
 
-[![Image 4: itsmelmitch's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/496963405_18503266369053416_5026023817336430385_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFzUG0P2Q0AznaNaJ4lrpqJ-QHFH70YrPWP15Dx6d-U0WGnCJirL5NJmE0I-NEXq3I&_nc_ohc=sGC4rHQQE00Q7kNvwE8vzB8&_nc_gid=11cX_k2G4RAqwrzJZrfgTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHc48fILTyBdlo9aNUXf6agHg6HoMHx8YpXuMcFOPJv9g&oe=6A80417C&_nc_sid=10d13b)](https://www.threads.com/@itsmelmitch)
+52
 
-[itsmelmitch](https://www.threads.com/@itsmelmitch)
+2
 
-[7h](https:/
+[![Image 3: krmbdlkrymly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/453371422_1127072561725911_7214003970748472536_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=P5j351wVxBIQ7kNvwEDhhYb&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHx_YfG-Z1Y2NBxBBeICtkAi4QXx5Om60LMdPpn57fluw&oe=6A81BABE&_nc_sid=10d13b)](https://www.threads.com/@krmbdlkrymly)
+
+Hi sweete you look so hoot
+
+1
+
+[![Image 4: kickinitwithts's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/670780285_18090592135955799_2388429726546943810_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA5LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=qtPrRvCQhOAQ7kNvwEvBTCV&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHAaZu2pp0DXj4WHF_Am-Pz6ry1I4gPaiaCBUaNb3e3yQ&oe=6A81B3DD&_nc_sid=10d13b)](https://www.threads.com/@kickinitwithts)
+
+If Dallas don’t tighten up, we 
 ```

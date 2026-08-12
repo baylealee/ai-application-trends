@@ -1,26 +1,25 @@
 ---
-title: "notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads"
+title: "notionhq 的 AI 工作流案例：URL Source: https://www.threads.com/@notio"
 source_url: "https://www.threads.com/@notionhq/post/DYXi9DaEicv"
 source_author: "notionhq"
 post_id: "DYXi9DaEicv"
 language: "unknown"
 category: "coding"
 tools:
-  - "Claude"
   - "Notion"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-11T02:37:31+00:00"
+generated_at: "2026-08-12T03:07:50+00:00"
 ---
 
-# notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
+# notionhq 的 AI 工作流案例：URL Source: https://www.threads.com/@notio
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Notion (@notionhq) on Threads
+URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 ## 這篇在解決什麼問題
 
@@ -28,15 +27,11 @@ Title: Notion (@notionhq) on Threads
 
 ## 使用工具
 
-Claude、Notion
+Notion
 
 ## 原始工作流拆解
 
 1. So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
-2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
-3. I build AI agents that run businesses.
-4. We built an autonomous AI agent pipeline that books B2B client calls on autopilot... here’s exactly how.
-5. We are installing these exact autonomous agent frameworks directly into a handful of business this month.
 
 ## 可以直接複製的做法
 
@@ -64,30 +59,11 @@ reply_summary_status: `partial`
 
 - Title: Notion (@notionhq) on Threads
 
-URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_584587685547827455
-- Title: Notion (@notionhq) on Threads
-
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
-- Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、Notion、CLI、workflow
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-## 原始抓取內容
-
-```text
-Title: Notion (@notionhq) on Threads
+[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
@@ -98,23 +74,34 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 4.3K views](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
+# [Home](https://www.threads.com/?injected_media_ids=[%22
+- Markdown Content:
+[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht
+- ![Image 18](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/769144553_18014772416874182_128630259521886579_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk2MDkyNjE2MDQ4NDc4NzIyNTE4MDE0NzcyNDEzODc0MTgy.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb
+- [![Image 12: mealticketnu_'s profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/579405188_17842191021616845_9024196344582071471_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
 
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFrVzPOaQ_rR5TfIQS3W1u7YWDBwiZ_DRMHwxouvAvYVsyzGPmAUT3yX_JHj-ucrPc&_nc_ohc=SJwLQbbidwIQ7kNvwFrJ9S7&_nc_gid=xGhFF2gM9nPsBfKCqUHc8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE0XpwtyVEVEs34s6RUrZPZMphSoeEXFWYCft4775wUeg&oe=6A804570&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
+## 抓取品質
 
-[notionhq](https://www.threads.com/@notionhq)
+- content_quality: `strong`
+- keyword_hits: AI、Agent、agent、Notion
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
-[05/15/26](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
+URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
+
+Markdown Content:
+[![Image 1: notionhq's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGCSzvTxvjiY8qDuMUvcftvBwVOJ6fOOXD-CcenPW9m8nYXoYvJul2B67sCsoW4jzg&_nc_ohc=SJwLQbbidwIQ7kNvwHR4KPY&_nc_gid=0IHHSXvn1B-Kg-v-MQbyQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGqPmPR7vN_iy6GBpUV-SFsibP4H3ShTvzGkVv5dio9Vg&oe=6A81CF30&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
 
 “There’s probably only 30% of your day where you do the work you’re meant to do… the other 70% is dealing with the side products of that work.”
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-sea1-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=9VNa1_86m9UQ7kNvwFrGXNM&_nc_oc=Adr9xTfBAE5AUSW0kz8bZCDdHB5mLMegc_jJLQ5JJ9aEg2_hd5jTqBF1iA3iUEJCUgc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=xGhFF2gM9nPsBfKCqUHc8A&_nc_ss=7a22e&oh=00_AQHDkFP7F00tnCXTZK-J2q0Re-XKYm8kiNwarf4DJoJv3A&oe=6A80787C)
-
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBKNAGYelWSl9gjH6m0P8qV7sFoO63qNbOyR_ZDDp80nDwG0PzKIAjNzLVUhUe9TO8ULLAk5xOwrlKcUHj3KGqbFBu6ipQXd__WJbP29B-TWJTPmNc)
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMyIn0%3D&_nc_ohc=ex5EskR6dGAQ7kNvwF77LZ1&_nc_oc=Adp-eMfrKbmJjZL8kqoExf54sAjRrxMhNu6a3TeBC-zzReiMuf1ftyQ-sPKn_8msuv0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=0IHHSXvn1B-Kg-v-MQbyQQ&_nc_ss=7a22e&oh=00_AQGG0ce3VQvJVpA2lq3ZwklfOp0aFXdADtQhypyhlNls4A&oe=6A81C9FC)
 
 52
 
@@ -124,13 +111,19 @@ Sorry, we're having trouble playing this video.
 
 4
 
-[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFrVzPOaQ_rR5TfIQS3W1u7YWDBwiZ_DRMHwxouvAvYVsyzGPmAUT3yX_JHj-ucrPc&_nc_ohc=SJwLQbbidwIQ7kNvwFrJ9S7&_nc_gid=xGhFF2gM9nPsBfKCqUHc8A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE0XpwtyVEVEs34s6RUrZPZMphSoeEXFWYCft4775wUeg&oe=6A804570&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
+[![Image 3: thatericalper's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/354022828_656705989124806_2655499617373465121_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGCSzvTxvjiY8qDuMUvcftvBwVOJ6fOOXD-CcenPW9m8nYXoYvJul2B67sCsoW4jzg&_nc_ohc=1oNOGJxnwW8Q7kNvwHlfXLu&_nc_gid=0IHHSXvn1B-Kg-v-MQbyQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH7nkOfEQmIPjdYpXFic0rR1dBDRFrsQhg2QF2u4B4AQA&oe=6A81C70F&_nc_sid=10d13b)](https://www.threads.com/@thatericalper)
 
-[notionhq](https://www.threads.com/@notionhq)
+Which movie has the greatest chase scene of all time?
 
-[05/15/26](https://www.threads.com/@notionhq/post/DYXjCQWkaH4)
+49
 
-·Author
+230
 
-Full story here: [notion.com/custo…](https://l.threads.com/?u=https%3A%2F%2Fwww.notion.com%2Fcustomers%2Fbrainlabs&e=AUBKNAGYelWSl9gjH6m0P8qV7sFoO63qNbOyR_ZDDp80nDwG0PzK
+3
+
+[![Image 4: adamschefter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832733_187865147331651_6878775976036134737_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGCSzvTxvjiY8qDuMUvcftvBwVOJ6fOOXD-CcenPW9m8nYXoYvJul2B67sCsoW4jzg&_nc_ohc=_JqilEqoHnEQ7kNvwE5CeX3&_nc_gid=0IHHSXvn1B-Kg-v-MQbyQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQENBJVcnp-Ln32-aZB0uRJPMpp4ezWfnOkM1R6p6pbKKg&oe=6A81CD62&_nc_sid=10d13b)](https://www.threads.com/@adamschefter)
+
+Former Ravens first-round pick Nate Wiggins was carted off from practice today after suffering an apparent lower-leg injury.
+
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/771431055_17980237818119874_4659200800473543402_n.jpg?stp=dst-jpg_e35
 ```

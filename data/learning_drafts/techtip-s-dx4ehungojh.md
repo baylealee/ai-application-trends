@@ -1,25 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：6 salads that are actually filling, full o"
+title: "techtip_s 的 AI 工作流案例：Customers at a gas station in upstate New "
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "Make"
+  - "RAG"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-11T02:37:31+00:00"
+generated_at: "2026-08-12T03:07:50+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：6 salads that are actually filling, full o
+# techtip_s 的 AI 工作流案例：Customers at a gas station in upstate New 
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-6 salads that are actually filling, full of flavor, and easy to make.
+Customers at a gas station in upstate New York jumped at the chance to get a discount by busting a move on the store floor.
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ generated_at: "2026-08-11T02:37:31+00:00"
 
 ## 使用工具
 
-Make
+RAG、GAS
 
 ## 原始工作流拆解
 
@@ -64,12 +65,6 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: canada_wet2481's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/727221060_18138285655493448_236247119233035960_n.jpg?stp=
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
@@ -79,14 +74,19 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- *The younger Centauers players looking at the seating chart* Dillon: Can someone explain to me why I’m seated at the kids’ table? Haas: We all are, so I would guess that it’s Ilya’s doing. Young: Of course it is. We are his and Holly’s kids, for gods sake🙄 Hol
-- [Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAtB6KDdXjDJrDsP9k8NFaDJroxH3f1ZoXAVRFhgsYC6HNURsun3lSNF9QSnAiKIXPSrKoyJFbBfDsH--RsKhk6WcGHIUwmKkZBmoKiDNn1pEfr8JE)
-- The billionaire class and their GOP lackeys want us to fall into hopelessness so they can have it all without any resistance.
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: fixons_sunshiine's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/747941139_17892588519576105_4811029061180551914_n.jpg?s
+- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/772547496_17944954923266389_6636851673791288947_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2MTQ3Nzk3ODYxODc2NTIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/771400963_17882894388613611_3174092224676195331_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2MTE2NTUxOTA1OTMwOTE3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,47 +98,45 @@ Title: Threads • Log in
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: mrs.yang_reads's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/524558821_17862513267443358_8362676802718206346_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=zyTUaRjK-_sQ7kNvwGBbqIc&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHweIDwePVXLOXKyOkVIFGrJK5Es1P6FY4uFNMHywvuMg&oe=6A81BA3A&_nc_sid=10d13b)](http://www.threads.com/@mrs.yang_reads)
 
-[](http://www.threads.com/)
+You are NOT using your free will enough. Take your kindle into the shower with you it’s waterproof
 
-[](http://www.threads.com/search)
+(Colorsoft and Paperwhite only per Brit 🫣 I didn’t know about the basic)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+41
 
-[![Image 1: annetn's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540048104_17917045674170195_3161364711726539731_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGSbzlNlV_dCC00RrSCutjwmBp7PyDabhc4LYr_gKyyWm5GwFtWd3TBqfmXynw8Yoc&_nc_ohc=kNLvrDNwaUAQ7kNvwGEjoyT&_nc_gid=wXDABhyIbv8DybhiA4fKWg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG6wGQzUqS6V7mqgKLu1qjdEr0LbHykP5Rugucw_myjrQ&oe=6A805CC8&_nc_sid=10d13b)](http://www.threads.com/@annetn)
+18
 
-[annetn](http://www.threads.com/@annetn)
+4
 
-[bts](http://www.threads.com/search?q=bts&serp_type=tags&tag_id=18383655367071141)
+1
 
-[18h](http://www.threads.com/@annetn/post/Db2hKWWFIQD)
+[![Image 2: hereswhykevin's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/650665001_18103807133508309_1212797953602165906_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=Xlr__1Qdf9oQ7kNvwGp49pt&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGCrYcM3hURcBYnF7rii1oUEgOO6tK8lwZDPZOawfwN7g&oe=6A81B989&_nc_sid=10d13b)](http://www.threads.com/@hereswhykevin)
 
-My ex won’t sell me the BTS ticket I asked them to buy for me. (I even paid for the weverse membership since they are not a fan) but decides to do this instead… we broke up on part due to the selfishness, but the level of greed is unmatched
+As a cisgender man, AOC explaining the fertility process, reproductive system, ovaries, eggs, etc. has been fuckin’ fascinating.
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/771652617_17961896661170195_1476120571673179484_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2MDQ5ODc2OTA0MTMyNzEwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zVE2YFiK9h0Q7kNvwEewJxg&_nc_oc=AdptXzl71YaqQAaXltbh2bHJMcJDAQi0mdGvdKqGMssLqt6NYtspUOcNssOf9w7-Eew&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wXDABhyIbv8DybhiA4fKWg&_nc_ss=7a22e&oh=00_AQHbqHv9uxxUBYEY3D9sUJF2d7ghfJ52WHPCkZj-1O6rBQ&oe=6A8067EF)](http://www.threads.com/@annetn/post/Db2hKWWFIQD/media)
+1.1K
 
-68
+14
 
-21
+17
 
 2
 
-9
+[![Image 3: abcnews's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358174312_1326910997933635_277879076083539649_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=dY5oY04VCpkQ7kNvwE4P-xi&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGQocn5bYWFgeqwVe7Paq5UrNBCwRcWBfIzbJ2ZVxJNLA&oe=6A81BFC5&_nc_sid=10d13b)](http://www.threads.com/@abcnews)
 
-[![Image 3: politicianpages's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/601574584_17989691558909487_8745570005410260805_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGSbzlNlV_dCC00RrSCutjwmBp7PyDabhc4LYr_gKyyWm5GwFtWd3TBqfmXynw8Yoc&_nc_ohc=38e-n4RJtAkQ7kNvwEs9VX4&_nc_gid=wXDABhyIbv8DybhiA4fKWg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFEre2iYnO9nI60Q-YULVWjCJ862dQk-WQHe4HidkXjSA&oe=6A80475C&_nc_sid=10d13b)](http://www.threads.com/@politicianpages)
+Customers at a gas station in upstate New York jumped at the chance to get a discount by busting a move on the store floor.
 
-[politicianpages](http://www.threads.com/@politicianpages)
+![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/773662396_1573040351187540_7021592536948363725_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTIxNzc2ODcyMDUxODc5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qgPQA6j4ybgQ7kNvwGtmWcc&_nc_oc=Adonzy02tktBDEl44mJrXhTRNSU4K7_l5l3S0n1kapqhNvKHviRVzfhbdn_wSt34lhQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&_nc_ss=7a22e&oh=00_AQFahVRmrR-P-Xga_9Xo3hxiAbj0Wo2fSjHGBVQDQY0pjA&oe=6A81BF98)
 
-[10h](http://www.threads.com/@politicianpages/post/Db3WwcMlVyW)
+108
 
-Did You Know⁉️
+10
 
-Only 4 states have Senators from 2 different political parties
+4
 
-1) Maine🦞
+11
 
-Republican Susan Collins Independent Angus King
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/770572299_17979985167115455_637593997241256722_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2MDczNDQ3NjM5MzU5ODY0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZ
+[![Image 5: amadaydream's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/658968119_17952262305115159_74
 ```
