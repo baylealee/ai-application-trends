@@ -1,26 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Customers at a gas station in upstate New "
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "GAS"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-12T03:07:50+00:00"
+generated_at: "2026-08-13T03:09:57+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Customers at a gas station in upstate New 
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Customers at a gas station in upstate New York jumped at the chance to get a discount by busting a move on the store floor.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ Customers at a gas station in upstate New York jumped at the chance to get a dis
 
 ## 使用工具
 
-RAG、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -62,6 +60,28 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: mahoney5929's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/767364616_17975320887097602_6982351559520192434_n.jpg?stp=dst
+- Markdown Content:
+[![Image 1: mahoney5929's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/767364616_17975320887097602_6982351559520192434_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
+- [![Image 3: jillianarlyauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/473546779_890673319807960_5211051134662303367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
+- [![Image 4: bettingwithape's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574466630_17927229582137747_6813222755035112342_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
+- [![Image 2: ginnyhogan_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/590414978_18431205838109337_2675444172935352303_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -73,70 +93,43 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[
-- Title: Threads • Log in
+[![Image 1: pottymouthpollyanna's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/379550246_2224232574443269_6181791354633735177_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=F9Y_hU3WHzYQ7kNvwF6NAie&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEJ9i53lkru9TEMmCQuOWpdQo0GP_9dE3daR0DeMlGKsA&oe=6A82F60B&_nc_sid=10d13b)](https://www.threads.com/@pottymouthpollyanna)
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[pottymouthpollyanna](https://www.threads.com/@pottymouthpollyanna)
 
-Markdown Content:
-[![Image 1: fixons_sunshiine's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/747941139_17892588519576105_4811029061180551914_n.jpg?s
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/772547496_17944954923266389_6636851673791288947_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2MTQ3Nzk3ODYxODc2NTIzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/771400963_17882894388613611_3174092224676195331_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2MTE2NTUxOTA1OTMwOTE3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+[22h](https://www.threads.com/@pottymouthpollyanna/post/Db7W29_lmlE)
 
-## 抓取品質
+OMG. Are you serious Milwaukee!? **UPDATE: Apparently I need to clarify. Count from Milwaukee delayed.
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+161
 
-## 原始抓取內容
+42
 
-```text
-Title: Threads • Log in
+[![Image 2: itsmejacqs's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/705374880_17927333967322986_292063525498897187_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=cH2BMyUwiG4Q7kNvwGyJ1-K&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGPi9zpIXQle3L1LyxuD4G82LOKst2p5Pjsf8-30tJ9ug&oe=6A82FF1B&_nc_sid=10d13b)](https://www.threads.com/@itsmejacqs)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[itsmejacqs](https://www.threads.com/@itsmejacqs)
 
-Markdown Content:
-[![Image 1: mrs.yang_reads's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/524558821_17862513267443358_8362676802718206346_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=zyTUaRjK-_sQ7kNvwGBbqIc&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHweIDwePVXLOXKyOkVIFGrJK5Es1P6FY4uFNMHywvuMg&oe=6A81BA3A&_nc_sid=10d13b)](http://www.threads.com/@mrs.yang_reads)
+[6h](https://www.threads.com/@itsmejacqs/post/Db9AMPvgTqS)
 
-You are NOT using your free will enough. Take your kindle into the shower with you it’s waterproof
+after 3 years i finally threw the wee wee pad out that my dog died on. I cried. so badly. i miss my damn dog.
 
-(Colorsoft and Paperwhite only per Brit 🫣 I didn’t know about the basic)
+616
 
-41
-
-18
-
-4
+53
 
 1
 
-[![Image 2: hereswhykevin's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/650665001_18103807133508309_1212797953602165906_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=Xlr__1Qdf9oQ7kNvwGp49pt&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGCrYcM3hURcBYnF7rii1oUEgOO6tK8lwZDPZOawfwN7g&oe=6A81B989&_nc_sid=10d13b)](http://www.threads.com/@hereswhykevin)
+[![Image 3: thatericalper's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/354022828_656705989124806_2655499617373465121_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=1oNOGJxnwW8Q7kNvwHlfXLu&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGWnoK2SL4xYQuz1zFH5zK2LDEDLsokCWo6hOcrfV93MA&oe=6A83188F&_nc_sid=10d13b)](https://www.threads.com/@thatericalper)
 
-As a cisgender man, AOC explaining the fertility process, reproductive system, ovaries, eggs, etc. has been fuckin’ fascinating.
+[thatericalper](https://www.threads.com/@thatericalper)
 
-1.1K
+[9h](https://www.threads.com/@thatericalper/post/Db8rSSfloJQ)
 
-14
+What was the first purchase you made after earning your own paycheck?
 
-17
+20
 
-2
+70
 
-[![Image 3: abcnews's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358174312_1326910997933635_277879076083539649_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gECFPeD4MIQmx0DvRC7EtfY00KnEy6750WqeYSEp3K-N0O4YaW3-Z5Z2GN_19NYNMQ&_nc_ohc=dY5oY04VCpkQ7kNvwE4P-xi&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGQocn5bYWFgeqwVe7Paq5UrNBCwRcWBfIzbJ2ZVxJNLA&oe=6A81BFC5&_nc_sid=10d13b)](http://www.threads.com/@abcnews)
-
-Customers at a gas station in upstate New York jumped at the chance to get a discount by busting a move on the store floor.
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/773662396_1573040351187540_7021592536948363725_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2MTIxNzc2ODcyMDUxODc5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=qgPQA6j4ybgQ7kNvwGtmWcc&_nc_oc=Adonzy02tktBDEl44mJrXhTRNSU4K7_l5l3S0n1kapqhNvKHviRVzfhbdn_wSt34lhQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7vPvEmUaA89FNaKCAKmf1w&_nc_ss=7a22e&oh=00_AQFahVRmrR-P-Xga_9Xo3hxiAbj0Wo2fSjHGBVQDQY0pjA&oe=6A81BF98)
-
-108
-
-10
-
-4
-
-11
-
-[![Image 5: amadaydream's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/658968119_17952262305115159_74
+[![Image 4: warhammerofficial's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/467428947_541186212016206_8442323614551466245_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDk
 ```

@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0211
-generated_at: "2026-08-12T03:07:50+00:00"
+generated_at: "2026-08-13T03:09:57+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -58,16 +58,22 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
-- URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- Title: 高見龍.agent (@kaochenlong) on Threads
+
+URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+
+Markdown Content:
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: Agent、agent
+- keyword_hits: AI、Agent、agent
 - zh_ratio: `0.0211`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
@@ -76,16 +82,16 @@ Markdown Content:
 ```text
 Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGkkzkHZ8oB1NFOUl9dg9lIh0SvN2N1QsaSkPd7rqvSy2xwCuGwi_cNR0aURtM-KV0&_nc_ohc=BPs4pQ_Sr8AQ7kNvwFBaBSp&_nc_gid=aUBUqSw8HAqZDk4y5j630g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHuZBizDCBsxE5INYt8k9po2tHy4Eqnh88xiYUAJ1nOjg&oe=6A81A38B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE_gncf6OdBZpxiG9chrKFP5Zy1h2wp3BMxnT7kC_WWzH59Lw9HLg2Afi5M9ZPPb2Y&_nc_ohc=BPs4pQ_Sr8AQ7kNvwHRMkfi&_nc_gid=i6JzhVywX9GEaiasEt5gwA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQElc3LuTYZcKZbIpXDT3nZ8DDLbTiY-QaenJLdCSk4MSA&oe=6A82F50B&_nc_sid=10d13b)](http://www.threads.com/@kaochenlong)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
 Translate
 
-[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SsKHjJi-om8Q7kNvwHW5hM8&_nc_oc=AdrCydSMIX1beyUv2hMns54u9PxF5VnXTqcEHb-BotsKuEnL-LWViI4IBu3gLLdQxSY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=aUBUqSw8HAqZDk4y5j630g&_nc_ss=7a22e&oh=00_AQFSn8PPy5TAUhtWr_CoY12ocO15pTnh899kNSXs0B8DNQ&oe=6A819A20)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SsKHjJi-om8Q7kNvwGyhVFi&_nc_oc=AdpzWPgiHIX2prl6ZyM-_g9R0g6Nb-mMbzYKceperwLsmk6SU9h05Gjmn09XZJ4Ln2Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=i6JzhVywX9GEaiasEt5gwA&_nc_ss=7a22e&oh=00_AQGCZ5J3t7hiheWfJLAVn87lcG1gMqCWY3UBUp4MfkHhRA&oe=6A8323E0)](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 

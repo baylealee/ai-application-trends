@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Like if I make videos on YT where I tell y"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-12T03:07:50+00:00"
+generated_at: "2026-08-13T03:09:57+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Like if I make videos on YT where I tell y
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Like if I make videos on YT where I tell you a bedtime story about a place called Dreamhollow where they make and care for your dreams, that would be cool right?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -63,16 +64,27 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
+[![Image 1: discussingfilm's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358164332_606852138247357_8480100296719890603_n.jpg?stp=d
 - Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: chilwriter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649241263_17874808932541367_3296990792017125802_n.jpg?stp=d
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/772972175_18448138030140724_6056692681917889475_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2MTg2OTk1ODcwNzk5NTMzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
+- I swear I'm not trying to drag this out, I'm just savoring the freedom of fanfic and the way I don't have to condense things down to a 90k novel. I was born to write serials, I fear
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Make、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -85,50 +97,45 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- ![Image 19](https://scontent-ord5-2.cdninstagram.com/v/t51.71878-15/772547350_1756550082350064_7931017273549323381_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk2MTQ5NzgzNTU3NzI1MDEwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
-- [![Image 16: littlebluemaxrebo's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/552626382_17842694517583381_2592852076250124525_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scont
-- [![Image 1: veganroyalty's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724312646_17970011514117124_5911537087914594319_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent.cdninstag
+[![Image 1: chilwriter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649241263_17874808932541367_3296990792017125802_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y_ZtumpLuOy3FvIbOzq9g4q6IK-fhQdMkJP-0AhxcMPQ-2U&_nc_ohc=3y9at3kqEAQQ7kNvwHqLXgz&_nc_gid=FJM497yLVfE42h_oZmYUkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHbdtd10j4JKxJ4U8ktfpMgDH1rOdk9xQvDxdJOCipjFQ&oe=6A83024C&_nc_sid=10d13b)](https://www.threads.com/@chilwriter)
 
-## 抓取品質
+[chilwriter](https://www.threads.com/@chilwriter)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[6h](https://www.threads.com/@chilwriter/post/Db9A4wrEluj)
 
-## 原始抓取內容
+How would we know if Karoline Leavitt joined FOX News? 🤔
 
-```text
-Title: Threads • Log in
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/772972174_17902277262541367_1143615831105264079_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MjMyNzE0NzcwODgzMjY3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzIwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=st4Um4YRdt0Q7kNvwHIWPHH&_nc_oc=AdptLPRQrlMTVpEgyLq5ZpwJ4xHPD31XhZvzL_13Mw9QmQ0s2Jgm0pI3zZUaEbDOoY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=FJM497yLVfE42h_oZmYUkQ&_nc_ss=7a22e&oh=00_AQHlLrdSxxSS25i2aI5ra8Yrae3qjBrPupognocFT4hU4A&oe=6A82FF09)](https://www.threads.com/@chilwriter/post/Db9A4wrEluj/media)
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+387
 
-Markdown Content:
-[![Image 1: freebornanufa's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671030996_17956584615117987_4886681202320088936_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=IKHpzmEt6mUQ7kNvwHqGdCL&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGxWHAUwP5B4I1XUBnWIbRMk026rtWy1E3LS4IxLz0B-w&oe=6A81BE85&_nc_sid=10d13b)](https://www.threads.com/@freebornanufa)
+62
 
-Don’t measure excitement.
+25
 
-1
+14
 
-[![Image 2: mskamoryrose's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/689017399_18059492561518255_8289644238437742367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=KyehsArA-b8Q7kNvwG1CH22&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEBZzBFfvI6B60-4a0BIzx4iq7CldEuPnjF6qKT30DJsA&oe=6A81CC74&_nc_sid=10d13b)](https://www.threads.com/@mskamoryrose)
+[![Image 3: ferociouskatie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/469026506_1111978953910546_6253889284325829084_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y_ZtumpLuOy3FvIbOzq9g4q6IK-fhQdMkJP-0AhxcMPQ-2U&_nc_ohc=TGL1cX9SwZgQ7kNvwEfeKJA&_nc_gid=FJM497yLVfE42h_oZmYUkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF5_tVcWKqpwNPNZSki4b4Xg6ldCLcKVxj5nhVz_mngQw&oe=6A82FAC4&_nc_sid=10d13b)](https://www.threads.com/@ferociouskatie)
 
-I don’t have proof of this, but my theory is that for plenty of highly attuned and spiritual Autistic/ADHD women, we tend to crave connection that feels otherworldly, bc our brains operate very differently. Bc of this, we sense what’s NOT being said through body language, through energy, through facial expressions, through pattern recognition. We feel when something or someone is off emotionally. We pay attention to things that other easily miss to the point where it sometimes feels supernatural
+[ferociouskatie](https://www.threads.com/@ferociouskatie)
 
-484
+[15h](https://www.threads.com/@ferociouskatie/post/Db8C6GwEUk0)
 
-26
+Remember in the 90s when the chicken pox vaccine first came out and everyone’s mom ran us to the pediatrician to get the shot?
 
-52
+Because they were tired of having chicken pox parties to just get the sickness over with??
+
+Because no mom wanted their kids to get chicken pox if they didn’t have to?
+
+I miss the 1900s
+
+556
+
+46
+
+16
 
 2
 
-[![Image 3: krmbdlkrymly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/453371422_1127072561725911_7214003970748472536_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=P5j351wVxBIQ7kNvwEDhhYb&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHx_YfG-Z1Y2NBxBBeICtkAi4QXx5Om60LMdPpn57fluw&oe=6A81BABE&_nc_sid=10d13b)](https://www.threads.com/@krmbdlkrymly)
-
-Hi sweete you look so hoot
-
-1
-
-[![Image 4: kickinitwithts's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/670780285_18090592135955799_2388429726546943810_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA5LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEPqEhj4S0FIypeJfd5GvtnNcwqan1cbhV_mjIpbVtQsBMyo8LbjE0ndNSfJ796osc&_nc_ohc=qtPrRvCQhOAQ7kNvwEvBTCV&_nc_gid=2IMttW7IZcO5u4ADDMI4OA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHAaZu2pp0DXj4WHF_Am-Pz6ry1I4gPaiaCBUaNb3e3yQ&oe=6A81B3DD&_nc_sid=10d13b)](https://www.threads.com/@kickinitwithts)
-
-If Dallas don’t tighten up, we 
+[![Image 4: dallastaylori's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/764925127_17980302774112027_6413755367475433971_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y
 ```

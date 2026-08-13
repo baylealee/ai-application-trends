@@ -1,20 +1,17 @@
 [
   {
-    "title": "techtip_s 的 AI 工作流案例：Customers at a gas station in upstate New ",
+    "title": "techtip_s 的 AI 工作流案例：Title: Threads • Log in",
     "filename": "techtip-s-dx4ehungojh.md",
     "source_url": "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh",
     "source_author": "techtip_s",
     "post_id": "DX4ehuNGOJh",
-    "category": "knowledge_base",
-    "tools": [
-      "RAG",
-      "GAS"
-    ],
+    "category": "coding",
+    "tools": [],
     "status": "draft",
-    "content_quality": "strong",
+    "content_quality": "medium",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實",
@@ -25,6 +22,7 @@
     "category": "knowledge_base",
     "tools": [
       "Claude",
+      "GPT",
       "RAG",
       "Notion",
       "Slack",
@@ -32,25 +30,27 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.04,
+    "zh_ratio": 0.0399,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
-    "title": "notionhq 的 AI 工作流案例：URL Source: https://www.threads.com/@notio",
+    "title": "notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads",
     "filename": "notionhq-dyxi9daeicv.md",
     "source_url": "https://www.threads.com/@notionhq/post/DYXi9DaEicv",
     "source_author": "notionhq",
     "post_id": "DYXi9DaEicv",
-    "category": "coding",
+    "category": "knowledge_base",
     "tools": [
+      "Claude",
+      "RAG",
       "Notion"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads",
@@ -64,7 +64,7 @@
     "content_quality": "strong",
     "zh_ratio": 0.0211,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我",
@@ -81,7 +81,7 @@
     "content_quality": "strong",
     "zh_ratio": 0.0585,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我",
@@ -91,13 +91,14 @@
     "post_id": "DYH_wqQGzgH",
     "category": "coding",
     "tools": [
-      "Codex"
+      "Codex",
+      "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0198,
+    "zh_ratio": 0.0606,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競",
@@ -111,23 +112,25 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0912,
+    "zh_ratio": 0.1003,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
-    "title": "govin999999 的 AI 工作流案例：Title: Threads • Log in",
+    "title": "govin999999 的 AI 工作流案例：Like if I make videos on YT where I tell y",
     "filename": "govin999999-dzzhhafmeri.md",
     "source_url": "https://www.threads.com/@govin999999/post/DZzhHaFmErI",
     "source_author": "govin999999",
     "post_id": "DZzhHaFmErI",
     "category": "coding",
-    "tools": [],
+    "tools": [
+      "Make"
+    ],
     "status": "draft",
-    "content_quality": "medium",
+    "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。",
@@ -139,13 +142,13 @@
     "tools": [
       "Claude",
       "MCP",
-      "GAS"
+      "RAG"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0277,
+    "zh_ratio": 0.0275,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots ",
@@ -158,17 +161,16 @@
       "Claude",
       "Claude Code",
       "MCP",
-      "n8n",
       "Make",
       "Slack",
-      "Cursor",
+      "GAS",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?",
@@ -179,14 +181,16 @@
     "category": "mcp",
     "tools": [
       "Claude",
+      "ChatGPT",
+      "GPT",
       "MCP",
       "Codex"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0237,
+    "zh_ratio": 0.0205,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   },
   {
     "title": "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短",
@@ -194,18 +198,17 @@
     "source_url": "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0",
     "source_author": "_3cpj_",
     "post_id": "DNORrH7Pau0",
-    "category": "knowledge_base",
+    "category": "coding",
     "tools": [
       "Claude",
       "Claude Code",
       "GPT",
-      "Make",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0352,
+    "zh_ratio": 0.0419,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-12T03:07:50+00:00"
+    "generated_at": "2026-08-13T03:09:57+00:00"
   }
 ]
