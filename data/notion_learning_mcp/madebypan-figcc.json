@@ -1,0 +1,14 @@
+{
+  "title": "FigCC｜在 Figma 裡用本機 Codex／Claude Code 操作畫布",
+  "source_url": "https://github.com/madebypan/FigCC",
+  "notion_url": "https://app.notion.com/p/3bbb34f27ab481bf909ccb542027b943?pvs=204",
+  "category": "Frontend／UI",
+  "status": "待閱讀",
+  "difficulty": "進階",
+  "date": "2026-08-13",
+  "summary": "FigCC 是一個把 Figma plugin 連到本機 Codex CLI 或 Claude Code 的設計 Agent。它透過本機 authenticated bridge、Codex App Server 或 Claude Agent SDK/MCP，讓 Agent 可以讀取選取圖層、樣式、variables、components，並直接修改 Figma canvas；不需要在 Figma 裡放 Claude API key 或 OpenAI API key。",
+  "practice": "閱讀 README.zh-TW，確認安裝需求：macOS、Figma Desktop、Node.js 18+、已登入的 Codex CLI 或 Claude Code；再評估是否能把 FigCC 的 Figma 工具、skills 共用與本機權限模型整理成「Figma × Agent 設計工作流 SOP」。",
+  "notes": "重點不是單純 Figma plugin，而是把設計工具變成 Codex／Claude Code 的可操作工作區：選取內容、圖片、檔案、Figma tools、skills、local workspace 與 provider 權限被放在同一條 Agent workflow 裡。適合研究 UI 生成、設計系統整理、Figma variables、component audit 與設計稿自動修正。",
+  "origin": "notion_mcp",
+  "dedupe_key": "url:https://github.com/madebypan/figcc"
+}
