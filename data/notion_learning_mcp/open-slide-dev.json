@@ -1,0 +1,15 @@
+{
+  "title": "open-slide｜為 AI Agent 設計的 React 簡報框架",
+  "source_url": "https://open-slide.dev/",
+  "canonical_project_url": "https://github.com/1weiho/open-slide",
+  "category": "Agent／Workflow",
+  "status": "待閱讀",
+  "difficulty": "實作",
+  "date": "2026-08-13",
+  "summary": "open-slide 是 React-first 的 slide framework，每一頁都是 1920×1080 canvas 上的任意 React code，讓 Claude、Codex、Cursor、Gemini CLI 等 coding agent 可以用 prompt 建立、修改與迭代簡報。",
+  "practice": "用 npx @open-slide/cli init 建立 deck，請 coding agent 產生一份產品發表或工作報告簡報；再測試 canvas inspect、comment marker、/apply-comments、圖片資產管理與匯出流程。",
+  "origin": "notion_mcp",
+  "dedupe_key": "url:https://open-slide.dev/",
+  "related_existing_source_url": "https://github.com/1weiho/open-slide",
+  "notes": "此筆是官方網站來源；Notion 既有資料庫曾收錄 GitHub repo 版本，語義上視為同一專案，不應重複公開上架為兩篇。"
+}
