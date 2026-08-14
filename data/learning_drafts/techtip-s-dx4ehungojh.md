@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-13T03:09:57+00:00"
+generated_at: "2026-08-14T03:09:00+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -60,15 +60,22 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: mahoney5929's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/767364616_17975320887097602_6982351559520192434_n.jpg?stp=dst
-- Markdown Content:
-[![Image 1: mahoney5929's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/767364616_17975320887097602_6982351559520192434_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
-- [![Image 3: jillianarlyauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/473546779_890673319807960_5211051134662303367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
-- [![Image 4: bettingwithape's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574466630_17927229582137747_6813222755035112342_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
-- [![Image 2: ginnyhogan_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/590414978_18431205838109337_2675444172935352303_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/773995460_17899525134557798_16618312813020978_n.webp?_nc_cat=102&ig_cache_key=Mzk2MjY5MzU5NzMyMTU4MTQ0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjExMi5zZHIucmVn
+- [![Image 1: itspresleyann's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731614909_17937407400275283_2331276657823421053_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent.cdninst
+- [![Image 2: vanderpumpeter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/587846300_17936298510100209_6521429816303734393_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTQuYzIifQ&_nc_ht=scontent.cdninst
+- [![Image 6: bbliveupdaters's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357793441_775880140929990_7238097733961630730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
 
 ## 抓取品質
 
@@ -82,54 +89,44 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: ari.m.elle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724061374_17903930874442341_5405530653184644906_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHMrqVM1eK98qwGyUgMn34CBbUCHD3BchyMYwfoyCXnSw800cdr9D9LR-PxF_9vX4U&_nc_ohc=DPj42o27jEAQ7kNvwEOetWR&_nc_gid=ElRdOtkC2e8lV_wwWRsMHg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFQKz1fNSjvhvKP84jrcMzkmYUDrkoHhIYOF0-0xi4gYQ&oe=6A845E93&_nc_sid=10d13b)](http://www.threads.com/@ari.m.elle)
 
-[](https://www.threads.com/)
+Good morning everyone, but specifically to Ilya Rozanov who was probably in a Walmart Supercenter at 2 in the morning trying to decide on what shirt would best portray him getting into the spirit, and landing on this gem that he really is pulling off.
 
-[](https://www.threads.com/search)
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/773013737_17912727579442341_2792398521273143989_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk2Mjc0OTA0NTY2ODUwMTI1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AbzLjDwhS0kQ7kNvwGdXvXo&_nc_oc=AdpZURiym_NxZ3DgdOkHvGpadtpbhjKti3gMvsLESOP2kGVDgUuiVqvEgavDbPdyGws&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ElRdOtkC2e8lV_wwWRsMHg&_nc_ss=7a22e&oh=00_AQHKxPiSzbi4R5rG9kt6o02LSvJA9uWeDEWVp-qyTUiXTw&oe=6A846C6F)](http://www.threads.com/@ari.m.elle/post/Db-g0LxFtcL/media)
 
-# [Home](https://www.threads.com/?error=invalid_post)
+869
 
-[![Image 1: pottymouthpollyanna's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/379550246_2224232574443269_6181791354633735177_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=F9Y_hU3WHzYQ7kNvwF6NAie&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEJ9i53lkru9TEMmCQuOWpdQo0GP_9dE3daR0DeMlGKsA&oe=6A82F60B&_nc_sid=10d13b)](https://www.threads.com/@pottymouthpollyanna)
+7
 
-[pottymouthpollyanna](https://www.threads.com/@pottymouthpollyanna)
+5
 
-[22h](https://www.threads.com/@pottymouthpollyanna/post/Db7W29_lmlE)
+[![Image 3: scottiebeam's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358004819_1330408004548475_4020660343918092351_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHMrqVM1eK98qwGyUgMn34CBbUCHD3BchyMYwfoyCXnSw800cdr9D9LR-PxF_9vX4U&_nc_ohc=iFMg0KenQn4Q7kNvwFC7SQU&_nc_gid=ElRdOtkC2e8lV_wwWRsMHg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGxp1tvmkDcOuWcLqwvp_twy33qvv-30sHubm_mqqWuAQ&oe=6A846D8B&_nc_sid=10d13b)](http://www.threads.com/@scottiebeam)
 
-OMG. Are you serious Milwaukee!? **UPDATE: Apparently I need to clarify. Count from Milwaukee delayed.
+I want to audition to be in short film
 
-161
+68
 
-42
+16
 
-[![Image 2: itsmejacqs's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/705374880_17927333967322986_292063525498897187_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=cH2BMyUwiG4Q7kNvwGyJ1-K&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGPi9zpIXQle3L1LyxuD4G82LOKst2p5Pjsf8-30tJ9ug&oe=6A82FF1B&_nc_sid=10d13b)](https://www.threads.com/@itsmejacqs)
+5
 
-[itsmejacqs](https://www.threads.com/@itsmejacqs)
+3
 
-[6h](https://www.threads.com/@itsmejacqs/post/Db9AMPvgTqS)
+[![Image 4: its_bigchar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/626257772_17939567757132248_3401947922603930434_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHMrqVM1eK98qwGyUgMn34CBbUCHD3BchyMYwfoyCXnSw800cdr9D9LR-PxF_9vX4U&_nc_ohc=Zr-UB8q8d1YQ7kNvwFLKsAL&_nc_gid=ElRdOtkC2e8lV_wwWRsMHg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH2K3y8XKjV_SqrAQd9qdjJ8aTDGyjgNsVilOdf1DNQww&oe=6A843E6F&_nc_sid=10d13b)](http://www.threads.com/@its_bigchar)
 
-after 3 years i finally threw the wee wee pad out that my dog died on. I cried. so badly. i miss my damn dog.
+Shout out to Nolan’s mom and dad for standing on business about their child! Justice for Nolan 🖤
 
-616
+5.1K
 
-53
+15
 
-1
+331
 
-[![Image 3: thatericalper's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/354022828_656705989124806_2655499617373465121_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDkEhaGNSH6Qd8w1M&_nc_ohc=1oNOGJxnwW8Q7kNvwHlfXLu&_nc_gid=gE_6SF1aj2cMOsygLV3yWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGWnoK2SL4xYQuz1zFH5zK2LDEDLsokCWo6hOcrfV93MA&oe=6A83188F&_nc_sid=10d13b)](https://www.threads.com/@thatericalper)
+4
 
-[thatericalper](https://www.threads.com/@thatericalper)
-
-[9h](https://www.threads.com/@thatericalper/post/Db8rSSfloJQ)
-
-What was the first purchase you made after earning your own paycheck?
-
-20
-
-70
-
-[![Image 4: warhammerofficial's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/467428947_541186212016206_8442323614551466245_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEEwpVfkBIorXjxiNtBrN8WNn43ntvqBFNEQTbE1ee2m8xfa0nDk
+[![Image 5: jennygawlick's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/322917607_729200525208033_24
 ```

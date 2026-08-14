@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Like if I make videos on YT where I tell y"
+title: "govin999999 的 AI 工作流案例：DON’T MAKE ME PULL MY GUN IN HURR!"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -8,18 +8,18 @@ category: "coding"
 tools:
   - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-13T03:09:57+00:00"
+generated_at: "2026-08-14T03:09:00+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Like if I make videos on YT where I tell y
+# govin999999 的 AI 工作流案例：DON’T MAKE ME PULL MY GUN IN HURR!
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Like if I make videos on YT where I tell you a bedtime story about a place called Dreamhollow where they make and care for your dreams, that would be cool right?
+DON’T MAKE ME PULL MY GUN IN HURR!
 
 ## 這篇在解決什麼問題
 
@@ -61,23 +61,16 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: discussingfilm's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358164332_606852138247357_8480100296719890603_n.jpg?stp=d
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: chilwriter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649241263_17874808932541367_3296990792017125802_n.jpg?stp=d
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/772972175_18448138030140724_6056692681917889475_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2MTg2OTk1ODcwNzk5NTMzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-- I swear I'm not trying to drag this out, I'm just savoring the freedom of fanfic and the way I don't have to condense things down to a 90k novel. I was born to write serials, I fear
+[![Image 1: people's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/438615043_1794446657707892_1978261738436338911_n.jpg?stp=dst-jpg
+- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/771209971_17941246923306128_9158084850130941307_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MzA1Nzk5NTY2NzU3NTE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、Make、CLI
+- content_quality: `medium`
+- keyword_hits: Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -86,56 +79,34 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: alonapmk's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/673052118_17929834128255470_7394234209455093886_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq6AaMmLf8ZZAyYUFWAeWm4T2WvQV7yG7qkdVinAbY2ns&_nc_ohc=qedxQMw4DnEQ7kNvwEwmRWj&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFzGpzMwfPRTvxOG0mh6d6iKo4wiR943SdYZ2hQx5AmIA&oe=6A845C56&_nc_sid=10d13b)](http://www.threads.com/@alonapmk)
 
-[](https://www.threads.com/)
+“BABY, DON’T BLOW MY HIGH! DON’T MAKE ME PULL MY GUN IN HURR!”
 
-[](https://www.threads.com/search)
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/774018425_17947722060255470_8709623971843057246_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2Mjg3MjI4MDkwNTQxMjM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA2MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iBfiaxOEFCAQ7kNvwHKj_Mg&_nc_oc=AdojfVlGYICX-ORJe2FhoehW4uI17gNV2aqtq-hf_b0ZAa8UCqNXOlcneOraWLIPuBw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&_nc_ss=7a22e&oh=00_AQGiP3EQkARFMtDe3zykzSvYBnZoLY5BVpfG2b6I08AQyA&oe=6A846796)](http://www.threads.com/@alonapmk/post/Db-81fhm-8H/media)
 
-# [Home](https://www.threads.com/?error=invalid_post)
+221
 
-[![Image 1: chilwriter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649241263_17874808932541367_3296990792017125802_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y_ZtumpLuOy3FvIbOzq9g4q6IK-fhQdMkJP-0AhxcMPQ-2U&_nc_ohc=3y9at3kqEAQQ7kNvwHqLXgz&_nc_gid=FJM497yLVfE42h_oZmYUkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHbdtd10j4JKxJ4U8ktfpMgDH1rOdk9xQvDxdJOCipjFQ&oe=6A83024C&_nc_sid=10d13b)](https://www.threads.com/@chilwriter)
+9
 
-[chilwriter](https://www.threads.com/@chilwriter)
+3
 
-[6h](https://www.threads.com/@chilwriter/post/Db9A4wrEluj)
+[![Image 3: platinumvocalsinc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/454312153_1585106055720664_1758268524488967786_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq6AaMmLf8ZZAyYUFWAeWm4T2WvQV7yG7qkdVinAbY2ns&_nc_ohc=SVCZBAfCGvcQ7kNvwF88uBv&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFIqqz3pGT6efj0pIjPDgSzap9YetkgdLu6FwmqrHF1YA&oe=6A8457E2&_nc_sid=10d13b)](http://www.threads.com/@platinumvocalsinc)
 
-How would we know if Karoline Leavitt joined FOX News? 🤔
+After 7 delivered with an incredible performance of “Ready Or Not” on Cadillac Chronicles 🔥🔥🔥
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/772972174_17902277262541367_1143615831105264079_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MjMyNzE0NzcwODgzMjY3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzIwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=st4Um4YRdt0Q7kNvwHIWPHH&_nc_oc=AdptLPRQrlMTVpEgyLq5ZpwJ4xHPD31XhZvzL_13Mw9QmQ0s2Jgm0pI3zZUaEbDOoY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=FJM497yLVfE42h_oZmYUkQ&_nc_ss=7a22e&oh=00_AQHlLrdSxxSS25i2aI5ra8Yrae3qjBrPupognocFT4hU4A&oe=6A82FF09)](https://www.threads.com/@chilwriter/post/Db9A4wrEluj/media)
+![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/774668972_1632691148204846_2724619677298880208_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk2MzA5NTIwODgxNjY0NzE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=feUbx9pxejUQ7kNvwHqS15n&_nc_oc=AdplCHMt-MAfIpUW233Lk-f7TMCEUsHp_aAAqkshe6Nt01WKc9IWG-cdmP3twzBSpbM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&_nc_ss=7a22e&oh=00_AQEsooCLjZrXx41W3yqN69_VY8tUakV4kv3nkZSmxwPl5g&oe=6A8447E8)
 
-387
+3.5K
 
-62
+155
 
-25
+409
 
-14
+210
 
-[![Image 3: ferociouskatie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/469026506_1111978953910546_6253889284325829084_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y_ZtumpLuOy3FvIbOzq9g4q6IK-fhQdMkJP-0AhxcMPQ-2U&_nc_ohc=TGL1cX9SwZgQ7kNvwEfeKJA&_nc_gid=FJM497yLVfE42h_oZmYUkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF5_tVcWKqpwNPNZSki4b4Xg6ldCLcKVxj5nhVz_mngQw&oe=6A82FAC4&_nc_sid=10d13b)](https://www.threads.com/@ferociouskatie)
-
-[ferociouskatie](https://www.threads.com/@ferociouskatie)
-
-[15h](https://www.threads.com/@ferociouskatie/post/Db8C6GwEUk0)
-
-Remember in the 90s when the chicken pox vaccine first came out and everyone’s mom ran us to the pediatrician to get the shot?
-
-Because they were tired of having chicken pox parties to just get the sickness over with??
-
-Because no mom wanted their kids to get chicken pox if they didn’t have to?
-
-I miss the 1900s
-
-556
-
-46
-
-16
-
-2
-
-[![Image 4: dallastaylori's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/764925127_17980302774112027_6413755367475433971_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGDylyvaFMjfpRqn9p-Y
+[![Image 5: ms.nichole.rae's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/560297824_17898694968295340_3525259949869364466_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq
 ```

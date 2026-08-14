@@ -7,11 +7,10 @@ language: "unknown"
 category: "coding"
 tools:
   - "Codex"
-  - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0606
-generated_at: "2026-08-13T03:09:57+00:00"
+zh_ratio: 0.005
+generated_at: "2026-08-14T03:09:00+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -28,15 +27,11 @@ generated_at: "2026-08-13T03:09:57+00:00"
 
 ## 使用工具
 
-Codex、GitHub
+Codex
 
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
-2. 」 我說其實問題就在這裡 你們工程師一開始就把世界想得太危險 是顯化 我很認真解釋，AI 本身就是根據你的意圖生成結果 你 prompt 裡面一直預設「會出 bug」「會被駭」，它當然就接收到負面工程能量，最後生出來的 code 自然很焦慮 反過來說，如果開發前先整理心情 明確告訴 Agent：這是一個穩定、安全、可維護、一次上線成功的產品 然後真心相信它會做到（留言續） Translate](https://www.threads.com/@crash.rwd/post/Db48ASiEnfz)
-3. [Image 6: GitHub - esengine/DeepSeek-Reasonix: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/4001246795330207979?
-4. 觸發語句相近、輸出相同、責任範圍重疊 AI 就可能在同一句要求下選到不同路線
-5. [AIAgents](https://www.threads.com/search?
 
 ## 可以直接複製的做法
 
@@ -64,48 +59,32 @@ reply_summary_status: `partial`
 
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
-- Title: 傑洛 Zero Cho (@itszero) on Threads
-
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
+- Markdown Content:
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Codex、Agent、agent、流程、prompt、工具、整理、生成、GitHub
-- zh_ratio: `0.0606`
+- keyword_hits: AI、Codex、prompt
+- zh_ratio: `0.005`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
 
 ```text
-Title: 傑洛 Zero Cho (@itszero) on Threads
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread 592 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
-
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH7H7InG0nYUEhGuU29PC7n2YZgoBo5MhphXMeA3ZuumnZBdsYFpVunIrTlp6Aa8hs&_nc_ohc=ABbPD0Lp-hsQ7kNvwHuv_Sa&_nc_gid=KQ8sxkgedf9BkSY9aoVhkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEBu_7eaa6ICccZs02MaYSw22GxgFoilUxPdlGaonlWYA&oe=6A82FA4B&_nc_sid=10d13b)](https://www.threads.com/@itszero)
-
-[itszero](https://www.threads.com/@itszero)
-
-[05/09/26](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+[![Image 1: itszero's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG4Dp4wqh1GRr5PPD0FhTl7SInDCzHuDir_yxFK3PCyvl3jSTQUsokptITCdW6_nA4&_nc_ohc=ABbPD0Lp-hsQ7kNvwEVWROX&_nc_gid=wxFu4OTHCcjCDv_z-M17MQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEaTVwVSjWSE9On4bmAP6fBVKwTvEgDm6syxqLDNLF0NQ&oe=6A844BCB&_nc_sid=10d13b)](https://www.threads.com/@itszero)
 
 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 
@@ -115,25 +94,37 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gH7H7InG0nYUEhGuU29PC7n2YZgoBo5MhphXMeA3ZuumnZBdsYFpVunIrTlp6Aa8hs&_nc_ohc=7mTBJUPi3dcQ7kNvwHpckCL&_nc_gid=KQ8sxkgedf9BkSY9aoVhkw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHJx3niLbtiuiwwA7FwF-i8fzOuqWT9AiCX__V88EZ19Q&oe=6A831191&_nc_sid=10d13b)](https://www.threads.com/@ethanhuang13)
+[![Image 2: amer.k9's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/623300063_17940551817112250_5742321867621885333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG4Dp4wqh1GRr5PPD0FhTl7SInDCzHuDir_yxFK3PCyvl3jSTQUsokptITCdW6_nA4&_nc_ohc=PVNsCWT_VNcQ7kNvwHouTNP&_nc_gid=wxFu4OTHCcjCDv_z-M17MQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHFNg0uO7O7CpNZscZQtOBxGLqqf1O7CTd1m-3CTwZkpg&oe=6A847134&_nc_sid=10d13b)](https://www.threads.com/@amer.k9)
 
-[ethanhuang13](https://www.threads.com/@ethanhuang13)
+I don’t understand why people complaining about getting a free Hundo/Shundo Mewtwo AND a free Master ball 🌚
 
-[05/10/26](https://www.threads.com/@ethanhuang13/post/DYKDh9DlHlI)
+426
 
-大道至簡
+66
 
-Related threads
+9
 
-[![Image 3: howardsun_s's profile picture](https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gGj3BXvnlUBxsARa-P5SZfTQkovXCbFhjZ3k41N7kzPYCHEiTPekPVhsIVIShPx1Gk&_nc_ohc=WVJV5XJjE2YQ7kNvwEFFdq_&_nc_gid=OP2d_1DbqOYT4R_FbXYeIg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQGThLQO8COL8ktYu2Rzzdc6XEmEu_qJJCOERgcV-QFWOg&oe=6A82FC2A&_nc_sid=10d13b)](https://www.threads.com/@howardsun_s)
+[![Image 3: bre_simone__'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/503686594_17899776348218222_9150809761420737170_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG4Dp4wqh1GRr5PPD0FhTl7SInDCzHuDir_yxFK3PCyvl3jSTQUsokptITCdW6_nA4&_nc_ohc=BeY792Km6LQQ7kNvwEjtJPI&_nc_gid=wxFu4OTHCcjCDv_z-M17MQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGV-cP-qI9JOvFi65q-AF4NpdHwFZxFcryj6E1LKssaFA&oe=6A844178&_nc_sid=10d13b)](https://www.threads.com/@bre_simone__)
 
-[howardsun_s](https://www.threads.com/@howardsun_s)
+I don’t care what yall say this cast is funny af😂😂
 
-[1d](https://www.threads.com/@howardsun_s/post/Db5TUIcD2ps)
+328
 
-😆 這是反串，顯化什麼啦
+9
 
-Translate
+8
 
-[![Image 4: crash.rwd's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/516970145_17850438465501636_2289731295784859601_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNDcuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE42Kq25CWY8qrmg4YCwln0eFxgpwjey9NUIe--TEvBqy4UKO-Am3bGU7wB3aLXWU8&_nc_ohc
+[![Image 4: panthafit's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/436517960_1404692793497350_3873568699953285279_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU3LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG4Dp4wqh1GRr5PPD0FhTl7SInDCzHuDir_yxFK3PCyvl3jSTQUsokptITCdW6_nA4&_nc_ohc=IDRmNi-WrnoQ7kNvwG40Z-Z&_nc_gid=wxFu4OTHCcjCDv_z-M17MQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGdo6pitSoNUgNPE1LmWDkP9U1tJUVd3KpKLwYKuLiKsw&oe=6A844BEC&_nc_sid=10d13b)](https://www.threads.com/@panthafit)
+
+How I’m living at 57.
+
+I strength train. I use HRT. I eat extremely well.
+
+But if there’s one part of looking after my brain in midlife that I still need to get better at, it’s sleep.
+
+Apparently going to bed at 9pm and waking up at 3am doesn’t count. 😂
+
+87
+
+71
 ```

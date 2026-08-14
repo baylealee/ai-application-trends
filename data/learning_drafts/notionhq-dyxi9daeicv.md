@@ -4,15 +4,13 @@ source_url: "https://www.threads.com/@notionhq/post/DYXi9DaEicv"
 source_author: "notionhq"
 post_id: "DYXi9DaEicv"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "Claude"
-  - "RAG"
   - "Notion"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-13T03:09:57+00:00"
+generated_at: "2026-08-14T03:09:00+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -29,15 +27,11 @@ Title: Notion (@notionhq) on Threads
 
 ## 使用工具
 
-Claude、RAG、Notion
+Notion
 
 ## 原始工作流拆解
 
 1. So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
-2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
-3. I build AI agents that run businesses.
-4. We built an autonomous AI agent pipeline that books B2B client calls on autopilot... here’s exactly how.
-5. We are installing these exact autonomous agent frameworks directly into a handful of business this month.
 
 ## 可以直接複製的做法
 
@@ -65,21 +59,16 @@ reply_summary_status: `partial`
 
 - Title: Notion (@notionhq) on Threads
 
-URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_584587685547827455
-- Title: Notion (@notionhq) on Threads
-
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
+- URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、Agent、agent、Notion、CLI、workflow
+- keyword_hits: AI、Agent、agent、Notion
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
@@ -91,27 +80,13 @@ Title: Notion (@notionhq) on Threads
 URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread 4.3K views](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
-
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGi8xyY-R1oisGb7YnsMaEVuvUUXRZOOSJHdQYR-OnnkBZNGwCugn6zPTfm8diH25I&_nc_ohc=x3nkV4cYan4Q7kNvwEUKYSZ&_nc_gid=F9gx84a2fo4K-pssGcarxA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH9urnAIbvashrpAyZyO0eteeS8weRMofbK1-e7m6M-NA&oe=6A8320B0&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
-
-[notionhq](https://www.threads.com/@notionhq)
-
-[05/15/26](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGp5qibIFHK3_7cXoGotkGxYynQOaIA5PJ9jZExP4mNt8sbjlqu1RrQcEQGLyvKn-k&_nc_ohc=x3nkV4cYan4Q7kNvwF4_uVI&_nc_gid=PQq0-YRAFqRaaJACVtN_-A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHrLjAZmszjE7sKbZWZLXpmgTzPXuFKvE6ASQovEfcDeA&oe=6A847230&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
 
 “There’s probably only 30% of your day where you do the work you’re meant to do… the other 70% is dealing with the side products of that work.”
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ex5EskR6dGAQ7kNvwEK59SL&_nc_oc=Adp6dMXpb6m2z5i6P-YuGfxNzULjahDiEhSUreeB7qDjq9rT_Ri17CqyyNSpdRFC-jY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=F9gx84a2fo4K-pssGcarxA&_nc_ss=7a22e&oh=00_AQEq13mDNGUsQe3GMcb-p-AUeGnDdCL7RMA7JSWm98fZQw&oe=6A831B7C)
-
-[Video 7](https://scontent-ord5-1.cdninstagram.com/o1/v/t16/f2/m84/AQPTX8OpeHyJuGTN3BSX0a7jWRf2uFehcigz4hf4rLrXiQBA77unvMMqG_JMc5Oum-y6ibOFYv3oIkgdsjeX6yoEaljLnJqqY85o4sk.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=V9yk4SFpjs8Q7kNvwEmj-qo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5Njg2MjQ2MzgxMDMwMTIsImFzc2V0X2FnZV9kYXlzIjo4OSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=88abf08c01ebd6e7&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DMDRFN0M3NERDNjNFNEMzMTQwQ0IzMjYxODIyNjBCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZFNEFDM0M3QUU4OUVCMzUwMUUzMUM0OEE2MTMwODhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbIt8CKzpfrPxUCKAJDMywXQHQzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=F9gx84a2fo4K-pssGcarxA&_nc_zt=28&_nc_ss=7a22e&oh=00_AQH5U5ATjjxW3UMWHg3hwK4V9eCvPqGw7i8tlZJ8WQsV2g&oe=6A7F2664)
+![Image 2](https://scontent-sea1-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ex5EskR6dGAQ7kNvwEeCQIQ&_nc_oc=AdoaGY8bRHOjt-4mB8zSlHGdxU6wot_a9t60Y_SAZUikHQ0jAc3UiI1hv3EMLKEFYKA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=PQq0-YRAFqRaaJACVtN_-A&_nc_ss=7a22e&oh=00_AQGYC4EwITU__ia8SOV29o68TbAmWEUS8BIyucANHAZ91A&oe=6A846CFC)
 
 52
 
@@ -120,6 +95,4 @@ So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real 
 2
 
 4
-
-[![Image 3: notionhq's profile picture](https://scontent-ord5-1.cdninsta
 ```
