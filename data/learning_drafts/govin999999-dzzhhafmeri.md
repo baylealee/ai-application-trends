@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：DON’T MAKE ME PULL MY GUN IN HURR!"
+title: "govin999999 的 AI 工作流案例：Free agent guard Bradley Beal has agreed t"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-14T03:09:00+00:00"
+generated_at: "2026-08-15T01:59:00+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：DON’T MAKE ME PULL MY GUN IN HURR!
+# govin999999 的 AI 工作流案例：Free agent guard Bradley Beal has agreed t
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-DON’T MAKE ME PULL MY GUN IN HURR!
+Free agent guard Bradley Beal has agreed to return to the Los Angeles Clippers on a two-year, $13.2M deal with a player option, Mark Bartelstein of
 
 ## 這篇在解決什麼問題
 
@@ -27,13 +26,11 @@ DON’T MAKE ME PULL MY GUN IN HURR!
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. Free agent guard Bradley Beal has agreed to return to the Los Angeles Clippers on a two-year, $13.2M deal with a player option, Mark Bartelstein of
 
 ## 可以直接複製的做法
 
@@ -61,16 +58,19 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: people's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/438615043_1794446657707892_1978261738436338911_n.jpg?stp=dst-jpg
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/771209971_17941246923306128_9158084850130941307_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MzA1Nzk5NTY2NzU3NTE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
+[![Image 1: sweethart_lo's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/498026637_17910145644110182_2405725800829429203_n.jpg?stp=d
+- ![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/773631565_17976510165110182_5543198781430751275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2MzI3NDEyMzg3ODAyNzIzNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- My husband came home and said “I have flowers for you” and then he gave me some lilies that were in the lily pad pond at his job and then he said “dissect them” as I usually do and I just cut them open and OH MY GOSH ITS BEAUTIFUL!! *runs to create art*
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/774514135_17976510192110182_8056084039159680766_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk2MzI3NDEyNTUwMTY3OTkyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0
+- ![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/774087907_17977642398110130_2762190692343969646_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2Mzc1NDUyNjIzODQ4Njg3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: Make
+- content_quality: `strong`
+- keyword_hits: AI、Agent、agent、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -79,34 +79,52 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: alonapmk's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/673052118_17929834128255470_7394234209455093886_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq6AaMmLf8ZZAyYUFWAeWm4T2WvQV7yG7qkdVinAbY2ns&_nc_ohc=qedxQMw4DnEQ7kNvwEwmRWj&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFzGpzMwfPRTvxOG0mh6d6iKo4wiR943SdYZ2hQx5AmIA&oe=6A845C56&_nc_sid=10d13b)](http://www.threads.com/@alonapmk)
+[](https://www.threads.com/)
 
-“BABY, DON’T BLOW MY HIGH! DON’T MAKE ME PULL MY GUN IN HURR!”
+[](https://www.threads.com/)
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/774018425_17947722060255470_8709623971843057246_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2Mjg3MjI4MDkwNTQxMjM1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA2MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=iBfiaxOEFCAQ7kNvwHKj_Mg&_nc_oc=AdojfVlGYICX-ORJe2FhoehW4uI17gNV2aqtq-hf_b0ZAa8UCqNXOlcneOraWLIPuBw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&_nc_ss=7a22e&oh=00_AQGiP3EQkARFMtDe3zykzSvYBnZoLY5BVpfG2b6I08AQyA&oe=6A846796)](http://www.threads.com/@alonapmk/post/Db-81fhm-8H/media)
+[](https://www.threads.com/search)
 
-221
+# [Home](https://www.threads.com/?error=invalid_post)
 
-9
+[![Image 1: jrbillin's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574047842_17932528929102121_2902121618516572999_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gG9TsWQmuyiOjymGv_gsY2khx9jmhuo-FMiBHz6-o28E8zLP55a0DrnghqejNpa3PE&_nc_ohc=IN9BlQh89V8Q7kNvwHJ8p07&_nc_gid=DqlXA1blTb9AQV1M4RhKjQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHhKN3T1W16nrS0J5KXBorAweX6y-YA6BzB6GxwqrcGmQ&oe=6A85A338&_nc_sid=10d13b)](https://www.threads.com/@jrbillin)
 
-3
+[jrbillin](https://www.threads.com/@jrbillin)
 
-[![Image 3: platinumvocalsinc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/454312153_1585106055720664_1758268524488967786_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq6AaMmLf8ZZAyYUFWAeWm4T2WvQV7yG7qkdVinAbY2ns&_nc_ohc=SVCZBAfCGvcQ7kNvwF88uBv&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFIqqz3pGT6efj0pIjPDgSzap9YetkgdLu6FwmqrHF1YA&oe=6A8457E2&_nc_sid=10d13b)](http://www.threads.com/@platinumvocalsinc)
+[13h](https://www.threads.com/@jrbillin/post/DcBRQXlHBCW)
 
-After 7 delivered with an incredible performance of “Ready Or Not” on Cadillac Chronicles 🔥🔥🔥
+Prepping syllabi at the end of the world
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/774668972_1632691148204846_2724619677298880208_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk2MzA5NTIwODgxNjY0NzE1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=feUbx9pxejUQ7kNvwHqS15n&_nc_oc=AdplCHMt-MAfIpUW233Lk-f7TMCEUsHp_aAAqkshe6Nt01WKc9IWG-cdmP3twzBSpbM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=z_qE_u0Z3v5qQyg-xKn3WQ&_nc_ss=7a22e&oh=00_AQEsooCLjZrXx41W3yqN69_VY8tUakV4kv3nkZSmxwPl5g&oe=6A8447E8)
+498
 
-3.5K
+16
 
-155
+41
 
-409
+34
 
-210
+[![Image 2: tubaseball5's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474143127_2082367652214279_4454018020943686168_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG9TsWQmuyiOjymGv_gsY2khx9jmhuo-FMiBHz6-o28E8zLP55a0DrnghqejNpa3PE&_nc_ohc=8VAxv1QOkpsQ7kNvwHP6NOa&_nc_gid=DqlXA1blTb9AQV1M4RhKjQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFrvod4OO-5tBl8FJkygwC-EQw6tnfSJBKNudzpJWPNJA&oe=6A85A55B&_nc_sid=10d13b)](https://www.threads.com/@tubaseball5)
 
-[![Image 5: ms.nichole.rae's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/560297824_17898694968295340_3525259949869364466_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFehg2BpzwdvqZDNriXYkjq
+[tubaseball5](https://www.threads.com/@tubaseball5)
+
+[Los Angeles Dodgers](https://www.threads.com/search?q=Los%20Angeles%20Dodgers&serp_type=tags&tag_id=18277312687087121)
+
+[10h](https://www.threads.com/@tubaseball5/post/DcBnWSBiDCV)
+
+Dodgers' manager Dave Roberts is wrong. There is one obvious replacement to take over for Edwin Diaz, who has struggled since returning.
+
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/773580771_17922130230406909_2669768896151442377_n.webp?_nc_cat=110&ig_cache_key=Mzk2MzYyMjIwMjA1ODIyMzc2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Z2DGjr9hpUsQ7kNvwEDro3n&_nc_oc=AdrSp6UgdOT_ZlcXncWQEZdh994vG0SdLS-qIJjyly4sl16QMZV6OTbuRq-l-SYD7-o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=DqlXA1blTb9AQV1M4RhKjQ&_nc_ss=7a22e&oh=00_AQHD3H7SQGRh18VFqrkqT4AwPWrEMSyZaXnoKPJ_rp5Eyw&oe=6A85B20A)](https://www.threads.com/@tubaseball5/post/DcBnWSBiDCV/media)
+
+33
+
+28
+
+2
+
+1
+
+[![Image 4: nishith.md's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696244551_18454113166129669_7034408431807554155_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG9TsWQmuyiOjymGv_gsY2khx9jmhuo-FMiBHz6-o28E8zLP55a0DrnghqejNpa3PE&_nc_ohc=Hmf1lB6BhswQ7kNvwHrM3ty&_nc_gid=DqlXA1blTb9AQV1M4RhKjQ&edm=APs17CUB
 ```
