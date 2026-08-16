@@ -4,13 +4,12 @@ source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-15T01:59:00+00:00"
+generated_at: "2026-08-16T02:08:24+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,32 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: mandy_matney's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/524372938_17917145667117222_4446050901238071579_n.jpg?stp=d
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: kenpopehat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/362666661_299168849151195_1780028696463243582_n.jpg?stp=dst-jp
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/771814038_17962285269173723_4534418933701193048_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2MzMzMjM5NTgyNzY2MzUxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/776200368_17981569920117222_7650336882280848743_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk2MzY2MTMyNzUxNjQxNDU2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
-- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/770678179_17978344158119188_4907170014532668285_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk2MzY3NTI1MzcwNDg0NDc2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -98,45 +71,82 @@ Markdown Content:
 
 # [Home](http://www.threads.com/?error=invalid_post)
 
-[![Image 1: blackromancebookfestival's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/463389356_2208032229599164_1790493020127424598_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGidU47l7sIgfkLLQ6Ro-6i8sOS9Ow69Ughr6pigZlOupv6l8bGHWtItgfYBSLyn2s&_nc_ohc=F___R4g693UQ7kNvwFQMHrv&_nc_gid=TocAN-GC7BR5qSMSu2DTzA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGKpn8mjWhX5xZkOHgqnp_Mv-5Jlnh_Lq-9bzRWXzj2lA&oe=6A859B04&_nc_sid=10d13b)](http://www.threads.com/@blackromancebookfestival)
+[![Ima
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQPqC0n5Zl_yNBI0jexWcQvql3MlpYs926kh7FVvLJ1XFQBg0DL-ZZG-ynwj2qOC28i7CgF6Qd3RQWysSa6e5cQEWxyx7XaZu7ujHzo.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=OZpQkcHPfHsQ7kNvwGU_DY7&
+- [![Image 6: bbliveupdaters's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357793441_775880140929990_7238097733961630730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
+- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/774052805_17986981158108023_2813412433804221805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NDM5MTcxODg4NDAxNTE5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/775667219_2172747110253178_1623494729786310884_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk2NDAxOTA1NDk4MjAxODc0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
 
-[blackromancebookfestival](http://www.threads.com/@blackromancebookfestival)
+## 抓取品質
 
-[9h](http://www.threads.com/@blackromancebookfestival/post/DcBsUc3FqwK)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Emails will land in inboxes ~12:45 PM ET. The ticket link will activate at 1:00.
+## 原始抓取內容
 
-Without VIP or add-ons is still a fun weekend of book signings, panels, workshops, and experiences like fragrance making, candle making, paint & sip, lip gloss making, waistbead making, book bouquet making, book swaps, narrator experiences, whipped body butter, book bedazzling, blind date with a book, love letter room, audiobook room, wellness lounge, meet & greets, poetry slam, silent party and so much more!
+```text
+Title: Threads • Log in
 
-220
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: caitjenn's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640443902_18561724900058983_2018019060782199053_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=Xta1XuaC8wUQ7kNvwG6U9rc&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG6sr9nAyyZrdeAo2ycXwPqvZIldw5ahZplvkpB7WaelA&oe=6A86F4CD&_nc_sid=10d13b)](https://www.threads.com/@caitjenn)
+
+[caitjenn](https://www.threads.com/@caitjenn)
+
+[Texas](https://www.threads.com/search?q=Texas&serp_type=tags&tag_id=18401065627005570)
+
+[8h](https://www.threads.com/@caitjenn/post/DcEe7RjHPra)
+
+If Ken Paxton cared about affordability, he would have come out the gate with that. Instead, he started with "Talafreako is a vegan."
+
+526
 
 16
 
-59
+32
 
-21
+[![Image 2: nancyyybee's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/369233094_971841234079484_2780801748994377113_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=9Hgrn0A_fgEQ7kNvwGyVkA8&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHzd1KeFyqkaazKIFPy8qsccE4KaW_ses8umtoPrJb9bg&oe=6A8708D9&_nc_sid=10d13b)](https://www.threads.com/@nancyyybee)
 
-[![Image 2: officialkylepierce's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683465519_18530389522077160_6690601887527721315_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGidU47l7sIgfkLLQ6Ro-6i8sOS9Ow69Ughr6pigZlOupv6l8bGHWtItgfYBSLyn2s&_nc_ohc=4FgKqwZTgKQQ7kNvwHsq-Ya&_nc_gid=TocAN-GC7BR5qSMSu2DTzA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEgAyTs6aOl8uInjTApbVj4iQVktUII6USm28_1D9f18g&oe=6A85B41C&_nc_sid=10d13b)](http://www.threads.com/@officialkylepierce)
+[nancyyybee](https://www.threads.com/@nancyyybee)
 
-[officialkylepierce](http://www.threads.com/@officialkylepierce)
+[21h](https://www.threads.com/@nancyyybee/post/DcDCmG_G3he)
 
-[13h](http://www.threads.com/@officialkylepierce/post/DcBWHz4kTQm)
+Solo movie date 🍿✨ Romancing my own life, one little date at a time. 🤍
 
-FREE KARMELO ANTHONY
+85
 
-1.8K
+8
 
-13
-
-326
+4
 
 1
 
-[![Image 3: kcspice's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/757507278_18060398048533780_40281768086503103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGidU47l7sIgfkLLQ6Ro-6i8sOS9Ow69Ughr6pigZlOupv6l8bGHWtItgfYBSLyn2s&_nc_ohc=qD3rcR2SM8AQ7kNvwHKDMjE&_nc_gid=TocAN-GC7BR5qSMSu2DTzA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG2U4q1yOqTAeJ_EhLnMr8XK7O7g-ZHPTGystdyIIk1Tg&oe=6A85A50F&_nc_sid=10d13b)](http://www.threads.com/@kcspice)
+[![Image 3: wbb.user's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/754554883_18172600564394789_3919021552312017999_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=mlXGgTTktJ8Q7kNvwH_5rVn&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEvORolsDOIpwz0_P88yuB_tVi3wdx--jdfzG6VLIb0ag&oe=6A86F33E&_nc_sid=10d13b)](https://www.threads.com/@wbb.user)
 
-[kcspice](http://www.threads.com/@kcspice)
+[wbb.user](https://www.threads.com/@wbb.user)
 
-[21h](http://www.threads.com/@kcspice/post/DcAb1-nFarE)
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-Body recomp is crazy, I weight the same as I did at my heaviest weight and look
+[17h](https://www.threads.com/@wbb.user/post/DcDbjJ8DpNJ)
+
+Jokes over. It’s been long enough, bring back Fudd around and Find Out please. Give me season 2. Give me something please
+
+299
+
+6
+
+10
+
+[![Image 4: lessyoulie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/455604722_845246087566129_3529317962147061123_n.jpg?stp=dst-jpg_s150x150_tt6&efg
 ```
