@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：Yesterday, while I was filming, one of our"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-16T02:08:24+00:00"
+generated_at: "2026-08-17T02:05:35+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Yesterday, while I was filming, one of our
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Yesterday, while I was filming, one of our regulars jumped ALL in the camera 😂 telling the film crew how we “spoil” her, make sure she eats and drinks, how she makes sure nobody st
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Yesterday, while I was filming, one of our regulars jumped ALL in the camera �
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,26 +60,18 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQOm9zWIYH33GUyyl6J8ul5bycCBOKgSyeq0dwdN2uAKhin_Nl9cngyScB-l6tIcCXV064BTVifFm75WEBPA3qC_nxrQKrHVtpSdigA.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=nQD2_kEqUAYQ7kNvwGsS5zj&e
-- Can we talk about how much better Ariana’s young Ahsoka design is?!? It’s really the little changes that make all the difference! Her lekku looks perfect now. That’s literally Clone Wars Ahsoka IRL!
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/776351300_17980115352117910_7842596853495974955_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk2NDMyMDY5MjIxMzM3NjEyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/774406073_1764002284717178_3492070090095878666_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk2NDQxMjI0NzY3ODI3MTk0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+[![Image 1: bigg_2six's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/728944683_17907023754440434_6622173439181082506_n.jpg?stp=dst
+- ![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/778340514_17916058011440434_4854121337014268032_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk2NDkzNTkwNzIxMTM5Mzk0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
+- [![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/774594310_17987514795108296_6112361329915507878_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2NTA4NTg4MzQ4NTc1MDU1Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
+- i swear this / campaign is going to end w/that shot of connor on the beach in his tiny swimsuit and sunglasses taking a selfie
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、Make、CRM
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -89,44 +80,36 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: elaine.emmerson's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/466968780_549558311123072_400957511555739411_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGis8phRD_fVNwdjTHjP4sDEAfdT3EjQ0tx3ScqhAlqvJWVMnfcF9ixao5e2hXFMdU&_nc_ohc=M8mRxOQPFZcQ7kNvwGUTY9c&_nc_gid=sMY9CFmWWl-_PUCzGP-ezQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGvlqEfL_kzfjBIrq7udour0ajexya-59lKgPUsT1rp3w&oe=6A86EC16&_nc_sid=10d13b)](http://www.threads.com/@elaine.emmerson)
+[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGr05FwpAcJVP9oaaRZscysLyk0aP0DVyUf6fv4s38lfyN0M3KH9mFUM51uko694GM&_nc_ohc=-3ZqOpIFJzIQ7kNvwEMjpne&_nc_gid=yosbsZaiPThUBGlm1RcuhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHCNxzbiAwSLcvonGo2ivLtd6ASKFJgem7L0IukTJxdDw&oe=6A883F79&_nc_sid=10d13b)](https://www.threads.com/@girlalaaa7)
 
-For all the GenX folk here that can’t remember what you’re doing, where you put it or what you were saying, take comfort in the fact that you’ve known every artist, song and nearly all the words to every YSL edit.
+Aniya meant what she said henniiii 👀😮‍💨
 
-1K
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/774407031_17900368299559700_529387325877937700_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2NDc1NzM1NTI4MDQxNzIyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE1MS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PgpDvfTA9IkQ7kNvwEcH0Q2&_nc_oc=AdrkwHpSs1tYGWcP4EoyrAqY_4JvC3x8vk_X-FsAhMLQOXGAi5kdV_hLbD6CULiGVc8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yosbsZaiPThUBGlm1RcuhA&_nc_ss=7a22e&oh=00_AQESf8hDkBS8DNpE3g3mnKUEC1TeYxOQY3R1dEgEK5-dIg&oe=6A882C5B)](https://www.threads.com/@girlalaaa7/post/DcFpc72G0HJ/media)
 
-69
+373
 
-17
+10
 
-29
+4
 
-[![Image 2: onlyy.jt's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/695223700_17963011914118694_8222114445706045235_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGis8phRD_fVNwdjTHjP4sDEAfdT3EjQ0tx3ScqhAlqvJWVMnfcF9ixao5e2hXFMdU&_nc_ohc=__rfId2loCMQ7kNvwFhxyqG&_nc_gid=sMY9CFmWWl-_PUCzGP-ezQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGx-urYJxnOTPNaOJ9PB81HbuaGOdCbmtDwOeM1tIqxMA&oe=6A86DF0A&_nc_sid=10d13b)](http://www.threads.com/@onlyy.jt)
+1
 
-Completely over being single. I hate it here.
+[![Image 3: purcival's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/489443369_1892055098265942_69923529728513364_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGr05FwpAcJVP9oaaRZscysLyk0aP0DVyUf6fv4s38lfyN0M3KH9mFUM51uko694GM&_nc_ohc=58MG2bOmJ5cQ7kNvwH8VNu1&_nc_gid=yosbsZaiPThUBGlm1RcuhA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE5ubk3kqYAkZZABt3JqHtLTElbPHlNpjaq9Ns6ggcruQ&oe=6A8858D2&_nc_sid=10d13b)](https://www.threads.com/@purcival)
 
-174
+Lexaprogaming deleted her account. I’m glad I never fell for whatever that was.
 
-25
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/777766881_17982363063103911_6845635293145401520_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2NTIxOTMyNjA4ODc3NTIzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=A15lILm_G0gQ7kNvwEysVY_&_nc_oc=AdqJTsQpTmbHITVZipioTpYcPisbiSrWU0oAKJ0-Z1_BqL9YiZYsc_-uz-UjROSbET0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=yosbsZaiPThUBGlm1RcuhA&_nc_ss=7a22e&oh=00_AQGlVyppqaq1ZPVl2HY4BTv4BLe2hzh1ug4aQ4L8ox28uw&oe=6A883EB6)](https://www.threads.com/@purcival/post/DcHSffsCQZG/media)
 
-20
+201
 
-[![Image 3: jasminecrowe's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/482595694_1814809985973756_8683901226014685301_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGis8phRD_fVNwdjTHjP4sDEAfdT3EjQ0tx3ScqhAlqvJWVMnfcF9ixao5e2hXFMdU&_nc_ohc=6ZoMuydHbSAQ7kNvwF4OQxq&_nc_gid=sMY9CFmWWl-_PUCzGP-ezQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGfLQM72Y14VJT5W263QfDjzgG_lgNqXYk-Y2WVZE5-nA&oe=6A86EEC9&_nc_sid=10d13b)](http://www.threads.com/@jasminecrowe)
+57
 
-If you know Edgewood in downtown Atlanta, you know there’s a large unhoused population. At . we feed about 20–25 people experiencing homelessness every day through our token program, and so many of them have become our friends. We never turn anyone away for food or water. Ever.
+10
 
-Yesterday, while I was filming, one of our regulars jumped ALL in the camera 😂 telling the film crew how we “spoil” her, make sure she eats and drinks, how she makes sure nobody steals from us.
+2
 
-370
-
-39
-
-25
-
-3
-
-[![Image 4: makarizomen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760160568_17980184280117296_7871093749022138651_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGis8phRD_fVNwdjTHjP4sDEAfdT3EjQ0tx3ScqhAlqvJWVMnfcF9ixao5e2hXFMdU&_nc_ohc=tcef_WwjA6YQ7kNvwGIKLfB&_nc_gid=sMY9CFmWWl-_P
+[![Image 5: evtanglement's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/603981434_17881066839430218_4637979995998739688_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc2LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGr05FwpAcJVP9oaaRZscysLyk0aP0
 ```

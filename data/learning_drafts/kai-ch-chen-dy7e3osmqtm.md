@@ -4,16 +4,15 @@ source_url: "https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm"
 source_author: "kai_ch_chen"
 post_id: "DY7E3oSmqtm"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
-  - "MCP"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0568
-generated_at: "2026-08-16T02:08:24+00:00"
+generated_at: "2026-08-17T02:05:35+00:00"
 ---
 
 # kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我
@@ -30,7 +29,7 @@ generated_at: "2026-08-16T02:08:24+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、MCP、GitHub
+Claude、Claude Code、GitHub
 
 ## 原始工作流拆解
 
@@ -82,13 +81,13 @@ URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 Markdown Content:
 [![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_38893
-- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUCPDLow6ULjMBiRtQlPiUAIFnOLvI1Cqse1Y7rkChWYKzl26ukSA1hnhzFgfVo2VEeCKtEHx3DShU7_JCv2U-9XkqCrKR1Vi2TnJ-ECF3Ib4fWh7Qk)
-- 甚至可以整理成 [CLAUDE.md](https://l.threads.com/?u=http%3A%2F%2FCLAUDE.md%2F&e=AUCPDLow6ULjMBiRtQlPiUAIFnOLvI1Cqse1Y7rkChWYKzl26ukSA1hnhzFgfVo2VEeCKtEHx3DShU7_JCv2U-9XkqCrKR1Vi2TnJ-ECF3Ib4fWh7Qk) 的改善建議。
+- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUCtLLQIQ829cWBqlIojIiulKQNKQUR8qGZ-4JjTGFt1xPa1l2nwsWxPkpi93Em2v0dnw6QC08cokik7JeeJWjgXmpl9ydom6gx_XUjBwUS5-hCKHkg)
+- 甚至可以整理成 [CLAUDE.md](https://l.threads.com/?u=http%3A%2F%2FCLAUDE.md%2F&e=AUCtLLQIQ829cWBqlIojIiulKQNKQUR8qGZ-4JjTGFt1xPa1l2nwsWxPkpi93Em2v0dnw6QC08cokik7JeeJWjgXmpl9ydom6gx_XUjBwUS5-hCKHkg) 的改善建議。
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、自動化、流程、prompt、工具、摘要、整理、GitHub、CLI、workflow
+- keyword_hits: AI、Claude、Agent、agent、自動化、流程、prompt、工具、摘要、整理、GitHub、CLI、workflow
 - zh_ratio: `0.0568`
 - source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
@@ -108,7 +107,7 @@ Markdown Content:
 
 # [Thread 1.8K views](http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
 
-[![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_388939806295097201_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE_rKau9EpyLJvkLDQ6f2KW6LHTYLhTLWZ3aFyO5uiW1sUik2oVDY_taEr4PmlcevY&_nc_ohc=CTCwqVsiFl0Q7kNvwEWwpWs&_nc_gid=Vn991-vDw8ECCz3p9--D6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHpeAp2Xd0bTLMyDv_9GHgG3_k_pgVuj2lGT5hP2UvoNA&oe=6A86E97A&_nc_sid=10d13b)](http://www.threads.com/@kai_ch_chen)
+[![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_388939806295097201_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG7oLzRsDMAlPJcj7wJdKWsKhHsYenPOiYxAacbMICl45afAfNdI6D5SusATtRbmyQ&_nc_ohc=CTCwqVsiFl0Q7kNvwEazWn3&_nc_gid=YKuIx2GH5rH9D4-7m_wcvw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGvjRc4wkxa00YAXpJO81m8etixOuQw58vRwxreIr08Bg&oe=6A883AFA&_nc_sid=10d13b)](http://www.threads.com/@kai_ch_chen)
 
 [kai_ch_chen](http://www.threads.com/@kai_ch_chen)
 
@@ -126,9 +125,9 @@ Markdown Content:
 
 Translate
 
-![Image 2](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f4jLEDGeZ8UQ7kNvwFvDTBL&_nc_oc=AdqSVUtnNqG1SSSEAo-fUrU-W-6oCg3iblPPbQUd3EFBLS53PskCzXxS64au9Cdr5as&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=Vn991-vDw8ECCz3p9--D6g&_nc_ss=7a22e&oh=00_AQF0Jv0SJxihjrGIeEIGRsHFHIw8_kbcfOkE43AsWJxmmg&oe=6A87011C)
+![Image 2](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=f4jLEDGeZ8UQ7kNvwEDIOaG&_nc_oc=AdrjH0VHj4gGcO63zHKuxCM8L1PL8aNAiMIGwIFIxh7kC8bbHtQw-CgUVNnRvbXo8Vw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=YKuIx2GH5rH9D4-7m_wcvw&_nc_ss=7a22e&oh=00_AQGjD06X3voAF5IrCeX-zs7V4KcxtK8-M6qZNQTXY4ZusA&oe=6A88529C)
 
-![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-LHOSQWT8_QQ7kNvwEqrxP2&_nc_oc=AdquRxygIwdjrDqYkcSZ-NrYdBamAPmAhVZLhKsegeGEaW78zaF2DW27F4HPnDHkjuk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Vn991-vDw8ECCz3p9--D6g&_nc_ss=7a22e&oh=00_AQFi5nAt4kolAGdn5n0VVOLZU7DUMctJMPalswohcPcTmQ&oe=6A86F73E)
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hUom7YTkYKMQ7kNvwHrtqIC&_nc_oc=Adrv__tes5L9wVSnB8QXvG6u_HqWaG7tJj6eCeYbmSugieG6JqWRZeyPzRnlWCjbFMY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=YKuIx2GH5rH9D4-7m_wcvw&_nc_ss=7a22e&oh=00_AQEMv4eLuapF6QmGxBXKI0J2fgW8A9W5-DWWNM0SxKnsLQ&oe=6A8848BE)
 
-![Image 4](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wJNzYDj7oEcQ7kNvwFwyIcr&_nc_oc=Adpi
+![Image 4](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=wJNzYDj7oEcQ7kNvwGi0yY1&_nc_oc=Adou
 ```

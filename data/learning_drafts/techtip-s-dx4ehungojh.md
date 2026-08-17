@@ -4,12 +4,13 @@ source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-16T02:08:24+00:00"
+generated_at: "2026-08-17T02:05:35+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -63,31 +64,8 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQPqC0n5Zl_yNBI0jexWcQvql3MlpYs926kh7FVvLJ1XFQBg0DL-ZZG-ynwj2qOC28i7CgF6Qd3RQWysSa6e5cQEWxyx7XaZu7ujHzo.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=OZpQkcHPfHsQ7kNvwGU_DY7&
-- [![Image 6: bbliveupdaters's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357793441_775880140929990_7238097733961630730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
-- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/774052805_17986981158108023_2813412433804221805_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2NDM5MTcxODg4NDAxNTE5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/775667219_2172747110253178_1623494729786310884_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk2NDAxOTA1NDk4MjAxODc0OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: stonekettle's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/476170623_1017649930184994_6690447221365184400_n.jpg?stp=dst-j
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -100,53 +78,57 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: caitjenn's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640443902_18561724900058983_2018019060782199053_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=Xta1XuaC8wUQ7kNvwG6U9rc&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG6sr9nAyyZrdeAo2ycXwPqvZIldw5ahZplvkpB7WaelA&oe=6A86F4CD&_nc_sid=10d13b)](https://www.threads.com/@caitjenn)
+[
+- Donald Trump’s Republican Backed for Texas Senate, Ken Paxton tells his Republican cronies that he’s desperately struggling and that he needs help against Democrat James Talarico.🤣🤣🤣
+- [![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/774042813_17979669276117676_4630289291415003997_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2NDczMjkzNjMxODM5MTE3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/776163931_17984163207104579_4673039089174154361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2NTA0MzA5NzEzMDM2ODA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
-[caitjenn](https://www.threads.com/@caitjenn)
+## 抓取品質
 
-[Texas](https://www.threads.com/search?q=Texas&serp_type=tags&tag_id=18401065627005570)
+- content_quality: `strong`
+- keyword_hits: AI、RAG
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[8h](https://www.threads.com/@caitjenn/post/DcEe7RjHPra)
+## 原始抓取內容
 
-If Ken Paxton cared about affordability, he would have come out the gate with that. Instead, he started with "Talafreako is a vegan."
+```text
+Title: Threads • Log in
 
-526
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-16
+Markdown Content:
+[![Image 1: somatic_witch_julia's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774401145_18084807611306133_6625951010778592568_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=Yk8cjscdR-IQ7kNvwEaRAXV&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHzSLF2-HxRsGzZVpSf9OsE5pXENJY1MjPFmLrtA-YIBw&oe=6A882A38&_nc_sid=10d13b)](https://www.threads.com/@somatic_witch_julia)
 
-32
+Girls, I went down this rabbit hole on the topic of endometriosis/adenomyosis and physical exercise. Reporting the first interesting find ⬇️￼
 
-[![Image 2: nancyyybee's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/369233094_971841234079484_2780801748994377113_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=9Hgrn0A_fgEQ7kNvwGyVkA8&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHzd1KeFyqkaazKIFPy8qsccE4KaW_ses8umtoPrJb9bg&oe=6A8708D9&_nc_sid=10d13b)](https://www.threads.com/@nancyyybee)
+The main theory explaining the etiology of these conditions is 🔺Tissue Injury and Repair (TIAR) theory and autotraumatization 🔺
 
-[nancyyybee](https://www.threads.com/@nancyyybee)
+The stages:
 
-[21h](https://www.threads.com/@nancyyybee/post/DcDCmG_G3he)
-
-Solo movie date 🍿✨ Romancing my own life, one little date at a time. 🤍
-
-85
+44
 
 8
 
-4
-
 1
-
-[![Image 3: wbb.user's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/754554883_18172600564394789_3919021552312017999_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHLIyaO9VMWLOPRg-J0pmp6ViO_MIhcJIzkKcXNMBoQY-lE5TkU5G2SRbvbBMihFjM&_nc_ohc=mlXGgTTktJ8Q7kNvwH_5rVn&_nc_gid=F224ZvOBIr0f7e2wIKrLDA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEvORolsDOIpwz0_P88yuB_tVi3wdx--jdfzG6VLIb0ag&oe=6A86F33E&_nc_sid=10d13b)](https://www.threads.com/@wbb.user)
-
-[wbb.user](https://www.threads.com/@wbb.user)
-
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
-
-[17h](https://www.threads.com/@wbb.user/post/DcDbjJ8DpNJ)
-
-Jokes over. It’s been long enough, bring back Fudd around and Find Out please. Give me season 2. Give me something please
-
-299
 
 6
 
-10
+[![Image 2: ronanjen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/751591460_17887777086664632_4496214460389077481_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=BL8Zvf9ffv8Q7kNvwFdmdlM&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEgYTTl70PTu2m0GzMEo5pvyREU-KbJYB5NcviPqpcStw&oe=6A8823BE&_nc_sid=10d13b)](https://www.threads.com/@ronanjen)
 
-[![Image 4: lessyoulie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/455604722_845246087566129_3529317962147061123_n.jpg?stp=dst-jpg_s150x150_tt6&efg
+Just another day of me trying and failing to get anything done....
+
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/776714845_17893889298664632_5201773844040933990_n.webp?_nc_cat=104&ig_cache_key=Mzk2NTE1Mjg0MzU0MzY1MTU0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQ4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=atkfNzhC-D4Q7kNvwFOqDqi&_nc_oc=Adp0XycVKFaL_rHOxX9hy8LQnx-7Z5_t5O4dekSjsF9uTiNHcSx6knnRNG0dQClMwL8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&_nc_ss=7a22e&oh=00_AQFAtqxVOxj0pG3kqKbDngtEJKA_E9680zFhMX6k2rJsHw&oe=6A882E5E)](https://www.threads.com/@ronanjen/post/DcHDYC_jKTb/media)
+
+1K
+
+21
+
+36
+
+35
+
+[![Image 4: shuahj's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448166968_1481282986116830_7189292693871067902_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=O2j1vnLtQgsQ7kNvwGOxn2z&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEd3O2qnocJNAxyT2KA4Uquw5I0_itJ-zN-TxTUJI-G6Q&oe=6A8854D4&_nc_sid=10d13b)](https://www.threads.com/@shuahj)
+
+Helaena being the only one of her siblings that hasn’t used her dragon in battle, yet she had the most powerful dracarys is so ironic. Her’s sounded heavy, ancient, and haunting in t
 ```
