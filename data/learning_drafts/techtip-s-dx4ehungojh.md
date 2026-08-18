@@ -1,25 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：You’re across the pond playing. Don’t make"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-17T02:05:35+00:00"
+generated_at: "2026-08-18T01:59:57+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：You’re across the pond playing. Don’t make
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+You’re across the pond playing. Don’t make me come to London and pick you up!
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+Make
 
 ## 原始工作流拆解
 
@@ -61,12 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: stonekettle's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/476170623_1017649930184994_6690447221365184400_n.jpg?stp=dst-j
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -79,14 +73,20 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- Donald Trump’s Republican Backed for Texas Senate, Ken Paxton tells his Republican cronies that he’s desperately struggling and that he needs help against Democrat James Talarico.🤣🤣🤣
-- [![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/774042813_17979669276117676_4630289291415003997_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2NDczMjkzNjMxODM5MTE3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/776163931_17984163207104579_4673039089174154361_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2NTA0MzA5NzEzMDM2ODA3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: natewunderman's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/479493047_1342269076894985_1561967767362691556_n.jpg?stp=dst
+- Everytime I watch ep 6 Ialways have to laugh because Shane says “later okay” while fully alllwing Ilya and then sits on the top of the sofa with his legs open? LIKE SIR PLEASE AGAIN YOU ARE TRICKING NO ONE👏🏻👏🏻👏🏻
+- fondly remembering that time han said “oh shit” while live with hyunjin as they were scooping out bits of a watermelon during tour last year
+- [![Image 16: onceuponabookishmom's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/703587329_17946302610191714_9141782370753889316_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=sco
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,37 +98,35 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: somatic_witch_julia's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774401145_18084807611306133_6625951010778592568_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=Yk8cjscdR-IQ7kNvwEaRAXV&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHzSLF2-HxRsGzZVpSf9OsE5pXENJY1MjPFmLrtA-YIBw&oe=6A882A38&_nc_sid=10d13b)](https://www.threads.com/@somatic_witch_julia)
+[![Image 1: raeshanda_lias's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464188385_1705447886897540_3658098647220041200_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEPwe-gy8tRWlLi8yRRM00tN7hRWXReS7qbFjGB25lyF6Z08WkX29Y_M8TNuUliDYg&_nc_ohc=z4L54hJC55EQ7kNvwHcMkni&_nc_gid=a7AwqZFDhpllFy1sIZWstw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEgzApu7DAf8omDj_VdKmchhaH8zR_ZJ0iRvJGUBQW8Ow&oe=6A8976D2&_nc_sid=10d13b)](https://www.threads.com/@raeshanda_lias)
 
-Girls, I went down this rabbit hole on the topic of endometriosis/adenomyosis and physical exercise. Reporting the first interesting find ⬇️￼
+Elizabeth! This is why I hang up on you! You’re across the pond playing. Don’t make me come to London and pick you up!
 
-The main theory explaining the etiology of these conditions is 🔺Tissue Injury and Repair (TIAR) theory and autotraumatization 🔺
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/778226416_17981904867098884_6901955825339136328_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk2NTg0MTY0MDQwMTk1MjAxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=hE17b1j9LhEQ7kNvwGtVz98&_nc_oc=AdppEdqWJUnftDKkJ-nAyDnIq7yJSew1f8-kjolgVW078S0BbCzkp47bqqUc7fpRq2k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=a7AwqZFDhpllFy1sIZWstw&_nc_ss=7a22e&oh=00_AQE5aZKc-gP5xfxgWP7cTwQY_qJCTFMbfISx39GEEygF2g&oe=6A89921E)](https://www.threads.com/@raeshanda_lias/post/DcJf_XDnF0P/media)
 
-The stages:
+561
 
-44
+12
 
-8
+3
 
 1
 
+[![Image 3: lauraegocheaga's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/482063010_1355458055503489_7181075508902382264_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEPwe-gy8tRWlLi8yRRM00tN7hRWXReS7qbFjGB25lyF6Z08WkX29Y_M8TNuUliDYg&_nc_ohc=nOMPP6n87AMQ7kNvwGzVJBI&_nc_gid=a7AwqZFDhpllFy1sIZWstw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGiiZXTgAH-rP0me7cDFbxMq5-2vs1_ffaT3UAfX8RPrg&oe=6A899508&_nc_sid=10d13b)](https://www.threads.com/@lauraegocheaga)
+
+BREAKING: 64% of young men day trading stocks feel like failures, per YF
+
 6
 
-[![Image 2: ronanjen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/751591460_17887777086664632_4496214460389077481_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=BL8Zvf9ffv8Q7kNvwFdmdlM&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEgYTTl70PTu2m0GzMEo5pvyREU-KbJYB5NcviPqpcStw&oe=6A8823BE&_nc_sid=10d13b)](https://www.threads.com/@ronanjen)
+[![Image 4: sophie_luminara's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/559638970_17924395653114964_1167477223888314778_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEPwe-gy8tRWlLi8yRRM00tN7hRWXReS7qbFjGB25lyF6Z08WkX29Y_M8TNuUliDYg&_nc_ohc=RuxWtreebWUQ7kNvwH1hglO&_nc_gid=a7AwqZFDhpllFy1sIZWstw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHw7UjKG-98KSxb8-UaM0L1c9GTK4JutCTrOi6iBcv8-g&oe=6A89AA40&_nc_sid=10d13b)](https://www.threads.com/@sophie_luminara)
 
-Just another day of me trying and failing to get anything done....
+Men - please read this 🙏 On Saturday night something happened to me that is important to talk about, for both men and women to understand.
 
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/776714845_17893889298664632_5201773844040933990_n.webp?_nc_cat=104&ig_cache_key=Mzk2NTE1Mjg0MzU0MzY1MTU0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQ4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=atkfNzhC-D4Q7kNvwFOqDqi&_nc_oc=Adp0XycVKFaL_rHOxX9hy8LQnx-7Z5_t5O4dekSjsF9uTiNHcSx6knnRNG0dQClMwL8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&_nc_ss=7a22e&oh=00_AQFAtqxVOxj0pG3kqKbDngtEJKA_E9680zFhMX6k2rJsHw&oe=6A882E5E)](https://www.threads.com/@ronanjen/post/DcHDYC_jKTb/media)
+I went out clubbing with 3 female friends.
 
-1K
+Whilst we were out a man* decided to befriend our group.
 
-21
+He decided it was OK to touch us (non-sexually) repeatedly.
 
-36
-
-35
-
-[![Image 4: shuahj's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448166968_1481282986116830_7189292693871067902_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gElY6IUF4uKegAGEG9Nh9Z9uB6ZUAdu6Kji40BC-ZoPf58QNdGx-iUVe9-uS_d-sMU&_nc_ohc=O2j1vnLtQgsQ7kNvwGOxn2z&_nc_gid=H1e9J_wMS9VddrV7Pt0ocg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEd3O2qnocJNAxyT2KA4Uquw5I0_itJ-zN-TxTUJI-G6Q&oe=6A8854D4&_nc_sid=10d13b)](https://www.threads.com/@shuahj)
-
-Helaena being the only one of her siblings that hasn’t used her dragon in battle, yet she had the most powerful dracarys is so ironic. Her’s sounded heavy, ancient, and haunting in t
+I didn't w
 ```

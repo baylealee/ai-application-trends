@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.101
-generated_at: "2026-08-17T02:05:35+00:00"
+generated_at: "2026-08-18T01:59:57+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -70,6 +70,7 @@ Markdown Content:
 [](http://www.threads.com/search)
 
 # [Thread 21.1K vi
+- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
 
 ## 抓取品質
 
@@ -94,7 +95,7 @@ Markdown Content:
 
 # [Thread 21.1K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHwWE19wBYr1UKD4WDQq_bRrtL8IPCvaBvKY-_NkDtH0yubll_O1nFNHZppsH1xUYQ&_nc_ohc=HvK2NlkeNRYQ7kNvwGao6IM&_nc_gid=Pub--vM2QiDBb0QcrWmjpA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF1SLsU_QUtJxPCDXc8FQ1LFPLShlB4NCbfvMJ1qvWGBA&oe=6A885730&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHjvcUSAz40QEvDaL1fXXwZBFc3Vd_uWaK3XI6pwwmB40Mf0inAg3RjwBCgiQd1xC4&_nc_ohc=HvK2NlkeNRYQ7kNvwHDkWdn&_nc_gid=klefhMqLxnsuOPSOdVVE9Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE6lCDuX_SJnf8EWM5Nh5uQQ-NCKHr_89KJFy52GZ4oQA&oe=6A89A8B0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -120,7 +121,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SU1sTAgg7YMQ7kNvwFE9y3T&_nc_oc=Adpru6_LmyiugaGhYsr0dp-ZeWsoDddUwsRlvtwe-sejY2oFG-vRQiQf83u0M5fWkx0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Pub--vM2QiDBb0QcrWmjpA&_nc_ss=7a22e&oh=00_AQEDHiyhmCj8WOfJ_-GvPj_J4e7bhz5bh8RCOf7eYOnFUQ&oe=6A883F48)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SU1sTAgg7YMQ7kNvwFQ9k6A&_nc_oc=AdrrSyoj1iZMLE85hDwXP0iwVzJNVZDsNkmeI4nM7RA3ZFSX8_1qKM4x4k7KlQ1Zdsk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=klefhMqLxnsuOPSOdVVE9Q&_nc_ss=7a22e&oh=00_AQF_xZYOPS_OUko81Bxp9h6LtklOKULBU3fJ3nwaBHeNDg&oe=6A8990C8)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 437
 
@@ -128,7 +129,7 @@ Translate
 
 57
 
-374
+376
 
 Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 

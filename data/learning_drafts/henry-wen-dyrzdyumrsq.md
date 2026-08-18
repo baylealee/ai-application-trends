@@ -9,8 +9,8 @@ tools:
   - "Manus"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.1315
-generated_at: "2026-08-17T02:05:35+00:00"
+zh_ratio: 0.0986
+generated_at: "2026-08-18T01:59:57+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -61,16 +61,26 @@ reply_summary_status: `partial`
 
 - Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
 
+URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_179761797001096
+- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
+- Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc
+- Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、自動化、工具
-- zh_ratio: `0.1315`
+- keyword_hits: AI、自動化、工具、CLI
+- zh_ratio: `0.0986`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -81,7 +91,21 @@ Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHTiOyLgqIroW7LnBfU9SX35NLuoC5VHWyidnadso_idHBkHSQq-h4L6XENlhFFz08&_nc_ohc=l0hclLjB6CQQ7kNvwGmxJBh&_nc_gid=DVLTZ4dXMbz-5pJTp-70Iw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFxqsncQ1kEpzRztso3yyrWfHPLC54A65I8LnezqfA_Aw&oe=6A8856FA&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 701 views](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
+
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFYmgOzkWgWckV9mSapb79dNWG5Q2yZX8mRhXyFSeQoYZCgau2FeeiVLRfzpDgRJfw&_nc_ohc=IpIgweY-YMcQ7kNvwEVhbc1&_nc_gid=wZ1H5MjqGZ1Yr8mtGyLkFA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE83kGlU0lMnCZh6OfVzU_yLE1_mKyB5kjvGZfZkZejBw&oe=6A89A87A&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
+
+[henry.wen](https://www.threads.com/@henry.wen)
+
+[自媒體](https://www.threads.com/search?q=%E8%87%AA%E5%AA%92%E9%AB%94&serp_type=tags&tag_id=18406776172026488)
+
+[05/23/26](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
 Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 
@@ -89,7 +113,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=tO9aJ_cbBzwQ7kNvwGDorGr&_nc_oc=Adp9wTLSGRaEme4RUIe6Qql3aDUon_Jf2pA3SfhmDtUYBOCPhQVwtVqw_pI_GBIU3BI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=DVLTZ4dXMbz-5pJTp-70Iw&_nc_ss=7a22e&oh=00_AQEynWCsdQVEPTMlmRuievFn-V-N1IL-owcLJ_Cw_RkhsA&oe=6A884E7D)
+![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=tO9aJ_cbBzwQ7kNvwEi8wKb&_nc_oc=AdrCVtouQ7OTOgl6nCWBsfQ2ZImIzqPtPGZCiN2VZrnxJfTYdGMJWeCSCNRtZPrUiiI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=wZ1H5MjqGZ1Yr8mtGyLkFA&_nc_ss=7a22e&oh=00_AQGT-SYTDutY779RZ0bWZyOzhys4XSQtOZH2MfdYttr_-w&oe=6A899FFD)
+
+Sorry, we're having trouble playing this video.
+
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUClIg4w0ktZPhh_X-gmt-XvdmRuUorPtTOKQIL6ONSKiNkvCp6T_GtuEP4cXg73eNHfHZ6DyeqbCImdpjIbl88LpUX4t4f0sl08KkWj7dqkC2h0SK0)
 
 henry.wen
 
@@ -99,7 +127,11 @@ henry.wen
 
 6
 
-[![Image 3: nosugar_greentea's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/475419101_1265686281204645_8640505078638726828_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHTiOyLgqIroW7LnBfU9SX35NLuoC5VHWyidnadso_idHBkHSQq-h4L6XENlhFFz08&_nc_ohc=aIDddIqnb8EQ7kNvwHF9SUP&_nc_gid=DVLTZ4dXMbz-5pJTp-70Iw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQE-YRiNq8k1jDDu5FeRa9-xPDXtiRg9_ucB-fHAQv1NzQ&oe=6A883E92&_nc_sid=10d13b)](https://www.threads.com/@nosugar_greentea)
+[![Image 3: nosugar_greentea's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/475419101_1265686281204645_8640505078638726828_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFYmgOzkWgWckV9mSapb79dNWG5Q2yZX8mRhXyFSeQoYZCgau2FeeiVLRfzpDgRJfw&_nc_ohc=aIDddIqnb8EQ7kNvwGNw5ym&_nc_gid=wZ1H5MjqGZ1Yr8mtGyLkFA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFaArPt0rErFgrkaiCPqS0Vsc3rEcb2mkDzqEkONbqoeA&oe=6A899012&_nc_sid=10d13b)](https://www.threads.com/@nosugar_greentea)
+
+[nosugar_greentea](https://www.threads.com/@nosugar_greentea)
+
+[05/24/26](https://www.threads.com/@nosugar_greentea/post/DYuiLKlmNwL)
 
 Manus AI的知識變現分析，這不就是我現在在做的事嗎
 
@@ -107,25 +139,5 @@ Translate
 
 Related threads
 
-[![Image 4: yan88962023's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/759299090_17978258631119690_3228682288963871885_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gE4KnIr0AguBFXNuWVOLOpD86XPxypxYF2ePdXLXv9DCnYNFOJKRHXKu3z9nhk5xB0&_nc_ohc=QMypAVIhWFgQ7kNvwGoZ1tL&_nc_gid=DVLTZ4dXMbz-5pJTp-70Iw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHTS0VI8SHt1SamcvIJDmoadwMBh11DrC7NEQarZbRrAA&oe=6A884FDA&_nc_sid=10d13b)](https://www.threads.com/@yan88962023)
-
-短影音時代，Meta、TikTok都是重要的流量戰場。
-
-平台提供的是「被看見的機會」，AI則協助你提高內容產出的效率。
-
-但真正拉開差距的，還是自己的判斷。
-
-平台給分發，AI提效率，自己定方向。
-
-把三者結合起來，你不只是一直發內容，而是在建立一套可以持續運作的內容經營模式。
-
-工具人人都有，真正的差距在於你怎麼用。
-
-這也是我從總監分享的觀點裡，延伸解讀出來的一個很值得現在自媒體經營者思考的話題。
-
-Translate
-
-3
-
-[![Image 5: aicuttools's profile picture](https://
+[![Image 4: yan88962023's profile picture](https://s
 ```
