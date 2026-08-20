@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-19T02:02:50+00:00"
+generated_at: "2026-08-20T02:01:27+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -63,24 +63,17 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: tunnelfitspodcast's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/635074168_17930214780191303_2168169736162663142_n.jpg
+[![Image 1: chemistry.hunny510's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361583815_286033427310714_2428856464943871262_n.jpg?s
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-- One day I will make a post without an autocorrect error that I don’t clock until AFTER the window to edit has closed. But today is not that day. So can we all just agree that “minute you over” means “tide you over”? Ok thanks bye 🥴
-- [Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBESfFhHfV4Sh4736mqTA4d1aSB5dOpREZEr8t-GsFnEeOUrajn18m-Yw9XDhaZzO1QTmVjTunaIEhT_78-cQH0pbPO7f5A6jkLfzjL9IHDxcO3V60)
+[![Image 1: scaredbutbraveloon's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/778869973_18139544191537779_7364774178386597152_n.j
 - Markdown Content:
-[![Image 1: tunnelfitspodcast's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/635074168_17930214780191303_2168169736162663142_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTkuYzIifQ&_n
+[![Image 1: scaredbutbraveloon's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/778869973_18139544191537779_7364774178386597152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/778625503_18139845808537779_1677262627033115252_n.webp?_nc_cat=103&ig_cache_key=Mzk2NzM0MTA5NTgzNDk5Nzk2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI
+- [![Image 9: seanbartleymusic's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/476550956_600421082761559_5272564586968163268_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninsta
 
 ## 抓取品質
 
@@ -97,37 +90,33 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: mrclarkafella's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/525838068_17920429095102956_452602843521074731_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGDIS_MJwG-0B2NLd1tDGpDafHistcqQy4ehYJTwSaTC7jIJmxIqjI11j4z1TcHJCM&_nc_ohc=T3xlzKI6ZSoQ7kNvwGWFgHD&_nc_gid=iZy1QUEq_P5mwMMKUvFrJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHIi8zVyZG9mYQJCjQP5lvbTnwCGTJ93Dn6XV_Jf2x1XA&oe=6A8AF1C2&_nc_sid=10d13b)](https://www.threads.com/@mrclarkafella)
+[![Image 1: mattjlangley's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/772974041_17977580142115164_599203195412975040_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=7dC7j9Bxy8EQ7kNvwFayD9M&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEOK5wXfsPkA9eRM5zp83vig31CgFRze5rzNNozg2Bhaw&oe=6A8C21BB&_nc_sid=10d13b)](https://www.threads.com/@mattjlangley)
 
-Nobody: Me every 5 minutes this morning:
+Shane was picking out the best produce in the grocery store when an elderly lady collapsed in the produce section. Shane immediately took action. He checked her vitals. No pulse. No respirations. He told a nearby employee to call 911 while he performed chest compressions. After about 3 minutes he was getting very tired when a very attractive man kneeled across from him and said in a thick Russian accent “I’ll take over until help arrives.” Shane sat back on his heels and recovered.
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/775524290_1396215305197060_2826752257571914759_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2NjQ3NzQ2MjE5MjEzNzcxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=zw8TrbIo6CkQ7kNvwGMzByf&_nc_oc=AdqsFKTGq7jN7FKTaqoPSVvR6a2Bo6KsnxA8dZxk4lrQcSGOnluBW4koYQdH2PMAX9w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iZy1QUEq_P5mwMMKUvFrJQ&_nc_ss=7a22e&oh=00_AQGJOeCfejEfaEpJ-AdWu7T6IoV2fEvXVHpncmp7i7htMQ&oe=6A8AE04C)
+434
 
-511
+43
 
-30
+4
 
-51
+6
 
-44
+[![Image 2: whor_naments's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753381665_17930563542356887_6899560966535963705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=8A5TVS4I77AQ7kNvwH9jIyk&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGZqwR33JiNbntSujdr4JXdOprP_4aCwC5xze1_lQvWdw&oe=6A8C3E38&_nc_sid=10d13b)](https://www.threads.com/@whor_naments)
 
-[![Image 3: zama.selai's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749231998_18097040198075269_8521833027840937686_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzEifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGDIS_MJwG-0B2NLd1tDGpDafHistcqQy4ehYJTwSaTC7jIJmxIqjI11j4z1TcHJCM&_nc_ohc=5zO0D2AYHVsQ7kNvwHwED87&_nc_gid=iZy1QUEq_P5mwMMKUvFrJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGlvcCgM2B9C1bepq1Bz-i00XANxL610Rm1S1a-aW754A&oe=6A8AD6F6&_nc_sid=10d13b)](https://www.threads.com/@zama.selai)
+The face my husband gives me when I tell him my phone is already dying.
 
-This UConn documentary is going to feed the entire GALAXY, it needs me to watch it in one sitting, lights off and a box of tissue. 🥹🥹🥹
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/778586877_1942940736374955_5648163524350574955_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2NzI0MzE4NTEyNjcxNjc1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=lHAHWY-hTAoQ7kNvwE4QP-n&_nc_oc=Adp0p87luWsr0d0uwwgYvORxxm7x7eJ7S1N2ggZXbsIe-_SzqR9g-QDgCh2ezSKPNzU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&_nc_ss=7a22e&oh=00_AQHdWXsmVLze6ZeedxD9B6Oz6PG2HbOrUfTvg3Ae0Ccuiw&oe=6A8C3702)
 
-507
+495
 
-21
-
-11
+3
 
 1
 
-[![Image 4: thenikeviki's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/778485903_17983243050102462_3842787873842836706_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGDIS_MJwG-0B2NLd1tDGpDafHistcqQy4ehYJTwSaTC7jIJmxIqjI11j4z1TcHJCM&_nc_ohc=HCBNCH_i7vgQ7kNvwH1ZgcR&_nc_gid=iZy1QUEq_P5mwMMKUvFrJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGcyTey7xM-faadolxeYCJ2KGq_k9oem2qmD6Wxxj5KhA&oe=6A8AEBF6&_nc_sid=10d13b)](https://www.threads.com/@thenikeviki)
+1
 
-Olandria is actually so funny for this. We see you, cousin. We see you and your man and we know. 😭
+[![Image 4: abc7la's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/625869362_17940459909115471_1226924973653237355_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=aJJs6Y67zYEQ7kNvwE2dJVV&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEEwZvvDz2myCLp0dVdkPN_3ZIm3s1agFrw-n0PCnx-VQ&oe=6A8C23A9&_nc_sid=10d13b)](https://www.threads.com/@abc7la)
 
-🎀🎧💖🎧🎀
-
-![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/777593196_1585222233111352_219217590928782910_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk2NjU0ODY0NDI2MjQyODUxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueH
+A searc
 ```

@@ -4,14 +4,18 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "Claude"
+  - "GPT"
+  - "RAG"
   - "Notion"
+  - "Slack"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.101
-generated_at: "2026-08-19T02:02:50+00:00"
+zh_ratio: 0.0362
+generated_at: "2026-08-20T02:01:27+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -28,11 +32,15 @@ generated_at: "2026-08-19T02:02:50+00:00"
 
 ## 使用工具
 
-Notion、GitHub
+Claude、GPT、RAG、Notion、Slack、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
+2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
+3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續 Translate](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
+4. Project 本身其實就只是把你寫的 Issue 抓過來整理而已，所以本質上還是看寫 Issue 的人怎麼寫需求～
+5. Project 我只是用來統計做了多少事😂 反正issue 很快做完, 還排程幹嘛😂
 
 ## 可以直接複製的做法
 
@@ -69,14 +77,13 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 21.1K vi
-- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
+# [Thread 21.2K vi
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、流程、工具、Notion、GitHub
-- zh_ratio: `0.101`
+- keyword_hits: AI、Claude、GPT、RAG、Agent、agent、自動化、流程、工具、整理、生成、設計、Slack、Notion、GitHub、CLI、workflow
+- zh_ratio: `0.0362`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -93,15 +100,15 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 21.1K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 21.2K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFzwxHBl2Fhb-w8tEUuUk6LzDHIjTpEK53R_ACoYNmv4bg9ZA3rBWQFjp8KD7bDMLM&_nc_ohc=Nw_6MBhSwrAQ7kNvwGXvk7J&_nc_gid=FBGVATgiN60l_tE-Ns6Ckw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHfxZ0QPW9N2MT5prCLYA-EhLEaNXi3EejVhNxsujj8MA&oe=6A8AFA30&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG_bXpJ90b9jyYPROepU8wRqksjrhaTMyzA3fbsTozJo-63jZBUr7W3z2xwtBl-Ncc&_nc_ohc=Nw_6MBhSwrAQ7kNvwFfR1tv&_nc_gid=fnJp8iNOA6YybYiers3SZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHTu1x4eidCPH-ClUoKrrGH06nWiaAI2sBqQfJubNN2Jg&oe=6A8C4BB0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
 [PM日常](https://www.threads.com/search?q=PM%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
 
-[06/01/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
 以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
 
@@ -121,7 +128,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=SU1sTAgg7YMQ7kNvwGfied5&_nc_oc=AdrMYHRdHMUsmplFuDFsc_UgL8GOyHJQ6wtM0AH02tW-00Ods2PG8QZwhyetrLWZSqA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=FBGVATgiN60l_tE-Ns6Ckw&_nc_ss=7a22e&oh=00_AQFfxS_Vziha0M_qBP35O9keeAf-8DdNi5_GfpKGF_qyow&oe=6A8AE248)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DgHfbpv9dBgQ7kNvwF8qrFP&_nc_oc=AdpNvujHc4XMDnTGZEQJK-7hDPUZQyh3a0U9P0O4CgzON9Qqq70t7z-lSCIjCXBNX08&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=fnJp8iNOA6YybYiers3SZQ&_nc_ss=7a22e&oh=00_AQFz9ER2Z3pGgzf4IddY5ogYE22dQRj0hsTlYfU8A1xzrg&oe=6A8C33C8)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 439
 
@@ -131,11 +138,9 @@ Translate
 
 376
 
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+Pinned
 
-* © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
+[![Image 3: pmenance.manager's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG_bXpJ90b9jyYPROepU8wRqksjrhaTMyzA3fbsTozJo-63jZBUr7W3z2xwtBl-Ncc&_nc_ohc=Nw_6MBhSwrAQ7kNvwFfR1tv&_nc_gid=fnJp8iNOA6YybYiers3SZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHTu1x4eidCPH-ClUoKrrGH06nWiaAI2sBqQfJubNN2Jg&oe=6A8C4BB0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+
+[pmenance.manager](https://www.threads.com/@pmenanc
 ```
