@@ -10,7 +10,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0198
-generated_at: "2026-08-20T02:01:27+00:00"
+generated_at: "2026-08-21T02:10:22+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -62,7 +62,7 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
@@ -83,7 +83,7 @@ Title: 傑洛 Zero Cho (@itszero) on Threads
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHKlKQPkqOtyC2EntG46bhN9xyTu42Q3vmjjvWh6x9rF0v7IzaWKOwQgM-UuM-w9V0&_nc_ohc=6BVjZEjVBDAQ7kNvwGPX8V0&_nc_gid=h10V4PWHg1E1NeQ7gcSwbA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEztd6EQk7P-d1411RkdAn_gbQNuU9fN30tqrGRx6uKMg&oe=6A8C34CB&_nc_sid=10d13b)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHZ7kx6jzyeZo3oss-F9Wo41Sj4WmNme0eRnnacSIxsXy90vNRoxgUppxShY4dux6g&_nc_ohc=6BVjZEjVBDAQ7kNvwFHeTlF&_nc_gid=ppKpqgYavvVJdD9JibmrvA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHhOMa5PsuvHrzeo0K7FrjJGwkqLQf-mmE-yNLhDOJIEw&oe=6A8D864B&_nc_sid=10d13b)](https://www.threads.com/@itszero)
 
 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 

@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-20T02:01:27+00:00"
+generated_at: "2026-08-21T02:10:22+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -63,7 +63,16 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: adamschefter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832733_187865147331651_6878775976036134737_n.jpg?stp=dst-j
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Ima
+- [![Image 2: Man arrested for allegedly shooting, stealing Flock cameras from Louisville park](https://external.xx.fbcdn.net/emg1/v/t13/8781669622315997455?stp=dst-src&url=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fwdrb.com%2Fcontent%2Ftncms%2Fassets%
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -78,9 +87,8 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/780648648_17979755643099128_135986362497279933_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk2NzE1MjAyNDAzNDgwNzY2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- [![Image 5: queenmvh's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/589161520_17915991426237574_1163543714517065392_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram
-- I was married for 18 years. I have also dated a lot. I can confirm that living as a single woman in your little hobbit hole of a house eating cake and tea, reading all your little books, doing your skincare, wearing whatever you want, never having to ask permi
+- Trying to get an understanding of what games/if any the ![Image 14](https://cdn.fbsbx.com/v/t65.23080-21/686121778_1451470232961419_3394142314593975484_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQFbmvJ_xblq9_W6lnWuP1TPmr5PXRniT6fczZ16SYP5XQ&oe=6
+- ![Image 16](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/779527765_1559533935550429_5099516693521548520_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk2Nzk5NjIyMjQ5ODUzMjc1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
 
 ## 抓取品質
 
@@ -97,43 +105,41 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: sticksbstones's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/658405479_17951826117118889_283426343412911539_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFZy_PnwO84jHQoog7bOpl1pANadP129fOoSyL-LPINS3hnpRpLfzV72cHcL0ARlL0&_nc_ohc=xdT7cypfg2AQ7kNvwGAGTVx&_nc_gid=uaJSvXdWE_TqUqZ938legA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEXRyRtkSbOwAk6L1sT4kNR8HBUS8675TEgNvshvqiDeQ&oe=6A8C408D&_nc_sid=10d13b)](https://www.threads.com/@sticksbstones)
+[![Image 1: therollingexplorer's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/387672411_696559489039632_8705761261393693320_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=1P8N1YBX0NAQ7kNvwHezcrg&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHDUTjAfsb4F-GvueUsNfi2lspeHGuPvY2mkYE7hw-IaQ&oe=6A8D7CF9&_nc_sid=10d13b)](https://www.threads.com/@therollingexplorer)
 
-[sticksbstones](https://www.threads.com/@sticksbstones)
+15 hours in, they’ve started me on some fluids and eventually will add some antibiotics. They’re hoping I could have my surgery as early as noon today.
 
-[12h](https://www.threads.com/@sticksbstones/post/DcOVSmOFR_K)
+I’m feeling anxious about the procedure and potential lifestyle changes from having no gallbladder. For those that have lost one, can you still enjoy your favorite foods? Wine? Coffee?
 
-Confession. I definitely have a favorite Stud bud. Personality is A+.
+215
 
-615
+89
 
-14
+1
 
-7
+1
 
-3
+[![Image 2: _bribeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/636785644_17944811988108501_4850430801751770087_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=et2uxLRTUCYQ7kNvwGclS0b&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFpj7rJ8Ubwdy1UItP7pyvIlwjqEpANA1XGb8dMzov_rA&oe=6A8D8255&_nc_sid=10d13b)](https://www.threads.com/@_bribeee)
 
-[![Image 2: 1.reeen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/726837996_17967891534119333_5893285878186783896_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFZy_PnwO84jHQoog7bOpl1pANadP129fOoSyL-LPINS3hnpRpLfzV72cHcL0ARlL0&_nc_ohc=QhRxNmwfG5IQ7kNvwHfNrK9&_nc_gid=uaJSvXdWE_TqUqZ938legA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFXS-OzRsCbxm5U28t5F9HJp70lVEa3VhRwQSy6ma42lQ&oe=6A8C2207&_nc_sid=10d13b)](https://www.threads.com/@1.reeen)
+If I fly myself first class, I definitely expect a first class ticket from a man that’s flying me out ‼️
 
-[1.reeen](https://www.threads.com/@1.reeen)
+88
 
-[12h](https://www.threads.com/@1.reeen/post/DcOVDigFbGX)
+[![Image 3: stephruhle's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358418507_1452848045536045_3683086358625389042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=o3hTf1CCjXEQ7kNvwG2b9Xy&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQED-scOkJv5SzilD3RVFq_ieleQu2PfYz-5eNn4sA9XnQ&oe=6A8D9AEF&_nc_sid=10d13b)](https://www.threads.com/@stephruhle)
 
-Someone walked past me and said, “Philly is nothing like New York. Everyone here has an attitude.
+We DON’T trade with Iran. But China does.
 
-55
+509
 
-33
+11
 
-[![Image 3: onyx.gemm's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756525053_17875096959686128_185009707046501465_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFZy_PnwO84jHQoog7bOpl1pANadP129fOoSyL-LPINS3hnpRpLfzV72cHcL0ARlL0&_nc_ohc=WZodn8mn44QQ7kNvwEfq15X&_nc_gid=uaJSvXdWE_TqUqZ938legA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHIcVRrmqVEnHEujhyf5uMVao9tTCOEERTg0oB3rloQFw&oe=6A8C3E9E&_nc_sid=10d13b)](https://www.threads.com/@onyx.gemm)
+28
 
-[onyx.gemm](https://www.threads.com/@onyx.gemm)
+18
 
-[Hudson Williams](https://www.threads.com/search?q=Hudson%20Williams&serp_type=tags&tag_id=18332103175081238)
+[![Image 4: suegrigoryan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/616613489_17937340533113978_5164970771132986862_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=3ny4SvudnnoQ7kNvwGqVRWS&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFYqOJf1SXHb1uhVnDOx-EWXn1ILgfZfqKpOULtotPIAg&oe=6A8D9D70&_nc_sid=10d13b)](https://www.threads.com/@suegrigoryan)
 
-[5h](https://www.threads.com/@onyx.gemm/post/DcPAfHtkXEQ)
+Amanda Anisimova lost against Pegula. She had 56 unforced errors 💀
 
-Poor guy had to suffer using the spoon, it's so sad 😔
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/778586885_4541478819429098_3006140819594550550_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk2NzM5MDI0NjMxNjg2ODcyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=GZ6gtPDxtrUQ7kNvwH_86Vz&_nc_oc=AdrV8ttQLuNingWmLsjYPET2c-m8XQisNaAVTvtAUtaSwZhA6zVo_jUEtd9lTVzS7fQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=
+![Image 5](https://scontent
 ```

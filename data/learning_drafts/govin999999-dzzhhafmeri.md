@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：u=https%3A%2F%2Fyoutu.be%2F9CNG0olmcpM%3Fs"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "mcp"
 tools:
+  - "MCP"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-20T02:01:27+00:00"
+generated_at: "2026-08-21T02:10:22+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：u=https%3A%2F%2Fyoutu.be%2F9CNG0olmcpM%3Fs
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+u=https%3A%2F%2Fyoutu.be%2F9CNG0olmcpM%3Fsi%3DpH33iTi_0ueqDfVR&e=AUAu1aZlHpRBainCQnmZrT9UCbGVvhnRkIGWw01coXemEV-p7z7RUcpr1QxR0CJn2SJZW5TIv__mEiOMxNUqipiQhAMULXVHxZzKTNMLPIV_g_QBHpU
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+MCP
 
 ## 原始工作流拆解
 
@@ -60,25 +61,25 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: chemistry.hunny510's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361583815_286033427310714_2428856464943871262_n.jpg?s
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: scaredbutbraveloon's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/778869973_18139544191537779_7364774178386597152_n.j
+[![Image 1: mattblively's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/736493833_17977716327107704_3392243834525797702_n.jpg?stp=
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: juuubles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/762867126_17928128826370718_4715744219137994126_n.jpg?stp=dst-
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/778486236_18614672203016671_2624727510998943897_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzk2ODE3MzMzOTg2MDYzNDA4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
 - Markdown Content:
-[![Image 1: scaredbutbraveloon's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/778869973_18139544191537779_7364774178386597152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/778625503_18139845808537779_1677262627033115252_n.webp?_nc_cat=103&ig_cache_key=Mzk2NzM0MTA5NTgzNDk5Nzk2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI
-- [![Image 9: seanbartleymusic's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/476550956_600421082761559_5272564586968163268_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninsta
+[![Image 1: mattblively's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/736493833_17977716327107704_3392243834525797702_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
+- *Shane walks into his closet wearing nothing but his towel after a shower to find it completely empty except for a pair of Reeboks. He opens every dresser drawer but finds nothing.* Shane: “ILYA!!! Where are my clothes?!!” *Shane goes looking for Ilya but find
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、MCP
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -90,33 +91,37 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: mattjlangley's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/772974041_17977580142115164_599203195412975040_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=7dC7j9Bxy8EQ7kNvwFayD9M&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEOK5wXfsPkA9eRM5zp83vig31CgFRze5rzNNozg2Bhaw&oe=6A8C21BB&_nc_sid=10d13b)](https://www.threads.com/@mattjlangley)
+[](https://www.threads.com/)
 
-Shane was picking out the best produce in the grocery store when an elderly lady collapsed in the produce section. Shane immediately took action. He checked her vitals. No pulse. No respirations. He told a nearby employee to call 911 while he performed chest compressions. After about 3 minutes he was getting very tired when a very attractive man kneeled across from him and said in a thick Russian accent “I’ll take over until help arrives.” Shane sat back on his heels and recovered.
+[](https://www.threads.com/)
 
-434
+[](https://www.threads.com/search)
 
-43
+# [Home](https://www.threads.com/?error=invalid_post)
 
-4
+[![Image 1: mattblively's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/736493833_17977716327107704_3392243834525797702_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENNwv0iuV1Ku6gpznLh8Zu8sCgbHT74cjLkVz4xP5jSSSYfzS6prD_cZsKzzC-d1s&_nc_ohc=-azlJ5iqZrkQ7kNvwE-ErAV&_nc_gid=NxHw0YAe5z8KcGZlM30o6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGK_UoMMaIqsrdWBOcTBf_5hczt_u9JEKIkbZ_hKjojhw&oe=6A8D9C2E&_nc_sid=10d13b)](https://www.threads.com/@mattblively)
 
-6
+[mattblively](https://www.threads.com/@mattblively)
 
-[![Image 2: whor_naments's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753381665_17930563542356887_6899560966535963705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=8A5TVS4I77AQ7kNvwH9jIyk&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGZqwR33JiNbntSujdr4JXdOprP_4aCwC5xze1_lQvWdw&oe=6A8C3E38&_nc_sid=10d13b)](https://www.threads.com/@whor_naments)
+[21h](https://www.threads.com/@mattblively/post/DcP4SpRFKKl)
 
-The face my husband gives me when I tell him my phone is already dying.
+Valkyries fall 77-66. The Lynx remain the only team they’ve not beaten.
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/778586877_1942940736374955_5648163524350574955_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk2NzI0MzE4NTEyNjcxNjc1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=lHAHWY-hTAoQ7kNvwE4QP-n&_nc_oc=Adp0p87luWsr0d0uwwgYvORxxm7x7eJ7S1N2ggZXbsIe-_SzqR9g-QDgCh2ezSKPNzU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&_nc_ss=7a22e&oh=00_AQHdWXsmVLze6ZeedxD9B6Oz6PG2HbOrUfTvg3Ae0Ccuiw&oe=6A8C3702)
+82
 
-495
-
-3
+8
 
 1
 
 1
 
-[![Image 4: abc7la's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/625869362_17940459909115471_1226924973653237355_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGtRB0uO5mCkTRNwzKLTC_JUVpGQLh2AeQBi8p_twkY1sDMaCXdtgrwMxJuSS3rwZo&_nc_ohc=aJJs6Y67zYEQ7kNvwE2dJVV&_nc_gid=I8BPyzzIkkJPEQ0k4Ypl-Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEEwZvvDz2myCLp0dVdkPN_3ZIm3s1agFrw-n0PCnx-VQ&oe=6A8C23A9&_nc_sid=10d13b)](https://www.threads.com/@abc7la)
+[![Image 2: people's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/438615043_1794446657707892_1978261738436338911_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gENNwv0iuV1Ku6gpznLh8Zu8sCgbHT74cjLkVz4xP5jSSSYfzS6prD_cZsKzzC-d1s&_nc_ohc=mtZJAGGNV0oQ7kNvwFs36dA&_nc_gid=NxHw0YAe5z8KcGZlM30o6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFxT56gzQEkLe7f7QkCm1BAk9RPgmmY4_lYYQgiO9s6cQ&oe=6A8D8B1E&_nc_sid=10d13b)](https://www.threads.com/@people)
 
-A searc
+[people](https://www.threads.com/@people)
+
+[5h](https://www.threads.com/@people/post/DcRq9kBFN37)
+
+Rosie O'Donnell has received an outpouring of support as she guest-hosts 'Jimmy Kimmel Live!'
+
+[![Image 3: Rosie O’Donnell Shares Supportive ‘Welcome Home’ Note from Barbra Streisand amid Her Return to TV](https://external.xx.fbcdn.net/emg1/v/t13/4412781033982392799?stp=dst-src&url=https%3A%2F%2Fpeople.com%2Fthmb%2FlySRXyUiZTKKWwWsC5ChERvnuhc%3D%2F1500x0%2Ffilters%3Ano_upscale%28%29%3Amax_bytes%28150000%29%3Astrip_icc%28%29%3Afocal%28749x0%3A751x2%29%2FRosie-ODonnell-WWHL-2026-Barbra-Streisand-Malibu-2023-082026-42175da7f372418bb8219c2cef26b739.jpg&utld=people.com&_nc_gid=NxHw0YAe5z8KcGZlM30o6g&_nc_oc=Adpb-1_V4JYRTVUa4gfBD9-qQyDznD0286zk8Hn0ujtdoMfB5posNKYLS6nRFiiDGW8&ccb=13-1&oh=06_Q3_CAZM7rY0KuV5Q0s8k1Vj1BX6ryoGLwZEDsK5K8-uaW-v1&oe=6A898171&_nc_sid=1d65fc) ![Image 4](https://external.xx.fbcdn.net/emg1/v/t13/11736461452648080900?url=https%3A%2F%2Fpeople.com%2Ffavicon.ico&utld=people.com&stp=dst-png_s42x42&_nc_gid=NxHw0YAe5z8KcGZlM30o6g&_nc_oc=AdoE90sKBo96jPLLxjygSKsHCdnLKeARYcSUnIctsb8ao588GOAHW4_iveQlH_CXA5A&ccb=13-1&oh=06_Q3_CAYuiRieLdeNn2H5UulG3pLP8LYQYkkVokvfEnLb-sOTH&oe=6A899098&_nc_sid=1d65fc) people.com Rosie O’Donnell Shares Supportive ‘Welcome Home’ Note from Barbra Streisand amid Her Return to TV](https://l.threads.com/?u=https%3A%2F%2Fbit.ly%2F4gmCn0R&e=AUAmorLVLRrSJ0deX8lVp0gRY6PHIGV
 ```
