@@ -1,24 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：[Image 1: thedreadedgemini's profile pictu"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "Gemini"
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-21T02:10:22+00:00"
+generated_at: "2026-08-22T01:59:45+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：[Image 1: thedreadedgemini's profile pictu
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 1: thedreadedgemini's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/758658374_17876421246685408_3751683996704580809_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Gemini、RAG
 
 ## 原始工作流拆解
 
@@ -60,21 +62,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- [![Image 2: Man arrested for allegedly shooting, stealing Flock cameras from Louisville park](https://external.xx.fbcdn.net/emg1/v/t13/8781669622315997455?stp=dst-src&url=https%3A%2F%2Fbloximages.newyork1.vip.townnews.com%2Fwdrb.com%2Fcontent%2Ftncms%2Fassets%
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -87,13 +74,14 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- Trying to get an understanding of what games/if any the ![Image 14](https://cdn.fbsbx.com/v/t65.23080-21/686121778_1451470232961419_3394142314593975484_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQFbmvJ_xblq9_W6lnWuP1TPmr5PXRniT6fczZ16SYP5XQ&oe=6
-- ![Image 16](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/779527765_1559533935550429_5099516693521548520_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk2Nzk5NjIyMjQ5ODUzMjc1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
+- [![Image 1: christalluster's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/460091797_1195529204900452_2650952749925820399_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
+- Bro what the heck did Felipe say to Tori?? What could possibly be worse than everything he’s already said? 😒
+- [![Image 3: frankielordwrites's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730303924_17972324631119885_7636924285237458954_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdn
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、Gemini、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -102,44 +90,36 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: therollingexplorer's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/387672411_696559489039632_8705761261393693320_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=1P8N1YBX0NAQ7kNvwHezcrg&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHDUTjAfsb4F-GvueUsNfi2lspeHGuPvY2mkYE7hw-IaQ&oe=6A8D7CF9&_nc_sid=10d13b)](https://www.threads.com/@therollingexplorer)
+[![Image 1: thedreadedgemini's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/758658374_17876421246685408_3751683996704580809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFNhWBTq4Y9ZodsLIGzf4JslTF7vHpcPDm1feWZ6iUSDq05i_nQT75D3rfDY2_3WIM&_nc_ohc=Jzw8bQ_svAcQ7kNvwE-09vh&_nc_gid=1sXnepe3ENqObjjwvgDzLA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHny6xIkHiUTojEzVbWn6Aa9pMTq5DTdUcZQ7ZpsgvrWg&oe=6A8ED0BE&_nc_sid=10d13b)](http://www.threads.com/@thedreadedgemini)
 
-15 hours in, they’ve started me on some fluids and eventually will add some antibiotics. They’re hoping I could have my surgery as early as noon today.
+Nobody The Media: Clark and Mitchell combined for 40 pts. 🤣
 
-I’m feeling anxious about the procedure and potential lifestyle changes from having no gallbladder. For those that have lost one, can you still enjoy your favorite foods? Wine? Coffee?
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/777299191_17880488745685408_4316919934089722611_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk2ODMzNDYwMTcyMjYwNTM5OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7hCqN5ul_vgQ7kNvwGkPLbd&_nc_oc=AdpHZVX8toSDwB6Q7nY-Tvm5qWkOAKrUbfyu63BerJH72QLTcdCOpQM0ftDzWhxbzd4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1sXnepe3ENqObjjwvgDzLA&_nc_ss=7a22e&oh=00_AQE_W_jJUgrssw71tdYo8CqUPttSGUKtKooP1pL6crWXcg&oe=6A8EE57B)](http://www.threads.com/@thedreadedgemini/post/DcSW0uNkS9X/media)
 
-215
+385
 
-89
-
-1
-
-1
-
-[![Image 2: _bribeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/636785644_17944811988108501_4850430801751770087_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=et2uxLRTUCYQ7kNvwGclS0b&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFpj7rJ8Ubwdy1UItP7pyvIlwjqEpANA1XGb8dMzov_rA&oe=6A8D8255&_nc_sid=10d13b)](https://www.threads.com/@_bribeee)
-
-If I fly myself first class, I definitely expect a first class ticket from a man that’s flying me out ‼️
-
-88
-
-[![Image 3: stephruhle's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358418507_1452848045536045_3683086358625389042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=o3hTf1CCjXEQ7kNvwG2b9Xy&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQED-scOkJv5SzilD3RVFq_ieleQu2PfYz-5eNn4sA9XnQ&oe=6A8D9AEF&_nc_sid=10d13b)](https://www.threads.com/@stephruhle)
-
-We DON’T trade with Iran. But China does.
-
-509
-
-11
+33
 
 28
 
-18
+20
 
-[![Image 4: suegrigoryan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/616613489_17937340533113978_5164970771132986862_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHqqUgQitbuDg6egvfvBNmIPscZ_JfsvnhGkaPojaa_r44hgXl9-vSrCUgN3QDxO1I&_nc_ohc=3ny4SvudnnoQ7kNvwGqVRWS&_nc_gid=i7b9jwyIVOr6jxoCA7Li8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFYqOJf1SXHb1uhVnDOx-EWXn1ILgfZfqKpOULtotPIAg&oe=6A8D9D70&_nc_sid=10d13b)](https://www.threads.com/@suegrigoryan)
+[![Image 3: _ajubikete's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756143687_17959403256173082_331648424061713858_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFNhWBTq4Y9ZodsLIGzf4JslTF7vHpcPDm1feWZ6iUSDq05i_nQT75D3rfDY2_3WIM&_nc_ohc=0XoMltXQX2IQ7kNvwFLUORB&_nc_gid=1sXnepe3ENqObjjwvgDzLA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFZJ9GIr-wnKLXXZsHLTQFVulHz4a70E0paOJiGCCBhgQ&oe=6A8EEB2C&_nc_sid=10d13b)](http://www.threads.com/@_ajubikete)
 
-Amanda Anisimova lost against Pegula. She had 56 unforced errors 💀
+Becky: they play better when I’m a jerk to them Me: yes cuss them out, drag them, flip them off ….except for Jackie…coz that’s ya favorite 😂💀
 
-![Image 5](https://scontent
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/778381297_17963486004173082_8621263323722111983_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk2ODM3MDQ5NTU1MjY1Njg1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6wwXK217dasQ7kNvwFPvQLX&_nc_oc=AdpXpS-h6_nbht3fcrOn-fPGdzA30hbymSttbo1N0o3Oeh5TEZ3LcTe2TrtkM1onwJM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1sXnepe3ENqObjjwvgDzLA&_nc_ss=7a22e&oh=00_AQH9Exkf7C650wOL3-CPW_53-2P_gN9tiRD3azQB3FgtNw&oe=6A8EC217)](http://www.threads.com/@_ajubikete/post/DcSe_C8jpXX/media)
+
+332
+
+5
+
+4
+
+3
+
+[![Image 5: itsyagirlwkeithia's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/707646845_18582432481052534_5205358489774654206_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmR
 ```
