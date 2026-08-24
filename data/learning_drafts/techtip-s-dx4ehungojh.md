@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：My dad has surgery to get a new battery pu"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-23T02:11:42+00:00"
+generated_at: "2026-08-24T02:09:27+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：My dad has surgery to get a new battery pu
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+My dad has surgery to get a new battery put in his pace maker tomorrow and add another line. He’s not stressed but I am. Would really appreciate your prayers or good vibes for a sa
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -63,29 +64,22 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[
-- [![Image 5: Must the Ballroom Be Torn Down?](https://external.xx.fbcdn.net/emg1/v/t13/11771824736817272323?stp=dst-src&url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21GKgF%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cfl_progressive%3Astee
+[![Image 1: j.scan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/592482545_17935234797109719_4824848175550443096_n.jpg?stp=dst-jpg
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: newsweek's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/582087873_17937212202098984_5592334386388266511_n.jpg?stp=dst-j
-- [![Image 2: Sophie Cunningham hints Cathy Englebert’s days numbered as WNBA commissioner](https://external.xx.fbcdn.net/emg1/v/t13/5162722224754864415?stp=dst-src&url=https%3A%2F%2Fassets.newsweek.com%2Fwp-content%2Fuploads%2F2026%2F08%2FGettyImages-2290165712
-- [americaamerica.news/p/mus…](https://l.threads.com/?u=https%3A%2F%2Fwww.americaamerica.news%2Fp%2Fmust-the-ballroom-be-torn-down%3Fr%3Dbb6o8%26utm_campaign%3Dpost%26utm_medium%3Dweb&e=AUAs0k-cs00-X1ooO-0LC5ujsmEW-HIGu_b3hDaGS96ob43LAP6d84FBYe8kqxBMRHcPtYEk3BVN
+[![Image 1: tinatvette's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/398097203_1102107644493347_1946686827168380849_n.jpg?stp=dst-jp
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/783707428_17944412334291147_2278848609621051635_n.webp?_nc_cat=101&ig_cache_key=Mzk3MDA2NjgyNzkzNDcxNjE2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucm
+- ![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/781425481_18044741876815280_7436498188873335809_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzk2OTU3MTExMDY4NDY3NDQxNTE4MDQ0NzQxODczODE1Mjgw.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZy
+- Markdown Content:
+[![Image 1: tinatvette's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/398097203_1102107644493347_1946686827168380849_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scon
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -94,56 +88,58 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+[](https://www.threads.com/search)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: whitneyjustesen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/554364182_17925611061110859_1545329898194455757_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFXT__jOV0zf_mgkheS1c6HEtZx7frDrmQJNYOW3m2P1VBQbUmvKbQV_ST9tx2t_Kk&_nc_ohc=BWPCWEwqMZQQ7kNvwGUCUhe&_nc_gid=ZLZpF0B5cEJOJE5Cvm9xvw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHj2SA48MTyzlNP4YTULmlGGc_DO7tmuvYnGF11I92kAQ&oe=6A900E55&_nc_sid=10d13b)](http://www.threads.com/@whitneyjustesen)
+[![Image 1: j.scan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/592482545_17935234797109719_4824848175550443096_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGSHEjQuvNaQbS9YvR8Wg26KyzHiKv-QwXACp0DrODm-FyyK1iP-sz2Ztahnr11Azs&_nc_ohc=8ltAnyclYIgQ7kNvwFX4yrW&_nc_gid=ySGYadIxvtp9MiJ5s0eGag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFdcXLJPe7Y77tY9OMpnx0L1ThV56bo00PkZ2G1e7VbdQ&oe=6A917F14&_nc_sid=10d13b)](https://www.threads.com/@j.scan)
 
-[whitneyjustesen](http://www.threads.com/@whitneyjustesen)
+[j.scan](https://www.threads.com/@j.scan)
 
-[9h](http://www.threads.com/@whitneyjustesen/post/DcWWV-bCOPk)
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-My dog and I always hold hands when we go on car rides 🥹 Dog tax below
+[7h](https://www.threads.com/@j.scan/post/DcZJzIbj25N)
 
-253
+So does Toronto have to forfeit or are we gonna play the mascots?
 
-6
+199
 
-[![Image 2: matsonrussell's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/775336722_18086689469285485_1637431134873951462_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFXT__jOV0zf_mgkheS1c6HEtZx7frDrmQJNYOW3m2P1VBQbUmvKbQV_ST9tx2t_Kk&_nc_ohc=qyP7h0UT70EQ7kNvwE4Sy6c&_nc_gid=ZLZpF0B5cEJOJE5Cvm9xvw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF7STXhMiknD-oJGgCKRdbrpNb64oXjsAZ6MryN6RwINQ&oe=6A903006&_nc_sid=10d13b)](http://www.threads.com/@matsonrussell)
-
-[matsonrussell](http://www.threads.com/@matsonrussell)
-
-[14h](http://www.threads.com/@matsonrussell/post/DcV0-vLG8a4)
-
-1/4 Police watched two Massachusetts homes for more than two months. Not from a parked cruiser. Cameras mounted on utility poles recorded continuously. Every visitor. Every delivery. Every routine. Police argued the cameras captured only what anyone could see from the street. The SJC saw something different.
-
-33
-
-4
-
-5
-
-[![Image 3: riseabovewithgabs's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/747236146_17934684483342972_1267097496632574544_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFXT__jOV0zf_mgkheS1c6HEtZx7frDrmQJNYOW3m2P1VBQbUmvKbQV_ST9tx2t_Kk&_nc_ohc=54b6uFhxRkEQ7kNvwGAo4j8&_nc_gid=ZLZpF0B5cEJOJE5Cvm9xvw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF_4Nq1PgAtvU6KlLhdTX7ZkZXL4Q4qGr3mrBiXuyyrEg&oe=6A90112F&_nc_sid=10d13b)](http://www.threads.com/@riseabovewithgabs)
-
-[riseabovewithgabs](http://www.threads.com/@riseabovewithgabs)
-
-[12h](http://www.threads.com/@riseabovewithgabs/post/DcWFo51nLG2)
-
-My puppy usually gets up at 5:30/6am to potty and eat breakfast when he sleeps in his crate. Last night he slept in our bed and slept until 8:30am. What is this sorcery 🤭
-
-88
-
-35
+18
 
 1
 
-[![Image 4: _b.oneal's profile picture](https://scontent.cdninstag
+2
+
+[![Image 2: _brittychelle_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/751856348_18605424226002658_2991104476187540528_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGSHEjQuvNaQbS9YvR8Wg26KyzHiKv-QwXACp0DrODm-FyyK1iP-sz2Ztahnr11Azs&_nc_ohc=_EkNoCTsNR4Q7kNvwEdTLSB&_nc_gid=ySGYadIxvtp9MiJ5s0eGag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFN38iwywJcLFIHKFO4ayO4MeZJyrDMvzLOE2jswDitQg&oe=6A91910A&_nc_sid=10d13b)](https://www.threads.com/@_brittychelle_)
+
+[_brittychelle_](https://www.threads.com/@_brittychelle_)
+
+[19h](https://www.threads.com/@_brittychelle_/post/DcX0bNCne97)
+
+Justice and Charlie at RuPaul in Toronto
+
+Via adelbechara2 on tt
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/780727991_1814433352857406_6526554775659473224_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk2OTg3MjE2NDM5NzM3OTQ1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=6WaouBjwFnAQ7kNvwHWEvJF&_nc_oc=AdqkWNEtVku-00t1YO1FG-EYHB8I0AGr8hlGFGRj2IpesNh7GCLFo_36sIiWdukTXOM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ySGYadIxvtp9MiJ5s0eGag&_nc_ss=7a22e&oh=00_AQE-a5FtfRubP_2kT6TBn46Ve7HzmZkuXKU8M51K7S0d-A&oe=6A9176A8)
+
+Sorry, we're having trouble playing this video.
+
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUD5MUu3KnMEmufqsuChxskGrEER6lBTZlnTAsKacfAww4khAf0DDFgyLneVjPAIUW5L55k6KksCgt000Zn6a9p_X5drlKrEGHWFKfvjrVWTo9riDeM)
+
+490
+
+31
+
+31
+
+71
+
+[![Image 4: itssuzannelambert's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/573814596_18534339964007891_836687088055620646_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=s
 ```

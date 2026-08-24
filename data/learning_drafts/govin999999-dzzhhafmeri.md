@@ -1,26 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：if somebody can still be soft after everyt"
+title: "govin999999 的 AI 工作流案例：Make sure to turn the volume UP!"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "n8n"
-  - "GAS"
+  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-23T02:11:42+00:00"
+generated_at: "2026-08-24T02:09:27+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：if somebody can still be soft after everyt
+# govin999999 的 AI 工作流案例：Make sure to turn the volume UP!
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-if somebody can still be soft after everything this world did to them, that’s one of the hardest niggas alive to me.
+Make sure to turn the volume UP!
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +28,7 @@ if somebody can still be soft after everything this world did to them, that’s 
 
 ## 使用工具
 
-n8n、GAS
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -62,31 +62,26 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: jakademik_md's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/365901392_251890124443710_1152164898434280752_n.jpg?stp=dst
-- [![Image 2: Pete Hegseth’s Wife’s Influence At The Pentagon Is Weirding People Out: Report](https://external.xx.fbcdn.net/emg1/v/t13/6707708242193844293?stp=dst-src&url=https%3A%2F%2Fimg.huffingtonpost.com%2Fasset%2F6a8721291700000b07d432dc.jpeg%3Fcache%3DiumC
-- ![Image 14](https://scontent.cdninstagram.com/v/t51.82787-15/783516441_17952382752230115_8029455933788749682_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk2OTI3MDEyMDEwMTA2ODgyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
-- ![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/781425547_17952382635230115_8957999906776319747_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk2OTI3MDA0NDQxMDU3NjI4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![I
+- The average American does not realize how *extremely* lucky we were that the world didn’t hold the stupidity of Trump‘s first term against us (even after the insurrection), and was willing to write it off as a one-off fluke.
+- As this Canada saga shows (and closing bases overseas, openly abandoning our allies left and right), the world now sees the US as an unstable aggressor with failed institutions.
+- [![Image 4: lennyloricrux's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622330694_17938846992112627_1057134274263497812_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzkuYzIifQ&_nc_ht=scontent.cdninsta
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、n8n
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -98,43 +93,49 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: huffpost's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/539820554_17922582861110562_6935824716654828663_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFvW-rx3vePfxGKRh8r8tZ68_ByxiE_JRP8NSCS5fdm6lU12V1izP3YA_R3Ax2GOUQ&_nc_ohc=29CuDwUZAHoQ7kNvwHxZZ_A&_nc_gid=UNa8jp4IcJp250nC3ZYAYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEvyuR3DcgZhY_mZ6aIT-T2LIjfQdq-4vl5AS-LIUSa5g&oe=6A904160&_nc_sid=10d13b)](https://www.threads.com/@huffpost)
+[](https://www.threads.com/)
 
-“Her involvement in the Defense Department is so unusual that it has led to questions about Mr. Hegseth’s leadership,” the report states.
+[](https://www.threads.com/)
 
-421
+[](https://www.threads.com/search)
 
-48
+# [Home](https://www.threads.com/?error=invalid_post)
 
-91
+[![Image 1: rachelmadams's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/629818774_17944590123104081_5730532255761478332_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHpMQigyVuCPqy-uB1N9XfO-rGHLWdgY2Pk9_L1NajHHQAkbTnswP-km9cZOgKwDMY&_nc_ohc=HFd_U0xwFXIQ7kNvwHIyoXL&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHtoRT_SRAGNv4gxc8ArYgwByLcu7aL86OMpp6oo886VQ&oe=6A916575&_nc_sid=10d13b)](https://www.threads.com/@rachelmadams)
+
+[rachelmadams](https://www.threads.com/@rachelmadams)
+
+[Big Brother](https://www.threads.com/search?q=Big%20Brother&serp_type=tags&tag_id=18400761088002462)
+
+[21h](https://www.threads.com/@rachelmadams/post/DcXog3djtOZ)
+
+Taylor asked Haley to come up to the balcony so they could clear things up and Hately said, “no” Taylor clarified that she’s not mad she just wants to talk. Haley said, “no I don’t need anything tonight”
+
+WTF
+
+52
 
 5
 
-[![Image 2: peteysmithmcdowell's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357823429_1225646578123490_8967455214145653638_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFvW-rx3vePfxGKRh8r8tZ68_ByxiE_JRP8NSCS5fdm6lU12V1izP3YA_R3Ax2GOUQ&_nc_ohc=XuuGhytOlncQ7kNvwHv5aFz&_nc_gid=UNa8jp4IcJp250nC3ZYAYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEq72xYWFHPBb8cLJwUEOWYoqzFPeWoI7kDTD8F_BdMpw&oe=6A9025C3&_nc_sid=10d13b)](https://www.threads.com/@peteysmithmcdowell)
-
-#asheville #northcarolina #charlotte #raleigh #durham
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/784003798_1614740210364836_452233365460174284_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk2OTQ2NTc2NjMyNzcwMzgxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=8974SBFpwz8Q7kNvwEMf0Xd&_nc_oc=Adrb-sb3W5DK7TPtkLRxitaUo1JKXyw1ro7cdkHglbBWLaEzW69xuI3K4uFxXj3KwW8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UNa8jp4IcJp250nC3ZYAYg&_nc_ss=7a22e&oh=00_AQHx9C90IkQBtxHiKiRCYVC9pMDL1f2DEpzN30OJ9chxBQ&oe=6A903DEE)
-
-252
-
-19
-
-42
-
-156
-
-[![Image 4: justinaramis's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/672345412_17960745264108524_863337011474125910_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFvW-rx3vePfxGKRh8r8tZ68_ByxiE_JRP8NSCS5fdm6lU12V1izP3YA_R3Ax2GOUQ&_nc_ohc=1dcqAO4y7wwQ7kNvwHEJmQ0&_nc_gid=UNa8jp4IcJp250nC3ZYAYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF45Ruly7LBRjqcJISN64yLEBVZ7UraCd2A0C5lzVYR1A&oe=6A903478&_nc_sid=10d13b)](https://www.threads.com/@justinaramis)
-
-Chicago sky please sign Sydney Taylor to a deathrow contract. I don’t want her going anywhere 😭
-
-167
-
-13
-
-7
+1
 
 2
 
-[![Image 5: diorworthy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/702625017_18591432181046385_5851068311808913921_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sco
+[![Image 2: nicholas_moreano's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357652009_155849524174443_152893415331181328_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHpMQigyVuCPqy-uB1N9XfO-rGHLWdgY2Pk9_L1NajHHQAkbTnswP-km9cZOgKwDMY&_nc_ohc=lBYnmX6tl3EQ7kNvwFfEyBe&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH_hiceUWEl8VMCUjKGEDu6-ANOqYaqEwRkLLhm3aQazA&oe=6A9164D7&_nc_sid=10d13b)](https://www.threads.com/@nicholas_moreano)
+
+[nicholas_moreano](https://www.threads.com/@nicholas_moreano)
+
+[21h](https://www.threads.com/@nicholas_moreano/post/DcXogVmlV6e)
+
+What went wrong on Caleb Williams' incomplete pass to Colston Loveland on first-and-20?
+
+I break that down in this video using quotes from Bears head coach Ben Johnson and Williams.
+
+Make sure to turn the volume UP!
+
+#bears #chicagobears #dabears #nfl #bengals
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/783109134_18618181681047855_4871914065441130419_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk2OTgxOTc0MDYyOTk4Mjg3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNTQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=nTIS320HYZEQ7kNvwHd69mS&_nc_oc=AdqSLZm21L6Mlh70CEpUsKCmUCFQhVsd7ykhvcEiiQmhFwgGsB0McI4548u-1SwK4Ak&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&_nc_ss=7a22e&oh=00_AQGbFUfH35fnSbOng0Cna7SH8FDhBqlhPZco6taxWhFJCQ&oe=6A917052)
+
+[Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQMXbmW0_DO0qCzoUwRsXKmI8P6u_pF3TggoxDldT9mWTBQ9aEiBb_sQ1UvgUbLsvbjJlQDnLU6_83uFK7gzyQVypIyHlKud7AW9
 ```

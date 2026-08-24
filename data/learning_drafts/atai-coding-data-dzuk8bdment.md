@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0942
-generated_at: "2026-08-23T02:11:42+00:00"
+generated_at: "2026-08-24T02:09:27+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：MCP x META 廣告數據串接教學
@@ -66,7 +66,7 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/75846917
+[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/75846917
 - URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 抓取品質
@@ -84,7 +84,7 @@ Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGJOj_4Jhz8E4_MmqtoMa9WzZOyvLsx-0iHvVyXZtRF3Uc_I9PJZ_MMhxEKtCa7y-U&_nc_ohc=hVQtFRT3N_4Q7kNvwFRul1L&_nc_gid=tyE8IfXUm9sdA4JsmJ1upQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGYo_fYzwcQEM8MN_3PrcWnd4b0-PHWbFBrfvZ9K9X2Cw&oe=6A901115&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFO4xv5iID-oS_0UJE-RrleQ-ZxyJ-UHUSnTTWtfdcno6utX_cpDC4J3HAjfXHeK8c&_nc_ohc=XO6KX3352o4Q7kNvwHup--P&_nc_gid=FTPQYwa82ShVUPQmrfuvMw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHUQNR3CpplnXEqNrlyeMcvLKSesJ5PJqu_LrG21MlbrQ&oe=6A916295&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 MCP x META 廣告數據串接教學
 
@@ -98,11 +98,11 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yD02XfAb5RQQ7kNvwHXNlA-&_nc_oc=AdrFS2yDRLjjy5JW4DL6G6G3tBMpjgUFdBHAglw-s9RY6GuD0QiFQ-lW32jn7U9YakI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=tyE8IfXUm9sdA4JsmJ1upQ&_nc_ss=7a22e&oh=00_AQEVBHyapFwBHII9_3gU0UAg42y8yyyW0qmjNTlwSLnGxA&oe=6A903DE6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yD02XfAb5RQQ7kNvwEKtI0t&_nc_oc=Adr2xwn7aXOR3T1IrQI9xKBp0Lp3OQMd4R5XHbobUEG2mwKaCQEPqq1pGKvpXoPKSO0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=FTPQYwa82ShVUPQmrfuvMw&_nc_ss=7a22e&oh=00_AQG9dhbZUq4dPSQ6mGtGbFks_efhlWYQJ4KR3AQ1X4Udkg&oe=6A918F66)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 126
 
-273
+272
 
 10
 
