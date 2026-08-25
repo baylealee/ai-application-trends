@@ -10,8 +10,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0312
-generated_at: "2026-08-24T02:09:27+00:00"
+zh_ratio: 0.0313
+generated_at: "2026-08-25T02:03:42+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -34,8 +34,8 @@ Claude、MCP
 
 1. Twinkle Hub 把 6.4 萬份考卷、32 萬題的考選部資料整合進 MCP 端點，Claude 串接後可即時搜尋題目、篩選關鍵字、拿到 PDF 連結。
 2. 三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?
-3. [Image 11: 刷題神器 Quiz Factory｜上傳考卷，AI 生成你的專屬題庫](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?
-4. [Image 16: 刷題神器 Quiz Factory｜上傳考卷，AI 生成你的專屬題庫](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?
+3. [Image 11: 刷題神器 Quiz Factory｜上傳考卷，AI 生成你的專屬題庫](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?
+4. [Image 16: 刷題神器 Quiz Factory｜上傳考卷，AI 生成你的專屬題庫](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?
 
 ## 可以直接複製的做法
 
@@ -66,13 +66,13 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/6
+[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/6
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、MCP、工具、生成
-- zh_ratio: `0.0312`
+- zh_ratio: `0.0313`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 ## 原始抓取內容
@@ -91,7 +91,7 @@ Markdown Content:
 
 # [Thread 136K views](http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5)
 
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGS2TzZIJ6_5jO9hYoQvqXrvd9450l7j4YLh-UKylRW_7dAZup63ZWEmDqxECJOgnM&_nc_ohc=NoEQeKVYMt4Q7kNvwHdVD-s&_nc_gid=liuhRpOQU3ujQzZj4qjnvg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF7o61YhZ3da6kxuRtOUW97rl-7DSy9H6FYF24eCWTm_Q&oe=6A917AA8&_nc_sid=10d13b)](http://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuNJBpkzBubdlWaLu0sVI9s94NCPr8AeRzuSZksbPHEi_QQNSOpF_yzIEyvyw9GYs&_nc_ohc=NoEQeKVYMt4Q7kNvwHlP03e&_nc_gid=AzQMm9yuaP6EZrTgz2C66Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEmH2jIEgalCCpWfoBTE5DaWfPPDlhrvMVyj1QnpIp53A&oe=6A92CC28&_nc_sid=10d13b)](http://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](http://www.threads.com/@futurecommerce_official)
 
@@ -115,7 +115,7 @@ Translate
 
 2.4K
 
-[![Image 2: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGS2TzZIJ6_5jO9hYoQvqXrvd9450l7j4YLh-UKylRW_7dAZup63ZWEmDqxECJOgnM&_nc_ohc=NoEQeKVYMt4Q7kNvwHdVD-s&_nc_gid=liuhRpOQU3ujQzZj4qjnvg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF7o61YhZ3da6kxuRtOUW97rl-7DSy9H6FYF24eCWTm_Q&oe=6A917AA8&_nc_sid=10d13b)](http://www.threads.com/@futurecommerce_official)
+[![Image 2: futurecommerce_official's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuNJBpkzBubdlWaLu0sVI9s94NCPr8AeRzuSZksbPHEi_QQNSOpF_yzIEyvyw9GYs&_nc_ohc=NoEQeKVYMt4Q7kNvwHlP03e&_nc_gid=AzQMm9yuaP6EZrTgz2C66Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEmH2jIEgalCCpWfoBTE5DaWfPPDlhrvMVyj1QnpIp53A&oe=6A92CC28&_nc_sid=10d13b)](http://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](http://www.threads.com/@futurecommerce_official)
 
@@ -123,9 +123,9 @@ Translate
 
 ·Author
 
-三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUCY_rWvnmVXcxxVGAyn5hqlrW5HxQsoakiFLCgXp9b8m6S7TsRLL9tx8jxo0TGaU5cgcyf2m-59Ex40tNTh_sOR4COWX1XmaHFht5XPcZM4sjxhDis)
+三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUDhZWk6QaorT6mCzpS-mX4ssdQ4RKC9kTKXqAgujoT2a_dSEsMJwp3JH0BEviubpOWMM2O9qpdRxUQFi4uYc2fItiQ-KGIW25eLSHo2HzX5jVvjARE)
 
 Translate
 
-[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?stp=dst-src&url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26output%3Dwebp&utld=learnin.tw&_nc_gid=liuhRpOQU3ujQzZj4qjnvg&_nc_oc=AdokKIXYT4MWtaub39UrSUzlvqRzS5BVBd-aA-J7mq9iC0ekzVb9-rXSlBCz91TgXnI&ccb=13-1&oh=06_Q3_CASFnGOvsf6Ncc_YLqXsMQO4jCMqO9508Gkp5MnibS7BY&oe=6A8D93A9&_nc_sid=1d65fc) ![Image 4](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/3410226835710235507?url=https%3A%2F%2Fcdn.bn
+[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?stp=dst-src&url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26output%3Dwebp&utld=learnin.tw&_nc_gid=AzQMm9yuaP6EZrTgz2C66Q&_nc_oc=AdoWavgsZ0C7NDTltXxHq9ij9B-YYTSCtxj7R66BVFLwSXLAj5GlTAWwI-emBb5r3cg&ccb=13-1&oh=06_Q3_CAU4mjbsTdIeyWU68OW-fnIsPETxnKhHoE5vay52ct5e5&oe=6A8EE529&_nc_sid=1d65fc) ![Image 4](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/3410226835710235507?url=https%3A%2F%2Fcdn.bn
 ```

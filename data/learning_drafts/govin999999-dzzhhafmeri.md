@@ -1,26 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Make sure to turn the volume UP!"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
   - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-24T02:09:27+00:00"
+generated_at: "2026-08-25T02:03:42+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Make sure to turn the volume UP!
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Make sure to turn the volume UP!
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +27,7 @@ Make sure to turn the volume UP!
 
 ## 使用工具
 
-RAG、Make
+Make
 
 ## 原始工作流拆解
 
@@ -65,23 +64,16 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
-- The average American does not realize how *extremely* lucky we were that the world didn’t hold the stupidity of Trump‘s first term against us (even after the insurrection), and was willing to write it off as a one-off fluke.
-- As this Canada saga shows (and closing bases overseas, openly abandoning our allies left and right), the world now sees the US as an unstable aggressor with failed institutions.
-- [![Image 4: lennyloricrux's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622330694_17938846992112627_1057134274263497812_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzkuYzIifQ&_nc_ht=scontent.cdninsta
+[![Image 1: peggyflanagan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713704203_17966990403111017_4577713917010840736_n.jpg?stp
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/780860575_17982691683115532_5452380174997788457_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3MDgyMDgzOTkyNzY4NzY2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- JUST IN: NYC Mayor Mamdani unveils a $4,000,000,000.00 plan to repair the crumbling Brooklyn-Queens Expressway.
+- Markdown Content:
+[![Image 1: peggyflanagan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713704203_17966990403111017_4577713917010840736_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDIuYzIifQ&_nc_ht
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG、Make
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -101,41 +93,29 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: rachelmadams's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/629818774_17944590123104081_5730532255761478332_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHpMQigyVuCPqy-uB1N9XfO-rGHLWdgY2Pk9_L1NajHHQAkbTnswP-km9cZOgKwDMY&_nc_ohc=HFd_U0xwFXIQ7kNvwHIyoXL&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHtoRT_SRAGNv4gxc8ArYgwByLcu7aL86OMpp6oo886VQ&oe=6A916575&_nc_sid=10d13b)](https://www.threads.com/@rachelmadams)
+[![Image 1: hotfugginmess's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/634329104_17910988377324042_207003405302872081_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHiNftA-Rk7L5pSbA5KBRb7pKJkavBIWgkA0gKAR7cRN9lixerQLAh6Yk1Hmw0Q36A&_nc_ohc=tofK22nhypUQ7kNvwFKhUId&_nc_gid=RMufhAZodTVpPmK7yRUkSA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEAxJgZvkE19Mr3Mjew1IbY2j1K_v1yQK9ru0fJYtxi8Q&oe=6A92BECE&_nc_sid=10d13b)](https://www.threads.com/@hotfugginmess)
 
-[rachelmadams](https://www.threads.com/@rachelmadams)
+[hotfugginmess](https://www.threads.com/@hotfugginmess)
 
-[Big Brother](https://www.threads.com/search?q=Big%20Brother&serp_type=tags&tag_id=18400761088002462)
+[9h](https://www.threads.com/@hotfugginmess/post/DcbjI29mjjJ)
 
-[21h](https://www.threads.com/@rachelmadams/post/DcXog3djtOZ)
+I just started working in a child care setting that offers 24 hour emergency infant/toddler/early childhood care for families experiencing various hardships (medical problems, hospitalization, homelessness, drug/alcohol treatment, postpartum depression and other mental health issues that may cause child neglect or abuse, etc).
 
-Taylor asked Haley to come up to the balcony so they could clear things up and Hately said, “no” Taylor clarified that she’s not mad she just wants to talk. Haley said, “no I don’t need anything tonight”
+I love it.
 
-WTF
+It’s my side job - I still have my regular day job, so I’m working the graveyard shift on weekends. Graveyard mainly involves making sure the children are 🧵
 
-52
+199
 
-5
+10
 
-1
+[![Image 2: nehadas78879's profile picture](https://instagram.fbho4-5.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fbho4-5.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFS9CARgBFo5Sl3xqxWDTT765PoEwba_t2bjeAQULYj9rc1h08wDPuDJbtRP-ovcPmDK2bDnDUNBkCPSSwczB7E&_nc_ohc=b6h-RBt3_SUQ7kNvwFQhnjK&_nc_gid=VogNZ_Hb9H0GkXLajNSlFQ&edm=AL0yBCkBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQH9ktIA9PbjzhMcMu1VSxCkJvQCY6OdbyTI_tG1jyvwXg&oe=6A92CE2A&_nc_sid=70c7e2)](https://www.threads.com/@nehadas78879)
 
-2
+[nehadas78879](https://www.threads.com/@nehadas78879)
 
-[![Image 2: nicholas_moreano's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357652009_155849524174443_152893415331181328_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHpMQigyVuCPqy-uB1N9XfO-rGHLWdgY2Pk9_L1NajHHQAkbTnswP-km9cZOgKwDMY&_nc_ohc=lBYnmX6tl3EQ7kNvwFfEyBe&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQH_hiceUWEl8VMCUjKGEDu6-ANOqYaqEwRkLLhm3aQazA&oe=6A9164D7&_nc_sid=10d13b)](https://www.threads.com/@nicholas_moreano)
+[16h](https://www.threads.com/@nehadas78879/post/DcatOVhgKug)
 
-[nicholas_moreano](https://www.threads.com/@nicholas_moreano)
+I keep rewatching this because it’s so satisfying. The way the pieces lock together is just brilliant. Who needs a trailer anyway? 🤯🛠️ Product link 👉 [amzn.to/4xVMU…](https://l.threads.com/?u=https%3A%2F%2Famzn.to%2F4xVMUr4&e=AUCC5X8Yoxhx83FtI6DSJBXkEC-SDvakJsvftEU-lZtCKAuxqz8SxnDIPooSM17famg9pxerFSuXAsDer7UFnyhsN8HXJKPel6vPtQTSpGg-vWuHBtg)
 
-[21h](https://www.threads.com/@nicholas_moreano/post/DcXogVmlV6e)
-
-What went wrong on Caleb Williams' incomplete pass to Colston Loveland on first-and-20?
-
-I break that down in this video using quotes from Bears head coach Ben Johnson and Williams.
-
-Make sure to turn the volume UP!
-
-#bears #chicagobears #dabears #nfl #bengals
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/783109134_18618181681047855_4871914065441130419_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk2OTgxOTc0MDYyOTk4Mjg3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNTQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=nTIS320HYZEQ7kNvwHd69mS&_nc_oc=AdqSLZm21L6Mlh70CEpUsKCmUCFQhVsd7ykhvcEiiQmhFwgGsB0McI4548u-1SwK4Ak&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ppMgIC57WyHlpeLJs2dE2Q&_nc_ss=7a22e&oh=00_AQGbFUfH35fnSbOng0Cna7SH8FDhBqlhPZco6taxWhFJCQ&oe=6A917052)
-
-[Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQMXbmW0_DO0qCzoUwRsXKmI8P6u_pF3TggoxDldT9mWTBQ9aEiBb_sQ1UvgUbLsvbjJlQDnLU6_83uFK7gzyQVypIyHlKud7AW9
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/780982001_1066786772939912_3438099271180286087_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3MDY4NDkxODc1Njg0NjQ5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=vqpU0Am8r6cQ7kNvwGmBday&_nc_oc=AdoKlu8oG2XkiGFsUmu1vIiJbka1YxK02hy-o4XO1Xr1EyWt6HD8sAHQxnmhir9s31s&_nc_ad=z-m&_nc_
 ```
