@@ -9,12 +9,11 @@ tools:
   - "Claude"
   - "Claude Code"
   - "GPT"
-  - "RAG"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0396
-generated_at: "2026-08-25T02:03:42+00:00"
+zh_ratio: 0.0499
+generated_at: "2026-08-26T02:11:28+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -31,14 +30,14 @@ generated_at: "2026-08-25T02:03:42+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、GPT、RAG、GitHub
+Claude、Claude Code、GPT、GitHub
 
 ## 原始工作流拆解
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
 3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/7989401838594505545?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCpXu9Kj6g2oVq0UuEl3x_obx7OEz6mg5P4_ibEEV1A28kvTUFPDwgUAB2GWFvSkYXTIXimWGdvRTnyNBdmUSf_43yG9H0f1lfq5_ceXLAWX3RW3Qs)
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAdlORbXDhiZcvt9umd_9Fv7EZPQhP7SqE_xS8LT1C2mDofd7t-P1dfYUnv6rpepPRxRp6UemsX0avkHAEpVLjqx0QwqYL16TKMy23-8dXr-m14DsA)
 5. 現在都是直接用 agent skills 體系去做
 
 ## 可以直接複製的做法
@@ -82,8 +81,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、RAG、Agent、agent、工作流、prompt、工具、知識庫、設計、GitHub
-- zh_ratio: `0.0396`
+- keyword_hits: AI、Claude、GPT、Agent、agent、工作流、prompt、工具、知識庫、設計、GitHub
+- zh_ratio: `0.0499`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -102,7 +101,7 @@ Markdown Content:
 
 # [Thread 114K views](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
-[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEZmxqKGt6CAvBtZcBaAulJ3CvRjyERwBiAkVmxGgL3ACUwRrcwCikKe0szX0S2iNg&_nc_ohc=NTNX35dKWU8Q7kNvwECD0be&_nc_gid=2qQryrUu2QeL4myI-oJLig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEc12TO8Px3S7RgH6ahQT0zuc6ej1V-AScHya_ztnUMSw&oe=6A92BB34&_nc_sid=10d13b)](https://www.threads.com/@_3cpj_)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHeMYO1XAByq3tJ1XGZgvkTW-25Gwx-hS1w3GIuEfOa0yfCNawe-F3Yd-atFkFuuYg&_nc_ohc=0w9GpqxKVCsQ7kNvwH9h6v4&_nc_gid=SRRT9uZ3Mrviu_5PwfFSPw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEovkr-FwG1rzhFE61VPRwdML0WwrUfzYSwd0A0qla7ng&oe=6A940CB4&_nc_sid=10d13b)](https://www.threads.com/@_3cpj_)
 
 [_3cpj_](https://www.threads.com/@_3cpj_)
 
@@ -130,7 +129,7 @@ Markdown Content:
 
 Translate
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/7989401838594505545?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2F89bbe3e692a0025e753d2a5c7e8f7077f7acca9ae3f67919accc412afca4bf10%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_gid=2qQryrUu2QeL4myI-oJLig&_nc_oc=AdocV_F3rnRIeaT2YQ9QBfP7J9GV1qGMQLFSl2OKythrZ8Et0MUEtkm3uWVvXH5Xvs4&ccb=13-1&oh=06_Q3_CARtmjF2smoKXpS33JlJQq0cnSvZBd76uS0gz4XpuZdRQ&oe=6A8EDDFA&_nc_sid=1d65fc) ![Image 3](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&stp=dst-png_s42x42&_nc_gid=2qQryrUu2QeL4myI-oJLig&_nc_oc=AdrDFLwZi4tbUPo7TzLnoQzBX5C7K_El8cwDidzommtNnlnPblDW1TwlQQzegae6P84&ccb=13-1&oh=06_Q3_CAQ8yms6iDsJ78dLCNFMFo1Icdktjw3h9jD8dKGqLDhqe&oe=6A8EC007&_nc_sid=1d65fc) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCpXu9Kj6g2oVq0UuEl3x_obx7OEz6mg5P4_ibEEV1A28kvTUFPDwgUAB2GWFvSkYXTIXimWGdvRTnyNBdmUSf_43yG9H0f1lfq5_ceXLAWX3RW3Qs)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/7989401838594505545?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2F89bbe3e692a0025e753d2a5c7e8f7077f7acca9ae3f67919accc412afca4bf10%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_gid=SRRT9uZ3Mrviu_5PwfFSPw&_nc_oc=AdrXx9QopeD3hH2GlkWpebs_F4ZFKA5yDUnydrr50PcszBlYHPxHlEe1GNNed90ZRpI&ccb=13-1&oh=06_Q3_CATJJYWsCtX9GoHw8u_9MzPwPOLV0Ea09UZIGXw2ouRkq&oe=6A902F7A&_nc_sid=1d65fc) ![Image 3](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&stp=dst-png_s42x42&_nc_gid=SRRT9uZ3Mrviu_5PwfFSPw&_nc_oc=Adpvp3pH_lMWiph3b5luZnXuMTUDCa4nyE3Cp3Bfjpv1H4xTJX46r2q637EkiFlaC1k&ccb=13-1&oh=06_Q3_CASbOpHfyFyinPYGxfSRyp3tx-vMuEnvHoAxeE81YFw50&oe=6A901187&_nc_sid=1d65fc) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAdlORbXDhiZcvt9umd_9Fv7EZPQhP7SqE_xS8LT1C2mDofd7t-P1dfYUnv6rpepPRxRp6UemsX0avkHAEpVLjqx0QwqYL16TKMy23-8dXr-m14DsA)
 
 1.9K
 
@@ -140,5 +139,5 @@ Translate
 
 2.1K
 
-[![Image 4: i.g._.mitch's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/488214694_1053155066939326_4823923388808457657_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEZmx
+[![Image 4: i.g._.mitch's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/488214694_1053155066939326_4823923388808457657_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHeMY
 ```

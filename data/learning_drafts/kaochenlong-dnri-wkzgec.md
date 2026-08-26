@@ -8,8 +8,8 @@ category: "coding"
 tools:
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0209
-generated_at: "2026-08-25T02:03:42+00:00"
+zh_ratio: 0.0211
+generated_at: "2026-08-26T02:11:28+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -67,8 +67,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: Agent、agent
-- zh_ratio: `0.0209`
+- keyword_hits: AI、Agent、agent、CRM
+- zh_ratio: `0.0211`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -79,13 +79,13 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGhy7_g2eV0Jhia2_SN0WvN3FLMmNSPqhcZmcbIHvGZ8DssY9HS2DgInYf5gzNYGWs&_nc_ohc=O8uhTTV7q18Q7kNvwH5kaLn&_nc_gid=fHtD8D4TlYnep_yNSf_vvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFp6sZ6xIscLhgaOcsSfmyyImSPGXF5NnuElfFXPcpOOA&oe=6A92C70B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGFZ3CZsoNd7CzE4Dnoo1nptFSTeYMde45pQSeaFtg-4KSbuFHwptUhBURqxA_lWiw&_nc_ohc=O8uhTTV7q18Q7kNvwFiBoq_&_nc_gid=N5yw0TGFFzgnEdMPaI4o5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFCDxFGZQVSSIATJQRB7wQn_5mHhb9cUsBGPmMqi_LF_g&oe=6A94188B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
 Translate
 
-[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tCEMU7PZcEkQ7kNvwFVzFXe&_nc_oc=AdpRHeXL7oNJVc2DNX7b_BSSFSawn-kfE6bSAUI8xPBWUMEZUaQ2r4jYXxbvrDzXrm0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=fHtD8D4TlYnep_yNSf_vvQ&_nc_ss=7a22e&oh=00_AQGeASkbYJa6wBATQcqOFF7Yn8liL2Ja9R7NBssd1Drd_g&oe=6A92BDA0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b-CucvdbCrMQ7kNvwE5DgIu&_nc_oc=AdoJn9DxY7PP2xmrLjwKf71fOtEpm08sCI9U_Znvi6vc2WS3tUwlYc0bOx0kEi5dlW4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=N5yw0TGFFzgnEdMPaI4o5Q&_nc_ss=7a22e&oh=00_AQH55FPNEyS3aXqYyNM0eUnO2sgGPS_nJ7rjapBckrhrFw&oe=6A940F20)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 

@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：Lots of headlines to cover, including excl"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-25T02:03:42+00:00"
+generated_at: "2026-08-26T02:11:28+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：Lots of headlines to cover, including excl
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Lots of headlines to cover, including exclusive news out of Texas on MN AG Keith Ellison's attempts to get ICE agent, Christian Castro, extradited back to MN to face criminal charg
 
 ## 這篇在解決什麼問題
 
@@ -26,13 +27,11 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. Lots of headlines to cover, including exclusive news out of Texas on MN AG Keith Ellison's attempts to get ICE agent, Christian Castro, extradited back to MN to face criminal charges!
 
 ## 可以直接複製的做法
 
@@ -60,10 +59,10 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: tania_gw's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729561483_17894366124542900_6751875994862424559_n.jpg?stp=dst-jp
+[![Image 1: dailystepsmovement's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774408648_18086795495286463_9147726859260653809_n.jpg
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -78,14 +77,15 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- Context: OP asked Lee Know what does he believe his fans love the most about him and he said “my crazy goofy personality” at first but then afterwards he said “my kind side”
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/784350934_17962545048177514_7275799943609779245_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk3MDgzNjQ2MTQ1MzE2MTQ3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-- ![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/785213976_1586171539673457_7041434924067129694_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk3MDc4MjQyNzc2MTIwMjI1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- Markdown Content:
+[![Image 1: dailystepsmovement's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774408648_18086795495286463_9147726859260653809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM0LmMyIn0&
+- [![Image 1: dailystepsmovement's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774408648_18086795495286463_9147726859260653809_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDM0LmMyIn0&_nc_ht=scontent.cd
+- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/786094182_17985705039100600_2261347329581668501_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3MTI4MzQ5NDY1OTc3MjI2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、Make、Agent、agent
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -94,28 +94,48 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: lvaces's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/780840720_17976923982109097_5327644364782420645_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHltjdvsBjitobfAUgPqLu3AlvioKgbTc-BJTSWu8VIclsR1-o9pTVb81LPpFXFAVA&_nc_ohc=Id2kAkbrJDMQ7kNvwEKDiYT&_nc_gid=7ShNwNN-dJ27BXcUdNuyXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGfv5pV5htqe-wiZpeWP-_CCRIjdeUyf2no9CB76WKWUQ&oe=6A92C7D9&_nc_sid=10d13b)](https://www.threads.com/@lvaces)
+[![Image 1: katiephang's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459341116_1829112170950116_9186985381324799636_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFV_fbZ5wfaBX3QslV-VatLTMW7qTa4ANe0hYP5HOLluJavFv5fJENxs5ZxUKg0Y5M&_nc_ohc=60dcvupUhRoQ7kNvwGhS7hW&_nc_gid=bPGWdydvSYntmm8F7wdJ_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGVs1LZ0q1Zs6zdDVGRLw-GwzR_Hv4adO1IOFXnTzN4eg&oe=6A943411&_nc_sid=10d13b)](http://www.threads.com/@katiephang)
 
-Some wholesome content for the timeline featuring Mai's grandmother, mother and sister 🫶🥹
+It's Tuesday and it's time for SIDEBAR Live at 5:30 pm ET!
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/785281332_18350465749222194_6687815423589814372_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk3MDkxODQwNTIxMDA1NTUzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTkyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=PLVuTV1J6WMQ7kNvwHe2R0B&_nc_oc=AdpnpVBdtiANWa3WtURBJ_SsFPI7Mhj_3sWzL3IJ8gy8lcbirKHwDuyJwODlzPMPAY8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7ShNwNN-dJ27BXcUdNuyXw&_nc_ss=7a22e&oh=00_AQEJKBT1FauUwzDUps8jV3B9L3jh2GZZpqXwVzuocbQRQA&oe=6A92D559)
+Lots of headlines to cover, including exclusive news out of Texas on MN AG Keith Ellison's attempts to get ICE agent, Christian Castro, extradited back to MN to face criminal charges!
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/785857340_18350530189222194_6773857422130117392_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzk3MDkxODQwNTI1MjA0ODQwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4MC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=NXRjJCPgfyEQ7kNvwEy15M-&_nc_oc=Adqw7t0f_Lgg_p_CIS9Hwg0nCwaA4nB205eJ09Bbg_3h_4p5T6PbDZCdgEKV8FRA4bs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7ShNwNN-dJ27BXcUdNuyXw&_nc_ss=7a22e&oh=00_AQG16nQHFuDwknNVqV8XY_Xe4YqW816hkrjr-Hw2V6s-xQ&oe=6A92DC15)
-
-1.8K
+143
 
 11
 
-69
+1
 
-9
+[![Image 2: momming.uncurated's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771998501_18080382371373213_6797331495829627752_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFV_fbZ5wfaBX3QslV-VatLTMW7qTa4ANe0hYP5HOLluJavFv5fJENxs5ZxUKg0Y5M&_nc_ohc=e7ShdcKs9YMQ7kNvwFMuroh&_nc_gid=bPGWdydvSYntmm8F7wdJ_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHQ8hDPxOnkjOdUBI3vNm9fcdAzE8HUwPqQZyypWAZkNQ&oe=6A941FF5&_nc_sid=10d13b)](http://www.threads.com/@momming.uncurated)
 
-[![Image 4: _jmariee23_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723930716_17944931688214296_3101968858862234980_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHltjdvsBjitobfAUgPqLu3AlvioKgbTc-BJTSWu8VIclsR1-o9pTVb81LPpFXFAVA&_nc_ohc=fsWM-sLyhdcQ7kNvwGYb81e&_nc_gid=7ShNwNN-dJ27BXcUdNuyXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFBE7L_04IgZcSP0O8LMPAsHqb42_UmsgFJKIvz5e6dag&oe=6A92D532&_nc_sid=10d13b)](https://www.threads.com/@_jmariee23_)
+What was the most unfortunate unexpected permanent postpartum body change you experienced?
 
-Explain it to me like I’m 10. Cause I’m confused chile 🤣
+I’ll go first.
 
-[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/779134142_17956405830214296_7034186916211934148_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3MDkwOTcxNDM4NDg1NTUwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ouxK9GiGztcQ7kNvwHT8Vt9&_nc_oc=Adryf823buGcDkHTvm7qFJRIDK3uX6QTq_4Eny8B_bldxk-TjHXSOyZyi
+Giant areolas. 🫠
+
+204
+
+116
+
+11
+
+[![Image 3: soberdogwalker's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/762310711_17939832540318907_3038309590585635876_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFV_fbZ5wfaBX3QslV-VatLTMW7qTa4ANe0hYP5HOLluJavFv5fJENxs5ZxUKg0Y5M&_nc_ohc=_PufrR8KgPEQ7kNvwF0tEEv&_nc_gid=bPGWdydvSYntmm8F7wdJ_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFuN77hVwtCD0PTmt95tlPxXEu5fgMZIw4HyJ5sXY4-Dg&oe=6A941F07&_nc_sid=10d13b)](http://www.threads.com/@soberdogwalker)
+
+pregnant women shouldn’t have to work if they don’t want to for the entirety of their pregnancy imo 🤷‍♀️
+
+477
+
+101
+
+20
+
+5
+
+[![Image 4: lovely_pandabun's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649215747_18050812850508643_7070434630109976220_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFV_fbZ5wfaBX3QslV-VatLTMW7qTa4ANe0hYP5HOLluJavFv5fJENxs5ZxUKg0Y5M&_nc_ohc=A7ZwhDfmEvEQ7kNvwFU-dYe&_nc_gid=bPGWdydvSYntmm8F7wdJ_w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFHLuXdkT3RfEjmwW6MOB5f-QafxOk4Um9IjBK2x6zw7A&oe=6A942BBC&_nc_sid=10d13b)](http://www.threads.com/@lovely_pandabun)
+
+Shane: Ilya Ilya: da Shane: why am I looking at a charge for a Etsy witch on our bank
 ```
