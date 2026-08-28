@@ -8,11 +8,10 @@ category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
-  - "n8n"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0095
-generated_at: "2026-08-27T10:10:10+00:00"
+zh_ratio: 0.0084
+generated_at: "2026-08-28T11:41:23+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -29,7 +28,7 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-Claude、Claude Code、n8n
+Claude、Claude Code
 
 ## 原始工作流拆解
 
@@ -62,22 +61,24 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
-
-Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- Title: 高見龍.agent (@kaochenlong) on Threads
-
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 12.3K views](http://www.threa
+- [![Image 19: climatenewsnow's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/385187428_1243214579702816_8819692003132792596_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-s
+- [![Image 20: California’s New Bill Could Reveal Which “Forever Chemicals” Are Being Sprayed on Crops - edhat](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/13711773294656311876?stp=dst-src&url=https%3A%2F%2Fwww.edhat.com%2Fwp-content%2Fuploads%2F2026%2F08%2F
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、n8n、Agent、agent、工具、CRM
-- zh_ratio: `0.0095`
+- keyword_hits: AI、Claude、Agent、agent、工具、CRM、CLI
+- zh_ratio: `0.0084`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -96,7 +97,7 @@ Markdown Content:
 
 # [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGPdsLdVlYVytHGEDn67IuFfhEksX2TuynSZzwAjlP4hiZUMlgvA6t3pm7v3SndSVA&_nc_ohc=BFIPBr6K6tQQ7kNvwGq_PMR&_nc_gid=BGjcablohT9hSsqnrlsMtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGaOG32nMUj5KXAVMDI2TteEz_-M_gnwyHOkesHYbmCzg&oe=6A95DA8B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=BFIPBr6K6tQQ7kNvwEimFsb&_nc_gid=jM__bEwqIRDt35eunXx8wA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGmjFLBI4D7VIAggjQqXkeydAauBulK6ymIuWKes69jgg&oe=6A972C0B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -108,7 +109,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b-CucvdbCrMQ7kNvwGjTfJV&_nc_oc=AdpIE0jMM1HoyLvRd60eSTZd2iQobOC3QwxkU5cKuzLaI4QWyaIYnJ9BaXmgrJQ7Mt0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=BGjcablohT9hSsqnrlsMtQ&_nc_ss=7a22e&oh=00_AQEeJcniZ9U9lPFc-wW7UIeVRMWKSEbx4tJ8AJhQFErhRg&oe=6A95D120)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b-CucvdbCrMQ7kNvwGrPwC0&_nc_oc=AdpjyoY-jeU7GTWOL4WBJukcc_wJsHOomGd4GdNmKy2yn99ebhDl1zKaVl7EnoIc9ro&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=jM__bEwqIRDt35eunXx8wA&_nc_ss=7a22e&oh=00_AQHUK8pBj9sfQAuCzWR9M-m0-XXp7KWGZ2XripKfhuEeug&oe=6A975AE0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -118,17 +119,17 @@ Translate
 
 16
 
-[![Image 3: hydai's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGPdsLdVlYVytHGEDn67IuFfhEksX2TuynSZzwAjlP4hiZUMlgvA6t3pm7v3SndSVA&_nc_ohc=SnzmgshSAsQQ7kNvwE09oON&_nc_gid=BGjcablohT9hSsqnrlsMtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQG8pq3Q4QwKi7a0EzFYiecI_YupQVLgHcKh7kpD9OcTxQ&oe=6A95DB7C&_nc_sid=10d13b)](https://www.threads.com/@hydai)
+[![Image 3: elser.offical's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=7Ee82TL2fTsQ7kNvwFbs24l&_nc_gid=jM__bEwqIRDt35eunXx8wA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGt0zAeEiUse6zzZ8SilzrzRaToRDmVHDM8Eq1GlGAzYw&oe=6A97560D&_nc_sid=10d13b)](https://www.threads.com/@elser.offical)
 
-[hydai](https://www.threads.com/@hydai)
+[elser.offical](https://www.threads.com/@elser.offical)
 
-[08/13/25](https://www.threads.com/@hydai/post/DNSAYInhhWk)
+[08/13/25](https://www.threads.com/@elser.offical/post/DNUERYlSOhu)
 
-我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
+需要升级cc吗
 
 Translate
 
 1
 
-[![Image 4: ziyuang's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTYuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGPdsLdVlYVytHGEDn67IuFfhEksX2TuynSZzwAjlP4hiZUMlgvA6t3pm7v3SndSVA&_nc_ohc=MZkCrvMKWF4Q7kNvwGH
+[![Image 4: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=BFIPBr6K6tQQ7kNvwEimFsb&_
 ```

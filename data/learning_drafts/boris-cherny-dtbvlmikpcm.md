@@ -8,14 +8,17 @@ category: "mcp"
 tools:
   - "Claude"
   - "Claude Code"
+  - "GPT"
   - "MCP"
+  - "RAG"
   - "Make"
   - "Slack"
+  - "Cursor"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-27T10:10:10+00:00"
+generated_at: "2026-08-28T11:41:23+00:00"
 ---
 
 # boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
@@ -32,13 +35,12 @@ I'm Boris and I created Claude Code. Lots of people have asked how I use Claude 
 
 ## 使用工具
 
-Claude、Claude Code、MCP、Make、Slack、GitHub
+Claude、Claude Code、GPT、MCP、RAG、Make、Slack、Cursor、GitHub
 
 ## 原始工作流拆解
 
 1. 7/ I use slash commands for every inner loop workflow that I do many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUC1mi41d0CcyHZw6hPKqXVrJSFd2dsICndsfJ-giAMkdz_3jbA4NFB8D0VeNRIJbEcvArhHZMrG9NMZIjpzhhz8D2DYMS6XR05sH9KjFqv_KS5urKA)
-3. I can also recommend telling it to ‘use many subagents’ to complete a task. It keeps the context slimmer and often seems faster
+2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUC2bQ4khX84YOziJUxmwnMLdDtTgptvr7JIxbovXOcgdG2yCPqc6WMjE5PZI0jHJ4viIR1X2t9fzUjeg0eNmnaW9XalZY_udBt-BLA680NQc4ZTfYo)
 
 ## 可以直接複製的做法
 
@@ -66,31 +68,6 @@ reply_summary_status: `partial`
 
 - Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread 485K views](https://
-- [![Image 26: Claude Code](https://external-atl3-3.xx.fbcdn.net/emg1/v/t13/13132934808741569137?stp=dst-src&url=https%3A%2F%2Fclaude.ai%2Fimages%2Fcode%2FWeb.png&utld=claude.ai&_nc_gid=oUMd0lfdk-07FMo3SCNdQg&_nc_oc=AdqPnXTH0EAYq20pFUrNdLBGO8asCdNCC7ReiOdth3icpU
-- 2/ I also run 5-10 Claudes on [claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUC6W6aOJp_4IZaACvkbrZVKKeopV8zcwCPQjzRpeIizNBDOnmAwO0l3mvftWRuYq-1hDFtttgICVA0IMPsFvl0OqxyduoM73r_y_laMj9fXkZA2B4Y), in parallel with my local Claudes. As 
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Make、Agent、agent、prompt、Slack、GitHub、CLI、workflow
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-## 原始抓取內容
-
-```text
-Title: Boris Cherny (@boris_cherny) on Threads
-
 URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
@@ -100,13 +77,37 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 485K views](http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
+# [Thread 485K views](http://www.t
+- 2/ I also run 5-10 Claudes on [claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUDkgVRDtQv5BwPn_qe9EWAyNkI0BqlelI6ljFJxK8EGteCyPG8c8blVX4qjAmVTs9xZGSHi29O1PoX8NOiWdZq5OcvaCozE1KCKtHsvvegFZ1dLv9E), in parallel with my local Claudes. As 
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuiftarYiH0YPM_jB6PofoEYzsSUZDNICnP59UweaOBobS-l5vYWblwN-onASIDgY&_nc_ohc=VGqWAb59BZAQ7kNvwGM_i4m&_nc_gid=uCE4xNGsWCBiHNnEyZ7qSw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQER2LIT21HS8nxqF-tukZcm5G0-kWGg92b6JBWfhLkbjw&oe=6A95F2A2&_nc_sid=10d13b)](http://www.threads.com/@boris_cherny)
+## 抓取品質
 
-[boris_cherny](http://www.threads.com/@boris_cherny)
+- content_quality: `strong`
+- keyword_hits: AI、Claude、GPT、RAG、MCP、Make、Cursor、Agent、agent、prompt、Slack、GitHub、CLI、workflow
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
-[01/02/26](http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
+## 原始抓取內容
+
+```text
+Title: Boris Cherny (@boris_cherny) on Threads
+
+URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 485K views](https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
+
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEovg--fxHjnXRmrd5xkAa-91oDDSVzZb3gR94CzP_SNgK1cxyy7v5HWb1W5J94XMc&_nc_ohc=VGqWAb59BZAQ7kNvwFnVmqc&_nc_gid=WGYg0I5BdVppzeEUYEPEXQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFuNyP0BRbpNcjEVVql4LPAxAhZ2S4-lwkYOHqnTmE76g&oe=6A974422&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
+
+[boris_cherny](https://www.threads.com/@boris_cherny)
+
+[01/02/26](https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
 
 I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
 
@@ -122,15 +123,15 @@ So, here goes.
 
 3K
 
-[![Image 2: A Threads user's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFuiftarYiH0YPM_jB6PofoEYzsSUZDNICnP59UweaOBobS-l5vYWblwN-onASIDgY&_nc_ohc=VGqWAb59BZAQ7kNvwGM_i4m&_nc_gid=uCE4xNGsWCBiHNnEyZ7qSw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQER2LIT21HS8nxqF-tukZcm5G0-kWGg92b6JBWfhLkbjw&oe=6A95F2A2&_nc_sid=10d13b)](http://www.threads.com/@boris_cherny)
+[![Image 2: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEovg--fxHjnXRmrd5xkAa-91oDDSVzZb3gR94CzP_SNgK1cxyy7v5HWb1W5J94XMc&_nc_ohc=VGqWAb59BZAQ7kNvwFnVmqc&_nc_gid=WGYg0I5BdVppzeEUYEPEXQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQFuNyP0BRbpNcjEVVql4LPAxAhZ2S4-lwkYOHqnTmE76g&oe=6A974422&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
 
-[boris_cherny](http://www.threads.com/@boris_cherny)
+[boris_cherny](https://www.threads.com/@boris_cherny)
 
-[01/02/26](http://www.threads.com/@boris_cherny/post/DTBVlq0kobo)
+[01/02/26](https://www.threads.com/@boris_cherny/post/DTBVlq0kobo)
 
 ·Author
 
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUC1mi41d0CcyHZw6hPKqXVrJSFd2dsICndsfJ-giAMkdz_3jbA4NFB8D0VeNRIJbEcvArhHZMrG9NMZIjpzhhz8D2DYMS6XR05sH9KjFqv_KS5urKA)
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUC2bQ4khX84YOziJUxmwnMLdDtTgptvr7JIxbovXOcgdG2yCPqc6WMjE5PZI0jHJ4viIR1X2t9fzUjeg0eNmnaW9XalZY_udBt-BLA680NQc4ZTfYo)
 
-[![Image 3](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgwMTQxNDUwODA1Mzk1NjMyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ybfq8v7cnKYQ7kNvwGy5TOq&_nc_oc=AdqqFepgocdFNwKE0W7kIrRnueAgc89VHRa5IOUukQZZ
+[![Image 3](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgwMTQxNDUwODA1Mzk1NjMyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zZbHmxylg68Q7kNvwHyQGyv&_nc_oc=AdqXundWgXK8-RSuzBD7BiVZyr1BNREPl
 ```

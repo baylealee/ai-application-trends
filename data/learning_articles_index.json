@@ -1,19 +1,19 @@
 [
   {
-    "title": "techtip_s 的 AI 工作流案例：Me: …Make it two books.",
+    "title": "techtip_s 的 AI 工作流案例：I’m not posting any sneak peeks for Deja V",
     "filename": "techtip-s-dx4ehungojh.md",
     "source_url": "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh",
     "source_author": "techtip_s",
     "post_id": "DX4ehuNGOJh",
     "category": "coding",
     "tools": [
-      "Make"
+      "GAS"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實",
@@ -21,19 +21,16 @@
     "source_url": "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR",
     "source_author": "pmenance.manager",
     "post_id": "DZEgVRcGVJR",
-    "category": "knowledge_base",
+    "category": "coding",
     "tools": [
-      "Claude",
-      "RAG",
       "Notion",
-      "Slack",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0368,
+    "zh_ratio": 0.101,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads",
@@ -43,13 +40,14 @@
     "post_id": "DYXi9DaEicv",
     "category": "coding",
     "tools": [
+      "Claude",
       "Notion"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads",
@@ -60,14 +58,13 @@
     "category": "coding",
     "tools": [
       "Claude",
-      "Claude Code",
-      "n8n"
+      "Claude Code"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0095,
+    "zh_ratio": 0.0084,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我",
@@ -80,13 +77,14 @@
       "Claude",
       "Claude Code",
       "MCP",
+      "RAG",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0487,
+    "zh_ratio": 0.0429,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我",
@@ -96,14 +94,15 @@
     "post_id": "DYH_wqQGzgH",
     "category": "coding",
     "tools": [
+      "n8n",
       "Codex",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0799,
+    "zh_ratio": 0.0797,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競",
@@ -111,33 +110,30 @@
     "source_url": "https://www.threads.com/@henry.wen/post/DYrzDyumRsq",
     "source_author": "henry.wen",
     "post_id": "DYrzDyumRsq",
-    "category": "coding",
+    "category": "mcp",
     "tools": [
-      "Manus"
+      "Manus",
+      "MCP"
     ],
     "status": "draft",
-    "content_quality": "medium",
-    "zh_ratio": 0.0652,
+    "content_quality": "strong",
+    "zh_ratio": 0.0855,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
-    "title": "govin999999 的 AI 工作流案例：\"God didn't make plastic surgeons so they ",
+    "title": "govin999999 的 AI 工作流案例：Title: Threads • Log in",
     "filename": "govin999999-dzzhhafmeri.md",
     "source_url": "https://www.threads.com/@govin999999/post/DZzhHaFmErI",
     "source_author": "govin999999",
     "post_id": "DZzhHaFmErI",
     "category": "coding",
-    "tools": [
-      "GPT",
-      "Make",
-      "GAS"
-    ],
+    "tools": [],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。",
@@ -148,14 +144,13 @@
     "category": "mcp",
     "tools": [
       "Claude",
-      "GPT",
       "MCP"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0312,
+    "zh_ratio": 0.0309,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots ",
@@ -167,16 +162,19 @@
     "tools": [
       "Claude",
       "Claude Code",
+      "GPT",
       "MCP",
+      "RAG",
       "Make",
       "Slack",
+      "Cursor",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?",
@@ -193,9 +191,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0209,
+    "zh_ratio": 0.0234,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   },
   {
     "title": "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短",
@@ -214,6 +212,6 @@
     "content_quality": "strong",
     "zh_ratio": 0.1051,
     "reply_summary_status": "partial",
-    "generated_at": "2026-08-27T10:10:10+00:00"
+    "generated_at": "2026-08-28T11:41:23+00:00"
   }
 ]

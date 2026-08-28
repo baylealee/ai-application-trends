@@ -1,27 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：\"God didn't make plastic surgeons so they "
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "GPT"
-  - "Make"
-  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-27T10:10:10+00:00"
+generated_at: "2026-08-28T11:41:23+00:00"
 ---
 
-# govin999999 的 AI 工作流案例："God didn't make plastic surgeons so they 
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-"God didn't make plastic surgeons so they could starve"😂🤣🤣
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -29,7 +26,7 @@ generated_at: "2026-08-27T10:10:10+00:00"
 
 ## 使用工具
 
-GPT、Make、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -63,19 +60,26 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: hvsbey's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/781338942_17943232602318492_2494695987214142167_n.jpg?stp=dst-jp
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/783556064_17943453000304894_2652646019013615360_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3MjM0MDE0MTg0NTQyNTEzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
-- The fact that was started by is now worth over a half a billion dollars investing in top talent and both of them are in the playoffs but can’t even rent out an Atheletico nor inform its players when unhinged incels appear at work, should tell you all you need 
-- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/785080605_17984936868117296_2256399624496065330_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3MjM2MzcxMzU4ODI5MDY4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/782413437_17943453006304894_4918602096466544266_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3MjM0MDE0ODMyMTUzMzM0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOpMUU5xPuB4DUhB7NfmAxMslDF8YLU4yud0uVDG01R6RrX2qLue14ro0_xY-7MXt5Ul6Y8T5X7611mmcsBVQuMTH1Ew7ZqPJy3xso.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=DefxZJv8Yw4Q7kNvwGhdREE&
+- Water 💧 signs, with the 10 of Wands showing up in your energy, baby, I see that some of y’all are tired 😪. I feel like there’s a lot of financial pressure weighing on your shoulders right now. You have bills, a household to maintain, children or family to take
+- Red: Shes gone thru evaluation after evaluation recorded as they question her in her wheelchair, 3 years after the incident? Paul Zeizel was there literally...I saw her in the hospital practically dead and I reached out to Dr Paul Zeizel...he was concerned for
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/786656704_17986178958100600_3465553769346631285_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MzMyMTA4OTYzMjUwNjE0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: GPT、Make、CLI
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -84,40 +88,44 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: starr__1204's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786094186_17980141380115824_6756925668745137108_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGMPVwFgPovwJ6eCBKkKFSXYk8_oWm0S1jEVfwVqo8loZgSG4257f7o1EtRmBgo52o&_nc_ohc=4dn4PMkwLbIQ7kNvwGZwo4y&_nc_gid=dB6qers42xbGeuTMff20xQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHgc69s5UC2aKZZGcbHrNOV3wIOlHHVdw0k4wm_OThkvw&oe=6A95E80C&_nc_sid=10d13b)](https://www.threads.com/@starr__1204)
+[![Image 1: 300kblackwomen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/581223426_17844058074614793_1001273742177285321_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=J4Fs08iW074Q7kNvwFeFktj&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHUeosV1eKROeQuvByUqEOlTstzUE0AUxAYeUYx0zCNlw&oe=6A976126&_nc_sid=10d13b)](http://www.threads.com/@300kblackwomen)
 
-"God didn't make plastic surgeons so they could starve"😂🤣🤣
+Black farmers and food producers: what’s one thing you wish more consumers understood about buying directly from you?
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/782310429_957926547316576_3135105302535416207_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk3MjY1MzIyODY4NDg0MDYwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=F_xUtdtbSJIQ7kNvwFbeqSr&_nc_oc=AdrlPThy7GTRFh6A-1JSi4B9PR1a26THQJ0ajYmYZiCeBhDT1B09_IhBIFA7ZgUbbsE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dB6qers42xbGeuTMff20xQ&_nc_ss=7a22e&oh=00_AQE2EPk_PxoklQ1TDrl6Ps_VG3BLuTj6FhIzypuYCUnmWA&oe=6A95F499)
+276
 
-4.2K
+24
 
-47
+33
 
-247
+8
 
-47
+[![Image 2: hex.codes.and.woo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/541210182_17967983516943971_7800546578219031616_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=S_6YA_E_HbYQ7kNvwFLhrPX&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF1yuHZM9Y3WpsPcppxqN-ztMs-GRvaCaccuEN_bAZ-1A&oe=6A973ED7&_nc_sid=10d13b)](http://www.threads.com/@hex.codes.and.woo)
 
-[![Image 3: izzyvibezzz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622502547_17842430211686728_2965248502062998767_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGMPVwFgPovwJ6eCBKkKFSXYk8_oWm0S1jEVfwVqo8loZgSG4257f7o1EtRmBgo52o&_nc_ohc=yZ7ab-y8zkwQ7kNvwHIbqsz&_nc_gid=dB6qers42xbGeuTMff20xQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEX8gdnlGlfJwhRC2zziArH0g3Iecz-QH-02dHiJXri9g&oe=6A95F42D&_nc_sid=10d13b)](https://www.threads.com/@izzyvibezzz)
+Ok so when does this eclipse portal **officially** close? Is it when the moon moves in Aries on Saturday?
 
-Barrett and Yash coming to the conclusion that they can get rid of Drew and doing the numbers
-
-Barrett gasped when he realized they just need Melodys vote.
-
-LETS GOOOOO YASH!!!!!
-
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/787136308_17879647395686728_3705203748844112569_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3MjYyMDU1ODQ3MDMxMTU4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDAzMi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7cpJgfNJw6MQ7kNvwGjLM_O&_nc_oc=Adrhza5hK0PeW2HTimBTtLQ0Bc29taNIpBAB9MqNQCMtVsk4rIaHc8w8wJ6ci-HWoPQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=dB6qers42xbGeuTMff20xQ&_nc_ss=7a22e&oh=00_AQEHsuJwVzt2b99j3yKMt-OQVt_UxGSdAnKgYlbYsJZqIg&oe=6A95DDFF&se=-1)](https://www.threads.com/@izzyvibezzz/post/DchlVmfCW6e/media)
-
-346
+60
 
 17
 
-5
+2
 
-13
+[![Image 3: unrivaledbasketball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450176621_1496841881221206_4673483511842966691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=XQ1DTM-8GUoQ7kNvwEEbTHa&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGw_ZjTf8cnbKm1kabULI-rOxQb-n5XB6AQf3zPuGOC5Q&oe=6A973C5D&_nc_sid=10d13b)](http://www.threads.com/@unrivaledbasketball)
 
-[![Image 5: naeminista's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/757602684_17959820247173788_1068879851729462378_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44Mz
+Happy birthday ! 🥳💜
+
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/783571121_17983859667111820_2331674211555895019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3Mjk3NjA1NjU0NjUwMTAwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rz013YdTFKQQ7kNvwExwV9u&_nc_oc=Ado4rk2b7K1Qtf08DtINn28YuQkcfcI5E8G83MMwyJ6ojzAHjDJQPTUyAI09vSwWH6U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&_nc_ss=7a22e&oh=00_AQGv-ax9_VcLYKg27zXblaApBW_P7_i8GsYHHmleRhpzqg&oe=6A97614F)](http://www.threads.com/@unrivaledbasketball/post/Dci2Kx3liGQ/media)
+
+678
+
+12
+
+29
+
+2
+
+[![Image 5: survivordeepdive's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/460688485_399923316484901_1518503205872226749_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLm
 ```
