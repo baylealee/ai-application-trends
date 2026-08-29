@@ -1,25 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I’m not posting any sneak peeks for Deja V"
+title: "techtip_s 的 AI 工作流案例：u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "GAS"
+  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-28T11:41:23+00:00"
+generated_at: "2026-08-29T07:19:06+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I’m not posting any sneak peeks for Deja V
+# techtip_s 的 AI 工作流案例：u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I’m not posting any sneak peeks for Deja Vu Vegas.
+u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUA_NsjH0zCzCgOZCghGpku0F-OT9J9pad8gqZgB2b3_jBNsVn8Hsp_bdvjjJOxRAgumwfcScqOmF0Wc5JAJvvihaBqhtQ1kYvzrz-0NSm3BfJVoM
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ I’m not posting any sneak peeks for Deja Vu Vegas.
 
 ## 使用工具
 
-GAS
+RAG
 
 ## 原始工作流拆解
 
@@ -61,24 +61,24 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: wh0re4hollanov's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/784717333_17905417617472652_9149512695603458156_n.jpg?stp
-- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/786742376_17969321664132603_6706072491790641513_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk3MzMxNzI0MDgyMDcxMjE4NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
-- [![Image 6: melissastacey3's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753007397_17963365869132603_393410952344983810_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent.cdninsta
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: ancient_mysteries_06's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785601883_18090280826270221_4083293224610629508_n.jp
-- Yeah a real review needs to be done on RIU Montego Bay… this is not a 5 star hotel are yall out of y’all’s minds 😂 Saw a few roaches, food is not that great.. but that can be said about an all inclusive, bed rooms not properly cleaned, don’t get me started on 
+[![Image 1: the.apple.design's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/783424116_18089947964220814_1301666779790906660_n.jpg?st
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: sabrinakundu777's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787022144_18092297657181566_5229897489949474358_n.jpg?st
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/788102667_18091050608220814_7400165640123331695_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk3Mzk1NjAwNzQxNjI5ODQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/789347680_17964834357149789_9165650382519521994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NDAxOTQ5MTAxODQxNzM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/786242260_17964834348149789_158659490618483713_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk3NDAxOTQ5MTIxMTQ5NjI4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、CLI
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -90,25 +90,59 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: currentlyintheculture's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608503168_17850184848603545_5202859522540509790_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHqhqsiwSuFn1E8E-CqcAGTiQgTRy9yNn0_y1_tSzXVTHyeB7z3OOO4Bscqfad8Rqc&_nc_ohc=05OeyBwTEasQ7kNvwGjdO5d&_nc_gid=iBqomOw-oTzm7gjqD68Low&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQEuGDs38jxTr_rSjYanPW5rfl5AwpYcw2eFUTqbtJHz6g&oe=6A973A8D&_nc_sid=10d13b)](https://www.threads.com/@currentlyintheculture)
+[](https://www.threads.com/)
 
-OTF Jam testified that he was involved in “probably 100 plus” armed robberies targeting drug dealers before acknowledging that he pleaded guilty to two m**ders, including the 2022 killing of Quando Rondo’s cousin Lul Pab.
+[](https://www.threads.com/)
 
-Jam pointed to Durk in court and claimed he orchestrated the alleged plot targeting Quando. Jam said he only learned the mission after arriving in San Diego and felt trapped because refusing to participate could put his own life in danger.
+[](https://www.threads.com/search)
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/784617654_936198092221575_1098313149084881889_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk3MzAyMjMyMDA3OTkwODI5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=lcFSuSW5o00Q7kNvwG-_ebv&_nc_oc=AdrDsC5Qw0-Hx2sJMq2Y470qYUbevc-v8HxGAdSyE93heemmqgPvYr_fuwAjl4Sfp-Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iBqomOw-oTzm7gjqD68Low&_nc_ss=7a22e&oh=00_AQFETWMDqzlFhsmSEG4TAuJsCOCZIxitblaYkc2KHItm7Q&oe=6A974E92)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-92
+[![Image 1: sabrinakundu777's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787022144_18092297657181566_5229897489949474358_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=7oWSLkYSdpQQ7kNvwF1-bBM&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKZaSRIQ0mN_qQWd8zhOWfSVryISccGlGoAuCrNCYc1Zw&oe=6A986FEA&_nc_sid=10d13b)](https://www.threads.com/@sabrinakundu777)
 
-11
+[sabrinakundu777](https://www.threads.com/@sabrinakundu777)
 
-9
+[Swifties](https://www.threads.com/search?q=Swifties&serp_type=tags&tag_id=18362646589074357)
 
-35
+[16h](https://www.threads.com/@sabrinakundu777/post/Dclk2oQjpj6)
 
-[![Image 3: preciouspearl_08's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/591148903_17891700237381629_1466487174087784507_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHqhqsiwSuFn1E8E-CqcAGTiQgTRy9yNn0_y1_tSzXVTHyeB7z3OOO4Bscqfad8Rqc&_nc_ohc=CurCBTVtGtcQ7kNvwGHsA3t&_nc_gid=iBqomOw-oTzm7gjqD68Low&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGhpO6LmJ3FheDPzTvfne1uk9ilH-_qtxbdPEhFg-PwUA&oe=6A975DEC&_nc_sid=10d13b)](https://www.threads.com/@preciouspearl_08)
+Swifties, what’s a Taylor Swift song you didn’t appreciate at first… but now you would defend with your LIFE? 😭🎶
 
-Chile Marissa came to the reunion with all the smoke 💨 She was like if we gonna tell it, then let’s tell it all!! 😂
+#TaylorSwift #Swifties #SwiftieCommunity #TaylorNation #SwiftieThreads
 
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/789300890_17931873606381629_3624892818354584465_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk3MzI3MDU4MzcxODc4Nzc4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE2OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UdjXwDnSS8YQ7kNvwF0h3ee&_nc_oc=AdpLwxdMuLDOhND5V2pLUnLNAAL0g5LFXhveIBwV6d00tpDwy5eRksv310PXDjeo3hQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=iBqomOw-oTzm7gjqD68Low&_nc_ss=7a22e&oh=00_AQEXx
+33
+
+58
+
+[![Image 2: deannabutler90's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/411411341_891709409244336_1830065107051649076_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=qFD9wc6Rr_oQ7kNvwE-UKPv&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI-Cfc0b3BfFjFqV1vdCW99-4PhtStGg78O6p6ST2djIA&oe=6A986781&_nc_sid=10d13b)](https://www.threads.com/@deannabutler90)
+
+[deannabutler90](https://www.threads.com/@deannabutler90)
+
+[8h](https://www.threads.com/@deannabutler90/post/Dcmgnmmjw3u)
+
+It's hard for me to know what was abnormal about living in a cult, so I'm just going to post random memories.
+
+197
+
+13
+
+1
+
+[![Image 3: so_extra's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485261997_655731590441675_2988720352804781609_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=LV9YG3w-yk8Q7kNvwEwvIej&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL9oxCU2Je8AZ388-4ovEpg-P673RZbCMU1GaAcnrJaDg&oe=6A98437D&_nc_sid=10d13b)](https://www.threads.com/@so_extra)
+
+[so_extra](https://www.threads.com/@so_extra)
+
+[18h](https://www.threads.com/@so_extra/post/Dcla3o3jveg)
+
+Love languages are important.. But what’s your APOLOGY langauge??
+
+313
+
+90
+
+99
+
+4
+
+[![Image 4: dirtypunkgardening's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/500637541_18500950837011475_8001533905620813720_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2Z
 ```

@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-28T11:41:23+00:00"
+generated_at: "2026-08-29T07:19:06+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -71,10 +71,10 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOpMUU5xPuB4DUhB7NfmAxMslDF8YLU4yud0uVDG01R6RrX2qLue14ro0_xY-7MXt5Ul6Y8T5X7611mmcsBVQuMTH1Ew7ZqPJy3xso.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=DefxZJv8Yw4Q7kNvwGhdREE&
-- Water 💧 signs, with the 10 of Wands showing up in your energy, baby, I see that some of y’all are tired 😪. I feel like there’s a lot of financial pressure weighing on your shoulders right now. You have bills, a household to maintain, children or family to take
-- Red: Shes gone thru evaluation after evaluation recorded as they question her in her wheelchair, 3 years after the incident? Paul Zeizel was there literally...I saw her in the hospital practically dead and I reached out to Dr Paul Zeizel...he was concerned for
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/786656704_17986178958100600_3465553769346631285_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3MzMyMTA4OTYzMjUwNjE0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMHlRTAHwT9wpDEEHc6xcCuuzedWlzHirU3ClRMeVbX8UaroZx9ItzW4lhAD_Cb7SzKMOFjtBQ87CeHWdpim4GuJ3tQxC4inqYBaK4.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=IbEVS3qWTaYQ7kNvwHD0Xq4&
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/789424633_18329573539273584_3566833502694673072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3NDA1OTIxNzA5MTIyNDcyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/787666483_18329573503273584_4671532319406250818_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NDA1OTIxNzkzODQ2MDQzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0
+- [![Image 1: croniclyaltered's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774386109_18080641289356280_8897395038836609997_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnin
 
 ## 抓取品質
 
@@ -91,41 +91,55 @@ Title: Threads • Log in
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: 300kblackwomen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/581223426_17844058074614793_1001273742177285321_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=J4Fs08iW074Q7kNvwFeFktj&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQHUeosV1eKROeQuvByUqEOlTstzUE0AUxAYeUYx0zCNlw&oe=6A976126&_nc_sid=10d13b)](http://www.threads.com/@300kblackwomen)
+[](http://www.threads.com/)
 
-Black farmers and food producers: what’s one thing you wish more consumers understood about buying directly from you?
+[](http://www.threads.com/)
 
-276
+[](http://www.threads.com/search)
 
-24
+# [Home](http://www.threads.com/?error=invalid_post)
 
-33
+[![Image 1: dcuworlds's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753702185_17934867681344762_304833108377632945_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFE1fGWYKMzTLh83iUpZ3IuND7gYnEWtrtvsjrfKM8Yy0jbOcwhdRFcD51jc5_lVeU&_nc_ohc=ELLAouvA95sQ7kNvwGh4yTe&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIap20LpU9qWSAL0pzJBxHQSLj1PU4YZ6KRcxov5r_omw&oe=6A9850BD&_nc_sid=10d13b)](http://www.threads.com/@dcuworlds)
 
-8
+[dcuworlds](http://www.threads.com/@dcuworlds)
 
-[![Image 2: hex.codes.and.woo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/541210182_17967983516943971_7800546578219031616_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=S_6YA_E_HbYQ7kNvwFLhrPX&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQF1yuHZM9Y3WpsPcppxqN-ztMs-GRvaCaccuEN_bAZ-1A&oe=6A973ED7&_nc_sid=10d13b)](http://www.threads.com/@hex.codes.and.woo)
+[16h](http://www.threads.com/@dcuworlds/post/DclnVXCl0p0)
 
-Ok so when does this eclipse portal **officially** close? Is it when the moon moves in Aries on Saturday?
+James Gunn has reportedly signed a contract extension to remain the co-CEO of DC Studios.
 
-60
+"He will [stick around]. He just extended"
 
-17
+Via: TheInSneider
 
-2
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/785315179_17940483156344762_5565592218099028440_n.webp?_nc_cat=109&ig_cache_key=Mzk3Mzc1NTIzNzg4NjgwNjY0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YidGYAg3uwQQ7kNvwEFfXRk&_nc_oc=AdpD-ZqhrSfXqqEWbasW7nhuWhmTepH0v6OyhTSY4NTqA4EL3Y-LCP2iawrs5S13HBo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&_nc_ss=7a22e&oh=00_AQJ474eCKIMYD42be2cPxjsKLDCfZ8WG_n5y2SXJt0yoiQ&oe=6A9853C1)](http://www.threads.com/@dcuworlds/post/DclnVXCl0p0/media)
 
-[![Image 3: unrivaledbasketball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450176621_1496841881221206_4673483511842966691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF5jWbp5g9bj_JJQHktIBdFZQbJxCpAyj64m9nLQ-D1O2ElGnOLX9PwyTqbMSZEwVc&_nc_ohc=XQ1DTM-8GUoQ7kNvwEEbTHa&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGw_ZjTf8cnbKm1kabULI-rOxQb-n5XB6AQf3zPuGOC5Q&oe=6A973C5D&_nc_sid=10d13b)](http://www.threads.com/@unrivaledbasketball)
+490
 
-Happy birthday ! 🥳💜
+51
 
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/783571121_17983859667111820_2331674211555895019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3Mjk3NjA1NjU0NjUwMTAwOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=rz013YdTFKQQ7kNvwExwV9u&_nc_oc=Ado4rk2b7K1Qtf08DtINn28YuQkcfcI5E8G83MMwyJ6ojzAHjDJQPTUyAI09vSwWH6U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=YoFIvS-RHg1RpnmLLmjs1w&_nc_ss=7a22e&oh=00_AQGv-ax9_VcLYKg27zXblaApBW_P7_i8GsYHHmleRhpzqg&oe=6A97614F)](http://www.threads.com/@unrivaledbasketball/post/Dci2Kx3liGQ/media)
+21
 
-678
+18
 
-12
+[![Image 3: politicsinthewild's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357893421_1333959127158143_2226820848541447231_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFE1fGWYKMzTLh83iUpZ3IuND7gYnEWtrtvsjrfKM8Yy0jbOcwhdRFcD51jc5_lVeU&_nc_ohc=6rh-R1tstOYQ7kNvwH8BIZJ&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLslbYhr7LJgIR6l9obEfF5cKcFn6qi6Py3aCk1PtoUAA&oe=6A985C80&_nc_sid=10d13b)](http://www.threads.com/@politicsinthewild)
 
-29
+[politicsinthewild](http://www.threads.com/@politicsinthewild)
 
-2
+[15h](http://www.threads.com/@politicsinthewild/post/DcltZJrm1yD)
 
-[![Image 5: survivordeepdive's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/460688485_399923316484901_1518503205872226749_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLm
+Ken Paxton & Gregg Abbott gave a GOP litigator 30 days in jail for mollesting a little boy continuously over the course of years
+
+But if they were to catch you with one gram of weed, you’d go to jail for 180 days.
+
+Texans, you need to get out and vote against Gregg Abbot and Ken Paxton
+
+2.7K
+
+25
+
+421
+
+31
+
+[![Image 4: twojudgeygirls's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574496750_17934631638101408_3828940957135646408_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent.cdninstagram.
 ```

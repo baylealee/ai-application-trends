@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0084
-generated_at: "2026-08-28T11:41:23+00:00"
+zh_ratio: 0.0082
+generated_at: "2026-08-29T07:19:06+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -64,21 +64,13 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Thread 12.3K views](http://www.threa
-- [![Image 19: climatenewsnow's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/385187428_1243214579702816_8819692003132792596_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent-s
-- [![Image 20: California’s New Bill Could Reveal Which “Forever Chemicals” Are Being Sprayed on Crops - edhat](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/13711773294656311876?stp=dst-src&url=https%3A%2F%2Fwww.edhat.com%2Fwp-content%2Fuploads%2F2026%2F08%2F
+[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工具、CRM、CLI
-- zh_ratio: `0.0084`
+- keyword_hits: AI、Claude、Agent、agent、工具、CLI
+- zh_ratio: `0.0082`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -97,7 +89,7 @@ Markdown Content:
 
 # [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=BFIPBr6K6tQQ7kNvwEimFsb&_nc_gid=jM__bEwqIRDt35eunXx8wA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGmjFLBI4D7VIAggjQqXkeydAauBulK6ymIuWKes69jgg&oe=6A972C0B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHYlqXALoSTyCldB7OyDpXGyPoBUCiJeRT2vV9sEyz5m4ySFetb72KWB3afIljcJ0k&_nc_ohc=BFIPBr6K6tQQ7kNvwFPmswi&_nc_gid=avoki5Qnh00CleFC8ArSlQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLCK5ytfa-qpACSf13Es4lBV2aVo24fESPoHizJKUcQDg&oe=6A98454B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -109,7 +101,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=b-CucvdbCrMQ7kNvwGrPwC0&_nc_oc=AdpjyoY-jeU7GTWOL4WBJukcc_wJsHOomGd4GdNmKy2yn99ebhDl1zKaVl7EnoIc9ro&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=jM__bEwqIRDt35eunXx8wA&_nc_ss=7a22e&oh=00_AQHUK8pBj9sfQAuCzWR9M-m0-XXp7KWGZ2XripKfhuEeug&oe=6A975AE0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qW0ElZyI5QkQ7kNvwEV2y1B&_nc_oc=Adp8pQvNwBaSmwzQU2eSWAoma4DpNeRl7IzEJdIJsaqOdppA77Pp3xj0WqWVcOww1oA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=avoki5Qnh00CleFC8ArSlQ&_nc_ss=7a22e&oh=00_AQKK1XXaZ-vvw-zV9ej1vmVmWwLiWVgFjiFFVOS0kAB2Lw&oe=6A987420)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -119,7 +111,7 @@ Translate
 
 16
 
-[![Image 3: elser.offical's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=7Ee82TL2fTsQ7kNvwFbs24l&_nc_gid=jM__bEwqIRDt35eunXx8wA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGt0zAeEiUse6zzZ8SilzrzRaToRDmVHDM8Eq1GlGAzYw&oe=6A97560D&_nc_sid=10d13b)](https://www.threads.com/@elser.offical)
+[![Image 3: elser.offical's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHYlqXALoSTyCldB7OyDpXGyPoBUCiJeRT2vV9sEyz5m4ySFetb72KWB3afIljcJ0k&_nc_ohc=7Ee82TL2fTsQ7kNvwEv-c-S&_nc_gid=avoki5Qnh00CleFC8ArSlQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJnWpHSPqNPKXI5HjT2fYvdZf-6EU8FNbdP0jFu3XgweQ&oe=6A986F4D&_nc_sid=10d13b)](https://www.threads.com/@elser.offical)
 
 [elser.offical](https://www.threads.com/@elser.offical)
 
@@ -131,5 +123,5 @@ Translate
 
 1
 
-[![Image 4: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFxnEbblfT-WjFN-5zIvPsmPdgfUgv6y7I589_YxZQmKS-CXP0rRObivlxhWcyM29o&_nc_ohc=BFIPBr6K6tQQ7kNvwEimFsb&_
+[![Image 4: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHYlqXALoSTyCldB7OyDpXGyPoBUCiJeRT2vV9sEyz5m4ySFetb72KWB3afIljcJ0k&_nc_ohc=BFIPBr6K6tQQ7kNvwFPmswi&_
 ```

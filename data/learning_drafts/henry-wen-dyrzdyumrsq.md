@@ -10,8 +10,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0855
-generated_at: "2026-08-28T11:41:23+00:00"
+zh_ratio: 0.0852
+generated_at: "2026-08-29T07:19:06+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -66,14 +66,13 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
-- [Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBlJtAQRlj2RrJyxhAPx8PgVmzen1_w8_LTl5UGcNOKWAIl2NhXCH6-LvGMG7xj4IhB28ejpXE_Sw3tb7pQO5dMtwk4NqafrqN04vZomNDT66A3zts)
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、MCP、自動化、流程、工具
-- zh_ratio: `0.0855`
+- zh_ratio: `0.0852`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -90,9 +89,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 712 views](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
+# [Thread 713 views](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFq-J5CJxd_OOW1f9t7Se_oQX9crtlV37s9XWOcPZftpJ27-JwfEYN_cT1j2stfCfQ&_nc_ohc=bzYyULddESYQ7kNvwEl9YCJ&_nc_gid=1SefOZRLu6Vm2qtYHSdCJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQGje4OuDoAwdZXkAvwfLwldjSYgVR3gLLK5gL87r6feMQ&oe=6A9747FA&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFueCaz1FtdJaNvHceP9pMYx9MLlx6WEE8SlpEVZfFo05sswG_Zd7APJGdv0UiJjHU&_nc_ohc=bzYyULddESYQ7kNvwEiMCth&_nc_gid=xyjwr4dPONybW31GjtSWyg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLeyeWpOouWTan4LOrLau5HNE-R13c5T3-YC_3s0_BJdQ&oe=6A98613A&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -106,9 +105,9 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=RV8aKK_798EQ7kNvwHEaJes&_nc_oc=AdqwextOkDXkFFOPCdliP4aESWsD19zU54Tqzwn4lpfMwSjcGnFZjtzxXPpjmzfn6Ek&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=1SefOZRLu6Vm2qtYHSdCJQ&_nc_ss=7a22e&oh=00_AQEMXbCBZZQHC_uf2ZnctjysoulrPM8LQNuiVFwKHnuM7A&oe=6A973F7D)
+![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=RV8aKK_798EQ7kNvwGzFJDy&_nc_oc=Adp9NXfUlsUCljf0U_oyJ4XYalBpq-LLVhyqI1JVi1JJ6Szp3qxF9orm4FjAgfvMQlQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=xyjwr4dPONybW31GjtSWyg&_nc_ss=7a22e&oh=00_AQJ1Av9tih1rLHw6_mSfxWyZpKz09PgVegozl8NLe9mEIQ&oe=6A9858BD)
 
-[Video 2](https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=XuTf7Tpf88EQ7kNvwFRjfC2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjk2LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1SefOZRLu6Vm2qtYHSdCJQ&_nc_zt=28&_nc_ss=7a22e&oh=00_AQGVFmIWXq_lixBLN_Jc1QUPU6E3hdYTZ5nuEHIVeK7Keg&oe=6A9359FA)
+[Video 2](https://scontent-atl3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ohc=YHw8a49H8EsQ7kNvwFW0h7Z&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjk3LCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=xyjwr4dPONybW31GjtSWyg&_nc_zt=28&_nc_ss=7a22e&oh=00_AQKRgivex6MIY-f9hu0wgLVNGbt2Pkbp4gCkWqxlLeJgeA&oe=6A94733A)
 
 henry.wen
 
