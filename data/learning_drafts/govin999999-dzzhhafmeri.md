@@ -1,24 +1,27 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：According to Selena Fragassi of the Chicag"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
+  - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-29T07:19:06+00:00"
+generated_at: "2026-08-30T05:41:59+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：According to Selena Fragassi of the Chicag
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+According to Selena Fragassi of the Chicago Sun-Times, BTS’ first of two sold-out shows at Chicago’s Soldier Field demonstrated how significantly the group has evolved since its la
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +29,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG、Make、GAS
 
 ## 原始工作流拆解
 
@@ -63,23 +66,20 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=ds
+- Title: Threads • Log in
 
-[](https://www.threads.com/)
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMHlRTAHwT9wpDEEHc6xcCuuzedWlzHirU3ClRMeVbX8UaroZx9ItzW4lhAD_Cb7SzKMOFjtBQ87CeHWdpim4GuJ3tQxC4inqYBaK4.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=IbEVS3qWTaYQ7kNvwHD0Xq4&
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/789424633_18329573539273584_3566833502694673072_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3NDA1OTIxNzA5MTIyNDcyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/787666483_18329573503273584_4671532319406250818_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NDA1OTIxNzkzODQ2MDQzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0
-- [![Image 1: croniclyaltered's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774386109_18080641289356280_8897395038836609997_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnin
+Markdown Content:
+[![Image 1: shesthatbritt's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/486455677_1014312944161424_3508947145225685133_n.jpg?stp=d
+- Markdown Content:
+[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、CLI
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -88,58 +88,64 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+[](https://www.threads.com/search)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: dcuworlds's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753702185_17934867681344762_304833108377632945_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFE1fGWYKMzTLh83iUpZ3IuND7gYnEWtrtvsjrfKM8Yy0jbOcwhdRFcD51jc5_lVeU&_nc_ohc=ELLAouvA95sQ7kNvwGh4yTe&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIap20LpU9qWSAL0pzJBxHQSLj1PU4YZ6KRcxov5r_omw&oe=6A9850BD&_nc_sid=10d13b)](http://www.threads.com/@dcuworlds)
+[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=4pgOduzXXx8Q7kNvwF-BBlj&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIbK8d90Hmvye3EPPq7AkhUBASZTdwJGGC3ThqiQh3YTQ&oe=6A999039&_nc_sid=10d13b)](https://www.threads.com/@tjonespoc)
 
-[dcuworlds](http://www.threads.com/@dcuworlds)
+[tjonespoc](https://www.threads.com/@tjonespoc)
 
-[16h](http://www.threads.com/@dcuworlds/post/DclnVXCl0p0)
+[9h](https://www.threads.com/@tjonespoc/post/DcoyaCPlKNu)
 
-James Gunn has reportedly signed a contract extension to remain the co-CEO of DC Studios.
+If you could live ANYWHERE in the world for 5 years… where are you going? 🌎
 
-"He will [stick around]. He just extended"
+Everything is covered:
 
-Via: TheInSneider
+• Luxury condo • ALL bills paid • $10 MILLION spending money
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/785315179_17940483156344762_5565592218099028440_n.webp?_nc_cat=109&ig_cache_key=Mzk3Mzc1NTIzNzg4NjgwNjY0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YidGYAg3uwQQ7kNvwEFfXRk&_nc_oc=AdpD-ZqhrSfXqqEWbasW7nhuWhmTepH0v6OyhTSY4NTqA4EL3Y-LCP2iawrs5S13HBo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&_nc_ss=7a22e&oh=00_AQJ474eCKIMYD42be2cPxjsKLDCfZ8WG_n5y2SXJt0yoiQ&oe=6A9853C1)](http://www.threads.com/@dcuworlds/post/DclnVXCl0p0/media)
+Only catch: you have to stay there for the full 5 years.
 
-490
+Where are you living? 👀
 
-51
+20
 
-21
+134
 
-18
+7
 
-[![Image 3: politicsinthewild's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357893421_1333959127158143_2226820848541447231_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFE1fGWYKMzTLh83iUpZ3IuND7gYnEWtrtvsjrfKM8Yy0jbOcwhdRFcD51jc5_lVeU&_nc_ohc=6rh-R1tstOYQ7kNvwH8BIZJ&_nc_gid=p55hHnOlpzOtYdQi2OrZXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLslbYhr7LJgIR6l9obEfF5cKcFn6qi6Py3aCk1PtoUAA&oe=6A985C80&_nc_sid=10d13b)](http://www.threads.com/@politicsinthewild)
+[![Image 2: kristinago57's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771822956_17900748369483140_7038422715684456511_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=u0YfBdMTah8Q7kNvwHrdemb&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLYATJ0HHvFDxBGNatFTOOf6fNlZMN8FpnHxsHrraMR9g&oe=6A99813F&_nc_sid=10d13b)](https://www.threads.com/@kristinago57)
 
-[politicsinthewild](http://www.threads.com/@politicsinthewild)
+[kristinago57](https://www.threads.com/@kristinago57)
 
-[15h](http://www.threads.com/@politicsinthewild/post/DcltZJrm1yD)
+[music threads](https://www.threads.com/search?q=music%20threads&serp_type=tags&tag_id=18314965846116669)
 
-Ken Paxton & Gregg Abbott gave a GOP litigator 30 days in jail for mollesting a little boy continuously over the course of years
+[20h](https://www.threads.com/@kristinago57/post/DcnimptjHlU)
 
-But if they were to catch you with one gram of weed, you’d go to jail for 180 days.
+CHICAGO SUN-TIMES: BTS ENTER A NEW ERA WITH ARIRANG WORLD TOUR
 
-Texans, you need to get out and vote against Gregg Abbot and Ken Paxton
+According to Selena Fragassi of the Chicago Sun-Times, BTS’ first of two sold-out shows at Chicago’s Soldier Field demonstrated how significantly the group has evolved since its last appearance in the city.
 
-2.7K
+286
 
-25
+7
 
-421
+16
 
-31
+2
 
-[![Image 4: twojudgeygirls's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574496750_17934631638101408_3828940957135646408_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTUuYzIifQ&_nc_ht=scontent.cdninstagram.
+[![Image 3: chelle.d_reads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/487552881_1180660653524166_6946907090540353297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=w9xKT783WhIQ7kNvwHS8hod&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKQGRZrKPads95S099HHsRj3AxEw-fTabP81WNlYC6pLw&oe=6A999FC7&_nc_sid=10d13b)](https://www.threads.com/@chelle.d_reads)
+
+[chelle.d_reads](https://www.threads.com/@chelle.d_reads)
+
+[5h](https://www.threads.com/@chelle.d_reads/post/DcpJZAKIMu2)
+
+Fuck purity culture. I’ll read smut 
 ```

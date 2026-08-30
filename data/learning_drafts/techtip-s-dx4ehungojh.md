@@ -1,25 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F"
+title: "techtip_s 的 AI 工作流案例：My mommy made me Scorpio, you mommy no mak"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-29T07:19:06+00:00"
+generated_at: "2026-08-30T05:41:59+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F
+# techtip_s 的 AI 工作流案例：My mommy made me Scorpio, you mommy no mak
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUA_NsjH0zCzCgOZCghGpku0F-OT9J9pad8gqZgB2b3_jBNsVn8Hsp_bdvjjJOxRAgumwfcScqOmF0Wc5JAJvvihaBqhtQ1kYvzrz-0NSm3BfJVoM
+My mommy made me Scorpio, you mommy no make you Scorpio ♏️ 🦂🤪
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUA_NsjH0zCzC
 
 ## 使用工具
 
-RAG
+Make
 
 ## 原始工作流拆解
 
@@ -61,32 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: the.apple.design's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/783424116_18089947964220814_1301666779790906660_n.jpg?st
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: sabrinakundu777's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787022144_18092297657181566_5229897489949474358_n.jpg?st
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/788102667_18091050608220814_7400165640123331695_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk3Mzk1NjAwNzQxNjI5ODQ1NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/789347680_17964834357149789_9165650382519521994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NDAxOTQ5MTAxODQxNzM4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/786242260_17964834348149789_158659490618483713_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk3NDAxOTQ5MTIxMTQ5NjI4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -98,51 +72,65 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: sabrinakundu777's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787022144_18092297657181566_5229897489949474358_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=7oWSLkYSdpQQ7kNvwF1-bBM&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKZaSRIQ0mN_qQWd8zhOWfSVryISccGlGoAuCrNCYc1Zw&oe=6A986FEA&_nc_sid=10d13b)](https://www.threads.com/@sabrinakundu777)
+[
+- Title: Threads • Log in
 
-[sabrinakundu777](https://www.threads.com/@sabrinakundu777)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[Swifties](https://www.threads.com/search?q=Swifties&serp_type=tags&tag_id=18362646589074357)
+Markdown Content:
+[](http://www.threads.com/)
 
-[16h](https://www.threads.com/@sabrinakundu777/post/Dclk2oQjpj6)
+[](http://www.threads.com/)
 
-Swifties, what’s a Taylor Swift song you didn’t appreciate at first… but now you would defend with your LIFE? 😭🎶
+[](http://www.threads.com/search)
 
-#TaylorSwift #Swifties #SwiftieCommunity #TaylorNation #SwiftieThreads
+# [Home](http://www.threads.com/?error=invalid_post)
 
-33
+[![Ima
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/785277483_17898376878665753_3822010781971629207_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3NDQzMjU3ODA0NzAyMjAwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9V
+- [![Image 7: aireyberry's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696165373_17889395880531898_2393683051641956435_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
+- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/786374386_17963624955177795_990962689864716944_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NDYwMDc3NzgxMzc4NDU0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
 
-58
+## 抓取品質
 
-[![Image 2: deannabutler90's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/411411341_891709409244336_1830065107051649076_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=qFD9wc6Rr_oQ7kNvwE-UKPv&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI-Cfc0b3BfFjFqV1vdCW99-4PhtStGg78O6p6ST2djIA&oe=6A986781&_nc_sid=10d13b)](https://www.threads.com/@deannabutler90)
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[deannabutler90](https://www.threads.com/@deannabutler90)
+## 原始抓取內容
 
-[8h](https://www.threads.com/@deannabutler90/post/Dcmgnmmjw3u)
+```text
+Title: Threads • Log in
 
-It's hard for me to know what was abnormal about living in a cult, so I'm just going to post random memories.
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-197
+Markdown Content:
+[![Image 1: rysasewsclothes's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/619476915_17844054132676997_2281072315365013991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG2XG4ezqJFfjWjqVtQ0xCNdiWy13tmyIIDa5lxz0yD0Jt2RscGbKlgGJkM1RUr0rQ&_nc_ohc=VAjMcHlgXyIQ7kNvwExhu8u&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL4pHSrDzbc5npeR5mHZd0IzP3XNq4XpxqR6WVkaC9c-w&oe=6A997B21&_nc_sid=10d13b)](https://www.threads.com/@rysasewsclothes)
 
-13
+Jackie Young taking pics with fans at the Liberty Sky game
 
-1
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/789143915_1127054253078258_5869184960526913760_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3NDU4ODcyNzA0MTI5ODE0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7cb8MMfbB8wQ7kNvwFp1iya&_nc_oc=AdrqMwbuXBbQgjUeczQT7xk2kKEdtG9NV455osKsoFeCn7L11XGLq6nwys5Ntv3_Zuk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&_nc_ss=7a22e&oh=00_AQIBdlJQ8QEr-No420EIyPztZfhJloGJs4PJLlrwCmZYPw&oe=6A99AABD)
 
-[![Image 3: so_extra's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485261997_655731590441675_2988720352804781609_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGNlqF2TEFwRGUaA55SqsWWpt25szGX_p0BdBzqmokw6PrlMTYokMPZbW_ipwH87V8&_nc_ohc=LV9YG3w-yk8Q7kNvwEwvIej&_nc_gid=DJlIWVaps0kLv5aJmXSwvQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL9oxCU2Je8AZ388-4ovEpg-P673RZbCMU1GaAcnrJaDg&oe=6A98437D&_nc_sid=10d13b)](https://www.threads.com/@so_extra)
+418
 
-[so_extra](https://www.threads.com/@so_extra)
+5
 
-[18h](https://www.threads.com/@so_extra/post/Dcla3o3jveg)
+17
 
-Love languages are important.. But what’s your APOLOGY langauge??
+7
 
-313
+[![Image 3: robinseattle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771616720_17978347827118980_120769006543013419_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG2XG4ezqJFfjWjqVtQ0xCNdiWy13tmyIIDa5lxz0yD0Jt2RscGbKlgGJkM1RUr0rQ&_nc_ohc=YuxeMQT3aQkQ7kNvwGiKwMw&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLsizK3Ajc_k6XsGd98y-Gw-uHY4LMGvbCBp9nrxOZxTw&oe=6A998A27&_nc_sid=10d13b)](https://www.threads.com/@robinseattle)
 
-90
+In July 1991 a marmot broke into my rations pack, ten thousand four hundred feet up in the Wind River Range of Wyoming, and ate the cereal. I caught him in the act. I was seventeen, and I wrote it down that evening in a spiral notebook.
 
-99
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/786065665_17981643717118980_5310846009833269421_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3NDMzMjk2OTg0Mjg5MDA0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjk2OC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=2sQz1RN9XrIQ7kNvwGUvqH4&_nc_oc=AdqKv3yHiaHQag20vaRdc5Fscub_JPAZjBF4qXPfz_mJuG5QCXvvqlM378nsqkcDy2E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&_nc_ss=7a22e&oh=00_AQLfsxPMs3AmNVmhhTF5dE7AXwGwQV11wnFhHklxJ-0p3w&oe=6A997AE5)](https://www.threads.com/@robinseattle/post/Dcnqsd2m9U7/media)
 
-4
+98
 
-[![Image 4: dirtypunkgardening's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/500637541_18500950837011475_8001533905620813720_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2Z
+26
+
+2
+
+[![Image 5: aireyberry's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696165373_17889395880531898_2393683051641956435_n.jpg?stp=dst-jpg_s150x15
 ```
