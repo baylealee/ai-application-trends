@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0086
-generated_at: "2026-08-30T05:41:59+00:00"
+zh_ratio: 0.0091
+generated_at: "2026-08-31T05:58:02+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -64,19 +64,19 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Agent、agent、工具
-- zh_ratio: `0.0086`
+- zh_ratio: `0.0091`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -95,7 +95,7 @@ Markdown Content:
 
 # [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHo14JbEiXqVRvtKj68Rs1oD14Ztgri0Kv6o_M5y2sWWDtmd48I73TJ-sEVAQ4Bi3w&_nc_ohc=mBmdw2wdKYEQ7kNvwG9Oy7S&_nc_gid=K2MYdeCFhrULCJzVKIwv5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKqDW63ZASwiYsyPsni522H8S6JMcNxk-3ski1zWni--Q&oe=6A9996CB&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEuwzucK1v5aIC_TpOAxMuVd9SMqFCmKsQ4ZWvsH7HPMqTZSO2vp3_2I_-fnHV6-IM&_nc_ohc=mBmdw2wdKYEQ7kNvwFv-Q-2&_nc_gid=j3IfrPtxF2R0hwgAi6XH0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLTMzyOijD1TpvYNW1yJ1KzpU4_6WZBXBS8f60rkvkkYg&oe=6A9AE84B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -107,7 +107,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qW0ElZyI5QkQ7kNvwG7CHn4&_nc_oc=Adq9J92hs-Y-H24z65Lzj1HEHKp39w8osdw3lr5GeADXYhI5-673PyBuDVBS8-7o_vg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=K2MYdeCFhrULCJzVKIwv5Q&_nc_ss=7a22e&oh=00_AQLmUnPmu6H-EG7sGbrjyN-bD2Pr1Nz7KNVpU4t1dCgswg&oe=6A998D60)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qW0ElZyI5QkQ7kNvwG0lzHX&_nc_oc=AdpFbee1V1blwQIiH8-FsXgcd26Eh2Y3fsrh-WZ-VwNoRdRQuKaRFppqtzpK48ILkOA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=j3IfrPtxF2R0hwgAi6XH0w&_nc_ss=7a22e&oh=00_AQLN22qSfHaYfunvGA0-vu7IEv_whe_HBFsI74IQnf9naw&oe=6A9ADEE0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -117,7 +117,7 @@ Translate
 
 16
 
-[![Image 3: elser.offical's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHo14JbEiXqVRvtKj68Rs1oD14Ztgri0Kv6o_M5y2sWWDtmd48I73TJ-sEVAQ4Bi3w&_nc_ohc=gm49tSPOIGAQ7kNvwFBxxMk&_nc_gid=K2MYdeCFhrULCJzVKIwv5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLz-gU8rzhfTOYNLmefaBjOJ9OoiIOpwIOEX6y-Gc030A&oe=6A99888D&_nc_sid=10d13b)](https://www.threads.com/@elser.offical)
+[![Image 3: elser.offical's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEuwzucK1v5aIC_TpOAxMuVd9SMqFCmKsQ4ZWvsH7HPMqTZSO2vp3_2I_-fnHV6-IM&_nc_ohc=gm49tSPOIGAQ7kNvwHdQdU6&_nc_gid=j3IfrPtxF2R0hwgAi6XH0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIYH2ISKqY0mduC1_WxK2EEs1CG0awMY6Ab95d58OyKcA&oe=6A9ADA0D&_nc_sid=10d13b)](https://www.threads.com/@elser.offical)
 
 [elser.offical](https://www.threads.com/@elser.offical)
 
@@ -129,5 +129,5 @@ Translate
 
 1
 
-[![Image 4: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHo14JbEiXqVRvtKj68Rs1oD14Ztgri0Kv6o_M5y2sWWDtmd48I73TJ-sEVAQ4Bi3w&_nc_ohc=mBmdw2wdKYEQ7kNvwG9Oy7S&_
+[![Image 4: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEuwzucK1v5aIC_TpOAxMuVd9SMqFCmKsQ4ZWvsH7HPMqTZSO2vp3_2I_-fnHV6-IM&_nc_ohc=mBmdw2wdKYEQ7kNvwFv-Q-2&_
 ```

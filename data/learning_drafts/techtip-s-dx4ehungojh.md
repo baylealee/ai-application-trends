@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：My mommy made me Scorpio, you mommy no mak"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-08-30T05:41:59+00:00"
+generated_at: "2026-08-31T05:58:02+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：My mommy made me Scorpio, you mommy no mak
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-My mommy made me Scorpio, you mommy no make you Scorpio ♏️ 🦂🤪
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -75,26 +75,19 @@ Markdown Content:
 [
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/785277483_17898376878665753_3822010781971629207_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3NDQzMjU3ODA0NzAyMjAwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9V
-- [![Image 7: aireyberry's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696165373_17889395880531898_2393683051641956435_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
-- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/786374386_17963624955177795_990962689864716944_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NDYwMDc3NzgxMzc4NDU0MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
+[![Image 1: bethtraveler1111's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622206803_17944090968120271_1952412264449873861_n.jpg?s
+- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/789554172_17982314562112874_942539206594870829_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3NTM1Mjc3NDM4NTU0MzYwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQu
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/791532146_4537795049799916_4187445965189561124_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk3NTE4Mzc1Nzc5Mzk3MTAzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwa
+- Markdown Content:
+[![Image 1: bethtraveler1111's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622206803_17944090968120271_1952412264449873861_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTYuYzIifQ&_nc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、Make、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -103,34 +96,40 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: rysasewsclothes's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/619476915_17844054132676997_2281072315365013991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG2XG4ezqJFfjWjqVtQ0xCNdiWy13tmyIIDa5lxz0yD0Jt2RscGbKlgGJkM1RUr0rQ&_nc_ohc=VAjMcHlgXyIQ7kNvwExhu8u&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL4pHSrDzbc5npeR5mHZd0IzP3XNq4XpxqR6WVkaC9c-w&oe=6A997B21&_nc_sid=10d13b)](https://www.threads.com/@rysasewsclothes)
+[![Image 1: heyitsessdot's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/708557660_17972320872106811_7159057655467770390_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHsIttFA0YMRmyQF6hhB93Z26p7_yhykzuhSRqt1FAqtD5SFaH0oeQR76ilbGwNPmg&_nc_ohc=5iDx6z-NJRcQ7kNvwF4icxX&_nc_gid=zc4KxKmbzz4Ox-XjrtZp_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ8wb8qUyylgXqB4UpmXVdLOC7uBBFssfdEMOQKkNiDtg&oe=6A9ADCFA&_nc_sid=10d13b)](http://www.threads.com/@heyitsessdot)
 
-Jackie Young taking pics with fans at the Liberty Sky game
+Damn Kehlani on the move 😂my cousin just met her
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/789143915_1127054253078258_5869184960526913760_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=109&ig_cache_key=Mzk3NDU4ODcyNzA0MTI5ODE0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7cb8MMfbB8wQ7kNvwFp1iya&_nc_oc=AdrqMwbuXBbQgjUeczQT7xk2kKEdtG9NV455osKsoFeCn7L11XGLq6nwys5Ntv3_Zuk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&_nc_ss=7a22e&oh=00_AQIBdlJQ8QEr-No420EIyPztZfhJloGJs4PJLlrwCmZYPw&oe=6A99AABD)
-
-418
-
-5
-
-17
-
-7
-
-[![Image 3: robinseattle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771616720_17978347827118980_120769006543013419_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG2XG4ezqJFfjWjqVtQ0xCNdiWy13tmyIIDa5lxz0yD0Jt2RscGbKlgGJkM1RUr0rQ&_nc_ohc=YuxeMQT3aQkQ7kNvwGiKwMw&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLsizK3Ajc_k6XsGd98y-Gw-uHY4LMGvbCBp9nrxOZxTw&oe=6A998A27&_nc_sid=10d13b)](https://www.threads.com/@robinseattle)
-
-In July 1991 a marmot broke into my rations pack, ten thousand four hundred feet up in the Wind River Range of Wyoming, and ate the cereal. I caught him in the act. I was seventeen, and I wrote it down that evening in a spiral notebook.
-
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/786065665_17981643717118980_5310846009833269421_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3NDMzMjk2OTg0Mjg5MDA0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjk2OC5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=2sQz1RN9XrIQ7kNvwGUvqH4&_nc_oc=AdqKv3yHiaHQag20vaRdc5Fscub_JPAZjBF4qXPfz_mJuG5QCXvvqlM378nsqkcDy2E&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=wy1C19R9nmhzYLLM4sGBZQ&_nc_ss=7a22e&oh=00_AQLfsxPMs3AmNVmhhTF5dE7AXwGwQV11wnFhHklxJ-0p3w&oe=6A997AE5)](https://www.threads.com/@robinseattle/post/Dcnqsd2m9U7/media)
-
-98
-
-26
+47
 
 2
 
-[![Image 5: aireyberry's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696165373_17889395880531898_2393683051641956435_n.jpg?stp=dst-jpg_s150x15
+[![Image 2: theneighborhoodtalk's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357829021_943721510182457_801876249187816581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHsIttFA0YMRmyQF6hhB93Z26p7_yhykzuhSRqt1FAqtD5SFaH0oeQR76ilbGwNPmg&_nc_ohc=kXdpmKdEtIEQ7kNvwGD9WBf&_nc_gid=zc4KxKmbzz4Ox-XjrtZp_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKyW2NkdcYDSPtkjJX4MWahsDjv5lYrN7XHZMzWFkV8kg&oe=6A9AD778&_nc_sid=10d13b)](http://www.threads.com/@theneighborhoodtalk)
+
+Neigbbors, y’all Feelin’ Odell’s fresh face?
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/790081429_1109268804801371_2264696591757114635_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk3NTM5ODA2OTE4NTQ3MDAwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=1p2TCx-bDecQ7kNvwHVgorv&_nc_oc=AdoggGMXAkYgSgGIB9N6HBIoXirfuOXYvq3wFHNEv6PlPxv2ZWCJVIYm2I9SBcvRjNQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=zc4KxKmbzz4Ox-XjrtZp_Q&_nc_ss=7a22e&oh=00_AQI0y4eKY-jnIJgWt-yyeYpmlBSDSziwOqbDaZ1I0SDdRg&oe=6A9AD749)
+
+427
+
+66
+
+17
+
+27
+
+[![Image 4: deanobeidallah's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/124308677_3432759456817912_5004557321812950425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDUuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHsIttFA0YMRmyQF6hhB93Z26p7_yhykzuhSRqt1FAqtD5SFaH0oeQR76ilbGwNPmg&_nc_ohc=-F61j1of8TEQ7kNvwGrl74f&_nc_gid=zc4KxKmbzz4Ox-XjrtZp_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIhoZJVSWMpzPctDWOUF9wDunPzqdDl2uyVorbp_8pFLg&oe=6A9B0013&_nc_sid=10d13b)](http://www.threads.com/@deanobeidallah)
+
+In a world of Googles, be a MapQuest!
+
+532
+
+7
+
+33
+
+[![Image 5: xo.queenlo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/783375286_17972545353129437_5731901715816905128_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHsIttFA0YMRmyQF6hhB93Z26p7_yhykzuhSRqt1FAqtD5SFaH0oeQR76ilbGwNPmg&_nc_ohc=eeIQwijB1i0Q7kNvwHgUiuD&_nc_gid=zc4KxKmbz
 ```

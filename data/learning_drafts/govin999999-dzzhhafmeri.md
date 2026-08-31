@@ -1,27 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：According to Selena Fragassi of the Chicag"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "Make"
-  - "GAS"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-30T05:41:59+00:00"
+generated_at: "2026-08-31T05:58:02+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：According to Selena Fragassi of the Chicag
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-According to Selena Fragassi of the Chicago Sun-Times, BTS’ first of two sold-out shows at Chicago’s Soldier Field demonstrated how significantly the group has evolved since its la
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -29,7 +26,7 @@ According to Selena Fragassi of the Chicago Sun-Times, BTS’ first of two sold-
 
 ## 使用工具
 
-RAG、Make、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -63,30 +60,19 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=ds
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: shesthatbritt's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/486455677_1014312944161424_3508947145225685133_n.jpg?stp=d
-- Markdown Content:
-[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
+[](http://www.threads.com/)
 
-## 抓取品質
+[](http://www.threads.com/)
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[](http://www.threads.com/search)
 
-## 原始抓取內容
+# [Home](http://www.threads.com/?error=invalid_post)
 
-```text
-Title: Threads • Log in
+[![I
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -99,53 +85,64 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: tjonespoc's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/683758049_17964634926101668_4867153537230200935_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=4pgOduzXXx8Q7kNvwF-BBlj&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIbK8d90Hmvye3EPPq7AkhUBASZTdwJGGC3ThqiQh3YTQ&oe=6A999039&_nc_sid=10d13b)](https://www.threads.com/@tjonespoc)
+- [![Image 4: hudson_kitchen_foole's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671026207_17959807623099926_6567315236113065640_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.
+- [![Image 1: duhhitskekeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/741360820_18112351198828243_9179221896994847045_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQ2LmMyIn0&_nc_ht=scontent.cdninst
+- [![Image 2: kimlargetx's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358176104_631069228977060_4929065639418876139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzEuYzIifQ&_nc_ht=scontent.cdninstagram.c
 
-[tjonespoc](https://www.threads.com/@tjonespoc)
+## 抓取品質
 
-[9h](https://www.threads.com/@tjonespoc/post/DcoyaCPlKNu)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-If you could live ANYWHERE in the world for 5 years… where are you going? 🌎
+## 原始抓取內容
 
-Everything is covered:
+```text
+Title: Threads • Log in
 
-• Luxury condo • ALL bills paid • $10 MILLION spending money
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-Only catch: you have to stay there for the full 5 years.
+Markdown Content:
+[![Image 1: futuresdeskhq's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/659651567_18067413413366580_6683903699147874638_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=ILM-LqxB3VwQ7kNvwG_tzlI&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJYCCrHhM7dflGfgNe24Tv9ByejXjGxRsZ2jeyG1ey_Iw&oe=6A9AD143&_nc_sid=10d13b)](https://www.threads.com/@futuresdeskhq)
 
-Where are you living? 👀
+the US Open has 16 courts running at once, so ESPN has apparently decided the solution is:
 
-20
+TENNIS REDZONE.
 
-134
+starting today, it’ll jump point-to-point across all 16 courts from 11 a.m. to 6 p.m. ET.
 
-7
+Grand Slam opening week is officially NFL Sunday now 😭
 
-[![Image 2: kristinago57's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771822956_17900748369483140_7038422715684456511_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=u0YfBdMTah8Q7kNvwHrdemb&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLYATJ0HHvFDxBGNatFTOOf6fNlZMN8FpnHxsHrraMR9g&oe=6A99813F&_nc_sid=10d13b)](https://www.threads.com/@kristinago57)
+81
 
-[kristinago57](https://www.threads.com/@kristinago57)
-
-[music threads](https://www.threads.com/search?q=music%20threads&serp_type=tags&tag_id=18314965846116669)
-
-[20h](https://www.threads.com/@kristinago57/post/DcnimptjHlU)
-
-CHICAGO SUN-TIMES: BTS ENTER A NEW ERA WITH ARIRANG WORLD TOUR
-
-According to Selena Fragassi of the Chicago Sun-Times, BTS’ first of two sold-out shows at Chicago’s Soldier Field demonstrated how significantly the group has evolved since its last appearance in the city.
-
-286
-
-7
-
-16
+9
 
 2
 
-[![Image 3: chelle.d_reads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/487552881_1180660653524166_6946907090540353297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gH7FzJEh3HwsBvs0b1lm4aopGnhTcehpnMPUA_iAICW9BYS6aRKxM-N3kS9n1b061I&_nc_ohc=w9xKT783WhIQ7kNvwHS8hod&_nc_gid=g7e-7HIyXM9v_RZapp5Jag&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKQGRZrKPads95S099HHsRj3AxEw-fTabP81WNlYC6pLw&oe=6A999FC7&_nc_sid=10d13b)](https://www.threads.com/@chelle.d_reads)
+4
 
-[chelle.d_reads](https://www.threads.com/@chelle.d_reads)
+[![Image 2: kiathebookhoarder's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/639740286_17935364433171769_8554044856384732540_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=D6B-S7mhFooQ7kNvwFMklUi&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLKW9cmcBOwZPJh_FoRXEc2bPf6rzAPMqRAuBFjEEWiFg&oe=6A9B009F&_nc_sid=10d13b)](https://www.threads.com/@kiathebookhoarder)
 
-[5h](https://www.threads.com/@chelle.d_reads/post/DcpJZAKIMu2)
+Ulta is having a 50% off sale.
 
-Fuck purity culture. I’ll read smut 
+Snif is on that list.
+
+OKAY BYE
+
+34
+
+12
+
+2
+
+[![Image 3: dailybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358196923_813454546766552_6225178502062239229_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=ePaCO20QQQ0Q7kNvwEU1gCR&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKmWmVga4bGMRkBxamzgtHIoKL6ts-fC7FRwbZqs7EtLw&oe=6A9AFCE5&_nc_sid=10d13b)](https://www.threads.com/@dailybaseball)
+
+Thoughts on this call?
+
+Guardians shortstop Brayan Rocchio was ruled out for leaving the baseline after veering onto the grass to avoid a collision with Royals first baseman Salvador Pérez and pitcher Daniel Lynch during a chaotic play. Manager Stephen Vogt and Rocchio expressed frustration with the decision, noting that staying a straight path would have risked a collision or potentially drawn an obstruction call.
+
+#mlb #baseball #clevelandguardians #cleguardians #kansascityroyals
+
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/791143502_18614695282065123_4310711285547164994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3NTE5MzU0MjMwNjEyNzE1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KJoXwOY8XsgQ7kNvw
 ```
