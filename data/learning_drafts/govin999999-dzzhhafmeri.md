@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-08-31T05:58:02+00:00"
+generated_at: "2026-09-01T05:31:20+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -63,15 +63,7 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
+[![Image 1: 1brit's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/704098122_17910812226402403_2241896393127884421_n.jpg?stp=dst-jpg
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -85,9 +77,10 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 4: hudson_kitchen_foole's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671026207_17959807623099926_6567315236113065640_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.
-- [![Image 1: duhhitskekeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/741360820_18112351198828243_9179221896994847045_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDQ2LmMyIn0&_nc_ht=scontent.cdninst
-- [![Image 2: kimlargetx's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358176104_631069228977060_4929065639418876139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzEuYzIifQ&_nc_ht=scontent.cdninstagram.c
+- [![Image 2: djbae__'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753298246_17938211634277853_3816425042518892051_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.
+- Markdown Content:
+[![Image 1: 1brit's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/704098122_17910812226402403_2241896393127884421_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
+- [![Image 3: loktar_lexy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/777165220_18121228861852397_5860828876863717551_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
 
 ## 抓取品質
 
@@ -104,45 +97,43 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: futuresdeskhq's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/659651567_18067413413366580_6683903699147874638_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=ILM-LqxB3VwQ7kNvwG_tzlI&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJYCCrHhM7dflGfgNe24Tv9ByejXjGxRsZ2jeyG1ey_Iw&oe=6A9AD143&_nc_sid=10d13b)](https://www.threads.com/@futuresdeskhq)
+[![Image 1: jelumarie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/503987345_17864747394406899_5829163108914085180_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=2eQyvp8NhJkQ7kNvwEUch8L&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLNJTvBR5Hn6xsZeQHP2_YxADkCMq6qdedbCn2MKlM_Gw&oe=6A9C3C3F&_nc_sid=10d13b)](https://www.threads.com/@jelumarie)
 
-the US Open has 16 courts running at once, so ESPN has apparently decided the solution is:
+Women who are good with money, what’s ONE rule you personally live by?
 
-TENNIS REDZONE.
+67
 
-starting today, it’ll jump point-to-point across all 16 courts from 11 a.m. to 6 p.m. ET.
+41
 
-Grand Slam opening week is officially NFL Sunday now 😭
-
-81
-
-9
+3
 
 2
 
-4
+[![Image 2: indiakallday's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729424333_17937288156272494_2685895886825498489_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=z-vIS-hJ6AQQ7kNvwHV-F_L&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ3u0pGuqr3RR1aOK7FVQxjpSjNzHZLdILNhV22Eu3Plw&oe=6A9C2676&_nc_sid=10d13b)](https://www.threads.com/@indiakallday)
 
-[![Image 2: kiathebookhoarder's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/639740286_17935364433171769_8554044856384732540_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=D6B-S7mhFooQ7kNvwFMklUi&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLKW9cmcBOwZPJh_FoRXEc2bPf6rzAPMqRAuBFjEEWiFg&oe=6A9B009F&_nc_sid=10d13b)](https://www.threads.com/@kiathebookhoarder)
+Could you date someone who had opposing political views? Cause I tried it and it’s a no for me
 
-Ulta is having a 50% off sale.
+77
 
-Snif is on that list.
+151
 
-OKAY BYE
+6
 
-34
+[![Image 3: brandontour's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671072517_17959041618120863_7758568468885701469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=fhEjn2nIQxwQ7kNvwEPhGyE&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLjNRRTKOcf3S0K92Fr0qS7NuDXsf1gA6dF8nwnnfEgkg&oe=6A9C2DE1&_nc_sid=10d13b)](https://www.threads.com/@brandontour)
+
+Nobody sleeps better than toddlers who don’t have jobs, have no bills, have all their meals catered, don’t have to wipe their own asses, have no idea what politics are, and spend their days being loved on and playing.
+
+1.4K
+
+38
 
 12
 
 2
 
-[![Image 3: dailybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358196923_813454546766552_6225178502062239229_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHdTXp8R2gmHXevziRpGfeKkzFKqXKvXqCtuxH1e-xePkgf0LEzNYXDc1clECf92N4&_nc_ohc=ePaCO20QQQ0Q7kNvwEU1gCR&_nc_gid=NuoZpOx9V6vEKrW9yjtLJQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKmWmVga4bGMRkBxamzgtHIoKL6ts-fC7FRwbZqs7EtLw&oe=6A9AFCE5&_nc_sid=10d13b)](https://www.threads.com/@dailybaseball)
+[![Image 4: kaylacachetona's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787620579_17919573432425397_8699559378589059554_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=3CWLR21FB8EQ7kNvwFHLRH8&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLnZESy2_RGjjTaIVOWqnVvU6dE-NlnC8Jc4IDrt4YLqA&oe=6A9C2A58&_nc_sid=10d13b)](https://www.threads.com/@kaylacachetona)
 
-Thoughts on this call?
+Only a little sad I won’t have the character art for the 3rd book 😭
 
-Guardians shortstop Brayan Rocchio was ruled out for leaving the baseline after veering onto the grass to avoid a collision with Royals first baseman Salvador Pérez and pitcher Daniel Lynch during a chaotic play. Manager Stephen Vogt and Rocchio expressed frustration with the decision, noting that staying a straight path would have risked a collision or potentially drawn an obstruction call.
-
-#mlb #baseball #clevelandguardians #cleguardians #kansascityroyals
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/791143502_18614695282065123_4310711285547164994_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk3NTE5MzU0MjMwNjEyNzE1Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KJoXwOY8XsgQ7kNvw
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/788640072_17919569580425397_8622671713767630443_n.jpg?stp=
 ```

@@ -10,8 +10,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0968
-generated_at: "2026-08-31T05:58:02+00:00"
+zh_ratio: 0.101
+generated_at: "2026-09-01T05:31:20+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -70,16 +70,16 @@ Markdown Content:
 [](http://www.threads.com/search)
 
 # [Thread 21.2K vi
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUBCR2TuFlNuNMnPhtHH4X_K2Z_lb27fdNyskySKuNSkukSWJyFKLG3gH6t
-- Day 47 今天要講我一個專案的設計架構 最近我想做一個： GitHub Repo Research Agent。 輸入一個 Repository。 最後輸出： 專案架構 設計理念 ・[Skill.md](https://l.threads.com/?u=http%3A%2F%2FSkill.md%2F&e=AUBCR2TuFlNuNMnPhtHH4X_K2Z_lb27fdNyskySKuNSkukSWJyFKLG3gH6tOIfZ7BZCfqw1zJOVycI67vSdLqeImuJ7sX8qwZvM1anhY
-- Day 53 昨天畫完架構圖之後，我發現真正的問題不是「模組要做什麼」，而是每個模組到底吃什麼、吐什麼。 所以今天沒有急著寫功能，而是先替每個模組建立 [spec.md](https://l.threads.com/?u=http%3A%2F%2Fspec.md%2F&e=AUBCR2TuFlNuNMnPhtHH4X_K2Z_lb27fdNyskySKuNSkukSWJyFKLG3gH6tOIfZ7BZCfqw1zJOVycI67vSdLqeImuJ7sX8qwZvM1anhY1DGqhfnrg7w)。 每份 Sp
-- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363e
+- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUBaFlh479JiFZmJ7M6k1rfgvUelyfOXRkwfZtmPZqAn58wjDwaRhsecGFG
+- Day 53 昨天畫完架構圖之後，我發現真正的問題不是「模組要做什麼」，而是每個模組到底吃什麼、吐什麼。 所以今天沒有急著寫功能，而是先替每個模組建立 [spec.md](https://l.threads.com/?u=http%3A%2F%2Fspec.md%2F&e=AUBaFlh479JiFZmJ7M6k1rfgvUelyfOXRkwfZtmPZqAn58wjDwaRhsecGFGzgA9Jvhzy-G-7N1sVMdkuGkaQBiWeyUqVXnjsniH46t2hPt3ZcjJUDss)。 每份 Sp
+- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363e
+- 【數據品質防線！GitHub 萬星開源神器 Great Expectations 🧪】 做數據治理，最怕「垃圾進，垃圾出（GIGO）」。報表跑出來數據不對，往往不是 Pipeline 壞掉，而是源頭資料品質太爛！ 在 GitHub 擁有超高人氣的開源專案 Great Expectations，就是專為「數據測試與品質校驗」而生的神器。 🛠️ 3 大核心亮點： 1️⃣ 聲明式數據斷言 (Expectations)：用直覺語法定義規則，例如「⁠user_id⁠ 不能有空值」、「⁠age⁠ 必須在 0~120 之間」。 
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、流程、工具、Notion、GitHub
-- zh_ratio: `0.0968`
+- zh_ratio: `0.101`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -92,25 +92,13 @@ URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 Markdown Content:
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-More
-
-[](https://www.threads.com/)
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 21.2K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-21.2K views
-
-[![Image 1: pmenance.manager's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEdsUztM_pcWNzpCGoZb7gGSE4evUIQQsccsj-6LWvs45VMnbXSVsnOYPzXqjwAOJE&_nc_ohc=Hx5QHKSo7OQQ7kNvwErZ3nD&_nc_gid=xdx096wj3twuNL1ABdhv6g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK3ydspPyjNHC4Xo3Q3rXpSN9PI1_IWNFn3-H_qKhbIpg&oe=6A9B0470&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gH448uJz6HEdCe-jPuQqY6YM82KMhRfUHdy3AESQnnTMBuaU4rCuFIeDXMswPO7S0U&_nc_ohc=Hx5QHKSo7OQQ7kNvwEgVF06&_nc_gid=PeLnbtCnsh0nrg_vhCGhnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLult0SsxMMsAl4OEuecClWeQ5GGN29zSOhIrxyeWrvuQ&oe=6A9C1DB0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -136,7 +124,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=50JqIwAkdHIQ7kNvwFUAGUp&_nc_oc=AdrKIFM0jFuogRI1Zd3FIh3Jfs8r6wy9Lb-MyfsOaI3I3IPZbLDOqvGl0bumLt8tpQo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=xdx096wj3twuNL1ABdhv6g&_nc_ss=7a22e&oh=00_AQKNTuToetvT8s8ABmTAkZxvcEEi1dxesC40IeVrOA6cqw&oe=6A9AEC88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=pDB0ZWUAyaAQ7kNvwFs3qu_&_nc_oc=AdotnXUeT3ixQVWNrEpeLFFKS0ca_OU8ijYwBxTwImIwZ2h1WAGc4A_gOaLQSX_OVlM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=PeLnbtCnsh0nrg_vhCGhnw&_nc_ss=7a22e&oh=00_AQIjtW3gto0Ty-K_1hNb8ly3mzcJLgL-6DTlZTnSHRHfMQ&oe=6A9C3E08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 439
 

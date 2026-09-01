@@ -1,5 +1,5 @@
 ---
-title: "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?"
+title: "atai_coding_data 的 AI 工作流案例：[數據分析](http://www.threads.com/search?"
 source_url: "https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT"
 source_author: "atai_coding_data"
 post_id: "DZUK8bdmenT"
@@ -11,20 +11,19 @@ tools:
   - "GPT"
   - "MCP"
   - "RAG"
-  - "GAS"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0231
-generated_at: "2026-08-31T05:58:02+00:00"
+zh_ratio: 0.0235
+generated_at: "2026-09-01T05:31:20+00:00"
 ---
 
-# atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
+# atai_coding_data 的 AI 工作流案例：[數據分析](http://www.threads.com/search?
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[數據分析](https://www.threads.com/search?
+[數據分析](http://www.threads.com/search?
 
 ## 這篇在解決什麼問題
 
@@ -32,11 +31,11 @@ generated_at: "2026-08-31T05:58:02+00:00"
 
 ## 使用工具
 
-Claude、ChatGPT、GPT、MCP、RAG、GAS
+Claude、ChatGPT、GPT、MCP、RAG
 
 ## 原始工作流拆解
 
-1. [數據分析](https://www.threads.com/search?
+1. [數據分析](http://www.threads.com/search?
 2. MCP x META 廣告數據串接教學
 3. 近期要開一門課程包括： • Data Studio 串接操作 • MCP 串接教學
 4. 學會MCP 串接能夠： 1. 離線讀取廣告數據 2. 在手機端透過Agent 與數據互動 3. 讓頂尖 CLAUDE 提供成效提升策略 4. 輕鬆打造數據報表
@@ -71,19 +70,28 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/7584691
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 8.6K 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/75846917
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/7584691
+- [Video 2](https://scontent-atl3-2.cdninstagram.com/o1/v/t16/f2/m84/AQOaPoN3yasr3f7nMT2paZqK_E2wm9pp4qEkXCNjdcF8Sq_LKdT5BBrnCZbI-sXLKEXjAjvRVdCS5dk1hYHtRBgqynvwnJExerNrqlQ.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ohc=6rZKKCt9Nr
+- [![Image 79](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/768303795_17983367490105477_1675549901427147220_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk2MDQxNDgzNzYyOTU4NTYzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZ
+- [![Image 81](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/788612952_18206489881347662_6945225626324807578_n.webp?_nc_cat=106&ig_cache_key=Mzk3MjkyMDIyNTQ3ODMxNzUwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzg5Ni
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、ChatGPT、GPT、RAG、MCP、Agent、agent、工具、整理、生成
-- zh_ratio: `0.0231`
+- zh_ratio: `0.0235`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -91,24 +99,24 @@ Markdown Content:
 ```text
 Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Thread 8.5K views](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+# [Thread 8.6K views](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
 
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFTW3LpxCdiOv4MMUHfDF03ew_oRy88ItHN8-GAJUDSFdJ8oGVTqbuuJxilfuzv8qE&_nc_ohc=WQip-MRMpfkQ7kNvwGZAOYj&_nc_gid=PePkO2wJVxW1kGg4_ScAkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIRWUhpoKM1cCjVC8EmgnZYiSDL7V2JWcI5_wkBxUBzAQ&oe=6A9AD555&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGany6UGoac-VCW92a3aPXCndCV2DoCkwYoun3VX6Auk2Nc8dUZgA109KdDHXQXHeQ&_nc_ohc=WQip-MRMpfkQ7kNvwFwNZ5g&_nc_gid=9BF4QIgCXkuvKSe0q2ShWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKsjI-0kS4NxTJheom5ESEyzs6paUoZBorulSqh50jGYA&oe=6A9C26D5&_nc_sid=10d13b)](http://www.threads.com/@atai_coding_data)
 
-[atai_coding_data](https://www.threads.com/@atai_coding_data)
+[atai_coding_data](http://www.threads.com/@atai_coding_data)
 
-[數據分析](https://www.threads.com/search?q=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&serp_type=tags&tag_id=18423481333053834)
+[數據分析](http://www.threads.com/search?q=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&serp_type=tags&tag_id=18423481333053834)
 
-[06/08/26](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+[06/08/26](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
 
 MCP x META 廣告數據串接教學
 
@@ -122,21 +130,21 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5fPGelO8TdEQ7kNvwH8WAsM&_nc_oc=Adrz2I2Xcb4NZgpkz-a707oT0fkoTcM_QCprRVgOvK1SNOe4eixBDUfsGsl4-WYpeLo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=PePkO2wJVxW1kGg4_ScAkQ&_nc_ss=7a22e&oh=00_AQIJj3B0qZudI3u5q-tC-e8FodjfKR6Ru4R9HvbX-WF5Wg&oe=6A9B0226)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dGj4m1EVl30Q7kNvwHb4OcD&_nc_oc=AdqQyikNn4Onv_J9w7oMjx1LI00Kd_kLRsCOVM29Y_co8_Fg5T473Ouirgb-OWIT5Bk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=9BF4QIgCXkuvKSe0q2ShWA&_nc_ss=7a22e&oh=00_AQLbLw5Dgu-6wJHTZl4NjnWbBi4ahiOfKxnaqra3DJfXRA&oe=6A9C1B66)](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 126
 
-271
+272
 
 10
 
 78
 
-[![Image 3: dreamcoder.tw's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/468717889_1800865570748809_442695836973791097_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF4P7aGRkNm0nWEn8h_9TzidpBVKS7Qr-atBppRs5g3j0WZ3wlmydXLSsRCYFadTgo&_nc_ohc=uq1xQSoO28MQ7kNvwG5o9-Y&_nc_gid=PePkO2wJVxW1kGg4_ScAkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLkzPR84kvO_TV9maog0d3fpBt8mPW-bSTx9jVG2w0UMw&oe=6A9AE611&_nc_sid=10d13b)](https://www.threads.com/@dreamcoder.tw)
+[![Image 3: dreamcoder.tw's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/468717889_1800865570748809_442695836973791097_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFV9okHLfTp8gYwHbFjyekoIx94jrdUkusMDYz7oz_0uCfPwzNo0lQ54g4vCXZS9j8&_nc_ohc=0GnSQmXoTkcQ7kNvwG6iR1_&_nc_gid=9BF4QIgCXkuvKSe0q2ShWA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLGWzdIPJe_Wr_2xUOIPidM_oGXNUM19x_CI_Q1FbBWOw&oe=6A9C3791&_nc_sid=10d13b)](http://www.threads.com/@dreamcoder.tw)
 
-[dreamcoder.tw](https://www.threads.com/@dreamcoder.tw)
+[dreamcoder.tw](http://www.threads.com/@dreamcoder.tw)
 
-[06/08/26](https://www.threads.com/@dreamcoder.tw/post/DZVLB_LlGgn)
+[06/08/26](http://www.threads.com/@dreamcoder.tw/post/DZVLB_LlGgn)
 
-![Image 4: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX
+![Image 4: atai_coding_data's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2
 ```
