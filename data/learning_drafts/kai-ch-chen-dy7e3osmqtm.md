@@ -10,11 +10,13 @@ tools:
   - "Claude Code"
   - "GPT"
   - "MCP"
+  - "RAG"
+  - "Codex"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0489
-generated_at: "2026-09-01T05:31:20+00:00"
+zh_ratio: 0.0411
+generated_at: "2026-09-02T04:56:59+00:00"
 ---
 
 # kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我
@@ -31,15 +33,15 @@ generated_at: "2026-09-01T05:31:20+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、GPT、MCP、GitHub
+Claude、Claude Code、GPT、MCP、RAG、Codex、GitHub
 
 ## 原始工作流拆解
 
 1. 乍看大家都有超棒團隊可以用，但實際上⋯ 它是已存的 subagent / skill 上編排；所以當你的基本功夫越好，workflow的效果也越好￼
 2. 底層機制（Anthropic 官方）： • Workflow = Claude 即時寫的 JS 腳本 • 同一句「audit API」,根據你的 codebase 寫出不同編排 • subagent 一律 acceptEdits + 繼承 allowlist • 同時 16 隻 / 單次 1000 隻上限
 3. [Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-atl3-3.xx.fbcdn.net/emg1/v/t13/2040504209610142836?
-4. 同一個任務，丟進聊天介面跟在 Claude Code 裡做，體感差很多，但原因不是品質——是流程的摩擦點不同。
-5. 我試過的例子是「解析這份 JSON，找出格式有問題的欄位，輸出修正後的結構」。
+4. 有沒有把 **權限、工作範圍、工具、流程** 設定好 可能讓你真正拉開使用 Claude Code的差距
+5. 我整理了 Claude Code 7 個值得先懂的功能：
 
 ## 可以直接複製的做法
 
@@ -84,14 +86,14 @@ URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 Markdown Content:
 [![Image 1: kai_ch_chen's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_38893
 - [![Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/2040504209610142836?stp=dst-src&url=https%3A%2F%2Fclaude-code.mintlify.app%2F_next%2Fimage%3Furl%3D%252F_mintlify%252Fapi%252F
-- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUA5_v9J3vyQvuY56v4JzRtSuzkTSYzzUsyNfGu64wGVNZvp-ghoHW7ALvVkrXV-1o_tugcm50QgrxzOyQJ0A1v7Yw-3dBItV6u22NTiV9j6ewZHAQg)
-- 甚至可以整理成 [CLAUDE.md](https://l.threads.com/?u=http%3A%2F%2FCLAUDE.md%2F&e=AUA5_v9J3vyQvuY56v4JzRtSuzkTSYzzUsyNfGu64wGVNZvp-ghoHW7ALvVkrXV-1o_tugcm50QgrxzOyQJ0A1v7Yw-3dBItV6u22NTiV9j6ewZHAQg) 的改善建議。
+- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUDOqbRrQBsL_asRNqpUgfXGVF8pJZQQ7wQ8QIbdywMnYp7kus9Nzx0ZdM-SEB02Jbq6Sw6y6tlQFiAWHtdDUI1PbNwv_EltbdcwoE2o4IxXvP9mFvk)
+- 甚至可以整理成 [CLAUDE.md](https://l.threads.com/?u=http%3A%2F%2FCLAUDE.md%2F&e=AUDOqbRrQBsL_asRNqpUgfXGVF8pJZQQ7wQ8QIbdywMnYp7kus9Nzx0ZdM-SEB02Jbq6Sw6y6tlQFiAWHtdDUI1PbNwv_EltbdcwoE2o4IxXvP9mFvk) 的改善建議。
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、MCP、Agent、agent、自動化、流程、prompt、工具、會議、整理、設計、GitHub、CLI、workflow
-- zh_ratio: `0.0489`
+- keyword_hits: AI、Claude、GPT、RAG、MCP、Codex、Agent、agent、流程、prompt、工具、會議、整理、設計、GitHub、開源、CLI、workflow
+- zh_ratio: `0.0411`
 - source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 ## 原始抓取內容
@@ -110,7 +112,7 @@ Markdown Content:
 
 # [Thread 1.8K views](http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
 
-[![Image 1: kai_ch_chen's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_388939806295097201_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGd66Dw2HeqRGy1UdaodMwZkZnanLWzrOEdRielfmYUpWbhu0p0h2Tw83pIkxoamac&_nc_ohc=VZ8AYMSymZwQ7kNvwG0dQlY&_nc_gid=Mfoa08gkHxIHunfNni3gEQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKMkt_tmyxRO4u-y078HUedxs7sGRnbOwrwI5vL7qrfwQ&oe=6A9C39BA&_nc_sid=10d13b)](http://www.threads.com/@kai_ch_chen)
+[![Image 1: kai_ch_chen's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/703222852_17965468269115625_388939806295097201_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MDAuYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF29NSYTrEy7oaAXQWK9AmEeMU54lmMJ8ykyPBHXHz2y-NUp-eq_D2P56hp0tuav4w&_nc_ohc=VZ8AYMSymZwQ7kNvwHh1VVe&_nc_gid=jbrP5cZ2Kd3nB8JkLO8M3w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLaJM0zrfDR0B51R5iTituYaQbw_YP4hzs2EKYei-_ZkA&oe=6A9D8B3A&_nc_sid=10d13b)](http://www.threads.com/@kai_ch_chen)
 
 [kai_ch_chen](http://www.threads.com/@kai_ch_chen)
 
@@ -128,9 +130,9 @@ Markdown Content:
 
 Translate
 
-![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KOT9X0X7NQcQ7kNvwHTcJXR&_nc_oc=AdrS8epF1-ErefN2xi8f7XePeBWRV_pxTc-J6GEgw1sDzJO5JDVKzlRJsd_cORgES6c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=Mfoa08gkHxIHunfNni3gEQ&_nc_ss=7a22e&oh=00_AQLcRcTLmJYt_t7gX__agt409SfxEYOe8y2CrSNmGh1c1Q&oe=6A9C191C)
+![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KOT9X0X7NQcQ7kNvwFeAm4s&_nc_oc=AdrSp7DqqtX5R1PLOXToOn3Nu83eeRgWP-dFXAvuKPfzkctDHgCBB3HROV5DY_kQhHA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=jbrP5cZ2Kd3nB8JkLO8M3w&_nc_ss=7a22e&oh=00_AQK3Jde4lCb9IiBtKVRi-anxQE5F0eehC1B6p28tF4UWMg&oe=6A9D6A9C)
 
-![Image 3](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a2z_DFSEJmkQ7kNvwH48oIM&_nc_oc=Adr4e-Vm1tNkUZypCW4BtGrp23nXIJYUOuZ6biqss9HRUGw3EbfK48q0O8Ny4MSUO70&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=Mfoa08gkHxIHunfNni3gEQ&_nc_ss=7a22e&oh=00_AQLvvji-hJKHy49XNJOec6uYvXvX_ze7S2QfRZiyfk2jrw&oe=6A9C477E)
+![Image 3](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=a2z_DFSEJmkQ7kNvwGPmHbR&_nc_oc=AdrprAlDmF7Saku3oRkgr26izHduo117ZmpwuG_P-JlBEBUNH0_2ggv9eGEY2fiRx6A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=jbrP5cZ2Kd3nB8JkLO8M3w&_nc_ss=7a22e&oh=00_AQK8iLgex8vAQD4e9_Ueb46MpBfeBQYULWCTp4kA6sX3lA&oe=6A9D98FE)
 
-![Image 4](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UccHZlg3gFgQ7kNvwE-RIgb&_nc_oc=AdqJ
+![Image 4](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=UccHZlg3gFgQ7kNvwFOg4Tm&_nc_oc=Adqz
 ```

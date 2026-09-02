@@ -7,9 +7,9 @@ language: "unknown"
 category: "coding"
 tools:
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-01T05:31:20+00:00"
+generated_at: "2026-09-02T04:56:59+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,12 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: 1brit's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/704098122_17910812226402403_2241896393127884421_n.jpg?stp=dst-jpg
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -77,15 +71,20 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 2: djbae__'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753298246_17938211634277853_3816425042518892051_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: mercedspca's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/433279439_917873843161703_7454817688890598375_n.jpg?stp=dst-j
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/790267850_17983398924114486_8978281822895690351_n.webp?_nc_cat=105&ig_cache_key=Mzk3NjkxMDk0ODU2NTE0OTk3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OC5zZHIucm
 - Markdown Content:
-[![Image 1: 1brit's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/704098122_17910812226402403_2241896393127884421_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
-- [![Image 3: loktar_lexy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/777165220_18121228861852397_5860828876863717551_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
+[![Image 1: mercedspca's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/433279439_917873843161703_7454817688890598375_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yODkuYzIifQ&_nc_ht=scont
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -97,43 +96,47 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: jelumarie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/503987345_17864747394406899_5829163108914085180_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=2eQyvp8NhJkQ7kNvwEUch8L&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLNJTvBR5Hn6xsZeQHP2_YxADkCMq6qdedbCn2MKlM_Gw&oe=6A9C3C3F&_nc_sid=10d13b)](https://www.threads.com/@jelumarie)
+[![Image 1: britunfilteredddd's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723988399_17894062410524799_9114455207085554222_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOdOMHoYPJ0KAcdNvXB59YqXzmTSZxdoZRA9OsWSgPH8C3MDB73ZxJ3OZdiJcFrsA&_nc_ohc=uvAFGWtrPGIQ7kNvwHlIVcw&_nc_gid=HDfQIITvUR9c1YQOtw_xGQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLFwMM5VRSB87-hB7UYj7ZDcfGObsMsZ5zC66ll7Yg8kQ&oe=6A9D9A87&_nc_sid=10d13b)](https://www.threads.com/@britunfilteredddd)
 
-Women who are good with money, what’s ONE rule you personally live by?
+I don’t have A DIMMADOME DOG IN THIS FIGHT.
 
-67
+I ain’t read not nan book😂😂😂😂😂
 
-41
+149
 
-3
+17
 
-2
+14
 
-[![Image 2: indiakallday's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729424333_17937288156272494_2685895886825498489_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=z-vIS-hJ6AQQ7kNvwHV-F_L&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ3u0pGuqr3RR1aOK7FVQxjpSjNzHZLdILNhV22Eu3Plw&oe=6A9C2676&_nc_sid=10d13b)](https://www.threads.com/@indiakallday)
+1
 
-Could you date someone who had opposing political views? Cause I tried it and it’s a no for me
+[![Image 2: caitjenn's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640443902_18561724900058983_2018019060782199053_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFOdOMHoYPJ0KAcdNvXB59YqXzmTSZxdoZRA9OsWSgPH8C3MDB73ZxJ3OZdiJcFrsA&_nc_ohc=R3znIsfj4P4Q7kNvwFJaaun&_nc_gid=HDfQIITvUR9c1YQOtw_xGQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLy6Ps29IHrSxxxBemy43smkOIcrjH1Apgo7rCWnJIaMQ&oe=6A9D968D&_nc_sid=10d13b)](https://www.threads.com/@caitjenn)
 
-77
+Just a Black Tahoe circling my car and taking a picture of my license plate in the parking lot of the church where Ken Paxton is having his rally tonight. Totally normal stuff.
 
-151
+1.5K
 
-6
+49
 
-[![Image 3: brandontour's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671072517_17959041618120863_7758568468885701469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=fhEjn2nIQxwQ7kNvwEPhGyE&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLjNRRTKOcf3S0K92Fr0qS7NuDXsf1gA6dF8nwnnfEgkg&oe=6A9C2DE1&_nc_sid=10d13b)](https://www.threads.com/@brandontour)
+74
 
-Nobody sleeps better than toddlers who don’t have jobs, have no bills, have all their meals catered, don’t have to wipe their own asses, have no idea what politics are, and spend their days being loved on and playing.
+1
 
-1.4K
+[![Image 3: qqqqqtipie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/619913305_17868012885551215_6425524274505567896_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFOdOMHoYPJ0KAcdNvXB59YqXzmTSZxdoZRA9OsWSgPH8C3MDB73ZxJ3OZdiJcFrsA&_nc_ohc=9VrxMQ68K5cQ7kNvwEGP_0B&_nc_gid=HDfQIITvUR9c1YQOtw_xGQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI9qCBGOD07nG6J_hux0EM52SZfP8qhMWMoYqpwdP-FZw&oe=6A9D7F67&_nc_sid=10d13b)](https://www.threads.com/@qqqqqtipie)
 
-38
+Chill Jose she not going anywhere 🙄😂
 
-12
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/791560938_18621968287055595_3060214563497828924_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3NjY4NzY0MDM3NDY2MzE5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTQ5MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fVLwh7hL_TcQ7kNvwFkvS4F&_nc_oc=AdrjGmsqZkXDeEgvonUJeZ5I433f-mnUaQcqozvdiuMw4DZDySe5DZ3tXYx5AJa3tPw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HDfQIITvUR9c1YQOtw_xGQ&_nc_ss=7a22e&oh=00_AQJQjv4gF9MH1ah5j8mhmZIRqH06VZ7sak4WBJ_nrXhsaQ&oe=6A9D71F0)
 
-2
+usabasketball
 
-[![Image 4: kaylacachetona's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/787620579_17919573432425397_8699559378589059554_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG-2j1bOariFNb0cW_dywUAJLqgRz2ZBVczO5HLI6aeU_a4S2k0-tdiL6BMIJfP--I&_nc_ohc=3CWLR21FB8EQ7kNvwFHLRH8&_nc_gid=to7Bv5V8W_K1ESjFkPRaSQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLnZESy2_RGjjTaIVOWqnVvU6dE-NlnC8Jc4IDrt4YLqA&oe=6A9C2A58&_nc_sid=10d13b)](https://www.threads.com/@kaylacachetona)
+350
 
-Only a little sad I won’t have the character art for the 3rd book 😭
+18
 
-[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/788640072_17919569580425397_8622671713767630443_n.jpg?stp=
+4
+
+7
+
+[![Image 5: nora.onherown's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/758253933_17910147621445131_4765777548884254042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmM
 ```
