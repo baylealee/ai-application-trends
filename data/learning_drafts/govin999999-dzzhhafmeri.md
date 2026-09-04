@@ -4,12 +4,13 @@ source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-03T04:55:17+00:00"
+generated_at: "2026-09-04T04:57:43+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -63,29 +64,22 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
+[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=d
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: thedancingestjackson's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786742926_17940683532342179_749218079821637586_n.j
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/791296386_18336352519277188_3136577498195326989_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NzU5NDUxNjYxMDc1NTQxMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+[![Image 1: stellanko's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/412027192_2097185113971646_1746509030154078202_n.jpg?stp=dst-j
 - Markdown Content:
-[![Image 1: thedancingestjackson's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786742926_17940683532342179_749218079821637586_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDAuYzIifQ&
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/791778425_17941820634342179_3264122724430476091_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk3NzUxMzAyNTc0NzI5NDg4OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9V
+[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=sc
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/792909565_17970963774132268_6513373311912354024_n.webp?_nc_cat=110&ig_cache_key=Mzk3ODMxMDc5MjAzMjQyMDYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE
+- I’m gonna throw up. We are just 50 minutes away from our Kickstarter campaign’s end and ONE backer away from $2,000. The children’s book world is a heartbreaker.
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -97,41 +91,39 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: princesspuffypants's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/433396685_3455280371436863_5163936435290945443_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEUZtyxne-pudzabxk0_uQ7aSEwgDfPdTvMjXUvePBkne4yvIvoIUOApeAxBmcxIys&_nc_ohc=8UpXaHzfQI8Q7kNvwGwIQ68&_nc_gid=6_QRuGmu0UDcwJIAetUDnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLdxMY0zgY1ECUXtoQhnig5gOZCuNKd76fmozJZzUnhOA&oe=6A9ED2E1&_nc_sid=10d13b)](https://www.threads.com/@princesspuffypants)
+[](https://www.threads.com/)
 
-So in honor of Dolly, I rewatched Steel Magnolias. If you pay attention, the girl at the wedding who says "Jackson is one big hanging man" to Shelby and gets admonished by "calories, calories" (her mother, Belle) is family of Clairee.
+[](https://www.threads.com/)
 
-Belle is Clairee's sister who is the mother of Nancy Beth and Marshall. Nancy Beth is crowned Ms Merry Christmas at the festival and Marshall is the man who kisses the ladies with mistletoe at the Christmas party (they look like they're carved from cream cheese).
+[](https://www.threads.com/search)
 
-152
+# [Home](https://www.threads.com/?error=invalid_post)
 
-29
+[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gErk4e4g3I1Z9eiirnrAGBqUe2XwPsNuD0fdYuDzOpkyi56G4MEj_ufrLpvMihCvVo&_nc_ohc=4eY3rUHYb0cQ7kNvwF0hXV5&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKGHE3cF7ky_1jnpeCeaYvtJaBpoYEjdj0ODcNtaeb1rw&oe=6AA032B9&_nc_sid=10d13b)](https://www.threads.com/@girlalaaa7)
 
-3
+[girlalaaa7](https://www.threads.com/@girlalaaa7)
 
-3
+[Love Island USA](https://www.threads.com/search?q=Love%20Island%20USA&serp_type=tags&tag_id=18340727854110638)
 
-[![Image 2: mitzicat1's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357867338_955128842211067_7232933146743058854_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40ODAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEUZtyxne-pudzabxk0_uQ7aSEwgDfPdTvMjXUvePBkne4yvIvoIUOApeAxBmcxIys&_nc_ohc=lcGqZgyPb2MQ7kNvwGh30f7&_nc_gid=6_QRuGmu0UDcwJIAetUDnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJO7HobJiZsyKAEhGD_F6ETi_G8aceaIsD8AiUVdsOHcQ&oe=6A9EB5CA&_nc_sid=10d13b)](https://www.threads.com/@mitzicat1)
+[10h](https://www.threads.com/@girlalaaa7/post/Dc1eyOzmK-K)
 
-Look, I still call Disney’s third park in Florida MGM. There’s no way I’m renaming a lake because an old man had a temper tantrum. 🤷‍♀️
+So there’s these two people who are in love 🤭
 
-787
+![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/793518408_17903657034559700_2997775625701391876_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3ODIyMTA1ODI5NTcyNjc3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QhnSvX5w8IAQ7kNvwHV9rQe&_nc_oc=AdqUXZom16Jb8S2ZbN33vvEoj3utDks_XiDfe88tXgQEzVAo9zkx0cJbdIcmgRLrZFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&_nc_ss=7a22e&oh=00_AQI5LnIoy73lvQeMLn4d-7xUf9B8-yT_msS9K-1Ye8yngg&oe=6AA031CA)
 
-29
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/793507072_17903657052559700_2930060174032640465_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3ODIyMTA3MTYwNzU4MjQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KASN2kztOHcQ7kNvwFzC1__&_nc_oc=AdqGaBieTUTso4fj5DU-EPyUasEbg-Q0QIwaGhLKdzVXBdBXBrFRL1feRH_60tjXwGU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&_nc_ss=7a22e&oh=00_AQIOaTLRIjYpDSYzV1cBZ9t28TnBpwPojjpzVHcVIs4e2w&oe=6AA032C2)
 
-40
+694
 
-51
+21
 
-[![Image 3: accordingtotaytay's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786657281_17985737298102387_425674342849012460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEUZtyxne-pudzabxk0_uQ7aSEwgDfPdTvMjXUvePBkne4yvIvoIUOApeAxBmcxIys&_nc_ohc=nFlFRMyFZHQQ7kNvwEdGGOI&_nc_gid=6_QRuGmu0UDcwJIAetUDnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIihedN9SeeL2BfoZ3MwAAgzh1lxrgX3CXdkaXwoQddeA&oe=6A9EC913&_nc_sid=10d13b)](https://www.threads.com/@accordingtotaytay)
-
-JURY HAS A QUESTION
-
-9
+30
 
 4
 
-1
+[![Image 4: amandascgorman's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/473063979_1346094229753091_9140131078638687297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gErk4e4g3I1Z9eiirnrAGBqUe2XwPsNuD0fdYuDzOpkyi56G4MEj_ufrLpvMihCvVo&_nc_ohc=BgOO7K4rX7gQ7kNvwFhj-oF&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwE-Y_zu-oubpRsm1d-CC9kpchtA03blUR2GMwlXOk_g&oe=6AA01EA7&_nc_sid=10d13b)](https://www.threads.com/@amandascgorman)
 
-[![Image 4: yagirlkii's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/772114482_17983071549102901_2759455824532701115_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEUZtyxne-pudzabxk0_uQ7aSEwgDfPdTvMjXUvePBkne4yvIvoIUOApeAxBmcxIys&_nc_ohc=J0_y5_eozmsQ7kNvwEB2Aws&_nc_gid=6_QRuGmu0UDcwJIAetUDnw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLJG2KuhFH_i5fGhg4ZOx
+[amandascgorman](https://www.threads.com/@amandascgorman)
+
+[6h](https://www.threads.com/@amandascgorman/post/Dc13-eIj
 ```
