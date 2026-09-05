@@ -1,25 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "automation"
 tools:
-  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-04T04:57:43+00:00"
+generated_at: "2026-09-05T04:52:01+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+Make
 
 ## 原始工作流拆解
 
@@ -61,25 +61,22 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=d
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[![Image 1: stellanko's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/412027192_2097185113971646_1746509030154078202_n.jpg?stp=dst-j
+Log in or sign up for Threads See what people are
 - Markdown Content:
-[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=sc
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/792909565_17970963774132268_6513373311912354024_n.webp?_nc_cat=110&ig_cache_key=Mzk3ODMxMDc5MjAzMjQyMDYzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE
-- I’m gonna throw up. We are just 50 minutes away from our Kickstarter campaign’s end and ONE backer away from $2,000. The children’s book world is a heartbreaker.
+Log in or sign up for Threads See what people are talking about and join the conversation.
+- [Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+- [Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
+- URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -90,6 +87,8 @@ Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
 [](https://www.threads.com/)
 
@@ -97,33 +96,11 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Something went wrong, please try again later.
 
-[![Image 1: girlalaaa7's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756138251_17896499490559700_4480849804474496026_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gErk4e4g3I1Z9eiirnrAGBqUe2XwPsNuD0fdYuDzOpkyi56G4MEj_ufrLpvMihCvVo&_nc_ohc=4eY3rUHYb0cQ7kNvwF0hXV5&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKGHE3cF7ky_1jnpeCeaYvtJaBpoYEjdj0ODcNtaeb1rw&oe=6AA032B9&_nc_sid=10d13b)](https://www.threads.com/@girlalaaa7)
+Retry
 
-[girlalaaa7](https://www.threads.com/@girlalaaa7)
+Say more with Threads
 
-[Love Island USA](https://www.threads.com/search?q=Love%20Island%20USA&serp_type=tags&tag_id=18340727854110638)
-
-[10h](https://www.threads.com/@girlalaaa7/post/Dc1eyOzmK-K)
-
-So there’s these two people who are in love 🤭
-
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/793518408_17903657034559700_2997775625701391876_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk3ODIyMTA1ODI5NTcyNjc3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=QhnSvX5w8IAQ7kNvwHV9rQe&_nc_oc=AdqUXZom16Jb8S2ZbN33vvEoj3utDks_XiDfe88tXgQEzVAo9zkx0cJbdIcmgRLrZFw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&_nc_ss=7a22e&oh=00_AQI5LnIoy73lvQeMLn4d-7xUf9B8-yT_msS9K-1Ye8yngg&oe=6AA031CA)
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/793507072_17903657052559700_2930060174032640465_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3ODIyMTA3MTYwNzU4MjQ1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KASN2kztOHcQ7kNvwFzC1__&_nc_oc=AdqGaBieTUTso4fj5DU-EPyUasEbg-Q0QIwaGhLKdzVXBdBXBrFRL1feRH_60tjXwGU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&_nc_ss=7a22e&oh=00_AQIOaTLRIjYpDSYzV1cBZ9t28TnBpwPojjpzVHcVIs4e2w&oe=6AA032C2)
-
-694
-
-21
-
-30
-
-4
-
-[![Image 4: amandascgorman's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/473063979_1346094229753091_9140131078638687297_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gErk4e4g3I1Z9eiirnrAGBqUe2XwPsNuD0fdYuDzOpkyi56G4MEj_ufrLpvMihCvVo&_nc_ohc=BgOO7K4rX7gQ7kNvwFhj-oF&_nc_gid=MAl0Xa-IE96qa3bK0pzy0g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwE-Y_zu-oubpRsm1d-CC9kpchtA03blUR2GMwlXOk_g&oe=6AA01EA7&_nc_sid=10d13b)](https://www.threads.com/@amandascgorman)
-
-[amandascgorman](https://www.threads.com/@amandascgorman)
-
-[6h](https://www.threads.com/@amandascgorman/post/Dc13-eIj
+Join Threads to share thoughts, find out what's going on, follow your people and more.
 ```
