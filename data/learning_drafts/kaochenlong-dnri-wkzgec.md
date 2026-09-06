@@ -4,12 +4,15 @@ source_url: "https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC"
 source_author: "kaochenlong"
 post_id: "DNRi-WKzgeC"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "Claude"
+  - "Claude Code"
+  - "RAG"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0211
-generated_at: "2026-09-05T04:52:01+00:00"
+zh_ratio: 0.0088
+generated_at: "2026-09-06T04:59:33+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -26,11 +29,12 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-待人工確認
+Claude、Claude Code、RAG
 
 ## 原始工作流拆解
 
 1. Title: 高見龍.agent (@kaochenlong) on Threads
+2. 我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
 
 ## 可以直接複製的做法
 
@@ -61,20 +65,28 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 12.3K views](https://www.
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- [![Image 20](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/793001657_18624829546008809_3058871339065865456_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3OTU2MzY1MjgwODgwODI1NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZ
+- [![Image 11: frencyliu's profile picture](https://instagram.fvsa2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fvs
+- [![Image 13: frencyliu's profile picture](https://instagram.fvsa2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fvs
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Agent、agent
-- zh_ratio: `0.0211`
+- keyword_hits: AI、Claude、RAG、Agent、agent、工具
+- zh_ratio: `0.0088`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -85,13 +97,27 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHkEsT2Islxw38zVDo3bAZAE0omdI_cPQ_Qi9RGHtiE1R-UMtr2mzS7gPVmkx4ulRs&_nc_ohc=1Z4z0xSBDlgQ7kNvwFFt66C&_nc_gid=3EMoeljYxxoabVrC70Ly5w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKcUSx-cZHqMRK1xrwdMiSP6bvas8G1m3ugOBVPBP8j2Q&oe=6AA17FCB&_nc_sid=10d13b)](http://www.threads.com/@kaochenlong)
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 12.3K views](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHUSnJE42DvN9JzsRLHJYgJLVuMZY7h9lopCGAXs-NChspj5jk3Sj6Yytj0lxf1iRU&_nc_ohc=1Z4z0xSBDlgQ7kNvwEOikM1&_nc_gid=mHTkGlNyn2tb7MNRq2QI8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJpol6WEOBxE3VrpIPFS4-3G-gr5Ov5t2OSMaGX3PvPzQ&oe=6AA2D14B&_nc_sid=10d13b)](http://www.threads.com/@kaochenlong)
+
+[kaochenlong](http://www.threads.com/@kaochenlong)
+
+[ai coding](http://www.threads.com/search?q=ai%20coding&serp_type=tags&tag_id=18459619093014492)
+
+[08/12/25](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
 Translate
 
-[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=l6N3XvD2gkcQ7kNvwFHoT8k&_nc_oc=Ado1nqAMEeoaLBKWw3hGZ1qt6IGSvnAIcLsSvDWuS0QBWFd_2OC_0AZcJtNkJ2G3xNk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=3EMoeljYxxoabVrC70Ly5w&_nc_ss=7a22e&oh=00_AQIqll6JqpptxdZf2mIiM_uGoPkdbWBYkG3deWmYPKqk0w&oe=6AA17660)](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=l6N3XvD2gkcQ7kNvwHTzpyZ&_nc_oc=AdoFyDlhfH0OniJuoTldmWZXhxkuj5AH4Rq-Ki_Q26bnF6a0ifPt3aeMUoPDNhTJPI0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=mHTkGlNyn2tb7MNRq2QI8Q&_nc_ss=7a22e&oh=00_AQIoufecUeF_zKkxEL2zDbP9XdqDlxxn_pqBMOcGuq8wCw&oe=6AA2C7E0)](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -100,4 +126,18 @@ Translate
 18
 
 16
+
+[![Image 3: hydai's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHUSnJE42DvN9JzsRLHJYgJLVuMZY7h9lopCGAXs-NChspj5jk3Sj6Yytj0lxf1iRU&_nc_ohc=PsbSgCiSYWkQ7kNvwGBa1i7&_nc_gid=mHTkGlNyn2tb7MNRq2QI8Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIthisQS0H0iVa4MVxANtP0B0OOenwk8Vaz3cOBJ9sncw&oe=6AA2D23C&_nc_sid=10d13b)](http://www.threads.com/@hydai)
+
+[hydai](http://www.threads.com/@hydai)
+
+[08/13/25](http://www.threads.com/@hydai/post/DNSAYInhhWk)
+
+我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
+
+Translate
+
+1
+
+[![Image 4: elser.offical's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHUSnJE42DvN9JzsRLHJYgJLVuMZY7h9lopCGAXs-NChspj5jk3Sj6Yytj0lxf1iRU&_nc_ohc=TaZ-7tATllYQ7kNvwGpDJMt&
 ```
