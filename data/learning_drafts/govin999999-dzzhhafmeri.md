@@ -1,25 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：A HUGE thank you to everyone who has volun"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "GAS"
+  - "RAG"
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-06T04:59:33+00:00"
+generated_at: "2026-09-07T05:06:27+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：A HUGE thank you to everyone who has volun
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+A HUGE thank you to everyone who has volunteered their time, spaces, and businesses to help make this happen!
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-GAS
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -64,20 +65,15 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
+[![Image 1: southpawstrikeout's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/637687039_18030620804604220_5668348087271461091_n.jpg
+- [![Image 5: strikeoutbuzz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540342448_17845168215558264_2212019180821408992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzkuYzIifQ&_nc_ht=scontent.cdninsta
+- [![Image 3: caitlinrosepr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649188320_17947000479108701_8222721640686750907_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/798117364_18063195761604220_6750098806510840692_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk4MDI4Mzg1Mjk5NjQ5ODgyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -97,29 +93,49 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: books.spicy.and.coffee.icy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/653384028_17931087654212208_1317716958933273616_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGMXjtchqCyMqKJAWop9N1IRxrL0O4jvEG5J5YtsbiNK0OCwgC65J_1BXU2gwbdqbU&_nc_ohc=tKGlDCXFllgQ7kNvwEQ1HsG&_nc_gid=xZvlo33_EarY8tq05Br1CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL3Wc5u_iyPAoq4PP21yyPMBXe6Mf61OPlbUg4saYR2YA&oe=6AA2BA82&_nc_sid=10d13b)](https://www.threads.com/@books.spicy.and.coffee.icy)
+[![Image 1: rabbit.7551316's profile picture](https://instagram.fcgk25-2.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcgk25-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gG8eglVtbKFadBekPDMipZgzAcGlboZoz9aobIyT0bofprRnClLiPqzzggeNO_HbMU&_nc_ohc=nvT9lZ7NY-YQ7kNvwEwhLbX&_nc_gid=ZF9CVbcX-1jx5SThVxbwIg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQJXOX6vsw8hgPE2yxHaZnwCE1Ga_zO9JM2nz_0ewCC4Nw&oe=6AA429EA&_nc_sid=65462d)](https://www.threads.com/@rabbit.7551316)
 
-[books.spicy.and.coffee.icy](https://www.threads.com/@books.spicy.and.coffee.icy)
+[rabbit.7551316](https://www.threads.com/@rabbit.7551316)
 
-[book threads](https://www.threads.com/search?q=book%20threads&serp_type=tags&tag_id=18325582843102244)
+[18h](https://www.threads.com/@rabbit.7551316/post/Dc8T2I9ER0r)
 
-[6h](https://www.threads.com/@books.spicy.and.coffee.icy/post/Dc7E-xyEXDL)
+On my 29th birthday, my parents walked into my apartment without knocking, dropped a bank folder beside my cake, and told me they had emptied my savings for my sister Grace.
 
-And this is what happens when you use AI….. Got a picture full of beautiful Black women wearing Black Reader shirts and you zoom in on the book stack and it’s SJM, Rebecca, and Taylor’s books. 🫠🫠🫠🫠🫠
+My father actually smiled.
 
-This is why we keep telling yall to stop using AI. Because the whole message is lost with that book stack. Looking like a wyt girl starter pack. Which would be fine…. Except everyone in the pic is Black.
+“Your savings secured your sister’s future.”
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/797991998_17956756263212208_5421748860776415256_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk3OTc5NTI5MDkyMzcxNjM5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zT-W_t0RdMAQ7kNvwGs-i35&_nc_oc=Adp7b-ugUvUeNytprE7J4mp9GJVODS5oSklzKxuMUk_Igw7ENE0J8aT1aIklG_uOW54&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=xZvlo33_EarY8tq05Br1CQ&_nc_ss=7a22e&oh=00_AQIG_TYK0fUXQ83L6TBlqU9ttlO8WpmkFPLxG-W4_QSqsw&oe=6AA2C3D8)
+They thought they had taken ten years of my life.
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/797454538_17956756272212208_4564789456439781614_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk3OTc5NTI5MDk2NTQ0NzI5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Hr5CQsHjjNYQ7kNvwFgoPOZ&_nc_oc=AdognspNsAi6nLDoj6vcH7ckPVQjXmT_eE1FawVFHHySacrN56r1kvdo_kvHmuRKDG0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=xZvlo33_EarY8tq05Br1CQ&_nc_ss=7a22e&oh=00_AQL3i8jM0-uK6OWF_DhcXDUpT-oUzeIb8DIC3iwUsLlaHw&oe=6AA2C731)
+They had no idea the account they emptied was the one I had built for exactly this moment.
 
-178
+36
 
-54
+12
 
-10
+1
 
-2
+[![Image 2: mr_reed21's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/652110547_17868474597590451_4228267940720444422_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG774mWvhrALTidMhmycip3blvI7B2FjMVbyAjRUmSVhe4fX80wbCtFZKWKW-XkXB8&_nc_ohc=F5wlY6gDI6cQ7kNvwFV1jTp&_nc_gid=7wxUCQ9JFvDqd9LMFNZWuQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLmvfFR-MYFvipyF__hUG6A9cVsH4xa8t_df6yMhKX6Rg&oe=6AA43125&_nc_sid=10d13b)](https://www.threads.com/@mr_reed21)
 
-[![Image 4: chef_hes's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/764862914_18062047802535045_5464819311998799566_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_
+[mr_reed21](https://www.threads.com/@mr_reed21)
+
+[14h](https://www.threads.com/@mr_reed21/post/Dc8xDDxlJGj)
+
+Hey cousins! ♍️🔥 With the overwhelming response to Virgo Field Day, we’re opening it up to ALL August & September Virgos!
+
+A HUGE thank you to everyone who has volunteered their time, spaces, and businesses to help make this happen! 🙌🏾 Your support means everything!
+
+I can already tell this is going to be HUGE 😂, so I’m working through the details to decide whether we go big or start small. Safety and making sure everyone is taken care of come first.
+
+More details coming soon! 👀♍️
+
+365
+
+100
+
+5
+
+4
+
+[![Image 3: strikeoutbuzz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540342448_17845168215558264_2212019180821408992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG774mWvhrALTidMhmycip3blvI7B2FjMVbyAjRUmSVhe4fX80wbCtFZKWKW-XkXB8&_nc_ohc=OVMpAlaIIacQ7kNvwHaVnIA&_nc_gid=7wxUCQ9JFvD
 ```

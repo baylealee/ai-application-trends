@@ -10,12 +10,11 @@ tools:
   - "Claude Code"
   - "GPT"
   - "MCP"
-  - "GAS"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0429
-generated_at: "2026-09-06T04:59:33+00:00"
+zh_ratio: 0.0334
+generated_at: "2026-09-07T05:06:27+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -32,14 +31,14 @@ generated_at: "2026-09-06T04:59:33+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、GPT、MCP、GAS、GitHub
+Claude、Claude Code、GPT、MCP、GitHub
 
 ## 原始工作流拆解
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/9463750597260993044?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUC-WXLrt1IBpBOG64ZB55HOpnVRv5kkM5B00gPXUaem4Gp6JJY1nQY5MlJViYXzuT3FC3orngz85EV1FC1FEuoVcJtuMLIDYdimRQb8mJAFRcnd7ww)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9463750597260993044?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCUjhofHakKnxvYQWkmrKpB8_UA78GWZfnp5BZmltSwZNve9mNqzdQvaKv0whix7Ucfp_SflbRe6xjBPL-gj_AkA2RNkJ3fEb6_UXLlElrVN2-aCt8)
 5. 現在都是直接用 agent skills 體系去做
 
 ## 可以直接複製的做法
@@ -68,29 +67,6 @@ reply_summary_status: `partial`
 
 - Title: Jun CP (@_3cpj_) on Threads
 
-URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Thread 115K views](http://www.threads.com/@_3cpj_
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、MCP、Agent、agent、工作流、prompt、工具、知識庫、設計、CRM、GitHub
-- zh_ratio: `0.0429`
-- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-## 原始抓取內容
-
-```text
-Title: Jun CP (@_3cpj_) on Threads
-
 URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
@@ -100,13 +76,37 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 115K views](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+# [Thread 115K views](https://www.threads.com/@_
+- 「失敗三次必須停下來」這條規則是整份 [CLAUDE.md](https://l.threads.com/?u=http%3A%2F%2FCLAUDE.md%2F&e=AUBrIIFOucwJx0Eygc9ypXy6fAfx2tLexHPLxbUvnv2H44CoexA9Ziii_CcMrqEpqb1IkigXrCjccxE1uCh9s_5jvLQWtTbMAfffCBypEBYdbOhrF9k) 裡最有價値的設計。AI 最危險的行為模式就是陷入「換個說法再試一次」的迴圈——看起來在努力解決，實際上在繞圈子。強制停
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGzJWR_b32w5ZlU0sqRuF0Rs29-D0A1kWazF-tQQ3bHMktP0TaWKgNTq6ufumVw7n4&_nc_ohc=KtdviSAvJKYQ7kNvwHSS-FI&_nc_gid=aeGy4LeGV66CwezCRVKU7g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK2O7rvBj0qeCNAbJrY1cnn12LbHQqePyhuxBOys_eTIQ&oe=6AA2C574&_nc_sid=10d13b)](https://www.threads.com/@_3cpj_)
+## 抓取品質
 
-[_3cpj_](https://www.threads.com/@_3cpj_)
+- content_quality: `strong`
+- keyword_hits: AI、Claude、GPT、MCP、Agent、agent、工作流、prompt、工具、知識庫、設計、CRM、GitHub
+- zh_ratio: `0.0334`
+- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
-[08/11/25](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+## 原始抓取內容
+
+```text
+Title: Jun CP (@_3cpj_) on Threads
+
+URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 115K views](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFVrQj9BfFcrrr4L1l5f1lK059qQN3Ev-U180-GX4AJTkokQDhcl5jhOCqfFcAPdr4&_nc_ohc=x20Ch-hvbj8Q7kNvwHtsRre&_nc_gid=iNBCurb2QAShfnLPpJ-C7A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI8P1lSTZ5Hl54BWVpQOC7mnxi6OW8jGX0WPxNWzwFVng&oe=6AA416F4&_nc_sid=10d13b)](http://www.threads.com/@_3cpj_)
+
+[_3cpj_](http://www.threads.com/@_3cpj_)
+
+[08/11/25](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
 最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
 
@@ -130,7 +130,7 @@ Markdown Content:
 
 Translate
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/9463750597260993044?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2F80e9024db72c753e2ecac927b1ab5ae157a2b4d5069b89cf6da2ad3523df984e%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_gid=aeGy4LeGV66CwezCRVKU7g&_nc_oc=AdqKljWoGPq4GxppzxWTtjORiPbwTgjjb4oombIO54q74LspAtEujbRr7U4Q5yR5I7U&ccb=13-1&oh=06_Q3_DAU-hJ3qCMUcHAnYJTXRhis0GNj7k9qIRbI1bQc2Cjr2X&oe=6A9EE656&_nc_sid=1d65fc) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=aeGy4LeGV66CwezCRVKU7g&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAdVffUW3_rDgC9UQULVQYQ-yt4vt9SYpzS9CtJM8BAao&oe=6A9ECA47) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUC-WXLrt1IBpBOG64ZB55HOpnVRv5kkM5B00gPXUaem4Gp6JJY1nQY5MlJViYXzuT3FC3orngz85EV1FC1FEuoVcJtuMLIDYdimRQb8mJAFRcnd7ww)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9463750597260993044?stp=dst-src&url=https%3A%2F%2Fopengraph.githubassets.com%2F80e9024db72c753e2ecac927b1ab5ae157a2b4d5069b89cf6da2ad3523df984e%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_gid=iNBCurb2QAShfnLPpJ-C7A&_nc_oc=AdpSuF_xb3rmt-rvnSY1p3y87IeN_njL5TNc0rqZyS4oDDIi3WloOgyrS1sfq1n76Mc&ccb=13-1&oh=06_Q3_DAXavPmdapmnnWB_cbymBmib5BI-AwLSbETwC5TKliRoC&oe=6AA037D6&_nc_sid=1d65fc) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=iNBCurb2QAShfnLPpJ-C7A&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAa2A3Bv9_0lV93d1YCuUOP0-a2dMgokDd9yJqd55T7b8&oe=6AA01BC7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCUjhofHakKnxvYQWkmrKpB8_UA78GWZfnp5BZmltSwZNve9mNqzdQvaKv0whix7Ucfp_SflbRe6xjBPL-gj_AkA2RNkJ3fEb6_UXLlElrVN2-aCt8)
 
 1.9K
 
@@ -140,5 +140,5 @@ Translate
 
 2.1K
 
-[![Image 4: i.g._.mitch's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/488214694_1053155066939326_4823923388808457657_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGzJWR_b32w5Zl
+[![Image 4: i.g._.mitch's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/488214694_1053155066939326_4823923388808457657_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFVrQj9BfFcrrr4L1l5f1l
 ```
