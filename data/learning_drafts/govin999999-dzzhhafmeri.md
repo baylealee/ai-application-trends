@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：A HUGE thank you to everyone who has volun"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -7,20 +7,19 @@ language: "unknown"
 category: "knowledge_base"
 tools:
   - "RAG"
-  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-07T05:06:27+00:00"
+generated_at: "2026-09-08T05:02:57+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：A HUGE thank you to everyone who has volun
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-A HUGE thank you to everyone who has volunteered their time, spaces, and businesses to help make this happen!
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +27,7 @@ A HUGE thank you to everyone who has volunteered their time, spaces, and busines
 
 ## 使用工具
 
-RAG、Make
+RAG
 
 ## 原始工作流拆解
 
@@ -65,22 +64,8 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: southpawstrikeout's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/637687039_18030620804604220_5668348087271461091_n.jpg
-- [![Image 5: strikeoutbuzz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540342448_17845168215558264_2212019180821408992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzkuYzIifQ&_nc_ht=scontent.cdninsta
-- [![Image 3: caitlinrosepr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649188320_17947000479108701_8222721640686750907_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/798117364_18063195761604220_6750098806510840692_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk4MDI4Mzg1Mjk5NjQ5ODgyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: at.this.age's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786069678_18102468766968065_4797838291002939533_n.jpg?stp=d
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -93,49 +78,52 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: rabbit.7551316's profile picture](https://instagram.fcgk25-2.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fcgk25-2.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gG8eglVtbKFadBekPDMipZgzAcGlboZoz9aobIyT0bofprRnClLiPqzzggeNO_HbMU&_nc_ohc=nvT9lZ7NY-YQ7kNvwEwhLbX&_nc_gid=ZF9CVbcX-1jx5SThVxbwIg&edm=AJ9x6zYBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQJXOX6vsw8hgPE2yxHaZnwCE1Ga_zO9JM2nz_0ewCC4Nw&oe=6AA429EA&_nc_sid=65462d)](https://www.threads.com/@rabbit.7551316)
+- [![Image 4: kalenelainee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/694124609_17966095260111223_1609561313726207811_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent.cdninstag
+- Set me straight: is peel and stick wallpaper as easy as it looks or would I (someone who is admittedly terrible at DIY projects) be setting myself up for an expensive failure?
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/799347103_2612892719171146_7440572454397222042_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4MTIwMzQ5NTQyMDA5MzgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
 
-[rabbit.7551316](https://www.threads.com/@rabbit.7551316)
+## 抓取品質
 
-[18h](https://www.threads.com/@rabbit.7551316/post/Dc8T2I9ER0r)
+- content_quality: `strong`
+- keyword_hits: AI、RAG
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-On my 29th birthday, my parents walked into my apartment without knocking, dropped a bank folder beside my cake, and told me they had emptied my savings for my sister Grace.
+## 原始抓取內容
 
-My father actually smiled.
+```text
+Title: Threads • Log in
 
-“Your savings secured your sister’s future.”
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-They thought they had taken ten years of my life.
+Markdown Content:
+[![Image 1: _daniellebey's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730992572_17977813239111270_4886844202833283590_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=ujHzmRk-QwoQ7kNvwEbar9R&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLuQD93s1My7halPwkRW6io_G_geeHJ-yElYPzUOmbh-A&oe=6AA58281&_nc_sid=10d13b)](https://www.threads.com/@_daniellebey)
 
-They had no idea the account they emptied was the one I had built for exactly this moment.
+As a girly that’s late for everything (time blindness and anxiety are a bit**) Gizelle is doing the absolute most about Lisa being late for the bus when they ultimately made it to the flight on time. If it got too late, they could have left her and I’m I’m sure Lisa could have made her own arrangements to get to MIA (a consequence us late girlies are overly familiar w).
 
-36
+49
 
-12
+76
+
+2
 
 1
 
-[![Image 2: mr_reed21's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/652110547_17868474597590451_4228267940720444422_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG774mWvhrALTidMhmycip3blvI7B2FjMVbyAjRUmSVhe4fX80wbCtFZKWKW-XkXB8&_nc_ohc=F5wlY6gDI6cQ7kNvwFV1jTp&_nc_gid=7wxUCQ9JFvDqd9LMFNZWuQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLmvfFR-MYFvipyF__hUG6A9cVsH4xa8t_df6yMhKX6Rg&oe=6AA43125&_nc_sid=10d13b)](https://www.threads.com/@mr_reed21)
+[![Image 2: emilyann_marie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/587193258_17918399625210593_1971849077869823553_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=EAg7K56e3LAQ7kNvwFTVEE-&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIXntqa_-883LdVtFscmj5jl_JZJm0F_ETsg7OxLqEU8Q&oe=6AA57794&_nc_sid=10d13b)](https://www.threads.com/@emilyann_marie)
 
-[mr_reed21](https://www.threads.com/@mr_reed21)
+Men want a nerdy girl until you’re watching Star Wars with her and she’s on one about the Jedi’s catastrophic institutional failures and how dare the Jedi act so fucking surprised Palpatine is a Sith Lord when he’s been playing everybody like a fucking fiddle…JUST LIKE A SITH WOULD. Anakin’s attachment issues, Padmé making increasingly questionable romantic decisions, and the tragedy of Order 66. 🫩🫩 ONE DAY, someone will appreciate it.
 
-[14h](https://www.threads.com/@mr_reed21/post/Dc8xDDxlJGj)
+531
 
-Hey cousins! ♍️🔥 With the overwhelming response to Virgo Field Day, we’re opening it up to ALL August & September Virgos!
+162
 
-A HUGE thank you to everyone who has volunteered their time, spaces, and businesses to help make this happen! 🙌🏾 Your support means everything!
-
-I can already tell this is going to be HUGE 😂, so I’m working through the details to decide whether we go big or start small. Safety and making sure everyone is taken care of come first.
-
-More details coming soon! 👀♍️
-
-365
-
-100
-
-5
+9
 
 4
 
-[![Image 3: strikeoutbuzz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540342448_17845168215558264_2212019180821408992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gG774mWvhrALTidMhmycip3blvI7B2FjMVbyAjRUmSVhe4fX80wbCtFZKWKW-XkXB8&_nc_ohc=OVMpAlaIIacQ7kNvwHaVnIA&_nc_gid=7wxUCQ9JFvD
+[![Image 3: nysports's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/345309012_261002143164815_8432447506000953337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=JMsEycrCuIwQ7kNvwG3NzQW&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJh9qOzhw01C7t8rNg61Ekdvfvi06tHFNw4OdPFGRVzUA&oe=6AA56175&_nc_sid=10d13b)](https://www.threads.com/@nysports)
+
+This is some heat 🔥👏 dropping some Knicks bars 🏀
+
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/799754847_18310502605304624_4589195112789349506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MTE5MDkxNzI3NDE5MDg0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndW
 ```

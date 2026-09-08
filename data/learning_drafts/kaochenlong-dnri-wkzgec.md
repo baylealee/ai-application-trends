@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0108
-generated_at: "2026-09-07T05:06:27+00:00"
+zh_ratio: 0.0105
+generated_at: "2026-09-08T05:02:57+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -61,22 +61,24 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
-
-Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- Title: 高見龍.agent (@kaochenlong) on Threads
-
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+- Title: 高見龍.agent (@kaochenlong) on Threads
+
+URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+
+Markdown Content:
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- Markdown Content:
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_n
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Agent、agent、工具
-- zh_ratio: `0.0108`
+- zh_ratio: `0.0105`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -95,7 +97,7 @@ Markdown Content:
 
 # [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGtjEd3VX6ldP5sk6XwWmRnXP990xl6vMj0wNh6uuRY-v3Zvb1gV1m4koWzOdq3KIo&_nc_ohc=1Z4z0xSBDlgQ7kNvwF7qCja&_nc_gid=8SgM27oOk9R0GFFiK9QvOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI0kwAppHNg_ONtCZikVl0tWf0Hp8CsVucjr_YJQaACYQ&oe=6AA422CB&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFpZK_kVILGqCWXM23dQ909dEgJt69bBTaXtbjOJnaDNdBsBwPgLliBRLWC1LdED3M&_nc_ohc=4ORwrARc4jkQ7kNvwFZaz_3&_nc_gid=5ie7nOyFkUxzE8W3wZHWpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLvN56PkCRQYulTxc64u-rKasvTqMFiI-rxWv-b_WfnsQ&oe=6AA5744B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -107,7 +109,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6lRfV_TRnKUQ7kNvwEeFZ-s&_nc_oc=Adp463fQ9EQMXkzq8Yncpbt1ekhm2DNZt81m1Hfcbipla_xGEGxYaX1QhAYd0vq8SAQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=8SgM27oOk9R0GFFiK9QvOA&_nc_ss=7a22e&oh=00_AQInCRQ5Ukz4aGhH1BubmovbRcvDQSFOaqS0Ag42rWcYkg&oe=6AA41960)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6lRfV_TRnKUQ7kNvwEHVGAw&_nc_oc=Ado6lQNobT69THsMkpcyWOwHprkYx7rq24i3penvUPqw4t92hp5LjLVjwjwZNExSQsM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=5ie7nOyFkUxzE8W3wZHWpg&_nc_ss=7a22e&oh=00_AQI3kKlLy7dK0Hw5KwyQWrGcnxmTA-GwjlE6YmmYh35wAA&oe=6AA56AE0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -117,7 +119,7 @@ Translate
 
 16
 
-[![Image 3: hydai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGtjEd3VX6ldP5sk6XwWmRnXP990xl6vMj0wNh6uuRY-v3Zvb1gV1m4koWzOdq3KIo&_nc_ohc=PsbSgCiSYWkQ7kNvwGe6F6l&_nc_gid=8SgM27oOk9R0GFFiK9QvOA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIj8BjkhA_1WxSD76ih-FxwVh6ZpQ5UV7cqzsU6CWm6dQ&oe=6AA423BC&_nc_sid=10d13b)](https://www.threads.com/@hydai)
+[![Image 3: hydai's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFpZK_kVILGqCWXM23dQ909dEgJt69bBTaXtbjOJnaDNdBsBwPgLliBRLWC1LdED3M&_nc_ohc=dt2pSRlbq0cQ7kNvwGHI2NG&_nc_gid=5ie7nOyFkUxzE8W3wZHWpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJNvRC2vFWOu4kIMctFPzUFuqL1pTaSmwduE1EHJQCaow&oe=6AA5753C&_nc_sid=10d13b)](https://www.threads.com/@hydai)
 
 [hydai](https://www.threads.com/@hydai)
 
@@ -129,5 +131,5 @@ Translate
 
 1
 
-[![Image 4: elser.offical's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGtjEd3VX6ldP5sk6XwWmRnXP990xl6vMj0wNh6uuRY-v3Zvb1gV1m4koWzOdq3KIo&_nc_ohc=TaZ-7tATllY
+[![Image 4: frencyliu's profile picture](https://instagram.fyvr2-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fyvr2-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gFULlgS1Lu_NNbPrbqSV7fzEF2sBxLJB-E5MpffhZHVyFyM79S3cLouakDY5LkdGIH1ahk-b8PcV3MAyMLssGji&_nc_ohc=nvT9lZ7NY
 ```

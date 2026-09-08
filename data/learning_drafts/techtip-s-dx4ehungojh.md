@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I don’t wanna give it away free but I’m go"
+title: "techtip_s 的 AI 工作流案例：6 hobbies that make you dangerously good a"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-07T05:06:27+00:00"
+generated_at: "2026-09-08T05:02:57+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I don’t wanna give it away free but I’m go
+# techtip_s 的 AI 工作流案例：6 hobbies that make you dangerously good a
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I don’t wanna give it away free but I’m going to make it affordable with best offer!
+6 hobbies that make you dangerously good at doing hard things:
 
 ## 這篇在解決什麼問題
 
@@ -61,27 +61,19 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: news8_wroc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357748782_3415647295319764_1715401326418929234_n.jpg?stp=dst-j
+[![Image 1: macmillsilly's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912658_17905798857477238_3851467693576902972_n.jpg?stp=ds
+- [![Image 10: baileeelizabeth21's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/684267735_17886169965508016_8181840621130503572_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cd
+- [![Image 2: raising_yohanna's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/471620103_517119407316551_1009634835846035552_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[
-- [![Image 7](https://scontent.cdninstagram.com/v/t39.30808-6/798021699_10162950606421245_7462764100461743270_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk4MDM1NDkyNjE1Nzc0MDk1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- BREAKING UPDATE: At least five people are dead after an Amazon cargo plane barreled off the runway and crashed into several cars at Miami International Airport earlier today. [rochesterfirst.com/news…](https://l.threads.com/?u=https%3A%2F%2Fwww.rochesterfirst.
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/799278764_17984500674113321_6974805989183712889_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4MDQ5MjAxODM1MTE1MzE2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+[![Image 1: candicemichellethomas's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/559311789_17924693823114382_8944170470082887981_n.
+- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/799404369_17984395722116576_130672858755385008_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk4MTA1NTg3NDQwODIwMTY4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
 
 ## 抓取品質
 
@@ -95,36 +87,52 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: princesssha28's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358424190_238587755656799_999654118548701033_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHUN5YWgn_31zXsquAwg1iaARnnHvKd-Fg3qeDMOKpeauSpXrKBYW7A3QeDF8ECDQA&_nc_ohc=nU9ilf2kdlUQ7kNvwHsjbp9&_nc_gid=B_irvnIhQV9uYM5nfXN8dw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIQxJAG-vi4B4NZTTcndanmqHIjBQ6OHUszXh2VJlDLxw&oe=6AA401C1&_nc_sid=10d13b)](http://www.threads.com/@princesssha28)
+[](https://www.threads.com/)
 
-Any plus size brides need a wedding dress? I’m selling mine both for the low low! I don’t wanna give it away free but I’m going to make it affordable with best offer!!! Size 16-20 it Should fit with small alterations
+[](https://www.threads.com/)
 
-17
+[](https://www.threads.com/search)
 
-5
+# [Home](https://www.threads.com/?error=invalid_post)
 
-2
+[![Image 1: candicemichellethomas's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/559311789_17924693823114382_8944170470082887981_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=-JAGSHLJbzIQ7kNvwHed0-x&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIxB_qJt2jQ0_W5aA5RFgCNC-AFvuDpyy0yufR0gGsbBA&oe=6AA554FB&_nc_sid=10d13b)](https://www.threads.com/@candicemichellethomas)
 
-2
+[candicemichellethomas](https://www.threads.com/@candicemichellethomas)
 
-[![Image 2: stuarth2o's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/273455356_657788435368224_3717486217172945739_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHUN5YWgn_31zXsquAwg1iaARnnHvKd-Fg3qeDMOKpeauSpXrKBYW7A3QeDF8ECDQA&_nc_ohc=hMFDXTVH76IQ7kNvwFz7LqQ&_nc_gid=B_irvnIhQV9uYM5nfXN8dw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLXS8VMmxuMod3zsoJ0s6dxhRv6vsQCnbq6FIgPxZjV1w&oe=6AA42FE0&_nc_sid=10d13b)](http://www.threads.com/@stuarth2o)
+[9h](https://www.threads.com/@candicemichellethomas/post/Dc_4GtXD2lX)
 
-The magic of time lapse photography. 45 years almost to the day.
+If you’re having a baby in 26-27 I made something for you 🤰🏾 🤭
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/799346382_17986867059107712_1403774028462693616_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MDU4MjE0NDUwMTY4NzM3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FMdBs_XzwQoQ7kNvwGvgag1&_nc_oc=AdpZUs-JgJlJ-1xfjei-LJkKY_YJIIiQj4_lnaWk8KqD6MoDTCitNpz0ax4yBRBuaIs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B_irvnIhQV9uYM5nfXN8dw&_nc_ss=7a22e&oh=00_AQJ4VWKkcMiOThqkN8stWm6E1DyU6SiB2LR1xnjWcnYu_Q&oe=6AA4062F)
+76
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/799404375_17986867050107712_1075953188169009989_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk4MDU4MjE0NDM3NTk1MDA3Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=n2GLcx0Ph7UQ7kNvwHZUrDr&_nc_oc=AdrlaebrOoX_W70xXkk9fFccC3aaC1euf7hDjKZfZgKDiFqOSbpzRXaq9bosMoaE5Hw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=B_irvnIhQV9uYM5nfXN8dw&_nc_ss=7a22e&oh=00_AQJsPnxlLIEWvLSMUFyNIURF_q6AZuK-2dKS09mbqCz2fg&oe=6AA4250C)
+11
 
-583
+[![Image 2: jerryluckycat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/445556929_8000302449990346_1964908133942840331_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDcyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=LN89D4SNd60Q7kNvwGfCMwC&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJoYROEwMz0r9oDLYGV7FVjcEhFO0Fmq1By6uvX_ARZHw&oe=6AA54E84&_nc_sid=10d13b)](https://www.threads.com/@jerryluckycat)
 
-43
+[jerryluckycat](https://www.threads.com/@jerryluckycat)
 
-3
+[10h](https://www.threads.com/@jerryluckycat/post/Dc_xUk6j_YD)
 
-1
+A tattoo appointment and dinner afterward is absolutely a date.
 
-[![Image 5: heatedrivalrymood's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/587705643_17842976934627151_1471147562771189115_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
+703
+
+19
+
+72
+
+16
+
+[![Image 3: _biggdeedeeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785059654_17892000567655945_6592587051686112917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=L_YVgQrKf2IQ7kNvwFrNvCb&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKifJisbqioy8pajlGABqLa-VK7QhooNxyI4XpH_E64qw&oe=6AA55E2C&_nc_sid=10d13b)](https://www.threads.com/@_biggdeedeeee)
+
+[_biggdeedeeee](https://www.threads.com/@_biggdeedeeee)
+
+[Black Threads](https://www.threads.com/search?q=Black%20Threads&serp_type=tags&tag_id=18402432136043188)
+
+[10h](https://www.threads.com/@_biggdeedeeee/post/Dc_y55xG0-C)
+
+It’s giving my algorithm is full of nothing but BlackThreads and Scorpios and you know what? HELL YEA ![Image 4](https://external.xx.fbcdn.net/emg1/v/t13/17693146714182100?url=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTE5NGEwMzQ5eXpnemptOXF5eXBvbWF0M2twZTIzeDdlZ25jZjQ2Y3hocHA4M29sOSZlcD12MV9naWZzX2dpZklkJmN0PXM%2FfSUNMBDnaQSWVMTQSq%2F200.gif&utld=giphy.co
 ```
