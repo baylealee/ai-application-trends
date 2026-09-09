@@ -1,19 +1,20 @@
 [
   {
-    "title": "techtip_s 的 AI 工作流案例：6 hobbies that make you dangerously good a",
+    "title": "techtip_s 的 AI 工作流案例：[Image 1: gasbuddyguy's profile picture](h",
     "filename": "techtip-s-dx4ehungojh.md",
     "source_url": "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh",
     "source_author": "techtip_s",
     "post_id": "DX4ehuNGOJh",
     "category": "coding",
     "tools": [
-      "Make"
+      "Make",
+      "GAS"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實",
@@ -23,16 +24,14 @@
     "post_id": "DZEgVRcGVJR",
     "category": "coding",
     "tools": [
-      "Claude",
       "Notion",
-      "Slack",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0366,
+    "zh_ratio": 0.101,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads",
@@ -43,13 +42,14 @@
     "category": "coding",
     "tools": [
       "Claude",
+      "n8n",
       "Notion"
     ],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads",
@@ -60,13 +60,14 @@
     "category": "coding",
     "tools": [
       "Claude",
-      "Claude Code"
+      "Claude Code",
+      "GAS"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0105,
+    "zh_ratio": 0.011,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我",
@@ -79,6 +80,7 @@
       "Claude",
       "Claude Code",
       "MCP",
+      "GAS",
       "Codex",
       "GitHub"
     ],
@@ -86,7 +88,7 @@
     "content_quality": "strong",
     "zh_ratio": 0.0411,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我",
@@ -104,9 +106,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0591,
+    "zh_ratio": 0.0588,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競",
@@ -122,9 +124,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.1139,
+    "zh_ratio": 0.1136,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "govin999999 的 AI 工作流案例：Title: Threads • Log in",
@@ -132,15 +134,13 @@
     "source_url": "https://www.threads.com/@govin999999/post/DZzhHaFmErI",
     "source_author": "govin999999",
     "post_id": "DZzhHaFmErI",
-    "category": "knowledge_base",
-    "tools": [
-      "RAG"
-    ],
+    "category": "coding",
+    "tools": [],
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。",
@@ -151,15 +151,13 @@
     "category": "mcp",
     "tools": [
       "Claude",
-      "GPT",
-      "MCP",
-      "GAS"
+      "MCP"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0325,
+    "zh_ratio": 0.0331,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots ",
@@ -171,7 +169,6 @@
     "tools": [
       "Claude",
       "Claude Code",
-      "GPT",
       "MCP",
       "Make",
       "Slack",
@@ -182,7 +179,7 @@
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?",
@@ -193,15 +190,13 @@
     "category": "mcp",
     "tools": [
       "Claude",
-      "ChatGPT",
-      "GPT",
       "MCP"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0216,
+    "zh_ratio": 0.0615,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   },
   {
     "title": "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短",
@@ -215,13 +210,13 @@
       "Claude Code",
       "GPT",
       "MCP",
-      "Make",
+      "GAS",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0393,
+    "zh_ratio": 0.0378,
     "reply_summary_status": "partial",
-    "generated_at": "2026-09-08T05:02:57+00:00"
+    "generated_at": "2026-09-09T05:02:30+00:00"
   }
 ]

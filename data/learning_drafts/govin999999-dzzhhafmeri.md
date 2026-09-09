@@ -4,13 +4,12 @@ source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-08T05:02:57+00:00"
+generated_at: "2026-09-09T05:02:30+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,12 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: at.this.age's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/786069678_18102468766968065_4797838291002939533_n.jpg?stp=d
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -78,14 +71,20 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 4: kalenelainee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/694124609_17966095260111223_1609561313726207811_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44OTguYzIifQ&_nc_ht=scontent.cdninstag
-- Set me straight: is peel and stick wallpaper as easy as it looks or would I (someone who is admittedly terrible at DIY projects) be setting myself up for an expensive failure?
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/799347103_2612892719171146_7440572454397222042_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4MTIwMzQ5NTQyMDA5MzgxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: harnettstudio's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/452007544_805631185079339_2415128183757367497_n.jpg?stp=ds
+- [![Image 19: livelikewannabeana's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/753531212_17956968219168131_4653074337637199450_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sco
+- [![Image 27: spetrichorrr's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/798290077_18100293074122151_4852110680010324361_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-
+- [![Image 12: meganmarie_13's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/473629013_958018376389906_2959758283104477483_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-at
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -97,33 +96,39 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: _daniellebey's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730992572_17977813239111270_4886844202833283590_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=ujHzmRk-QwoQ7kNvwEbar9R&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLuQD93s1My7halPwkRW6io_G_geeHJ-yElYPzUOmbh-A&oe=6AA58281&_nc_sid=10d13b)](https://www.threads.com/@_daniellebey)
+[![Image 1: georgehtakei's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358010924_1975400689481065_7908200296301040757_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=DPd666SHiy0Q7kNvwHF3qzq&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLbUMG5eb18_eQ3RI_xKNC8HZNBn8znRymWhTnJnZ7Qsg&oe=6AA6B8E8&_nc_sid=10d13b)](https://www.threads.com/@georgehtakei)
 
-As a girly that’s late for everything (time blindness and anxiety are a bit**) Gizelle is doing the absolute most about Lisa being late for the bus when they ultimately made it to the flight on time. If it got too late, they could have left her and I’m I’m sure Lisa could have made her own arrangements to get to MIA (a consequence us late girlies are overly familiar w).
+After attending a WNBA game in Minneapolis on August 2 between the Minnesota Lynx and the Indiana Fever, former NCAA swimmer Riley Gaines went on Fox News to criticize the crowd of "disgruntled lesbians" for booing anti-trans player Sophie Cunningham—and was swiftly called out.
 
-49
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/801284403_17983379823110244_5060341561422801095_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MTk5NTg4MDI0NDQwMDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-r-S8Xk0tNUQ7kNvwGU8UyL&_nc_oc=AdpseB7TMhWnrCtHCLKUzxRSqaPpKbHNgXLg7i152cQhWMVxVmEt04P1kSPnLG0xObw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UNO4xDBj1ribalQB3VTXsw&_nc_ss=7a22e&oh=00_AQInA59BDQ7pSA7BGObkPyVRPR2jak8DbbYtQxeIcosuMw&oe=6AA6B26B)](https://www.threads.com/@georgehtakei/post/DdC5CfTCVLh/media)
 
-76
+79
+
+28
+
+3
+
+[![Image 3: myeshaaxo_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/672344077_17961333789110457_3459160242392437409_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=ISN8gjPvVMkQ7kNvwFXnWrp&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJcUj6GiZWsTjqo2NXutoKfTIiMZstzgd_tlESns540QA&oe=6AA6CACE&_nc_sid=10d13b)](https://www.threads.com/@myeshaaxo_)
+
+If you think I’m missing THE Stevie Wonder, you’ve lost your mind.
+
+191
 
 2
 
-1
-
-[![Image 2: emilyann_marie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/587193258_17918399625210593_1971849077869823553_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=EAg7K56e3LAQ7kNvwFTVEE-&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIXntqa_-883LdVtFscmj5jl_JZJm0F_ETsg7OxLqEU8Q&oe=6AA57794&_nc_sid=10d13b)](https://www.threads.com/@emilyann_marie)
-
-Men want a nerdy girl until you’re watching Star Wars with her and she’s on one about the Jedi’s catastrophic institutional failures and how dare the Jedi act so fucking surprised Palpatine is a Sith Lord when he’s been playing everybody like a fucking fiddle…JUST LIKE A SITH WOULD. Anakin’s attachment issues, Padmé making increasingly questionable romantic decisions, and the tragedy of Order 66. 🫩🫩 ONE DAY, someone will appreciate it.
-
-531
-
-162
-
-9
+40
 
 4
 
-[![Image 3: nysports's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/345309012_261002143164815_8432447506000953337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFhlWV7d_yqsY221dtESI-ecafIsQ128owoTSpMgB1gjoAQKFOKon-P3oNVuncsByk&_nc_ohc=JMsEycrCuIwQ7kNvwG3NzQW&_nc_gid=QSj9fja8S7R6-_AchJBHyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJh9qOzhw01C7t8rNg61Ekdvfvi06tHFNw4OdPFGRVzUA&oe=6AA56175&_nc_sid=10d13b)](https://www.threads.com/@nysports)
+[![Image 4: h00drich239's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/799622090_18094543511215853_7432079272184442031_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=JT-3l4Mx49MQ7kNvwFVNUxi&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJT0Tbg0NzQXPCm2QbFgpBQb4sBAZ1xw8yAeoWrj2xQCQ&oe=6AA6C6DE&_nc_sid=10d13b)](https://www.threads.com/@h00drich239)
 
-This is some heat 🔥👏 dropping some Knicks bars 🏀
+Where my leo gang at??
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/799754847_18310502605304624_4589195112789349506_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MTE5MDkxNzI3NDE5MDg0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndW
+628
+
+124
+
+7
+
+[![Image 5: alluring's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/652365812_18569241574017875_5022270703990726
 ```

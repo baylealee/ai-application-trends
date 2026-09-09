@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：6 hobbies that make you dangerously good a"
+title: "techtip_s 的 AI 工作流案例：[Image 1: gasbuddyguy's profile picture](h"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -7,19 +7,20 @@ language: "unknown"
 category: "coding"
 tools:
   - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-08T05:02:57+00:00"
+generated_at: "2026-09-09T05:02:30+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：6 hobbies that make you dangerously good a
+# techtip_s 的 AI 工作流案例：[Image 1: gasbuddyguy's profile picture](h
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-6 hobbies that make you dangerously good at doing hard things:
+[Image 1: gasbuddyguy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/376850671_1382816142578599_8059876180500006359_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ generated_at: "2026-09-08T05:02:57+00:00"
 
 ## 使用工具
 
-Make
+Make、GAS
 
 ## 原始工作流拆解
 
@@ -64,21 +65,24 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: macmillsilly's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912658_17905798857477238_3851467693576902972_n.jpg?stp=ds
-- [![Image 10: baileeelizabeth21's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/684267735_17886169965508016_8181840621130503572_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cd
-- [![Image 2: raising_yohanna's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/471620103_517119407316551_1009634835846035552_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
-- Title: Threads • Log in
+[](http://www.threads.com/)
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](http://www.threads.com/)
 
-Markdown Content:
-[![Image 1: candicemichellethomas's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/559311789_17924693823114382_8944170470082887981_n.
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/799404369_17984395722116576_130672858755385008_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&ig_cache_key=Mzk4MTA1NTg3NDQwODIwMTY4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRU
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Ima
+- Unless someone left a prompt in, I will not be taking “they used this common literary or grammar device and that means AI to meeeee” as enough proof of AI use.
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNpYc568wF2MHDJzykVxu5INdMSc0WJtiHki04keZ8_PD_Mjg4TLkV75sIk9sL1JpwVW5fGtN1vacb5gVaJJjeA171Dtoli_mal77w.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=3VuW8qOk2BQQ7kNvwEGeZbH&
+- Denver and Northern Colorado: Tonight the International Space Station will be visible from 8:50:34pm to 8:58:41pm. It will start in the Southwest part of the sky and go nearly directly overhead before flying off to the Northeast. If our skies remain clear, go 
+- it's called the rete ovarii. it is an active, hormone-secreting auxiliary structure that directs protein-packed fluids into the ovaries, indicating it likely plays a critical role in fertility and ovarian maintenance.
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、Make、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,41 +102,37 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: candicemichellethomas's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/559311789_17924693823114382_8944170470082887981_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=-JAGSHLJbzIQ7kNvwHed0-x&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIxB_qJt2jQ0_W5aA5RFgCNC-AFvuDpyy0yufR0gGsbBA&oe=6AA554FB&_nc_sid=10d13b)](https://www.threads.com/@candicemichellethomas)
+[![Image 1: gasbuddyguy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/376850671_1382816142578599_8059876180500006359_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDIZQ2ath-_IoeHlEQGKII&_nc_ohc=Id1F1NYHB0QQ7kNvwHz-eXm&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIZkaFQOw5MW1zOlSjzdYOjIqW7dYh1613WGEu14dxUgQ&oe=6AA6CA1C&_nc_sid=10d13b)](https://www.threads.com/@gasbuddyguy)
 
-[candicemichellethomas](https://www.threads.com/@candicemichellethomas)
+[gasbuddyguy](https://www.threads.com/@gasbuddyguy)
 
-[9h](https://www.threads.com/@candicemichellethomas/post/Dc_4GtXD2lX)
+[12h](https://www.threads.com/@gasbuddyguy/post/DdCFYkpFnCJ)
 
-If you’re having a baby in 26-27 I made something for you 🤰🏾 🤭
+BREAKING: U.S. SPR falls 1.2 million barrels to 285.4 million, and that continues to be the lowest level since the reserve was filled in 1982. For now, the rate of decline should remain slow as the release is nearing completion.
 
-76
+131
 
-11
+4
 
-[![Image 2: jerryluckycat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/445556929_8000302449990346_1964908133942840331_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDcyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=LN89D4SNd60Q7kNvwGfCMwC&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJoYROEwMz0r9oDLYGV7FVjcEhFO0Fmq1By6uvX_ARZHw&oe=6AA54E84&_nc_sid=10d13b)](https://www.threads.com/@jerryluckycat)
+3
 
-[jerryluckycat](https://www.threads.com/@jerryluckycat)
+[![Image 2: boke187's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774076442_17976620343115813_651050468323690432_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDIZQ2ath-_IoeHlEQGKII&_nc_ohc=DpuVFGnvt8AQ7kNvwHwIWE_&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwo2nn7L2xzSnll_ibUcqu-5v2dPDUSObJgxY2o72QkA&oe=6AA6C351&_nc_sid=10d13b)](https://www.threads.com/@boke187)
 
-[10h](https://www.threads.com/@jerryluckycat/post/Dc_xUk6j_YD)
+[boke187](https://www.threads.com/@boke187)
 
-A tattoo appointment and dinner afterward is absolutely a date.
+[gaming threads](https://www.threads.com/search?q=gaming%20threads&serp_type=tags&tag_id=18397525702020968)
 
-703
+[13h](https://www.threads.com/@boke187/post/DdCC8GNHL-W)
 
-19
+Got my physical Zelda: Ocarina of Time remake preordered
 
-72
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/800934766_17979959910115813_2025406974739501575_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MTc1Nzk0NjQ3MzAwNDk1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KF7y85ubcSAQ7kNvwHff0Jb&_nc_oc=AdrVxTd8JkYldG5rm1DytGzgiPgAD_fW3kfe6FZDzqwQClsuCY-WKXGyZTQHqHyUD3Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&_nc_ss=7a22e&oh=00_AQLWnKbeuwQj798kWqykBX-2UEUnLEeSY5Pl_T6KxQ0INQ&oe=6AA6A3D3)](https://www.threads.com/@boke187/post/DdCC8GNHL-W/media)
 
-16
+139
 
-[![Image 3: _biggdeedeeee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785059654_17892000567655945_6592587051686112917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHZhkM9k-MNMJh2Opi4qJsj1v2F38uhao6lzcqDyQJAkM3S7JziHI7qixAlyr7YUxQ&_nc_ohc=L_YVgQrKf2IQ7kNvwFrNvCb&_nc_gid=BTTB7OCp7726JlhNoqSB4g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKifJisbqioy8pajlGABqLa-VK7QhooNxyI4XpH_E64qw&oe=6AA55E2C&_nc_sid=10d13b)](https://www.threads.com/@_biggdeedeeee)
+13
 
-[_biggdeedeeee](https://www.threads.com/@_biggdeedeeee)
+2
 
-[Black Threads](https://www.threads.com/search?q=Black%20Threads&serp_type=tags&tag_id=18402432136043188)
-
-[10h](https://www.threads.com/@_biggdeedeeee/post/Dc_y55xG0-C)
-
-It’s giving my algorithm is full of nothing but BlackThreads and Scorpios and you know what? HELL YEA ![Image 4](https://external.xx.fbcdn.net/emg1/v/t13/17693146714182100?url=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2Fv1.Y2lkPTE5NGEwMzQ5eXpnemptOXF5eXBvbWF0M2twZTIzeDdlZ25jZjQ2Y3hocHA4M29sOSZlcD12MV9naWZzX2dpZklkJmN0PXM%2FfSUNMBDnaQSWVMTQSq%2F200.gif&utld=giphy.co
+[![Image 4: earlyaugust's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/483511276_533503489307393_6787007437676406255_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDI
 ```

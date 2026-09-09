@@ -11,8 +11,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.1139
-generated_at: "2026-09-08T05:02:57+00:00"
+zh_ratio: 0.1136
+generated_at: "2026-09-09T05:02:30+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -65,6 +65,23 @@ reply_summary_status: `partial`
 
 - Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
 
+URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Gemini、MCP、自動化、流程、工具、整理
+- zh_ratio: `0.1136`
+- source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+## 原始抓取內容
+
+```text
+Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
@@ -74,44 +91,15 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 726 views](https
-- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+# [Thread 729 views](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
-URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGMrdC4NGb134AqkN8djgDhIDZLPWUrnIufCqV5YmkxGAN9mMhdGwxqPQoS2o-Ldd0&_nc_ohc=lDEEWOQHh-gQ7kNvwE9_5qy&_nc_gid=JdiAqcqAqBc7EVIO4BFfsg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJmnSYl4D1agYnKsg1BJzeK5Iniw-ewnbxaV6dsgSx15g&oe=6AA6A97A&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
 
-Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_179761797001096
+[henry.wen](https://www.threads.com/@henry.wen)
 
-## 抓取品質
+[自媒體](https://www.threads.com/search?q=%E8%87%AA%E5%AA%92%E9%AB%94&serp_type=tags&tag_id=18406776172026488)
 
-- content_quality: `strong`
-- keyword_hits: AI、Gemini、MCP、自動化、流程、工具、整理
-- zh_ratio: `0.1139`
-- source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-## 原始抓取內容
-
-```text
-Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
-
-URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Thread 726 views](http://www.threads.com/@henry.wen/post/DYrzDyumRsq)
-
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFaIg9AS-6kZgeyzcQjKNjXj6whrVNnqojEVgD1SEFA2p1FRTP5KDzofD8tZm_Ib5Q&_nc_ohc=lDEEWOQHh-gQ7kNvwEz2xQU&_nc_gid=hL2jBUj4miIWisX-PoJbew&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLrHKlAqHokRjbkBP8ivi6cRPgg_-9olAtskgiJz-NU9g&oe=6AA557FA&_nc_sid=10d13b)](http://www.threads.com/@henry.wen)
-
-[henry.wen](http://www.threads.com/@henry.wen)
-
-[自媒體](http://www.threads.com/search?q=%E8%87%AA%E5%AA%92%E9%AB%94&serp_type=tags&tag_id=18406776172026488)
-
-[05/23/26](http://www.threads.com/@henry.wen/post/DYrzDyumRsq)
+[05/23/26](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
 Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 
@@ -119,17 +107,17 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=bDV2NdHvUqkQ7kNvwHrmh1Q&_nc_oc=AdoL8Hv8X8yguNk35h_KExjMrmoAGtZE1nQ1m1WkIiKJsMWBYfPXyHjuaviXbrvGylA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=hL2jBUj4miIWisX-PoJbew&_nc_ss=7a22e&oh=00_AQJDKOi7yMxGN5tcUWGxoiRteXdpOdiBOupe9JbnTjqdlA&oe=6AA54F7D)
+![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=bDV2NdHvUqkQ7kNvwEAmFJS&_nc_oc=Adrihf97_3Kl0jdVXczHNhHGJQroFOhr2Xr0FJCKX-pTxkCAW6WLGfDhBTPwhKFdLWo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=JdiAqcqAqBc7EVIO4BFfsg&_nc_ss=7a22e&oh=00_AQJd-DVX0iWTpYqzetQebnBiCA5OQlXlq3YhJos2XYTsKQ&oe=6AA6A0FD)
 
-[Video 2](https://scontent-sea1-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_ohc=2ytRlvP-mngQ7kNvwEpsBWz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjEwNywidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=hL2jBUj4miIWisX-PoJbew&_nc_zt=28&_nc_ss=7a22e&oh=00_AQKAVxgUWSW-uCaUMRifiSmNUkxB0BpBVD56bJGQ1RtcWQ&oe=6AA169FA)
+[Video 2](https://scontent-atl3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ohc=2ytRlvP-mngQ7kNvwHxiK9S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjEwOCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=JdiAqcqAqBc7EVIO4BFfsg&_nc_zt=28&_nc_ss=7a22e&oh=00_AQLehSyFZMwzQavPo-xtWFfHts3JR_7Nq164DfKARbBLhA&oe=6AA2BB7A)
 
 henry.wen
 
-11
+12
 
 1
 
 7
 
-[![Image 3: nosugar_greentea's profile pictu
+[![Image 3: nosugar_greentea's prof
 ```

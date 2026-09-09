@@ -6,14 +6,12 @@ post_id: "DZEgVRcGVJR"
 language: "unknown"
 category: "coding"
 tools:
-  - "Claude"
   - "Notion"
-  - "Slack"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0366
-generated_at: "2026-09-08T05:02:57+00:00"
+zh_ratio: 0.101
+generated_at: "2026-09-09T05:02:30+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -30,15 +28,11 @@ generated_at: "2026-09-08T05:02:57+00:00"
 
 ## 使用工具
 
-Claude、Notion、Slack、GitHub
+Notion、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
-2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
-3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續 Translate](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
-4. Project 本身其實就只是把你寫的 Issue 抓過來整理而已，所以本質上還是看寫 Issue 的人怎麼寫需求～
-5. Project 我只是用來統計做了多少事😂 反正issue 很快做完, 還排程幹嘛😂
 
 ## 可以直接複製的做法
 
@@ -75,13 +69,17 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 21.2K vi
+# [Thread 27.1K vi
+- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUDW1x2QngXJKO4GvpWynVm62p4i1hzwbwbCWQIa4SXMoiKWaOpfR3FC7wY
+- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363ec3c1801d9840
+- [![Image 32: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363ec3c1801d9840
+- 【數據品質防線！GitHub 萬星開源神器 Great Expectations 🧪】 做數據治理，最怕「垃圾進，垃圾出（GIGO）」。報表跑出來數據不對，往往不是 Pipeline 壞掉，而是源頭資料品質太爛！ 在 GitHub 擁有超高人氣的開源專案 Great Expectations，就是專為「數據測試與品質校驗」而生的神器。 🛠️ 3 大核心亮點： 1️⃣ 聲明式數據斷言 (Expectations)：用直覺語法定義規則，例如「⁠user_id⁠ 不能有空值」、「⁠age⁠ 必須在 0~120 之間」。 
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、自動化、流程、工具、整理、生成、Slack、Notion、GitHub、開源
-- zh_ratio: `0.0366`
+- keyword_hits: AI、流程、工具、Notion、GitHub
+- zh_ratio: `0.101`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -98,15 +96,15 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 21.2K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 27.1K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHuB_m9rlvVZek1_1n6C9vzBSJw8_17D-EkgXFxdRuFVx3anAhmcoUwjIFfdO0uW8E&_nc_ohc=VL295pKIC9sQ7kNvwFtbYzw&_nc_gid=sfsc-BosWxfL0Ux36512Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKHYwyt5klb2hpbIkiC65T0oXj2gK3VBJYmLGUskV4YkQ&oe=6AA55830&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGSU9UAipetvXv81-Z20OK24qioqoYHM1sYQpWN8OiwynjKMecSouQKt49vnaozAlI&_nc_ohc=VL295pKIC9sQ7kNvwGwjJaH&_nc_gid=Ky57JyuMoYBB6eAF9eYAjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKlfURl_hU-xiFUi54ypGBs3afC_svXUG0wi9rJpxnmmA&oe=6AA6A9B0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
 [PM日常](https://www.threads.com/search?q=PM%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
 
-[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+[06/01/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
 以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
 
@@ -126,19 +124,21 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GZiFHVa2Uk0Q7kNvwHd-7qG&_nc_oc=Adr1GzR9wriNbh0m9qlAL2fiA2zB8LhoL4d8yCZh7BB0AOAY-wtKTgcHxrm3LKXsvjM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=sfsc-BosWxfL0Ux36512Eg&_nc_ss=7a22e&oh=00_AQIgkApF9ZH0_yFXjQtNIka4odT4i3UXeDBYblCVEwiGDg&oe=6AA57888)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GZiFHVa2Uk0Q7kNvwFfHCgn&_nc_oc=AdoViRMXLbPnGSqQqz5h_ZmcaiTT3WE-ognS_EyiMZZJ-xbmjhAH7XKY6ud0hgmyJv0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_gid=Ky57JyuMoYBB6eAF9eYAjg&_nc_ss=7a22e&oh=00_AQJUk5UirbxjBvtfCOGiGd9URaS309asdYuxuHdbSd2_JQ&oe=6AA6CA08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
-439
+501
 
-44
+46
 
-57
+73
 
-376
+459
 
-Pinned
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 
-[![Image 3: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHuB_m9rlvVZek1_1n6C9vzBSJw8_17D-EkgXFxdRuFVx3anAhmcoUwjIFfdO0uW8E&_nc_ohc=VL295pKIC9sQ7kNvwFtbYzw&_nc_gid=sfsc-BosWxfL0Ux36512Eg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKHYwyt5klb2hpbIkiC65T0oXj2gK3VBJYmLGUskV4YkQ&oe=6AA55830&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
-
-[pmenance.manager](https://www.threads.com/@pmenance.ma
+* © 2026
+* [Threads Terms](https://help.instagram.com/769983657850450)
+* [Privacy Policy](https://help.instagram.com/515230437301944)
+* [Cookies Policy](https://help.instagram.com/1896641480634370/)
+* Report a problem
 ```
