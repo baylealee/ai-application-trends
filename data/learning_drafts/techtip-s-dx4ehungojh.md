@@ -1,26 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[Image 1: gasbuddyguy's profile picture](h"
+title: "techtip_s 的 AI 工作流案例：💸 I need you to understand something tonig"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
   - "Make"
-  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-09T05:02:30+00:00"
+generated_at: "2026-09-10T05:06:09+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[Image 1: gasbuddyguy's profile picture](h
+# techtip_s 的 AI 工作流案例：💸 I need you to understand something tonig
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 1: gasbuddyguy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/376850671_1382816142578599_8059876180500006359_n.jpg?
+💸 I need you to understand something tonight.. you are allowed to become SOOOO used to getting what you want that receiving barely shocks you anymore. Let the next six months make 
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +28,7 @@ generated_at: "2026-09-09T05:02:30+00:00"
 
 ## 使用工具
 
-Make、GAS
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -62,34 +62,11 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- Unless someone left a prompt in, I will not be taking “they used this common literary or grammar device and that means AI to meeeee” as enough proof of AI use.
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNpYc568wF2MHDJzykVxu5INdMSc0WJtiHki04keZ8_PD_Mjg4TLkV75sIk9sL1JpwVW5fGtN1vacb5gVaJJjeA171Dtoli_mal77w.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=3VuW8qOk2BQQ7kNvwEGeZbH&
-- Denver and Northern Colorado: Tonight the International Space Station will be visible from 8:50:34pm to 8:58:41pm. It will start in the Southwest part of the sky and go nearly directly overhead before flying off to the Northeast. If our skies remain clear, go 
-- it's called the rete ovarii. it is an active, hormone-secreting auxiliary structure that directs protein-packed fluids into the ovaries, indicating it likely plays a critical role in fertility and ovarian maintenance.
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Make、CLI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: creativelykamy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755393050_17915594688422799_4484234197534833021_n.jpg?stp
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -102,37 +79,71 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: gasbuddyguy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/376850671_1382816142578599_8059876180500006359_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDIZQ2ath-_IoeHlEQGKII&_nc_ohc=Id1F1NYHB0QQ7kNvwHz-eXm&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIZkaFQOw5MW1zOlSjzdYOjIqW7dYh1613WGEu14dxUgQ&oe=6AA6CA1C&_nc_sid=10d13b)](https://www.threads.com/@gasbuddyguy)
+[
+- [![Image 11: A photo of Carlos Sainz's parents with a quote "I'm sleeping at my parents' house and it's getting weird."](https://scontent.cdninstagram.com/v/t51.82787-15/801582197_18622354525051476_4310531346034808274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cac
+- [![Image 4: Kevin McGonigle #7 of the Detroit Tigers celebrates his ninth inning game winning RBI single with manager A.J. Hinch for a 2-1 win over the Los Angeles Dodgers at Comerica Park on August 29, 2026 in Detroit, Michigan. (Photo by Gregory Shamus/Getty
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/801582356_17922460944422799_4173156181999104191_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MjUyNDQ4NTgwMjcyMTQ2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
-[gasbuddyguy](https://www.threads.com/@gasbuddyguy)
+## 抓取品質
 
-[12h](https://www.threads.com/@gasbuddyguy/post/DdCFYkpFnCJ)
+- content_quality: `strong`
+- keyword_hits: AI、RAG、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-BREAKING: U.S. SPR falls 1.2 million barrels to 285.4 million, and that continues to be the lowest level since the reserve was filled in 1982. For now, the rate of decline should remain slow as the release is nearing completion.
+## 原始抓取內容
 
-131
+```text
+Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Image 1: mysticmmoon_'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/463932269_27269942652621213_5086447231704088872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGex22Xeep5OR7qvFE5D0iEPGXv5jjE5Z9u9aYtnSCU05G99VXrUMH8stsdbLUJ8HQ&_nc_ohc=ZJv2FCOTKpoQ7kNvwENpZDR&_nc_gid=WkcpYY4BScpthZuy74yWeQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLuGPKcha-h_GbLWTUS48eOp26ipQkth3RLhku4iioY0g&oe=6AA803DE&_nc_sid=10d13b)](http://www.threads.com/@mysticmmoon_)
+
+[mysticmmoon_](http://www.threads.com/@mysticmmoon_)
+
+[9h](http://www.threads.com/@mysticmmoon_/post/DdFCeoKCYmA)
+
+EARTH SIGNS ONLY! Taurus, Virgo, Capricorn
+
+CONGRATULATIONS!!! YOU ENTERED YOUR BEST TIMELINE!!! 💸 I need you to understand something tonight.. you are allowed to become SOOOO used to getting what you want that receiving barely shocks you anymore. Let the next six months make abundance boring to you!!! March 2027.. that you opens the bank account and smiles because there is more than enough sitting there. You’re not waiting for one magical payment to save everything.
+
+1.3K
+
+49
+
+24
+
+19
+
+[![Image 2: wydnicnic_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731528909_18143682136492226_2469825152531577261_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNDQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGex22Xeep5OR7qvFE5D0iEPGXv5jjE5Z9u9aYtnSCU05G99VXrUMH8stsdbLUJ8HQ&_nc_ohc=NkHeed5gO_UQ7kNvwGCZ0Bn&_nc_gid=WkcpYY4BScpthZuy74yWeQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJhN5BPQzFzViu1UE1rDAcbk_g10n5feVg90pBLO_50qw&oe=6AA7FF95&_nc_sid=10d13b)](http://www.threads.com/@wydnicnic_)
+
+[wydnicnic_](http://www.threads.com/@wydnicnic_)
+
+[Nintendo](http://www.threads.com/search?q=Nintendo&serp_type=tags&tag_id=18389819626014961)
+
+[13h](http://www.threads.com/@wydnicnic_/post/DdEkO3Mltiv)
+
+I looked too fast and really thought that was Viewtiful Joe at first. Damn.
+
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/801555800_18159401983492226_7835435778956652215_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4MjQ2NzMyMTUxNjQ0NzkxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ofZC5nWz6ocQ7kNvwGUK5LV&_nc_oc=Adp6br2XP1l7dFZlsA3YisF_KjERagImwsBAeNi2xLtSUtwlcZ-_C9oomDhu6TYYZ9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WkcpYY4BScpthZuy74yWeQ&_nc_ss=7a22e&oh=00_AQI88w7tkwUB68lngPJvMPChES5Onl74c6mKFAjfAi47GA&oe=6AA81740)](http://www.threads.com/@wydnicnic_/post/DdEkO3Mltiv/media)
+
+275
+
+41
 
 4
 
-3
+5
 
-[![Image 2: boke187's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774076442_17976620343115813_651050468323690432_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDIZQ2ath-_IoeHlEQGKII&_nc_ohc=DpuVFGnvt8AQ7kNvwHwIWE_&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwo2nn7L2xzSnll_ibUcqu-5v2dPDUSObJgxY2o72QkA&oe=6AA6C351&_nc_sid=10d13b)](https://www.threads.com/@boke187)
-
-[boke187](https://www.threads.com/@boke187)
-
-[gaming threads](https://www.threads.com/search?q=gaming%20threads&serp_type=tags&tag_id=18397525702020968)
-
-[13h](https://www.threads.com/@boke187/post/DdCC8GNHL-W)
-
-Got my physical Zelda: Ocarina of Time remake preordered
-
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/800934766_17979959910115813_2025406974739501575_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MTc1Nzk0NjQ3MzAwNDk1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=KF7y85ubcSAQ7kNvwHff0Jb&_nc_oc=AdrVxTd8JkYldG5rm1DytGzgiPgAD_fW3kfe6FZDzqwQClsuCY-WKXGyZTQHqHyUD3Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-HkaJBmQmNRLqzQLDsqTpQ&_nc_ss=7a22e&oh=00_AQLWnKbeuwQj798kWqykBX-2UEUnLEeSY5Pl_T6KxQ0INQ&oe=6AA6A3D3)](https://www.threads.com/@boke187/post/DdCC8GNHL-W/media)
-
-139
-
-13
-
-2
-
-[![Image 4: earlyaugust's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/483511276_533503489307393_6787007437676406255_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHJXYIK7xDWha3txiGdiijBgjdfpJQ-bCetPjHVJYjX3fDI
+[![Image 4: skyla.wilson864's profile picture](https://scontent.
 ```

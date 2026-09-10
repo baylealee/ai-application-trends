@@ -7,9 +7,9 @@ language: "unknown"
 category: "coding"
 tools:
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-09T05:02:30+00:00"
+generated_at: "2026-09-10T05:06:09+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,31 +60,27 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: harnettstudio's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/452007544_805631185079339_2415128183757367497_n.jpg?stp=ds
-- [![Image 19: livelikewannabeana's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/753531212_17956968219168131_4653074337637199450_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sco
-- [![Image 27: spetrichorrr's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.82787-19/798290077_18100293074122151_4852110680010324361_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-
-- [![Image 12: meganmarie_13's profile picture](https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/473629013_958018376389906_2959758283104477483_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-at
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![I
+- [![Image 1: swissyankaccount's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/707377298_17965268823118319_261895654264833492_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnin
+- [![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/802007596_17977240005104499_3079298182842031323_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MjYyOTM0MjY0Nzk2NjQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueH
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/801368998_17984055696116618_8751656252392919525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk4MjIxOTcxNTIyNTcwMzQzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/801396672_18310740079304624_8109242374417858207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4MjUyNDI5NjA4NjI1NDI3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、CLI
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -96,39 +92,43 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: georgehtakei's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358010924_1975400689481065_7908200296301040757_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=DPd666SHiy0Q7kNvwHF3qzq&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLbUMG5eb18_eQ3RI_xKNC8HZNBn8znRymWhTnJnZ7Qsg&oe=6AA6B8E8&_nc_sid=10d13b)](https://www.threads.com/@georgehtakei)
+[![Image 1: shesuhfoodie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/409895236_1551716835411641_3733127031957509198_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=0uUWHiDz1SgQ7kNvwGXshWP&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ5FUSIRGyXZbj3O3E4pwJxLIJrblbqvRzS6z2z4PiZZg&oe=6AA802E4&_nc_sid=10d13b)](https://www.threads.com/@shesuhfoodie)
 
-After attending a WNBA game in Minneapolis on August 2 between the Minnesota Lynx and the Indiana Fever, former NCAA swimmer Riley Gaines went on Fox News to criticize the crowd of "disgruntled lesbians" for booing anti-trans player Sophie Cunningham—and was swiftly called out.
+Recommend a 10/10 restaurant in Pittsburgh, PA…
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/801284403_17983379823110244_5060341561422801095_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MTk5NTg4MDI0NDQwMDg2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-r-S8Xk0tNUQ7kNvwGU8UyL&_nc_oc=AdpseB7TMhWnrCtHCLKUzxRSqaPpKbHNgXLg7i152cQhWMVxVmEt04P1kSPnLG0xObw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=UNO4xDBj1ribalQB3VTXsw&_nc_ss=7a22e&oh=00_AQInA59BDQ7pSA7BGObkPyVRPR2jak8DbbYtQxeIcosuMw&oe=6AA6B26B)](https://www.threads.com/@georgehtakei/post/DdC5CfTCVLh/media)
-
-79
-
-28
-
-3
-
-[![Image 3: myeshaaxo_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/672344077_17961333789110457_3459160242392437409_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=ISN8gjPvVMkQ7kNvwFXnWrp&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJcUj6GiZWsTjqo2NXutoKfTIiMZstzgd_tlESns540QA&oe=6AA6CACE&_nc_sid=10d13b)](https://www.threads.com/@myeshaaxo_)
-
-If you think I’m missing THE Stevie Wonder, you’ve lost your mind.
-
-191
-
-2
+20
 
 40
 
+1
+
+15
+
+[![Image 2: anxi0usslumb3r's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/385913221_1054648616354964_6681524894388098943_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=4QF-Aietlj4Q7kNvwHL9DNo&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ0vUPi4UCKmWWs7sIaxGJjB5Y6namMTNzgXyaJf9oquQ&oe=6AA805CF&_nc_sid=10d13b)](https://www.threads.com/@anxi0usslumb3r)
+
+Dee saying she wants to throw away the decorations that Melody made for Barrett’s birthday is crazy. She’s such a mean girl. 😩
+
+337
+
+35
+
 4
-
-[![Image 4: h00drich239's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/799622090_18094543511215853_7432079272184442031_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE9iCA_RrUq9G_u3QB6UdAKZVTQnsYpmbENmCaq-qvLy5pLbF_SFADT3npqCC6yass&_nc_ohc=JT-3l4Mx49MQ7kNvwFVNUxi&_nc_gid=UNO4xDBj1ribalQB3VTXsw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJT0Tbg0NzQXPCm2QbFgpBQb4sBAZ1xw8yAeoWrj2xQCQ&oe=6AA6C6DE&_nc_sid=10d13b)](https://www.threads.com/@h00drich239)
-
-Where my leo gang at??
-
-628
-
-124
 
 7
 
-[![Image 5: alluring's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/652365812_18569241574017875_5022270703990726
+[![Image 3: mywanderlustylife's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472932940_1536696347045607_4220396332988459376_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=wlUnWm8b9vcQ7kNvwForFwD&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLH11RhcMGzHbfhpiwUH-9TkWVK7SjOlWlxORBsyJtxBg&oe=6AA7FC96&_nc_sid=10d13b)](https://www.threads.com/@mywanderlustylife)
+
+Does anything absorb LESS water than a microfiber hair towel marketed for just this purpose or...?
+
+241
+
+30
+
+2
+
+[![Image 4: samreich's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/451430908_1012342813574915_1488327680707412744_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=9DRwfBSMlO8Q7kNvwE3xItK&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJWXsdZ0w7GyJYWsg7ws0-pqZv_YR3tlzZJD_sgeU1j7Q&oe=6AA81B34&_nc_sid=10d13b)](https://www.threads.com/@samreich)
+
+thank you to our extraordinary "i spy" cast and to PA connor who subbed in when our brennan lookalike cancelled last-minute
+
+![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/800469348_17988500322101810_5994576646810633488_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MjQ5M
 ```
