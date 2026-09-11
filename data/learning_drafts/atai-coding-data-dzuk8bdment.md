@@ -12,8 +12,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0255
-generated_at: "2026-09-10T05:06:09+00:00"
+zh_ratio: 0.0248
+generated_at: "2026-09-11T05:02:43+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
@@ -66,18 +66,10 @@ reply_summary_status: `partial`
 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/7584691
-- Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
-
 URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
 [![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/75846917
-- Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmM
 - Markdown Content:
 [![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmM
 
@@ -85,7 +77,7 @@ Markdown Content:
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Agent、agent、工具、整理、生成
-- zh_ratio: `0.0255`
+- zh_ratio: `0.0248`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -104,7 +96,7 @@ Markdown Content:
 
 # [Thread 11K views](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
 
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEMpESEa5sZfPdrhEIX_YKW2oIXH9J1djoemY8-4E7Zw_xxDc2bsVvFEWliNJLga0U&_nc_ohc=9e5BvJ8TBaEQ7kNvwE-zFLJ&_nc_gid=8EFgo-Zw2dcykq5TyBmTcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKeeKkeUWIZHFURlLTQ9fAMEax8NTIHhio6tV5dAmuK3Q&oe=6AA80455&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEXs3oxBDwuYL1zVWYB7S9ozg6TSm124eYLXPjQ5mM0DO0yibso_dlua0yEFZTlevY&_nc_ohc=Cz8PennfvUUQ7kNvwEzV2G6&_nc_gid=LdJUCcVjJw0FmhzcDmOc5g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLHQpETsEhCfMaoIPfP_Xei1J-xyTAjH4h7e7kGfx8SCg&oe=6AA955D5&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 [atai_coding_data](https://www.threads.com/@atai_coding_data)
 
@@ -124,21 +116,21 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aFYpIEQ_8pMQ7kNvwEiu21n&_nc_oc=Adr5y5KVD6NBPiciKeU7FNiSYp111sKsQ-gXSg81oAJllVdkxbsMfMy4YO3ABjFoF1M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=8EFgo-Zw2dcykq5TyBmTcA&_nc_ss=7a22e&oh=00_AQKBdMei7mmesiChupybaoQw2J5t1LHQny-290Vc_441xg&oe=6AA7F8E6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=aFYpIEQ_8pMQ7kNvwFqRqYF&_nc_oc=AdrK3sYWB6PSALKLPN0qadr5npoOL77jLkpodYN4eSh2Tw6bVHFt-LfEDNn5GOlJjFY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=LdJUCcVjJw0FmhzcDmOc5g&_nc_ss=7a22e&oh=00_AQJSR8YVcPkvKiCeeVE-IzgE_FJAO00QvHaBurkYKKMxVw&oe=6AA94A66)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
-148
+149
 
 333
 
 14
 
-95
+96
 
-[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEMpESEa5sZfPdrhEIX_YKW2oIXH9J1djoemY8-4E7Zw_xxDc2bsVvFEWliNJLga0U&_nc_ohc=9e5BvJ8TBaEQ7kNvwE-zFLJ&_nc_gid=8EFgo-Zw2dcykq5TyBmTcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKeeKkeUWIZHFURlLTQ9fAMEax8NTIHhio6tV5dAmuK3Q&oe=6AA80455&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEXs3oxBDwuYL1zVWYB7S9ozg6TSm124eYLXPjQ5mM0DO0yibso_dlua0yEFZTlevY&_nc_ohc=Cz8PennfvUUQ7kNvwEzV2G6&_nc_gid=LdJUCcVjJw0FmhzcDmOc5g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLHQpETsEhCfMaoIPfP_Xei1J-xyTAjH4h7e7kGfx8SCg&oe=6AA955D5&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 [atai_coding_data](https://www.threads.com/@atai_coding_data)
 
-[1d](https://www.threads.com/@atai_coding_data/post/DdB7I0Gmae-)
+[2d](https://www.threads.com/@atai_coding_data/post/DdB7I0Gmae-)
 
 ·Author
 
@@ -148,5 +140,5 @@ Translate
 
 1
 
-[![Image 4: violeta.tsai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/572663030_17915683500228486_
+[![Image 4: violeta.tsai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/572663030_17915683500228486_3226113992812843822_n.jpg?
 ```

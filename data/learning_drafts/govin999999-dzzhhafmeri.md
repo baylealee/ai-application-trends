@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：The national average diesel price has just"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-10T05:06:09+00:00"
+generated_at: "2026-09-11T05:02:43+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：The national average diesel price has just
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+The national average diesel price has just reached over $6/gallon.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -63,24 +64,15 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
-- [![Image 1: swissyankaccount's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/707377298_17965268823118319_261895654264833492_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnin
-- [![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/802007596_17977240005104499_3079298182842031323_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MjYyOTM0MjY0Nzk2NjQxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueH
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/801368998_17984055696116618_8751656252392919525_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk4MjIxOTcxNTIyNTcwMzQzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/801396672_18310740079304624_8109242374417858207_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk4MjUyNDI5NjA4NjI1NDI3MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+[![Image 1: mediumboi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583245539_18540205762054768_6110810315065450491_n.jpg?stp=dst
+- ![Image 7](https://scontent.cdninstagram.com/v/t51.71878-15/802393824_2145692916298528_2362707374289565938_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk4Mjk3NDk2NjEwNjk0MzU0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- [![Image 3: lunatheastrologer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/775028096_17906854749466498_5526731621457285522_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdn
+- [![Image 5](https://scontent.cdninstagram.com/v/t39.30808-6/802939760_10216523565559735_3395501476988724514_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MzA5NjM0MDYxNTc2OTc3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -92,43 +84,37 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: shesuhfoodie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/409895236_1551716835411641_3733127031957509198_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=0uUWHiDz1SgQ7kNvwGXshWP&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ5FUSIRGyXZbj3O3E4pwJxLIJrblbqvRzS6z2z4PiZZg&oe=6AA802E4&_nc_sid=10d13b)](https://www.threads.com/@shesuhfoodie)
+[![Image 1: liz.luvsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/768095048_17912784360439029_8417469764065179548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=AmUE7daAU6EQ7kNvwE08LcW&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJEO8VsC0ZygqbE-iuF89QnIrGvQnt5j63DNO096k5IAg&oe=6AA96D0B&_nc_sid=10d13b)](https://www.threads.com/@liz.luvsbooks)
 
-Recommend a 10/10 restaurant in Pittsburgh, PA…
+APPARENTLY HUDSON WILLIAMS IS THE SPECIAL TONIGHT - A WHOLE FUCKING FIVE COURSE MEAL
 
-20
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/802899206_4300984826711636_6250309053086896802_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4MzQ0NjIxNjIzNTEyMzE5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_PkojvlIHLoQ7kNvwEPCI6t&_nc_oc=AdrIRohh1TQS0y-o5coV2ass_tR5q_iQP8U-fmAxD4xMyiAYR6-cFKHVRJT9F_9L82k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&_nc_ss=7a22e&oh=00_AQIZYRcsBkRInJ4ziDUq9LHzwFRNvP76BulYW6zzl_jEWQ&oe=6AA95BCA)
 
-40
+488
 
-1
+3
 
-15
+14
 
-[![Image 2: anxi0usslumb3r's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/385913221_1054648616354964_6681524894388098943_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=4QF-Aietlj4Q7kNvwHL9DNo&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ0vUPi4UCKmWWs7sIaxGJjB5Y6namMTNzgXyaJf9oquQ&oe=6AA805CF&_nc_sid=10d13b)](https://www.threads.com/@anxi0usslumb3r)
+85
 
-Dee saying she wants to throw away the decorations that Melody made for Barrett’s birthday is crazy. She’s such a mean girl. 😩
+[![Image 3: diorworthy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/702625017_18591432181046385_5851068311808913921_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=aSVe0ruLvu4Q7kNvwHvNKNn&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKu50btD3iVtpJjey8Rfx9KLlMcM5rTbkil210BXhgPAA&oe=6AA94E3C&_nc_sid=10d13b)](https://www.threads.com/@diorworthy)
 
-337
+We used to develop personalities from neighborhoods, cousins, weird uncles, bus rides, heartbreak, local radio and shit we accidentally found. Now everybody getting raised by the same 15 second videos. Of course everybody starting to dress, talk and think alike.
 
-35
+491
 
-4
+8
 
-7
+103
 
-[![Image 3: mywanderlustylife's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472932940_1536696347045607_4220396332988459376_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=wlUnWm8b9vcQ7kNvwForFwD&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLH11RhcMGzHbfhpiwUH-9TkWVK7SjOlWlxORBsyJtxBg&oe=6AA7FC96&_nc_sid=10d13b)](https://www.threads.com/@mywanderlustylife)
+26
 
-Does anything absorb LESS water than a microfiber hair towel marketed for just this purpose or...?
+[![Image 4: headquartersnewsroom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628206596_17942964294108221_2745681672242194379_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=UvtOrN2V3e0Q7kNvwGaH7lQ&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL1p_ul1fr3muOvU6_q6kk-pWe9zPeLR_xYlgdZeIv0kQ&oe=6AA9606F&_nc_sid=10d13b)](https://www.threads.com/@headquartersnewsroom)
 
-241
+The national average diesel price has just reached over $6/gallon.
 
-30
+This is the first time in history the price of diesel has ever been this high.
 
-2
-
-[![Image 4: samreich's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/451430908_1012342813574915_1488327680707412744_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFPgvW6BMUcfgFOdusnSlj7qK_OyRMGhd_VYZVqm9ze5kFpvH_if7vywNdY8L6GHaU&_nc_ohc=9DRwfBSMlO8Q7kNvwE3xItK&_nc_gid=44UKbxG1OVO_lnL3igjG_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJWXsdZ0w7GyJYWsg7ws0-pqZv_YR3tlzZJD_sgeU1j7Q&oe=6AA81B34&_nc_sid=10d13b)](https://www.threads.com/@samreich)
-
-thank you to our extraordinary "i spy" cast and to PA connor who subbed in when our brennan lookalike cancelled last-minute
-
-![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/800469348_17988500322101810_5994576646810633488_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk4MjQ5M
+[![Image 5](https://scontent.cdninsta
 ```

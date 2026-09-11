@@ -1,26 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：💸 I need you to understand something tonig"
+title: "techtip_s 的 AI 工作流案例：[Image 4: codifybaseball's profile picture"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "Make"
+  - "Dify"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-10T05:06:09+00:00"
+generated_at: "2026-09-11T05:02:43+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：💸 I need you to understand something tonig
+# techtip_s 的 AI 工作流案例：[Image 4: codifybaseball's profile picture
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-💸 I need you to understand something tonight.. you are allowed to become SOOOO used to getting what you want that receiving barely shocks you anymore. Let the next six months make 
+[Image 4: codifybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/421826196_2363822647151253_2554228571323195377_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +27,7 @@ generated_at: "2026-09-10T05:06:09+00:00"
 
 ## 使用工具
 
-RAG、Make
+Dify
 
 ## 原始工作流拆解
 
@@ -65,7 +64,7 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: creativelykamy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755393050_17915594688422799_4484234197534833021_n.jpg?stp
+[![Image 1: jalenblot's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358165950_289012636824954_4812733546215353065_n.jpg?stp=dst-jpg
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -80,14 +79,14 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- [![Image 11: A photo of Carlos Sainz's parents with a quote "I'm sleeping at my parents' house and it's getting weird."](https://scontent.cdninstagram.com/v/t51.82787-15/801582197_18622354525051476_4310531346034808274_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cac
-- [![Image 4: Kevin McGonigle #7 of the Detroit Tigers celebrates his ninth inning game winning RBI single with manager A.J. Hinch for a 2-1 win over the Los Angeles Dodgers at Comerica Park on August 29, 2026 in Detroit, Michigan. (Photo by Gregory Shamus/Getty
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/801582356_17922460944422799_4173156181999104191_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4MjUyNDQ4NTgwMjcyMTQ2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 3: onlyinbos's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/439064046_290838517402702_1868689707215958473_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.c
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/803438706_17976347241120763_5738114281777651668_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk4MzI3NTQ3NTc0MTIxNjQ3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- Gen. Dan Caine's spokesman today: "There is no gap in the military advice provided to the president…"
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG、Make
+- keyword_hits: AI、Dify、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -99,51 +98,41 @@ Title: Threads • Log in
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: theleftistlawyer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/754068754_18412265203147621_8888026316488152203_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=_70KHKx3U4EQ7kNvwH2L8Rj&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKJ3lO_jx1uhYQZG0yAUg5WPqy9MbZLG8VLQ1qxgaMF_Q&oe=6AA94F03&_nc_sid=10d13b)](http://www.threads.com/@theleftistlawyer)
 
-[](http://www.threads.com/)
+Today a judge granted my motion to strike a pleading filed by the opposing party, a large corporation, that repeatedly and deliberately misgendered my nonbinary client. And the judge found that this deliberate misgendering does violate the new ethics rules in Illinois.
 
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Image 1: mysticmmoon_'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/463932269_27269942652621213_5086447231704088872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGex22Xeep5OR7qvFE5D0iEPGXv5jjE5Z9u9aYtnSCU05G99VXrUMH8stsdbLUJ8HQ&_nc_ohc=ZJv2FCOTKpoQ7kNvwENpZDR&_nc_gid=WkcpYY4BScpthZuy74yWeQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLuGPKcha-h_GbLWTUS48eOp26ipQkth3RLhku4iioY0g&oe=6AA803DE&_nc_sid=10d13b)](http://www.threads.com/@mysticmmoon_)
-
-[mysticmmoon_](http://www.threads.com/@mysticmmoon_)
-
-[9h](http://www.threads.com/@mysticmmoon_/post/DdFCeoKCYmA)
-
-EARTH SIGNS ONLY! Taurus, Virgo, Capricorn
-
-CONGRATULATIONS!!! YOU ENTERED YOUR BEST TIMELINE!!! 💸 I need you to understand something tonight.. you are allowed to become SOOOO used to getting what you want that receiving barely shocks you anymore. Let the next six months make abundance boring to you!!! March 2027.. that you opens the bank account and smiles because there is more than enough sitting there. You’re not waiting for one magical payment to save everything.
+Small victories are still victories.
 
 1.3K
 
+18
+
+23
+
+2
+
+[![Image 2: angela_n_hollander's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/414503336_915941246144340_8418435062753646357_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=4qOISrjtdaoQ7kNvwGmhJBf&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJhrlZ87UR-A6_qAp204RZ3gt9UZewt_rPd1XoXOignRQ&oe=6AA96E46&_nc_sid=10d13b)](http://www.threads.com/@angela_n_hollander)
+
+My favorite genre of HR fanfic is "oh this is just a smutty oneshot!" and then boom! chapter count is up and the author's notes are all like "sorry, turns out these idiots wanted to fall in love, 8 chapters it is!"
+
+789
+
+22
+
+8
+
+[![Image 3: itsme_abaddie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358390999_1711051445980386_6356777207239446424_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=kk0XC1Bn42gQ7kNvwE-5ZLf&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJj5IKAvsSebxZmrMBTuGOLb5RF1OgZzXn9prkdu0JZyw&oe=6AA97870&_nc_sid=10d13b)](http://www.threads.com/@itsme_abaddie)
+
+it is the same thing all the time? Damn if he’s single, why do y’all care? What yall need to do is feel bad for the girl that he is supposedly with because he stays in his ex likes and have a different girlfriend every week
+
 49
 
-24
+9
 
-19
+1
 
-[![Image 2: wydnicnic_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731528909_18143682136492226_2469825152531577261_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNDQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGex22Xeep5OR7qvFE5D0iEPGXv5jjE5Z9u9aYtnSCU05G99VXrUMH8stsdbLUJ8HQ&_nc_ohc=NkHeed5gO_UQ7kNvwGCZ0Bn&_nc_gid=WkcpYY4BScpthZuy74yWeQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJhN5BPQzFzViu1UE1rDAcbk_g10n5feVg90pBLO_50qw&oe=6AA7FF95&_nc_sid=10d13b)](http://www.threads.com/@wydnicnic_)
+1
 
-[wydnicnic_](http://www.threads.com/@wydnicnic_)
-
-[Nintendo](http://www.threads.com/search?q=Nintendo&serp_type=tags&tag_id=18389819626014961)
-
-[13h](http://www.threads.com/@wydnicnic_/post/DdEkO3Mltiv)
-
-I looked too fast and really thought that was Viewtiful Joe at first. Damn.
-
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/801555800_18159401983492226_7835435778956652215_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4MjQ2NzMyMTUxNjQ0NzkxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjMzNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ofZC5nWz6ocQ7kNvwGUK5LV&_nc_oc=Adp6br2XP1l7dFZlsA3YisF_KjERagImwsBAeNi2xLtSUtwlcZ-_C9oomDhu6TYYZ9s&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=WkcpYY4BScpthZuy74yWeQ&_nc_ss=7a22e&oh=00_AQI88w7tkwUB68lngPJvMPChES5Onl74c6mKFAjfAi47GA&oe=6AA81740)](http://www.threads.com/@wydnicnic_/post/DdEkO3Mltiv/media)
-
-275
-
-41
-
-4
-
-5
-
-[![Image 4: skyla.wilson864's profile picture](https://scontent.
+[![Image 4: codifybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/421826196_2363822647151253_2554228571323195377_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=8Car8F27icM
 ```

@@ -8,10 +8,12 @@ category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
+  - "n8n"
+  - "Make"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0078
-generated_at: "2026-09-10T05:06:09+00:00"
+zh_ratio: 0.0092
+generated_at: "2026-09-11T05:02:43+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -28,7 +30,7 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-Claude、Claude Code
+Claude、Claude Code、n8n、Make
 
 ## 原始工作流拆解
 
@@ -75,8 +77,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工具、CLI
-- zh_ratio: `0.0078`
+- keyword_hits: AI、Claude、n8n、Make、Agent、agent、工具
+- zh_ratio: `0.0092`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -95,7 +97,7 @@ Markdown Content:
 
 # [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFhgye7AoxgM8gqeWUNj_pfhdLfj9-thFIugw2RP25UJmQZw-j5MOfR7vUjouiNSp4&_nc_ohc=4ORwrARc4jkQ7kNvwHRWA67&_nc_gid=ZOZPB0SwRUEde0SulGHb4Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLM7SPLGmSiqCoJqSxdCXPsmXrvcaUCrqgRCzI5sWAICA&oe=6AA8174B&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHMFy8hDW77pQJHd7mq54Gx08A6d0xukbMvkKI69DuCatrcvIHTlup5iB3W5wwmSBU&_nc_ohc=mAsbPME-I_gQ7kNvwGHDw9t&_nc_gid=Ed5w8tt9UDZ8jZcRt7oTyg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLCyLw2mDjo-yrDW8-7psWlE0LFquKnmQn9XRvqNZEBrw&oe=6AA968CB&_nc_sid=10d13b)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -107,7 +109,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RiS_MlPp4tYQ7kNvwHDE-BD&_nc_oc=AdrXiaxtaC9GoUC0jzOz_iNBnfOeBWgsa_3gIZMyzI-5imsoTmHd_CvfJeQM2NBv2QM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ZOZPB0SwRUEde0SulGHb4Q&_nc_ss=7a22e&oh=00_AQLigFCzdgoAvOJHJ9RvdnsEIkGexCCtbX4BIL5gz6XY8g&oe=6AA80DE0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=RiS_MlPp4tYQ7kNvwHXRn-b&_nc_oc=AdrMr8OeJfzkBfyJ4UdrW0a7H4iB_mopaNsLmQFT0dedOwTh0cG5ITrCK11hTO9VyoA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Ed5w8tt9UDZ8jZcRt7oTyg&_nc_ss=7a22e&oh=00_AQJXs65tarokqH2IjuEGAQ0-vckz_hQ-estSxMOElNsobg&oe=6AA95F60)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -117,7 +119,7 @@ Translate
 
 16
 
-[![Image 3: hydai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFhgye7AoxgM8gqeWUNj_pfhdLfj9-thFIugw2RP25UJmQZw-j5MOfR7vUjouiNSp4&_nc_ohc=dt2pSRlbq0cQ7kNvwE3u62z&_nc_gid=ZOZPB0SwRUEde0SulGHb4Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKuNWntIwV2rEruXtULajUOIPDWaUfbMNu8xxqEYaM0LA&oe=6AA8183C&_nc_sid=10d13b)](https://www.threads.com/@hydai)
+[![Image 3: hydai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHMFy8hDW77pQJHd7mq54Gx08A6d0xukbMvkKI69DuCatrcvIHTlup5iB3W5wwmSBU&_nc_ohc=-mUPCn6Rz8YQ7kNvwEgI0Pp&_nc_gid=Ed5w8tt9UDZ8jZcRt7oTyg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJGEN19at2dcyQW-3LrQj467Kb--faSsc24SLk2j_qjcw&oe=6AA969BC&_nc_sid=10d13b)](https://www.threads.com/@hydai)
 
 [hydai](https://www.threads.com/@hydai)
 
@@ -129,5 +131,5 @@ Translate
 
 1
 
-[![Image 4: ziyuang's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTYuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFhgye7AoxgM8gqeWUNj_pfhdLfj9-thFIugw2RP25UJmQZw-j5MOfR7vUjouiNSp4&_nc_ohc=mwmGs0oIJj0Q7kNvwHB
+[![Image 4: ziyuang's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNTYuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHMFy8hDW77pQJHd7mq54Gx08A6d0xukbMvkKI69DuCatrcvIHTlup5iB3W5wwmSBU&_nc_ohc=3CL_Ht8Gs0sQ7kNvwEc
 ```
