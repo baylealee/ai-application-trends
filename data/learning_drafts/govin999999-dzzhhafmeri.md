@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：The national average diesel price has just"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-11T05:02:43+00:00"
+generated_at: "2026-09-12T04:54:32+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：The national average diesel price has just
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-The national average diesel price has just reached over $6/gallon.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ The national average diesel price has just reached over $6/gallon.
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -64,15 +63,28 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: mediumboi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583245539_18540205762054768_6110810315065450491_n.jpg?stp=dst
-- ![Image 7](https://scontent.cdninstagram.com/v/t51.71878-15/802393824_2145692916298528_2362707374289565938_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk4Mjk3NDk2NjEwNjk0MzU0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [![Image 3: lunatheastrologer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/775028096_17906854749466498_5526731621457285522_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdn
-- [![Image 5](https://scontent.cdninstagram.com/v/t39.30808-6/802939760_10216523565559735_3395501476988724514_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk4MzA5NjM0MDYxNTc2OTc3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+[![Image 1: homeoffight's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358233593_655486789443428_6543230053411064926_n.jpg?stp=dst-
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+- A guy from the Defense Innovation Unit, dtrojano said the Navy's supply chain runs on something like 200,000 companies when you go four tiers deep. Machine shops, fabricators, specialty parts.
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/802561823_18364322029300476_3326110989189333195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4Mzc0ODIwNjU2NzExOTk4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/806082810_1690064972065872_4554447492528197773_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&ig_cache_key=Mzk4NDE3NDY2MDc0MDIxODgwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -84,37 +96,35 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: liz.luvsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/768095048_17912784360439029_8417469764065179548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=AmUE7daAU6EQ7kNvwE08LcW&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJEO8VsC0ZygqbE-iuF89QnIrGvQnt5j63DNO096k5IAg&oe=6AA96D0B&_nc_sid=10d13b)](https://www.threads.com/@liz.luvsbooks)
+[![Image 1: justqua's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/757545464_17982843747107057_6186385200292992527_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG5bj-5cjLOMjvO1h_DhgMRxcXIswZRfixckIn9ThDlAl-QT4dHhcHGZDuILVaaCN4&_nc_ohc=2f4-nXvPbCcQ7kNvwGwqzNG&_nc_gid=Jh3c9WxXt551P9RZn62A6w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJnrTHTD4t8ia3N4zJ4ygRuAfNYoZJlSMawl8YdbtzAIQ&oe=6AAAC13E&_nc_sid=10d13b)](https://www.threads.com/@justqua)
 
-APPARENTLY HUDSON WILLIAMS IS THE SPECIAL TONIGHT - A WHOLE FUCKING FIVE COURSE MEAL
+Can Jackie Young become the first basketball player in history of the sport to have won at every single level???? High school state championship✅ NCAA championship✅ WNBA championship✅ 3x3 Olympic Gold￼✅ 5x5 Olympic Gold✅ FIBA World Cup Gold??? Only one gold remains. Let’s go team USA. HERstory is on the line
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/802899206_4300984826711636_6250309053086896802_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4MzQ0NjIxNjIzNTEyMzE5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=_PkojvlIHLoQ7kNvwEPCI6t&_nc_oc=AdrIRohh1TQS0y-o5coV2ass_tR5q_iQP8U-fmAxD4xMyiAYR6-cFKHVRJT9F_9L82k&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&_nc_ss=7a22e&oh=00_AQIZYRcsBkRInJ4ziDUq9LHzwFRNvP76BulYW6zzl_jEWQ&oe=6AA95BCA)
+Aslo give me a s/o next time 😂. You’re welcome for the facts
 
-488
+![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/805997913_18625397692055595_4512735275516072922_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4Mzg5OTE0MDc4OTAwNjExODE4NjI1Mzk3Njg5MDU1NTk1.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=lJcbRe-MI1IQ7kNvwF4ribC&_nc_oc=AdpSDcOpJqYBj10k_9CEFzTKXyMHGrYq2ixJs8fiZwWEPjvmWXpWyagodTPp8Ux2yiU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Jh3c9WxXt551P9RZn62A6w&_nc_ss=7a22e&oh=00_AQIXX0cQg2uXOyemlRqz3O2cd-ES5U2ZftqCKannHB1vCw&oe=6AAA94C6)
 
-3
+usabasketball
 
-14
+790
 
-85
+30
 
-[![Image 3: diorworthy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/702625017_18591432181046385_5851068311808913921_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=aSVe0ruLvu4Q7kNvwHvNKNn&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKu50btD3iVtpJjey8Rfx9KLlMcM5rTbkil210BXhgPAA&oe=6AA94E3C&_nc_sid=10d13b)](https://www.threads.com/@diorworthy)
+68
 
-We used to develop personalities from neighborhoods, cousins, weird uncles, bus rides, heartbreak, local radio and shit we accidentally found. Now everybody getting raised by the same 15 second videos. Of course everybody starting to dress, talk and think alike.
+9
 
-491
+[![Image 3: ttiayl's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/687710016_17960292798110267_4824777635239970418_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG5bj-5cjLOMjvO1h_DhgMRxcXIswZRfixckIn9ThDlAl-QT4dHhcHGZDuILVaaCN4&_nc_ohc=cLjT6O05GR8Q7kNvwErYgFx&_nc_gid=Jh3c9WxXt551P9RZn62A6w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQItrr8mwgKVnaaXVU_glv8JZiPoAcHuG-jKx_6i8rDW2Q&oe=6AAAA4CC&_nc_sid=10d13b)](https://www.threads.com/@ttiayl)
 
-8
+Yash is spot on with his game analysis right now. Taylor is not
 
-103
+27
 
-26
+6
 
-[![Image 4: headquartersnewsroom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628206596_17942964294108221_2745681672242194379_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGBBxRWDCFcSwE3qZCE30muDWICPKTlMJ42_DhpMhHWMi5sdFohyYEyTEYVmSWlo90&_nc_ohc=UvtOrN2V3e0Q7kNvwGaH7lQ&_nc_gid=q6RDLE30-Y53V2dFhQuJdA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL1p_ul1fr3muOvU6_q6kk-pWe9zPeLR_xYlgdZeIv0kQ&oe=6AA9606F&_nc_sid=10d13b)](https://www.threads.com/@headquartersnewsroom)
+[![Image 4: adamparkhomenko's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/487795458_1889177951617735_1983817194625509404_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG5bj-5cjLOMjvO1h_DhgMRxcXIswZRfixckIn9ThDlAl-QT4dHhcHGZDuILVaaCN4&_nc_ohc=mHnWszNVTdsQ7kNvwFS5vXY&_nc_gid=Jh3c9WxXt551P9RZn62A6w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLkmpMnV76D8yc-ihWfTZ4WxAtw93Y1kDZeAUDuwuTRxA&oe=6AAAAE75&_nc_sid=10d13b)](https://www.threads.com/@adamparkhomenko)
 
-The national average diesel price has just reached over $6/gallon.
+This is good
 
-This is the first time in history the price of diesel has ever been this high.
-
-[![Image 5](https://scontent.cdninsta
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/804647623_17987768511111
 ```

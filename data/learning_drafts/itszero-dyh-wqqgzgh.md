@@ -4,18 +4,19 @@ source_url: "https://www.threads.com/@itszero/post/DYH_wqQGzgH"
 source_author: "itszero"
 post_id: "DYH_wqQGzgH"
 language: "unknown"
-category: "coding"
+category: "mcp"
 tools:
   - "Claude"
   - "Claude Code"
   - "ChatGPT"
   - "GPT"
+  - "MCP"
   - "Codex"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0639
-generated_at: "2026-09-11T05:02:43+00:00"
+zh_ratio: 0.0641
+generated_at: "2026-09-12T04:54:32+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -32,13 +33,14 @@ generated_at: "2026-09-11T05:02:43+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、ChatGPT、GPT、Codex、GitHub
+Claude、Claude Code、ChatGPT、GPT、MCP、Codex、GitHub
 
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
-2. 」 我說其實問題就在這裡 你們工程師一開始就把世界想得太危險 是顯化 我很認真解釋，AI 本身就是根據你的意圖生成結果 你 prompt 裡面一直預設「會出 bug」「會被駭」，它當然就接收到負面工程能量，最後生出來的 code 自然很焦慮 反過來說，如果開發前先整理心情 明確告訴 Agent：這是一個穩定、安全、可維護、一次上線成功的產品 然後真心相信它會做到（留言續） Translate](https://www.threads.com/@crash.rwd/post/Db48ASiEnfz)
-3. [Image 15: GitHub - esengine/DeepSeek-Reasonix: DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/15612844621993101901?
+2. 」 我說其實問題就在這裡 你們工程師一開始就把世界想得太危險 是顯化 我很認真解釋，AI 本身就是根據你的意圖生成結果 你 prompt 裡面一直預設「會出 bug」「會被駭」，它當然就接收到負面工程能量，最後生出來的 code 自然很焦慮 反過來說，如果開發前先整理心情 明確告訴 Agent：這是一個穩定、安全、可維護、一次上線成功的產品 然後真心相信它會做到（留言續） Translate](http://www.threads.com/@crash.rwd/post/Db48ASiEnfz)
+3. 它能無縫整合到您的 AI 代理中，無論是透過 CLI 指令或 MCP 伺服器模式，都能讓 AI 直接取用即時、來源可靠的程式碼文件，免去手動切換視窗或驗證資訊的麻煩，讓開發流程更順暢。
+4. 這種自動化文件查詢，會如何改變您的日常開發習慣？
 
 ## 可以直接複製的做法
 
@@ -69,22 +71,25 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 600 views](https://www.threads.
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
-- 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
-this fails, fix it 2. "
-" I need to run this, figure it out
+[![Image 1: itszero's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、Codex、Agent、agent、prompt、工具、整理、生成、GitHub、CLI
-- zh_ratio: `0.0639`
+- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Codex、Agent、agent、自動化、流程、prompt、工具、整理、生成、GitHub、CLI
+- zh_ratio: `0.0641`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -92,22 +97,22 @@ this fails, fix it 2. "
 ```text
 Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Thread 600 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread 600 views](http://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE7qiMxJM33GHHAHZzRDwtBgEwlT1fwo24YD-tzqpdduRIBqO2GEOGLjTG5wib-K4c&_nc_ohc=_-3N0v5O1wsQ7kNvwECpyMK&_nc_gid=LKAfC79zARqSI-0t8kki_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLrnzK8yiWW1Pg7UTCF7-aCqUaL9SA8d1_CNJ5LhA8QBA&oe=6AA96E0B&_nc_sid=10d13b)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEi7tpnbVgspLF8o-FzjPZ26XTjtT_sFShJzSUGYOM6gyI_1iWho0Z-31_HJmtjMyY&_nc_ohc=t5itubOfuQgQ7kNvwF7Ssh_&_nc_gid=att6mv7ooN_u_3Zq9AMpMA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLq-zq3dn0Z3ECzkNeAK18zMrr-lbm56uYTOfi8bWgGIA&oe=6AAABF8B&_nc_sid=10d13b)](http://www.threads.com/@itszero)
 
-[itszero](https://www.threads.com/@itszero)
+[itszero](http://www.threads.com/@itszero)
 
-[05/09/26](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+[05/09/26](http://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 
@@ -117,25 +122,25 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gE7qiMxJM33GHHAHZzRDwtBgEwlT1fwo24YD-tzqpdduRIBqO2GEOGLjTG5wib-K4c&_nc_ohc=p2_IxquK6fEQ7kNvwF9-uic&_nc_gid=LKAfC79zARqSI-0t8kki_Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL1rJ7BHI3ny6ZspN7YOlG3tIF22MEax2G02uo-cUFCiQ&oe=6AA94D11&_nc_sid=10d13b)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEi7tpnbVgspLF8o-FzjPZ26XTjtT_sFShJzSUGYOM6gyI_1iWho0Z-31_HJmtjMyY&_nc_ohc=p2_IxquK6fEQ7kNvwFXqC-A&_nc_gid=att6mv7ooN_u_3Zq9AMpMA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK0OKfkN57tF6XSVFLWeEW8aDPSpNGaDUFneD7FN494ig&oe=6AAA9E91&_nc_sid=10d13b)](http://www.threads.com/@ethanhuang13)
 
-[ethanhuang13](https://www.threads.com/@ethanhuang13)
+[ethanhuang13](http://www.threads.com/@ethanhuang13)
 
-[05/10/26](https://www.threads.com/@ethanhuang13/post/DYKDh9DlHlI)
+[05/10/26](http://www.threads.com/@ethanhuang13/post/DYKDh9DlHlI)
 
 大道至簡
 
 Related threads
 
-[![Image 3: howardsun_s's profile picture](https://instagram.fmex27-1.fna.fbcdn.net/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=instagram.fmex27-1.fna.fbcdn.net&_nc_cat=1&_nc_oc=Q6cZ2gEwOxl_8uWj0amfeknjNDLWEZMdM7FjVpYRi9CYspIuLPXaUw1dk6SyD0dklEYFMXhNSwKyUUXGNka-SMWv2_UO&_nc_ohc=x1-CamueUR8Q7kNvwHYLyP3&_nc_gid=DMs81At4plqcCBpviMpmvw&edm=AL4D0a4BAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQJY97VBtw1N_9Hiv97VKG0S5IBbK8HX3lWuETs4_URhMA&oe=6AA96FEA&_nc_sid=9e8221)](https://www.threads.com/@howardsun_s)
+[![Image 3: howardsun_s's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGnqHhZiz0KIMpxE1SVXYnWXET2txOQvtEbHAsmuUoMhrMQkKKPN4s5AWVWKFez1dV5VOtxYGH-Ah8IZMQG0crJ&_nc_ohc=Eu1EFGkuM78Q7kNvwFgFmLr&_nc_gid=zB_7Qj2UeA8sPC7L4cgedw&edm=AHBgTAQBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQJNIGxub1lslsT_UkjAF-QgTxmWReBgQ7ZVZCA_mj92Rg&oe=6AAAC16A&_nc_sid=21e75c)](http://www.threads.com/@howardsun_s)
 
-[howardsun_s](https://www.threads.com/@howardsun_s)
+[howardsun_s](http://www.threads.com/@howardsun_s)
 
-[08/11/26](https://www.threads.com/@howardsun_s/post/Db5TUIcD2ps)
+[08/11/26](http://www.threads.com/@howardsun_s/post/Db5TUIcD2ps)
 
 😆 這是反串，顯化什麼啦
 
 Translate
 
-[![Image 4: crash.rwd's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/516970145_17850438465501636_2289731295784859601_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNDcuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHW7U8dqVIfLYipS3QtRbThNgCRnB5QnkaD3GAEzrw
+[![Image 4: crash.rwd's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/516970145_17850438465501636_2289731295784859601_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNDcuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHMXXpoHbHX3LJDNCYaU-WaS5FrzqWWUU3zmZDGXm7iA7plATFH-eexLq1v
 ```

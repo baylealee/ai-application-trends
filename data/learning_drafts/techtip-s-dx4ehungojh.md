@@ -1,25 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[Image 4: codifybaseball's profile picture"
+title: "techtip_s 的 AI 工作流案例：I love this scene from “That Thing You Do”"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "Dify"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-11T05:02:43+00:00"
+generated_at: "2026-09-12T04:54:32+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[Image 4: codifybaseball's profile picture
+# techtip_s 的 AI 工作流案例：I love this scene from “That Thing You Do”
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 4: codifybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/421826196_2363822647151253_2554228571323195377_n.jpg?
+I love this scene from “That Thing You Do” so much. It makes me feel so happy whenever I see it…
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ generated_at: "2026-09-11T05:02:43+00:00"
 
 ## 使用工具
 
-Dify
+Make
 
 ## 原始工作流拆解
 
@@ -64,7 +64,7 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: jalenblot's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358165950_289012636824954_4812733546215353065_n.jpg?stp=dst-jpg
+[![Image 1: death_by_dumpling_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/579649458_17895063225347406_3525225947900980670_n.jpg
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -79,14 +79,14 @@ Markdown Content:
 # [Home](https://www.threads.com/?error=invalid_post)
 
 [
-- [![Image 3: onlyinbos's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/439064046_290838517402702_1868689707215958473_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.c
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/803438706_17976347241120763_5738114281777651668_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk4MzI3NTQ3NTc0MTIxNjQ3Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- Gen. Dan Caine's spokesman today: "There is no gap in the military advice provided to the president…"
+- ![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/805899920_18631996093003511_8336952012577097594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4Mzk0Mzg2OTA0NTk1NDE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 9](https://scontent.cdninstagram.com/v/t51.82787-15/805899920_18631996093003511_8336952012577097594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4Mzk0Mzg2OTA0NTk1NDE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- [![Image 3: flybyknite's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/365004941_1524299091766817_4909825093183806009_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Dify、CLI
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,41 +98,41 @@ Title: Threads • Log in
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: theleftistlawyer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/754068754_18412265203147621_8888026316488152203_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=_70KHKx3U4EQ7kNvwH2L8Rj&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKJ3lO_jx1uhYQZG0yAUg5WPqy9MbZLG8VLQ1qxgaMF_Q&oe=6AA94F03&_nc_sid=10d13b)](http://www.threads.com/@theleftistlawyer)
+[](http://www.threads.com/)
 
-Today a judge granted my motion to strike a pleading filed by the opposing party, a large corporation, that repeatedly and deliberately misgendered my nonbinary client. And the judge found that this deliberate misgendering does violate the new ethics rules in Illinois.
+[](http://www.threads.com/)
 
-Small victories are still victories.
+[](http://www.threads.com/search)
 
-1.3K
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Image 1: vanriessa's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358348304_1265364257506145_5989833047432685409_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGR75o-42dhbpxSECrnB0-Nri-qZIHSMwtiKqROdPu8QX8EiDMvXpIuTddxjHGteco&_nc_ohc=psVVMuEVaS8Q7kNvwE_rWLu&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQINwmNWtoAn33axtfqPcr0uUCB7dpQnCOfXz-_GURi2Cg&oe=6AAAA36C&_nc_sid=10d13b)](http://www.threads.com/@vanriessa)
+
+[vanriessa](http://www.threads.com/@vanriessa)
+
+[6h](http://www.threads.com/@vanriessa/post/DdKcBoWGEMH)
+
+[@_eeshhaaaaa](http://www.threads.com/@_eeshhaaaaa)
+
+ are you going to send me the Stevie Wonder tickets or keep my $820 while you continue to answer people and tell them they are still available!
+
+29
 
 18
 
-23
-
-2
-
-[![Image 2: angela_n_hollander's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/414503336_915941246144340_8418435062753646357_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=4qOISrjtdaoQ7kNvwGmhJBf&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJhrlZ87UR-A6_qAp204RZ3gt9UZewt_rPd1XoXOignRQ&oe=6AA96E46&_nc_sid=10d13b)](http://www.threads.com/@angela_n_hollander)
-
-My favorite genre of HR fanfic is "oh this is just a smutty oneshot!" and then boom! chapter count is up and the author's notes are all like "sorry, turns out these idiots wanted to fall in love, 8 chapters it is!"
-
-789
-
-22
-
-8
-
-[![Image 3: itsme_abaddie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358390999_1711051445980386_6356777207239446424_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=kk0XC1Bn42gQ7kNvwE-5ZLf&_nc_gid=5sLhgBU9ei5ez1_eC_Kyjg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJj5IKAvsSebxZmrMBTuGOLb5RF1OgZzXn9prkdu0JZyw&oe=6AA97870&_nc_sid=10d13b)](http://www.threads.com/@itsme_abaddie)
-
-it is the same thing all the time? Damn if he’s single, why do y’all care? What yall need to do is feel bad for the girl that he is supposedly with because he stays in his ex likes and have a different girlfriend every week
-
-49
-
-9
-
 1
 
-1
+18
 
-[![Image 4: codifybaseball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/421826196_2363822647151253_2554228571323195377_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGykNyRcKz7clFoyxQRtIT358wV3yxnsziAhE7sGS7nNBA1pbjhkg-m9jc09VyBImc&_nc_ohc=8Car8F27icM
+[![Image 2: greencolorado17's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357997437_1076548886648834_5554675244805145960_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGR75o-42dhbpxSECrnB0-Nri-qZIHSMwtiKqROdPu8QX8EiDMvXpIuTddxjHGteco&_nc_ohc=FtcBnqL0-iAQ7kNvwESjtvm&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIPRan5ecW1dFHHUEMotLKL66TbOJQkUcwbxdjKRyaNyA&oe=6AAAC16A&_nc_sid=10d13b)](http://www.threads.com/@greencolorado17)
+
+[greencolorado17](http://www.threads.com/@greencolorado17)
+
+[21h](http://www.threads.com/@greencolorado17/post/DdI1fjmjIi9)
+
+I love this scene from “That Thing You Do” so much. It makes me feel so happy whenever I see it…
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/805120543_3533726933463746_2357419632570178808_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4MzY2OTEzNTQwNTc3OTEzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=cgCOiopDI9UQ7kNvwGpQw0D&_nc_oc=AdowRIWqfz8AcAUscJkwWFS3vMpBLZDvYkkWtfhOQo8otdoJ71_M_69z_gfZDZF_Bkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&_nc_ss=7a22e&oh=00_AQL7zlgT8Pvj3idhRqGGsG7BPw1KZ8O4S3u3IJGOu4rcog&oe=6AAAC18D)
+
+[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNcWH8op9jeRKSiJRf4fl1foIt8as445Tqytc8SPAzVjgcRCVwJHB6wzs0IaI_iWo5CIWMGyi4SUQ3NN1L4bRLWFNBfi70jniHb8tQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=n9OOaA-We0cQ7kNvwHkPG2M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODQyMjk2MzMxMTQ1MTIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXR
 ```
