@@ -1,25 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I love this scene from “That Thing You Do”"
+title: "techtip_s 的 AI 工作流案例：[encouragement](https://www.threads.com/se"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "Make"
+  - "GPT"
+  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-12T04:54:32+00:00"
+generated_at: "2026-09-13T05:13:23+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I love this scene from “That Thing You Do”
+# techtip_s 的 AI 工作流案例：[encouragement](https://www.threads.com/se
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I love this scene from “That Thing You Do” so much. It makes me feel so happy whenever I see it…
+[encouragement](https://www.threads.com/search?
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ I love this scene from “That Thing You Do” so much. It makes me feel so happ
 
 ## 使用工具
 
-Make
+GPT、RAG
 
 ## 原始工作流拆解
 
@@ -64,8 +65,29 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: death_by_dumpling_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/579649458_17895063225347406_3525225947900980670_n.jpg
+[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=ds
 - Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: meredithmarks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358203265_1264016057814061_4366212544242666009_n.jpg?stp=dst
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/806416389_17981672511118840_4992279633012549105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NDY5NzA0NTY2Nzk3NzU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- Everyone talking about what they're hoping for/curious about for the remake, meanwhile I'm over here wondering what they'll do with this moment. IYKYK
+- Markdown Content:
+[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、GPT、RAG
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -78,61 +100,37 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[
-- ![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/805899920_18631996093003511_8336952012577097594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4Mzk0Mzg2OTA0NTk1NDE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 9](https://scontent.cdninstagram.com/v/t51.82787-15/805899920_18631996093003511_8336952012577097594_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4Mzk0Mzg2OTA0NTk1NDE2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- [![Image 3: flybyknite's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/365004941_1524299091766817_4909825093183806009_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.
+[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGVyo8XC003l0mKqwOmVTgsGCvJdaw26uBfeJWoO1EmE3WOVrPNKbHqarIzMukJYeY&_nc_ohc=Hb0_8DeaZWgQ7kNvwE965kK&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwNuAxRtadEwkcJcJAsqOBSe2eH9jEcNbQOYiyAC_7aw&oe=6AAC0B22&_nc_sid=10d13b)](https://www.threads.com/@_nm.wanjiru)
 
-## 抓取品質
+[_nm.wanjiru](https://www.threads.com/@_nm.wanjiru)
 
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-## 原始抓取內容
+[20h](https://www.threads.com/@_nm.wanjiru/post/DdLmVhajMfd)
 
-```text
-Title: Threads • Log in
+Azzi had the players in hell 🔥🔥 AZZI FOR ALL-DEFENSIVE TEAM 💪🏾💙🪽 (I really love the bench reaction)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/806298758_1458511296119022_4682360556482440384_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4NDQ0NjkwMDA5NDY4MzEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=0hjAgScnsfcQ7kNvwEK08sq&_nc_oc=AdrjZ7XbfX6ZW8WZmW8D_1WUMK8F4W7RWuPSK0E_elPNz8bj2XrK8pXsVPAmlIIu_-U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&_nc_ss=7a22e&oh=00_AQLmOwhLUVf7bS1IsurmkF4NpReT4wyYGBi1RpDRVCSKNg&oe=6AAC114F)
 
-Markdown Content:
-[](http://www.threads.com/)
+Sorry, we're having trouble playing this video.
 
-[](http://www.threads.com/)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBntMW38f4d0v10G5ct1Ai5gbhkwAwSZ4AV6dnpVduiBH-rx5lIuSGIDmM3rblbA3ykFUZIgp_xtOYILNXjb-thpKm-DXLNp1zt7oW2qdGxublFyUI)
 
-[](http://www.threads.com/search)
+740
 
-# [Home](http://www.threads.com/?error=invalid_post)
+14
 
-[![Image 1: vanriessa's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358348304_1265364257506145_5989833047432685409_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGR75o-42dhbpxSECrnB0-Nri-qZIHSMwtiKqROdPu8QX8EiDMvXpIuTddxjHGteco&_nc_ohc=psVVMuEVaS8Q7kNvwE_rWLu&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQINwmNWtoAn33axtfqPcr0uUCB7dpQnCOfXz-_GURi2Cg&oe=6AAAA36C&_nc_sid=10d13b)](http://www.threads.com/@vanriessa)
-
-[vanriessa](http://www.threads.com/@vanriessa)
-
-[6h](http://www.threads.com/@vanriessa/post/DdKcBoWGEMH)
-
-[@_eeshhaaaaa](http://www.threads.com/@_eeshhaaaaa)
-
- are you going to send me the Stevie Wonder tickets or keep my $820 while you continue to answer people and tell them they are still available!
-
-29
+40
 
 18
 
-1
+[![Image 3: 4hw1990's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789109547_17983211967114500_9151921324581070320_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGVyo8XC003l0mKqwOmVTgsGCvJdaw26uBfeJWoO1EmE3WOVrPNKbHqarIzMukJYeY&_nc_ohc=beiBinaAE8MQ7kNvwG_UAOz&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQINVP50RH5ToqA0YnP_LuVY0yYDRA63tEVnrXlDxzUqiw&oe=6AABF6E9&_nc_sid=10d13b)](https://www.threads.com/@4hw1990)
 
-18
+[4hw1990](https://www.threads.com/@4hw1990)
 
-[![Image 2: greencolorado17's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357997437_1076548886648834_5554675244805145960_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGR75o-42dhbpxSECrnB0-Nri-qZIHSMwtiKqROdPu8QX8EiDMvXpIuTddxjHGteco&_nc_ohc=FtcBnqL0-iAQ7kNvwESjtvm&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIPRan5ecW1dFHHUEMotLKL66TbOJQkUcwbxdjKRyaNyA&oe=6AAAC16A&_nc_sid=10d13b)](http://www.threads.com/@greencolorado17)
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-[greencolorado17](http://www.threads.com/@greencolorado17)
+[9h](https://www.threads.com/@4hw1990/post/DdMyJuKltak)
 
-[21h](http://www.threads.com/@greencolorado17/post/DdI1fjmjIi9)
-
-I love this scene from “That Thing You Do” so much. It makes me feel so happy whenever I see it…
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/805120543_3533726933463746_2357419632570178808_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4MzY2OTEzNTQwNTc3OTEzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=cgCOiopDI9UQ7kNvwGpQw0D&_nc_oc=AdowRIWqfz8AcAUscJkwWFS3vMpBLZDvYkkWtfhOQo8otdoJ71_M_69z_gfZDZF_Bkc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3zA9Dn3TQplYarVoy0H4CQ&_nc_ss=7a22e&oh=00_AQL7zlgT8Pvj3idhRqGGsG7BPw1KZ8O4S3u3IJGOu4rcog&oe=6AAAC18D)
-
-[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNcWH8op9jeRKSiJRf4fl1foIt8as445Tqytc8SPAzVjgcRCVwJHB6wzs0IaI_iWo5CIWMGyi4SUQ3NN1L4bRLWFNBfi70jniHb8tQ.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=n9OOaA-We0cQ7kNvwHkPG2M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODQyMjk2MzMxMTQ1MTIsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXR
+I haven't questioned Kara Lawson this entire tournament but I have to question why CC is getting so many minutes when she's being outplayed by the rest of young and turnt. Without Angel,Paige and Rh
 ```
