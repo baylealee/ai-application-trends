@@ -16,7 +16,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0709
-generated_at: "2026-09-13T05:13:23+00:00"
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -67,24 +67,29 @@ reply_summary_status: `partial`
 
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
-- Title: 傑洛 Zero Cho (@itszero) on Threads
-
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
-- 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
-this fails, fix it 2. "
-" I need to run this, figure it out
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 601 views](http://www.threads.com/@
+- [![Image 4: ChatGPT & Codex changelog | ChatGPT Learn](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/14116832087396327341?url=https%3A%2F%2Flearn.chatgpt.com%2Fog%2Fdocs%2Fchangelog.png&utld=chatgpt.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=
+- Title: 傑洛 Zero Cho (@itszero) on Threads
+
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+
+Markdown Content:
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+- [![Image 13: GitHub - upstash/context7: Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/12693375469897286428?url=https%3A%2F%2Fopengraph.githubassets.com%2F77392430ae9b986491cae99
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Codex、自動化、流程、prompt、工具、GitHub、CLI
+- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Codex、自動化、流程、prompt、工具、CRM、GitHub、CLI
 - zh_ratio: `0.0709`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
@@ -104,7 +109,7 @@ Markdown Content:
 
 # [Thread 601 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFWKRl0UuIIAu4Nzts4oUG0yQjCogwqqQwu3G3Wl44a-V9b3m5b9g0mWiLk5iBCQcA&_nc_ohc=t5itubOfuQgQ7kNvwFgI81H&_nc_gid=XbECUxyE3CichAmSj9ChVw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLBCVhfwBGIuZA98a6D1uDErsERooAtfMrp64oyiFijbQ&oe=6AAC110B&_nc_sid=10d13b)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF4AO-eOd2M5EBYANWIFFPHNVYYOIz5CsEngJyVoqkKW2YAS9g8IQoNevrRefVd6uc&_nc_ohc=t5itubOfuQgQ7kNvwEPaJkD&_nc_gid=JOPqxWTL-3t04BsK1WcyAg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJgetyHCgOIl0yV5w7ODDS_Nm31eJoCtghGTtbMCaO04Q&oe=6AAD628B&_nc_sid=10d13b)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -118,7 +123,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFWKRl0UuIIAu4Nzts4oUG0yQjCogwqqQwu3G3Wl44a-V9b3m5b9g0mWiLk5iBCQcA&_nc_ohc=tNWvWNuGiFwQ7kNvwFQCsgy&_nc_gid=XbECUxyE3CichAmSj9ChVw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI9QsjBkD0cgsa_sdwrXe88PHV21EIe5y6G64fk6CXF1A&oe=6AABF011&_nc_sid=10d13b)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF4AO-eOd2M5EBYANWIFFPHNVYYOIz5CsEngJyVoqkKW2YAS9g8IQoNevrRefVd6uc&_nc_ohc=tNWvWNuGiFwQ7kNvwHyRR-h&_nc_gid=JOPqxWTL-3t04BsK1WcyAg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLKhImCoGmQ2D0WHz9tMchbmhjhBxXxwHgBEGRxzd-R_A&oe=6AAD4191&_nc_sid=10d13b)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -128,11 +133,11 @@ it just works™
 
 Related threads
 
-[![Image 3: arumwu's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/628112896_17925993333237650_6997542130771289230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEQw8p7D7HNsB2LQjMhPMT88fvWXy1r1pVyakWUMZk-oBONFEJd5j9Xeenwu-HMk7c&_nc_ohc=jZmRQYs23l8Q7kNvwH7PC_K&_nc_gid=XbECUxyE3CichAmSj9ChVw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIW4ITwLt3XbopQArY4UBQG6-dSdbxYBRhP0z1u0ShxHw&oe=6AABFED1&_nc_sid=10d13b)](https://www.threads.com/@arumwu)
+[![Image 3: arumwu's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/628112896_17925993333237650_6997542130771289230_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gH38S78SUbhNjQ-v2jyQWEXX38rMmfdKFYvWJGDmUpm_L8MSPfNPhACJNLGC0o4oro&_nc_ohc=jZmRQYs23l8Q7kNvwHo7iDP&_nc_gid=JOPqxWTL-3t04BsK1WcyAg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQILtWYtC5nlq5q8dUnx4DzRVdesrH3vWv4tJXYQmU7evA&oe=6AAD5051&_nc_sid=10d13b)](https://www.threads.com/@arumwu)
 
 [arumwu](https://www.threads.com/@arumwu)
 
-[3d](https://www.threads.com/@arumwu/post/DdFm8gogbXR)
+[4d](https://www.threads.com/@arumwu/post/DdFm8gogbXR)
 
 裝好外掛，AI 卻還說「我沒有這個工具」？不一定是你設定錯。
 
@@ -146,5 +151,5 @@ OpenAI 9/9 的 Codex CLI 0.154.0 修正了這個接續工作的痛點：既有 s
 
 這是 9/9 的可靠性修正，不是今天新發布的模型。
 
-官方更新： [developers.openai.com/codex…](https://l.threads.com/?u=https%3A%2F%2Fdevelopers.openai.com%2Fcodex%2Fchangelog&e=AUDitauhIoH14hK4Nqss43xoPbTFyrHJGuYC5M
+官方更新： [developers.openai.com/codex…](https://l.threads.com/?u=https%3A%2F%2Fdevelopers.openai.com%2Fcodex%2Fchangelog&e=AUBpxp1kdmN6SZ-pSEwsLRJ3q22qxobA0LILe4
 ```

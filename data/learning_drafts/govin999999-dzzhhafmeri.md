@@ -1,26 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：I do horror/spooky illustrations around th"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-13T05:13:23+00:00"
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：I do horror/spooky illustrations around th
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I do horror/spooky illustrations around this time every year, and now my kid wants to also make spooky drawings with me. Our art tax below.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ I do horror/spooky illustrations around this time every year, and now my kid wan
 
 ## 使用工具
 
-RAG、Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -62,10 +60,18 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: giantcyclopse's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760567213_17980277736110538_5751168336936686852_n.jpg?st
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![I
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -79,15 +85,14 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/806784646_17963822352191279_2959615022302181562_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4NDU3NDQ4NDU5ODAzOTk3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/806474024_17987544711110538_875051558623168166_n.webp?_nc_cat=101&ig_cache_key=Mzk4NDczMzU4OTAyNzI3Mjc3MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTg0OC5zZHIucmV
-- Markdown Content:
-[![Image 1: giantcyclopse's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760567213_17980277736110538_5751168336936686852_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_h
+- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/798590024_17903048670561864_5125813520090566661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NTUzMzY3NDk3NTQ4Nzg2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/793070345_17903048616561864_3059441781335378309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NTUzMzY3MTgwNDU1MzI2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- the earliest I remember being sexualized was 12. I was being treated for bone cancer and needed to have a lung surgery that would leave significant scarring. My surgeon said:
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -96,54 +101,32 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: bychynasky's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696681097_17965671618110953_1527543323169004232_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEXet0hIBjgwGLhEyeO9NSsf2kKsc3C6rZgLpKQl03dW7isIetU3543Qgzh79oezGE&_nc_ohc=CDoXLHHoOsAQ7kNvwHb9BMX&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKOPpJK0BB-hEktDEcDHZKK1s9S6HxvMFqnPe7CYl0pAA&oe=6AAD3E53&_nc_sid=10d13b)](https://www.threads.com/@bychynasky)
 
-[](http://www.threads.com/)
+My Auntie husband gifted her a Rolls Royce for her bday. Im so gagged 😍🔥 my future husband better be taking notes
 
-[](http://www.threads.com/search)
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/808644833_1092897689911368_3095803609821721353_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4NTMyNDkzNjA2MzIyODI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Kd6AyZBWV6AQ7kNvwEH4N1v&_nc_oc=Adom0wn7jVi04D9jqTlnN0iXDAMRM8B3lTG5p2NjfdMFRmQHIM1sOkt1l9RI6xKK9-Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&_nc_ss=7a22e&oh=00_AQLUcPG_OgN-8dmL4eYzT-yEgbqDtLljjRrLKb3bPw_VGw&oe=6AAD4C88)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/809183786_1082801947802411_6701469458240483175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4NTMyNDg5NzA2NDYwNzEyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=o1VAxFl7pa0Q7kNvwG6E_Kj&_nc_oc=Adp2saMu0MfaHPe9R9FCJINLvtta61XDeTEZCSsLxWZf31-tVpzsmF4xG8cecKDh9V4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&_nc_ss=7a22e&oh=00_AQIGr9LPIq2r0dWCl7CrsNKTm-1wNYZZnbj3XfNtQ-zNvA&oe=6AAD6A0C)
 
-[![Image 1: thealishawilliams's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358068408_284116294131885_6889072239770127660_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFM2ZGbhctCxY37CaPw66QbYulqi3PAhkRnqrumGG4njQ9XQvfbi3iRXbvJv4PkjRk&_nc_ohc=-c5diNr7ETgQ7kNvwG4GpZG&_nc_gid=SwlUJB_WU2cT_lt4uMLtNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKZ-rsyBe8y7_bJzNsguiyw17s_cyzxH9Pf-sBRXUYi-Q&oe=6AABEE10&_nc_sid=10d13b)](http://www.threads.com/@thealishawilliams)
+1.4K
 
-[thealishawilliams](http://www.threads.com/@thealishawilliams)
+48
 
-[6h](http://www.threads.com/@thealishawilliams/post/DdND5MBn5zO)
-
-To the people who have built close friendships in your 30s/40s… how? And I’m not talking about people you’ve known since childhood. I’m talking about *newer* friends who are now like family. The kind of friends who reciprocate the same energy you put out. Who feel like your village.
-
-How did you find them? How did the connection organically grow into the friendship it is today?
-
-280
-
-185
+46
 
 11
 
-3
+[![Image 4: woodsjessical's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696747987_17944292664212019_868853599667110567_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEXet0hIBjgwGLhEyeO9NSsf2kKsc3C6rZgLpKQl03dW7isIetU3543Qgzh79oezGE&_nc_ohc=3kEsyjGiil4Q7kNvwHXHCHq&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL134J1cvJMempKiNwe6RfHCpK1J2UEOz50UREebDr1cw&oe=6AAD3E88&_nc_sid=10d13b)](https://www.threads.com/@woodsjessical)
 
-[![Image 2: saraheduff's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/659592447_17961205974103058_4003912708352147060_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFM2ZGbhctCxY37CaPw66QbYulqi3PAhkRnqrumGG4njQ9XQvfbi3iRXbvJv4PkjRk&_nc_ohc=dB7-zS3WRaAQ7kNvwHg9g0h&_nc_gid=SwlUJB_WU2cT_lt4uMLtNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIGrbKiAZHFlXiSQbdRrSLmsVoDRJhHwkxCTIvyaq4wlA&oe=6AAC1D00&_nc_sid=10d13b)](http://www.threads.com/@saraheduff)
+How do I gently correct my 4yo when she’s overly bossy or controlling? I love her strong spirit but her need to control everything we say and do is just too much sometimes. 🙈
 
-[saraheduff](http://www.threads.com/@saraheduff)
+26
 
-[15h](http://www.threads.com/@saraheduff/post/DdMH7vekWxH)
+17
 
-I do horror/spooky illustrations around this time every year, and now my kid wants to also make spooky drawings with me. Our art tax below.
-
-158
-
-8
-
-1
-
-[![Image 3: kathygriffin's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/533094376_17921148873111729_4843156020444786859_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFM2ZGbhctCxY37CaPw66QbYulqi3PAhkRnqrumGG4njQ9XQvfbi3iRXbvJv4PkjRk&_nc_ohc=ZRz45YHEfFgQ7kNvwFuIPjK&_nc_gid=SwlUJB_WU2cT_lt4uMLtNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKLPIN6s2L5Gn2m8_CBfWS_he9dEcIZkNPd3AhOT7bjOw&oe=6AAC1D8D&_nc_sid=10d13b)](http://www.threads.com/@kathygriffin)
-
-[kathygriffin](http://www.threads.com/@kathygriffin)
-
-[4h](http://www.threads.com/@kathygriffin/post/DdNRragGZyu)
-
-San Francisco!!! I’m getting ready to see you tonight at the Palace of Fine Arts. That’s right. I can’t wait to have some laughs!
+[![Image 5: mallorymhughes's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358042244_630500092377300_4202460325667007728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6In
 ```

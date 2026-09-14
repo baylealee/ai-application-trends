@@ -4,17 +4,16 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
   - "Claude"
-  - "RAG"
   - "Notion"
   - "Slack"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0323
-generated_at: "2026-09-13T05:13:23+00:00"
+zh_ratio: 0.0332
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -31,7 +30,7 @@ generated_at: "2026-09-13T05:13:23+00:00"
 
 ## 使用工具
 
-Claude、RAG、Notion、Slack、GitHub
+Claude、Notion、Slack、GitHub
 
 ## 原始工作流拆解
 
@@ -76,14 +75,14 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 27.5K vi
-- [原本的GitHub帳號被誤封了! 這裡是備用REPO! [github.com/Olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FOliviaiii%2Fissue_tmp&e=AUDdV9Xe_qIDt-jq46thDZYMNoDNfUHuzrucYJngvTfYKnh7aG95oOCp8b0KtENlMM6EJ8Jxc3sZAzzWTDi_OwUl1d66tqYRFEBfOwpmjK7CcIf0f6E) Translate](http://
+# [Thread 27.6K vi
+- [![Image 1: pmenance.manager's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=sconten
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、Agent、agent、流程、工具、整理、生成、Slack、Notion、GitHub、開源
-- zh_ratio: `0.0323`
+- keyword_hits: AI、Claude、Agent、agent、流程、工具、整理、Slack、Notion、GitHub
+- zh_ratio: `0.0332`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -100,9 +99,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 27.5K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 27.6K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEztWaUVmGy9flNcM4ccN7SPnF3U1QirMXqpPDsRoiuTUFDnmkwu44IW41L6XlXI4E&_nc_ohc=seSKe43b2eoQ7kNvwHYQZ5L&_nc_gid=9SwKagfN7fmv7L0hnuWyFQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJAoqbF2VSr2VIgzq7h73Nme8v4Oz9njUK2sLvRb_4Kwg&oe=6AABEFB0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGi9Vkjn9GKma0z_OA0K04dCMx-eeCWoILVJwf2eSUKwPboZCCDTqMu2l7cnajPxhw&_nc_ohc=-9S92zWFiqcQ7kNvwFYlMeK&_nc_gid=bkFiTmf7nBxX7JhgVYBlVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLLd8ph6zpZ0GFifO_bi1lyX2OdraJtL2qGISyQ2MAQFQ&oe=6AAD4130&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -128,7 +127,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=l8pgCcEGQqMQ7kNvwH93ZFW&_nc_oc=AdrIi1OSwEVVQ2yyz4m8I1M8d9gqi7TjhUMPYppmRybcFpQR9VSt8tj3asxYrIj1K7U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=9SwKagfN7fmv7L0hnuWyFQ&_nc_ss=7a22e&oh=00_AQLjNwd5Lk5K3clCWO9ZZrqBd_X2dzpR1dCXavOInOTJwA&oe=6AAC1008)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=l8pgCcEGQqMQ7kNvwFVbd7e&_nc_oc=Adrz1WNpfow6qHwS5vUViXAofu8mcAJ1DqP_XcGbM78NCkXYZbWVF6HKY0T0SMB8lvY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=bkFiTmf7nBxX7JhgVYBlVQ&_nc_ss=7a22e&oh=00_AQIsp-FNalbzSSXpsT7Sa3pyMHl205TWVtlbhdvrKRrFpQ&oe=6AAD6188)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -140,7 +139,7 @@ Translate
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEztWaUVmGy9flNcM4ccN7SPnF3U1QirMXqpPDsRoiuTUFDnmkwu44IW41L6XlXI4E&_nc_ohc=seSKe43b2eoQ7kNvwHYQZ5L&_nc_gid=9SwKagfN7fmv7L0hnuWyFQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJAoqbF2VSr2VIgzq7h73Nme8v4Oz9njUK2sLvRb_4Kwg&oe=6AABEFB0&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
+[![Image 3: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGi9Vkjn9GKma0z_OA0K04dCMx-eeCWoILVJwf2eSUKwPboZCCDTqMu2l7cnajPxhw&_nc_ohc=-9S92zWFiqcQ7kNvwFYlMeK&_nc_gid=bkFiTmf7nBxX7JhgVYBlVQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLLd8ph6zpZ0GFifO_bi1lyX2OdraJtL2qGISyQ2MAQFQ&oe=6AAD4130&_nc_sid=10d13b)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.ma
 ```

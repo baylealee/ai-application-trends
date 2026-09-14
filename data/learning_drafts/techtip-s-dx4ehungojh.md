@@ -1,26 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[encouragement](https://www.threads.com/se"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "GPT"
-  - "RAG"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-13T05:13:23+00:00"
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[encouragement](https://www.threads.com/se
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[encouragement](https://www.threads.com/search?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ generated_at: "2026-09-13T05:13:23+00:00"
 
 ## 使用工具
 
-GPT、RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -62,25 +60,25 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=ds
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: meredithmarks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358203265_1264016057814061_4366212544242666009_n.jpg?stp=dst
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/806416389_17981672511118840_4992279633012549105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NDY5NzA0NTY2Nzk3NzU4Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- Everyone talking about what they're hoping for/curious about for the remake, meanwhile I'm over here wondering what they'll do with this moment. IYKYK
-- Markdown Content:
-[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Ima
+- ![Image 6](https://scontent.cdninstagram.com/v/t15.5256-10/808847406_1395195232207365_2029735229281254211_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk4NTI2NzEyODQ4NzAzMzA5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m366/AQOVYLvkihLKep74-LhB39IU6oWx9xDtlPgf_OevG7EK5rviP5coAxbU90_8r4S-vit0jxovKiqUQ0bWsvFq-JnoZKZg7bSdCJwGFPuGtvlDlA.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=C8H0CaGG7HgQ7kNvw
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、GPT、RAG
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -100,37 +98,31 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: _nm.wanjiru's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731423258_17975121264100682_8714301950347794476_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGVyo8XC003l0mKqwOmVTgsGCvJdaw26uBfeJWoO1EmE3WOVrPNKbHqarIzMukJYeY&_nc_ohc=Hb0_8DeaZWgQ7kNvwE965kK&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIwNuAxRtadEwkcJcJAsqOBSe2eH9jEcNbQOYiyAC_7aw&oe=6AAC0B22&_nc_sid=10d13b)](https://www.threads.com/@_nm.wanjiru)
+[![Image 1: rapsheet's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358119543_2347038202143529_4856790879900009595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xODAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEqwqLGDmBWq2O2Vc6UdzBgu19fX9vOwTBnz45RaEhQDQtopkyvBeMAR_ZzWhoObAo&_nc_ohc=oFEZ-cK4wgkQ7kNvwG5xNeY&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIlMwOUUUj7OlHnePrvbgsqfocAe5L9LZamHSCXbcg2AQ&oe=6AAD3CFD&_nc_sid=10d13b)](https://www.threads.com/@rapsheet)
 
-[_nm.wanjiru](https://www.threads.com/@_nm.wanjiru)
+[rapsheet](https://www.threads.com/@rapsheet)
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
 
-[20h](https://www.threads.com/@_nm.wanjiru/post/DdLmVhajMfd)
+[15h](https://www.threads.com/@rapsheet/post/DdOwD3FmzS0)
 
-Azzi had the players in hell 🔥🔥 AZZI FOR ALL-DEFENSIVE TEAM 💪🏾💙🪽 (I really love the bench reaction)
+Saints RB Alvin Kamara, who is questionable with a knee injury because of an MCL sprain, is not expected to play today against the Lions, sources say. He was a full participant late in the week, but was not quite ready.
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/806298758_1458511296119022_4682360556482440384_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4NDQ0NjkwMDA5NDY4MzEwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=0hjAgScnsfcQ7kNvwEK08sq&_nc_oc=AdrjZ7XbfX6ZW8WZmW8D_1WUMK8F4W7RWuPSK0E_elPNz8bj2XrK8pXsVPAmlIIu_-U&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&_nc_ss=7a22e&oh=00_AQLmOwhLUVf7bS1IsurmkF4NpReT4wyYGBi1RpDRVCSKNg&oe=6AAC114F)
+45
 
-Sorry, we're having trouble playing this video.
+2
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBntMW38f4d0v10G5ct1Ai5gbhkwAwSZ4AV6dnpVduiBH-rx5lIuSGIDmM3rblbA3ykFUZIgp_xtOYILNXjb-thpKm-DXLNp1zt7oW2qdGxublFyUI)
+[![Image 2: hidd.en2491's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEqwqLGDmBWq2O2Vc6UdzBgu19fX9vOwTBnz45RaEhQDQtopkyvBeMAR_ZzWhoObAo&_nc_ohc=Eu1EFGkuM78Q7kNvwGfsN92&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQLKrNmlKyS7bWcfmaXvez763boWuRPf3zUcBId3ejM1uA&oe=6AAD646A&_nc_sid=10d13b)](https://www.threads.com/@hidd.en2491)
 
-740
+[hidd.en2491](https://www.threads.com/@hidd.en2491)
 
-14
+[Love Island USA](https://www.threads.com/search?q=Love%20Island%20USA&serp_type=tags&tag_id=18340727854110638)
 
-40
+[10h](https://www.threads.com/@hidd.en2491/post/DdPO2FpjMIL)
 
-18
+Islanders x Cosmopolitan’s NYFW Party
 
-[![Image 3: 4hw1990's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789109547_17983211967114500_9151921324581070320_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGVyo8XC003l0mKqwOmVTgsGCvJdaw26uBfeJWoO1EmE3WOVrPNKbHqarIzMukJYeY&_nc_ohc=beiBinaAE8MQ7kNvwG_UAOz&_nc_gid=uTSIAECb4Euj0E9Yi9paAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQINVP50RH5ToqA0YnP_LuVY0yYDRA63tEVnrXlDxzUqiw&oe=6AABF6E9&_nc_sid=10d13b)](https://www.threads.com/@4hw1990)
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/809133733_18105780742997563_1119395953191162992_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk4NTQ2OTA4ODg0MTQ2MTA1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTgwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=JaBaVvDyKNYQ7kNvwGAxFjQ&_nc_oc=AdrMa6bcT10-yYl9-ilyI1Z5DDESVGpXAD-MGsEYn9S4PeJO2WobrJH4P5f-pMFVR2M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&_nc_ss=7a22e&oh=00_AQLBl99wro6hvuPHtYb8Ulu7uZxP2BV1jVuLhRMfwiZJAg&oe=6AAD5C4C)
 
-[4hw1990](https://www.threads.com/@4hw1990)
-
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
-
-[9h](https://www.threads.com/@4hw1990/post/DdMyJuKltak)
-
-I haven't questioned Kara Lawson this entire tournament but I have to question why CC is getting so many minutes when she's being outplayed by the rest of young and turnt. Without Angel,Paige and Rh
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/808699590_18105780547997563_2332751243119815370_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4NTQ2OTA3MjE5MDA0MjM0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHB
 ```

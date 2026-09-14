@@ -10,7 +10,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0652
-generated_at: "2026-09-13T05:13:23+00:00"
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -62,7 +62,7 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
 - URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 抓取品質
@@ -80,7 +80,7 @@ Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHA1WFZ7Yr5EI2kZfphwIRtLtzde28-Tff2-Ml7fIncGU2r4VT32Pqy1cY2dKWIXjs&_nc_ohc=82nMh8cDYAUQ7kNvwGEw8mL&_nc_gid=1Sop5l9unBhHKLJKxYewRQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ6KZlwo3RyjcLXLVLJQAbIIN32IeE2OY7JMGLdDIP8Vg&oe=6AABEF7A&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHzIvuNI8y5VA0SnVOTmERIh68ZxGTSoJyUEx3WdqLdABKGk__V6mW5tjYSfTuXMkU&_nc_ohc=L9ZGVTQXxqoQ7kNvwHX4EGU&_nc_gid=bxG33NqnuuVrNhrxQEKXlA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJqefiJWip9urhkQUb6dk-UcNE4f4bJ8_TL5354dy-knA&oe=6AAD40FA&_nc_sid=10d13b)](https://www.threads.com/@henry.wen)
 
 Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 
@@ -88,7 +88,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7FSp71X14WMQ7kNvwFZ9jeU&_nc_oc=AdoRFttAiYsh2LU0KAGEdGuL0-2_T1nREETl_4pN6JdPZJLchiB9bBCGfoXSp43dNXw&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=1Sop5l9unBhHKLJKxYewRQ&_nc_ss=7a22e&oh=00_AQJxz40McWpHvzYx9KAF99mRPrGiPSf0JYB2b9t5A1oY9g&oe=6AAC1F3D)
+![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=7FSp71X14WMQ7kNvwFoV4u4&_nc_oc=AdoiC2NxmMoIlHlwNGtdmft8wZ90L4OVrQSqFdSxugNd1W2GFtOL-IESJm07TTVhTAg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=bxG33NqnuuVrNhrxQEKXlA&_nc_ss=7a22e&oh=00_AQJffnGjBToIIK7C-8x85HD7jS4jq_X8DAsJSwwLhwbEyQ&oe=6AAD70BD)
 
 henry.wen
 

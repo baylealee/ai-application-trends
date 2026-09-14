@@ -1,5 +1,5 @@
 ---
-title: "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?"
+title: "atai_coding_data 的 AI 工作流案例：[數據分析](http://www.threads.com/search?"
 source_url: "https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT"
 source_author: "atai_coding_data"
 post_id: "DZUK8bdmenT"
@@ -7,22 +7,21 @@ language: "unknown"
 category: "mcp"
 tools:
   - "Claude"
-  - "ChatGPT"
-  - "GPT"
   - "MCP"
+  - "RAG"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0247
-generated_at: "2026-09-13T05:13:23+00:00"
+zh_ratio: 0.0249
+generated_at: "2026-09-14T05:19:58+00:00"
 ---
 
-# atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
+# atai_coding_data 的 AI 工作流案例：[數據分析](http://www.threads.com/search?
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[數據分析](https://www.threads.com/search?
+[數據分析](http://www.threads.com/search?
 
 ## 這篇在解決什麼問題
 
@@ -30,11 +29,11 @@ generated_at: "2026-09-13T05:13:23+00:00"
 
 ## 使用工具
 
-Claude、ChatGPT、GPT、MCP
+Claude、MCP、RAG
 
 ## 原始工作流拆解
 
-1. [數據分析](https://www.threads.com/search?
+1. [數據分析](http://www.threads.com/search?
 2. MCP x META 廣告數據串接教學
 3. 近期要開一門課程包括： • Data Studio 串接操作 • MCP 串接教學
 4. 學會MCP 串接能夠： 1. 離線讀取廣告數據 2. 在手機端透過Agent 與數據互動 3. 讓頂尖 CLAUDE 提供成效提升策略 4. 輕鬆打造數據報表
@@ -66,25 +65,6 @@ reply_summary_status: `partial`
 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/75846917
-- Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmM
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Agent、agent、工具、整理、生成
-- zh_ratio: `0.0247`
-- source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-## 原始抓取內容
-
-```text
-Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
-
 URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
@@ -94,15 +74,46 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 11.1K views](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+# [Thread 11.1K
+- Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFHNY2hPTdiMVauZeelycK2eFmsVd1Jo-z5E4w8gT3fDZDeEoZMqgO8V00TvqlCqlI&_nc_ohc=Cz8PennfvUUQ7kNvwGhYmJF&_nc_gid=WsdhMafN4UaCkXDE41ljCg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKGH9Zdg29G-KifXj6N7tqpmw6-nEUhxLcFun7_VYoBYg&oe=6AABF8D5&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
-[atai_coding_data](https://www.threads.com/@atai_coding_data)
+Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/7584691
+- Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmM
 
-[數據分析](https://www.threads.com/search?q=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&serp_type=tags&tag_id=18423481333053834)
+## 抓取品質
 
-[06/08/26](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+- content_quality: `strong`
+- keyword_hits: AI、Claude、RAG、MCP、Agent、agent、工具、整理、生成
+- zh_ratio: `0.0249`
+- source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+## 原始抓取內容
+
+```text
+Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
+
+URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 11.1K views](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMEgpiPpJQMhHeVrIxPNohSNHXId1Q2DvG9vs6xXoPOtAXel-3jpen7mi3XAjw5Jo&_nc_ohc=bSD1_iVmnF0Q7kNvwFiMWTp&_nc_gid=7tJqVP27ieWw7v0MyHPxlg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK43WKHvwgRzCM_MjS1WAQs2N37RfsTpPXqBwvMTabGjQ&oe=6AAD4A55&_nc_sid=10d13b)](http://www.threads.com/@atai_coding_data)
+
+[atai_coding_data](http://www.threads.com/@atai_coding_data)
+
+[數據分析](http://www.threads.com/search?q=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&serp_type=tags&tag_id=18423481333053834)
+
+[06/08/26](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
 
 MCP x META 廣告數據串接教學
 
@@ -116,7 +127,7 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OYVkLmZtzSgQ7kNvwEHdiiW&_nc_oc=AdqY1ce_N6eGGPrzdtEXeG2FZezi1eI22YMj75UvAwyyR1LymIfkCwU3OHFkWTWX9GM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=WsdhMafN4UaCkXDE41ljCg&_nc_ss=7a22e&oh=00_AQJiq6D9GLnRaLEXxE48E3RlIIvDqSU4suuD6fKsu9tNZA&oe=6AABED66)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=OYVkLmZtzSgQ7kNvwHIYwRt&_nc_oc=AdrnvHtOGztlpjowssohf6s6YWJZDtCJKLWqlSNKobmLl58YfwmVdrNgeS3VaK_r0Ug&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=7tJqVP27ieWw7v0MyHPxlg&_nc_ss=7a22e&oh=00_AQLeymyvRd6J5hvgNpWayYP4cVe4xZ34kiExvVJwSmq3tQ&oe=6AAD3EE6)](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 149
 
@@ -126,11 +137,11 @@ MCP x META 廣告數據串接教學
 
 96
 
-[![Image 3: atai_coding_data's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFHNY2hPTdiMVauZeelycK2eFmsVd1Jo-z5E4w8gT3fDZDeEoZMqgO8V00TvqlCqlI&_nc_ohc=Cz8PennfvUUQ7kNvwGhYmJF&_nc_gid=WsdhMafN4UaCkXDE41ljCg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKGH9Zdg29G-KifXj6N7tqpmw6-nEUhxLcFun7_VYoBYg&oe=6AABF8D5&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHMEgpiPpJQMhHeVrIxPNohSNHXId1Q2DvG9vs6xXoPOtAXel-3jpen7mi3XAjw5Jo&_nc_ohc=bSD1_iVmnF0Q7kNvwFiMWTp&_nc_gid=7tJqVP27ieWw7v0MyHPxlg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK43WKHvwgRzCM_MjS1WAQs2N37RfsTpPXqBwvMTabGjQ&oe=6AAD4A55&_nc_sid=10d13b)](http://www.threads.com/@atai_coding_data)
 
-[atai_coding_data](https://www.threads.com/@atai_coding_data)
+[atai_coding_data](http://www.threads.com/@atai_coding_data)
 
-[4d](https://www.threads.com/@atai_coding_data/post/DdB7I0Gmae-)
+[5d](http://www.threads.com/@atai_coding_data/post/DdB7I0Gmae-)
 
 ·Author
 
@@ -140,5 +151,5 @@ Translate
 
 1
 
-[![Image 4: violeta.tsai's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/572663030_17915683500228486_3226113992812843822_n.jp
+[![Image 4: violeta.tsai's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/572663030_17915683500228486_3226113992812843822_n.jpg?stp=dst-jpg
 ```
