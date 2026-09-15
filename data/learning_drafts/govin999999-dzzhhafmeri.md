@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-14T05:19:58+00:00"
+generated_at: "2026-09-15T05:11:31+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -72,6 +72,7 @@ Markdown Content:
 # [Home](http://www.threads.com/?error=invalid_post)
 
 [![I
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m366/AQPVCcrcW5Auqtx5b4ysl69r5xbkgtMgJrgvxn-EHhehJr7KSIEGMHrQXBJ_tJyfYnL_6RFs5Mqkw-_thWtgIHYaEF4n4-aGJAz9Wc-Re_42Zg.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=95JlGSHKEIUQ7kNvw
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -85,9 +86,8 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/798590024_17903048670561864_5125813520090566661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NTUzMzY3NDk3NTQ4Nzg2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/793070345_17903048616561864_3059441781335378309_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4NTUzMzY3MTgwNDU1MzI2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- the earliest I remember being sexualized was 12. I was being treated for bone cancer and needed to have a lung surgery that would leave significant scarring. My surgeon said:
+- [![Image 3: variablepenguin's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358165998_1325042031421343_1548081833897786631_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/810485507_17988690645104579_9213442101947150824_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4NjAxNDYyNjEwNjE1NDA0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
@@ -104,29 +104,33 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: bychynasky's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696681097_17965671618110953_1527543323169004232_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEXet0hIBjgwGLhEyeO9NSsf2kKsc3C6rZgLpKQl03dW7isIetU3543Qgzh79oezGE&_nc_ohc=CDoXLHHoOsAQ7kNvwHb9BMX&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKOPpJK0BB-hEktDEcDHZKK1s9S6HxvMFqnPe7CYl0pAA&oe=6AAD3E53&_nc_sid=10d13b)](https://www.threads.com/@bychynasky)
+[![Image 1: adidoit's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357809647_983460869737609_8700015913681673412_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFrc4MblkDof4SqF-pUNd1cR1G_En9tT6kxAYeRQ5SqHxgg_l2aTezShYDvO_SVqAs&_nc_ohc=8cmVwN-VcxsQ7kNvwEvoew9&_nc_gid=pDpAfg4v4ZZIztWahy9LEQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJo0efD1y3G4L2APRpY55PVmsLqyOnRdAhmXSPS0EMurg&oe=6AAEC1FB&_nc_sid=10d13b)](https://www.threads.com/@adidoit)
 
-My Auntie husband gifted her a Rolls Royce for her bday. Im so gagged 😍🔥 my future husband better be taking notes
+10 year treasury yield back at 5%
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/808644833_1092897689911368_3095803609821721353_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=110&ig_cache_key=Mzk4NTMyNDkzNjA2MzIyODI3NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Kd6AyZBWV6AQ7kNvwEH4N1v&_nc_oc=Adom0wn7jVi04D9jqTlnN0iXDAMRM8B3lTG5p2NjfdMFRmQHIM1sOkt1l9RI6xKK9-Y&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&_nc_ss=7a22e&oh=00_AQLUcPG_OgN-8dmL4eYzT-yEgbqDtLljjRrLKb3bPw_VGw&oe=6AAD4C88)
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/809876440_17984396238119080_1482713214487776259_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk4NjA1OTc1MDYxNzc5ODgxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI5NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=m54oPEC2yGUQ7kNvwH5HPyu&_nc_oc=AdpEk4uPUK0XkYG8DHUq2QrwLiXCsprLkBl3Wgdho471iVrqrJIhfeMYB7Aq5yac6tg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=pDpAfg4v4ZZIztWahy9LEQ&_nc_ss=7a22e&oh=00_AQIXHcYjHaoFKmbMzs1zSS1-iitAiVa6qSsDIdwP8rhP5Q&oe=6AAEA4A5)](https://www.threads.com/@adidoit/post/DdRVDlhDlii/media)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/809183786_1082801947802411_6701469458240483175_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=102&ig_cache_key=Mzk4NTMyNDg5NzA2NDYwNzEyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=o1VAxFl7pa0Q7kNvwG6E_Kj&_nc_oc=Adp2saMu0MfaHPe9R9FCJINLvtta61XDeTEZCSsLxWZf31-tVpzsmF4xG8cecKDh9V4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&_nc_ss=7a22e&oh=00_AQIGr9LPIq2r0dWCl7CrsNKTm-1wNYZZnbj3XfNtQ-zNvA&oe=6AAD6A0C)
+47
 
-1.4K
+3
 
-48
+1
 
-46
+[![Image 3: the.stories.eater's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/447970783_421583197419957_5501745870924461459_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFrc4MblkDof4SqF-pUNd1cR1G_En9tT6kxAYeRQ5SqHxgg_l2aTezShYDvO_SVqAs&_nc_ohc=6YJfnLl9xYUQ7kNvwFAy4eC&_nc_gid=pDpAfg4v4ZZIztWahy9LEQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIjMsiulssbORkA5z5--Ee2flWLAAfsJMr7F_9LAB3gsQ&oe=6AAE9AB2&_nc_sid=10d13b)](https://www.threads.com/@the.stories.eater)
 
-11
+I just rewatched Practical Magic and The Craft, can you recommend more witchy films??
 
-[![Image 4: woodsjessical's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/696747987_17944292664212019_868853599667110567_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEXet0hIBjgwGLhEyeO9NSsf2kKsc3C6rZgLpKQl03dW7isIetU3543Qgzh79oezGE&_nc_ohc=3kEsyjGiil4Q7kNvwHXHCHq&_nc_gid=NtbhZDMhyXNIRA07ZoV50Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL134J1cvJMempKiNwe6RfHCpK1J2UEOz50UREebDr1cw&oe=6AAD3E88&_nc_sid=10d13b)](https://www.threads.com/@woodsjessical)
+173
 
-How do I gently correct my 4yo when she’s overly bossy or controlling? I love her strong spirit but her need to control everything we say and do is just too much sometimes. 🙈
+149
 
-26
+9
 
-17
+4
 
-[![Image 5: mallorymhughes's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358042244_630500092377300_4202460325667007728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6In
+[![Image 4: pardonmytake's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357993881_928097008265837_5029083137956088146_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFrc4MblkDof4SqF-pUNd1cR1G_En9tT6kxAYeRQ5SqHxgg_l2aTezShYDvO_SVqAs&_nc_ohc=yIvZa1xsLhkQ7kNvwE29a7Q&_nc_gid=pDpAfg4v4ZZIztWahy9LEQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL7dJVoCxWoNsw1d7iPwnqsSkBfo7qkYfdrnHGvLG0JLQ&oe=6AAE9A10&_nc_sid=10d13b)](https://www.threads.com/@pardonmytake)
+
+Start walkin
+
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/810556699_18497328076101854_854251107922229286_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4NjE2MTQzNDI5NjIzNTkyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjcwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=v5sve3_ixKgQ7kNvwGVgeC3&_nc_oc=AdoyjEAVQBlfvCT9F8iDUEqdsGqBrUWJqn3MtAP1xNACCz
 ```

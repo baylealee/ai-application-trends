@@ -8,16 +8,14 @@ category: "mcp"
 tools:
   - "Claude"
   - "Claude Code"
-  - "GPT"
   - "MCP"
   - "Make"
   - "Slack"
-  - "Cursor"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-14T05:19:58+00:00"
+generated_at: "2026-09-15T05:11:31+00:00"
 ---
 
 # boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
@@ -34,13 +32,14 @@ I'm Boris and I created Claude Code. Lots of people have asked how I use Claude 
 
 ## 使用工具
 
-Claude、Claude Code、GPT、MCP、Make、Slack、Cursor、GitHub
+Claude、Claude Code、MCP、Make、Slack、GitHub
 
 ## 原始工作流拆解
 
 1. 7/ I use slash commands for every inner loop workflow that I do many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUDSZ1t4KN67TG1uoxXC8NwIsISI1l4KCl78GLo8po_XWG5aZ1Siide5vkgKGt0lhRkTgiQkk4_L-t3alUdKNFuSnYioXzm6aeByXBo-qpCTlqANCaM)
-3. Here are 4 prompts to build your first one:
+2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUCl3x2MfFLeptEkm_6pMFsfcnlBg-SLqWvPV-IeJGbP8NA1MjEl2Us6DBVYrlsGSMPwF9VWOESBuomT2pwoGee1U0MgpKkJtMSsOuE5AbPsipsVjug)
+3. Generally I try and compact myself by asking for a summary, checking that it's right, then /clear and starting again with a fresh prompt.
+4. Here are 4 prompts to build your first one:
 
 ## 可以直接複製的做法
 
@@ -68,21 +67,15 @@ reply_summary_status: `partial`
 
 - Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
-- Title: Boris Cherny (@boris_cherny) on Threads
-
 URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_6
+[![Image 1: boris_cherny's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_6
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、MCP、Make、Cursor、Agent、agent、prompt、Slack、GitHub、CLI、workflow
+- keyword_hits: AI、Claude、MCP、Make、Agent、agent、prompt、Slack、GitHub、CLI、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
@@ -96,35 +89,13 @@ URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 Markdown Content:
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
+# [Thread 486K views](https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm)
 
-486K views
-
-[![Image 1: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGEahCCCYK61z8sajxXStpOJ3B1S5_K7FQeB63uLxVTQpfH0VpprolBK_xqvLCNElM&_nc_ohc=cfjJBPd8JCcQ7kNvwFXuOtv&_nc_gid=-62CzCPgVKe_qpcriY8g0Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKucYwRYVvrFzU-yxyIM3dmmla_wH8sObgz1v54pyC_2g&oe=6AAD3D22&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHlcuCHM3G8ydHiYahWJ7sK2175jgnXbZYTSO_u7TG2pKGKrkoOTEtP8w14ilXQHyM&_nc_ohc=cfjJBPd8JCcQ7kNvwHOiv1C&_nc_gid=E4WoMPoiSmTvwIIghVPIJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK3izx6Aws9iiLLhJd0Li_8EalgdwTugpxJyLbbDu4fCg&oe=6AAE8EA2&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -144,7 +115,7 @@ So, here goes.
 
 3K
 
-[![Image 2: A Threads user's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGEahCCCYK61z8sajxXStpOJ3B1S5_K7FQeB63uLxVTQpfH0VpprolBK_xqvLCNElM&_nc_ohc=cfjJBPd8JCcQ7kNvwFXuOtv&_nc_gid=-62CzCPgVKe_qpcriY8g0Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKucYwRYVvrFzU-yxyIM3dmmla_wH8sObgz1v54pyC_2g&oe=6AAD3D22&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
+[![Image 2: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjguYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHlcuCHM3G8ydHiYahWJ7sK2175jgnXbZYTSO_u7TG2pKGKrkoOTEtP8w14ilXQHyM&_nc_ohc=cfjJBPd8JCcQ7kNvwHOiv1C&_nc_gid=E4WoMPoiSmTvwIIghVPIJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK3izx6Aws9iiLLhJd0Li_8EalgdwTugpxJyLbbDu4fCg&oe=6AAE8EA2&_nc_sid=10d13b)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -152,7 +123,7 @@ So, here goes.
 
 ·Author
 
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUDSZ1t4KN67TG1uoxXC8NwIsISI1l4KCl78GLo8po_XWG5aZ1Siide5vkgKGt0lhRkTgiQkk4_L-t3alUdKNFuSnYioXzm6aeByXBo-qpCTlqANCaM)
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUCl3x2MfFLeptEkm_6pMFsfcnlBg-SLqWvPV-IeJGbP8NA1MjEl2Us6DBVYrlsGSMPwF9VWOESBuomT2pwoGee1U0MgpKkJtMSsOuE5AbPsipsVjug)
 
-[![Image 3](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=1
+[![Image 3](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=MzgwMTQxNDUwODA1Mzk1NjMyOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjE2MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=cOhEm0rjrCcQ7kNvwFr9mbU&_nc_oc=AdrrMYj2LRKqa3wdkRY7PIM2H80JBKeAP
 ```

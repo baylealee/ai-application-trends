@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：I live in Columbus, Ohio and I think I cou"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-14T05:19:58+00:00"
+generated_at: "2026-09-15T05:11:31+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：I live in Columbus, Ohio and I think I cou
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+I live in Columbus, Ohio and I think I could really make some solid profits outside of clubs and bars.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,32 +61,11 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- ![Image 6](https://scontent.cdninstagram.com/v/t15.5256-10/808847406_1395195232207365_2029735229281254211_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk4NTI2NzEyODQ4NzAzMzA5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m366/AQOVYLvkihLKep74-LhB39IU6oWx9xDtlPgf_OevG7EK5rviP5coAxbU90_8r4S-vit0jxovKiqUQ0bWsvFq-JnoZKZg7bSdCJwGFPuGtvlDlA.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=C8H0CaGG7HgQ7kNvw
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: thejesslit's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358362052_298190352675600_6232500899822089670_n.jpg?stp=dst-jp
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,31 +78,69 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: rapsheet's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358119543_2347038202143529_4856790879900009595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xODAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEqwqLGDmBWq2O2Vc6UdzBgu19fX9vOwTBnz45RaEhQDQtopkyvBeMAR_ZzWhoObAo&_nc_ohc=oFEZ-cK4wgkQ7kNvwG5xNeY&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIlMwOUUUj7OlHnePrvbgsqfocAe5L9LZamHSCXbcg2AQ&oe=6AAD3CFD&_nc_sid=10d13b)](https://www.threads.com/@rapsheet)
+[
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/809766962_17947709544294954_7022112441705027492_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk4NTk4MTgwMzEzNTkyNTMyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 6: ryans.mushroom.photography's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/775048099_18093566219083951_5588254704489179705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sco
+- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/809616002_18100354313083951_1193641642708544601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4NTkxNTIzNzczMDE4NTQ4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
 
-[rapsheet](https://www.threads.com/@rapsheet)
+## 抓取品質
 
-[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[15h](https://www.threads.com/@rapsheet/post/DdOwD3FmzS0)
+## 原始抓取內容
 
-Saints RB Alvin Kamara, who is questionable with a knee injury because of an MCL sprain, is not expected to play today against the Lions, sources say. He was a full participant late in the week, but was not quite ready.
+```text
+Title: Threads • Log in
 
-45
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Image 1: supreme1101's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/479057396_8502732629826890_1923630561460028543_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=ZugMXmpyrZwQ7kNvwH-QMLx&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ3eVHCo1jYmKzcnW6zC6ywHLG-Wkpxtl49npLtmU-YuQ&oe=6AAE93E7&_nc_sid=10d13b)](http://www.threads.com/@supreme1101)
+
+[supreme1101](http://www.threads.com/@supreme1101)
+
+[Lioness season 3](http://www.threads.com/search?q=Lioness%20season%203&serp_type=tags&tag_id=18436460749125592)
+
+[13h](http://www.threads.com/@supreme1101/post/DdRcpHLHO-X)
+
+If ride or die was a picture!!!
+
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/809585515_17983663719118065_5566986532432045785_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk4NjA5MzExNTcwMzA5NTE5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=e8LN-Sh-GSoQ7kNvwFtdrXX&_nc_oc=Adpqt0PHiQlxbiVMho4zgzYOf72KCJa1F59QyyXBh_1GzeEkXB0vgyqkPFbdzjXE6w0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&_nc_ss=7a22e&oh=00_AQJygEizJcVN8ypCAY-G1r0ziWb3_jWZtrah7T7Jdy6nxw&oe=6AAE9233)](http://www.threads.com/@supreme1101/post/DdRcpHLHO-X/media)
+
+1.2K
+
+20
+
+37
+
+6
+
+[![Image 3: sheskatrice's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/616617905_17935402146119639_4681021850003907876_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=klGztg-HTEIQ7kNvwFgtmH6&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIkfbxbTm3Tbm63-5-n5_bhGP_p8m3iRpDrnepaY95EZg&oe=6AAEA472&_nc_sid=10d13b)](http://www.threads.com/@sheskatrice)
+
+[sheskatrice](http://www.threads.com/@sheskatrice)
+
+[10h](http://www.threads.com/@sheskatrice/post/DdR1mNOj_Dd)
+
+When the person you once loved becomes a person you don’t even recognize
+
+149
+
+9
+
+16
 
 2
 
-[![Image 2: hidd.en2491's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEqwqLGDmBWq2O2Vc6UdzBgu19fX9vOwTBnz45RaEhQDQtopkyvBeMAR_ZzWhoObAo&_nc_ohc=Eu1EFGkuM78Q7kNvwGfsN92&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQLKrNmlKyS7bWcfmaXvez763boWuRPf3zUcBId3ejM1uA&oe=6AAD646A&_nc_sid=10d13b)](https://www.threads.com/@hidd.en2491)
-
-[hidd.en2491](https://www.threads.com/@hidd.en2491)
-
-[Love Island USA](https://www.threads.com/search?q=Love%20Island%20USA&serp_type=tags&tag_id=18340727854110638)
-
-[10h](https://www.threads.com/@hidd.en2491/post/DdPO2FpjMIL)
-
-Islanders x Cosmopolitan’s NYFW Party
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/809133733_18105780742997563_1119395953191162992_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk4NTQ2OTA4ODg0MTQ2MTA1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTgwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=JaBaVvDyKNYQ7kNvwGAxFjQ&_nc_oc=AdrMa6bcT10-yYl9-ilyI1Z5DDESVGpXAD-MGsEYn9S4PeJO2WobrJH4P5f-pMFVR2M&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qazm7vaUMXdX4dk2Fa9Edg&_nc_ss=7a22e&oh=00_AQLBl99wro6hvuPHtYb8Ulu7uZxP2BV1jVuLhRMfwiZJAg&oe=6AAD5C4C)
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/808699590_18105780547997563_2332751243119815370_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=Mzk4NTQ2OTA3MjE5MDA0MjM0Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHB
+[![Image 4: karizma_xo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/533130603_17914640700172190_6668105465643189117_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=xe9eNvWON0sQ7kNvwG05_2A&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLhdHGzgX6H0uSZNIFA6QKUpzFcgAgdSxxB1H
 ```

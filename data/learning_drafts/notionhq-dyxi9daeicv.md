@@ -8,10 +8,11 @@ category: "coding"
 tools:
   - "Claude"
   - "Notion"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-14T05:19:58+00:00"
+generated_at: "2026-09-15T05:11:31+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -28,12 +29,12 @@ Title: Notion (@notionhq) on Threads
 
 ## 使用工具
 
-Claude、Notion
+Claude、Notion、GAS
 
 ## 原始工作流拆解
 
 1. So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
-2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
+2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
 3. Comment “AGENT” and I’ll send you the full breakdown. Each of the 15 explained, the best video to learn each one, and the prompt that audits your agent for all of them.
 4. #AIAgents #buildinpublic #startupfounder #TechFounder #Claude
 5. If you’re trying to build an agent for your software or company - we’ve already built the tech. Book a call with me and I’ll walk you through how to get setup on it so you can launch your agent fast. Link in bio
@@ -64,20 +65,12 @@ reply_summary_status: `partial`
 
 - Title: Notion (@notionhq) on Threads
 
-URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_584587685547827455
-- Title: Notion (@notionhq) on Threads
-
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
 - Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht
-- Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht
 
 ## 抓取品質
 
@@ -100,9 +93,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 4.3K views](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
+# [Thread 4.4K views](https://www.threads.com/@notionhq/post/DYXi9DaEicv)
 
-[![Image 1: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gF7zBX1CsdmDqyR9fa1uysrLfO8ZeDaugfDqvloXRT8T8B3ntys_oC7QQashYRRcT0&_nc_ohc=6WzOvjtSKasQ7kNvwH6HIo3&_nc_gid=gcosmeou2lwaw4e1f69Wgg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKtp67iSblHcrEyMla2e5SJuctNTd3o8C96tlQi7AUA_A&oe=6AAD50B0&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGUFuGfaKznCbTVxuAN_u0Y7RSdcqvldeSr2ol8kSBGWVJoKF__fri6jcvP93BVf1A&_nc_ohc=GwYp60_2K0QQ7kNvwEfwmRE&_nc_gid=uQx-6-mH9WRaluVv5xRY9A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLvf3haAcDpvXaAXA1OlLgUHfp_kJZnRI_GLFZyQ8s8yA&oe=6AAEA230&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
 
 [notionhq](https://www.threads.com/@notionhq)
 
@@ -112,11 +105,9 @@ Markdown Content:
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=bw9CASQ-ke8Q7kNvwFVpg2F&_nc_oc=AdonHcGJ5nP7H-FaS64DqcmDZeHnIFHsJ8AayDfjlGtCzZlZUa46hFg6fel-wfiFNEM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=gcosmeou2lwaw4e1f69Wgg&_nc_ss=7a22e&oh=00_AQKd5rF6fDJi7qsuY9z1f4O_a52z-jBHM5cJ0cOpcsmlkw&oe=6AAD4B7C)
+![Image 2](https://scontent-sea1-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=bw9CASQ-ke8Q7kNvwFzo-K7&_nc_oc=AdqpkQazdu6QHSJ1wiad_6dRyNSY7Gn1_txGrvbdlT6ntTgF9oH2QfD5TXZmg_JrhGE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=uQx-6-mH9WRaluVv5xRY9A&_nc_ss=7a22e&oh=00_AQKep8xx3ACLoyV04X1GfQ7DDX7vjd5QiCdMBp-kEdxF-w&oe=6AAE9CFC)
 
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBJA3JH5Cyd3-R7OVJlFFIbVEkI4qfQ3THM2q2qbnIAbuzWZT5z6MU9zFVpMa1sc9qU0bI4nYo4QHmozrfAxILDEPi-olyesB70OMRB_83ljHhPB2U)
+[Video 7](https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=e8eWalFEAhMQ7kNvwEvwm_r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjEyMiwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=uQx-6-mH9WRaluVv5xRY9A&_nc_zt=28&_nc_ss=7a22e&oh=00_AQJlEax9MWF2AoxfHuuOa3VVRv9L6gxx0r7SJpaMn34bKQ&oe=6AAEA0B4)
 
 52
 
@@ -126,13 +117,5 @@ Sorry, we're having trouble playing this video.
 
 4
 
-[![Image 3: notionhq's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gF7zBX1CsdmDqyR9fa1uysrLfO8ZeDaugfDqvloXRT8T8B3ntys_oC7QQashYRRcT0&_nc_ohc=6WzOvjtSKasQ7kNvwH6HIo3&_nc_gid=gcosmeou2lwaw4e1f69Wgg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKtp67iSblHcrEyMla2e5SJuctNTd3o8C96tlQi7AUA_A&oe=6AAD50B0&_nc_sid=10d13b)](https://www.threads.com/@notionhq)
-
-[notionhq](https://www.threads.com/@notionhq)
-
-[05/15/26](https://www.threads.com/@notionhq/post/DYXjCQWkaH4)
-
-·Author
-
-Full story here: [notion.com/custo…](https://l.threads.com/?u=https%3A%2F%2Fwww.notion.com%2Fcustomers%2Fbrainlabs&e=AUBJA3JH5Cyd3-R7OVJlFFIbVEkI4qfQ3THM2q2qbnIAbuzWZT5z
+[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGUFuGfaKznCbTVxuAN_u0Y7RSdcqvldeSr2ol8kSBGWVJoKF__fri6jcvP93BVf1A&_nc_ohc=GwYp60_2K0QQ7kNvwEfwmRE&_nc_gid=uQx-6-mH9WRaluVv5xRY9A&edm=APs17CUBAAAA&c
 ```
