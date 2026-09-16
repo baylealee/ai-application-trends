@@ -1,25 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I live in Columbus, Ohio and I think I cou"
+title: "techtip_s 的 AI 工作流案例：My mommy heart wants to make her dreams co"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
   - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-15T05:11:31+00:00"
+generated_at: "2026-09-16T05:06:46+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I live in Columbus, Ohio and I think I cou
+# techtip_s 的 AI 工作流案例：My mommy heart wants to make her dreams co
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I live in Columbus, Ohio and I think I could really make some solid profits outside of clubs and bars.
+My mommy heart wants to make her dreams come true for this so badly.
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ I live in Columbus, Ohio and I think I could really make some solid profits outs
 
 ## 使用工具
 
-Make
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -61,11 +62,39 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Ima
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQP1WIlz5raG6DAUL1HrZ0-bFOLJqXb_W822VS9dePEcs7ROQvPmeHXnTM0VVQjP165ALcOfo1Jsq-rnSMOyDXUg27mMX9BAhpiKSZA.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=SobXxbqkZiQQ7kNvwE6W9Ai&e
+- Title: Threads • Log in
+
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: thejesslit's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358362052_298190352675600_6232500899822089670_n.jpg?stp=dst-jp
-- Title: Threads • Log in
+[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-
+- Markdown Content:
+[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、RAG、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -78,69 +107,41 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/809766962_17947709544294954_7022112441705027492_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=Mzk4NTk4MTgwMzEzNTkyNTMyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- [![Image 6: ryans.mushroom.photography's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/775048099_18093566219083951_5588254704489179705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sco
-- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/809616002_18100354313083951_1193641642708544601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4NTkxNTIzNzczMDE4NTQ4Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
+[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=G4SXoYEUPyUQ7kNvwE_MTj-&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKqakzyYt1TRsn7H2ftCzWgHh9j6IN0Mu3k20ze3JuWNA&oe=6AB007EC&_nc_sid=10d13b)](https://www.threads.com/@christa.rahl)
 
-## 抓取品質
+[christa.rahl](https://www.threads.com/@christa.rahl)
 
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[Big Brother](https://www.threads.com/search?q=Big%20Brother&serp_type=tags&tag_id=18400761088002462)
 
-## 原始抓取內容
+[12h](https://www.threads.com/@christa.rahl/post/DdUIsPnHKBh)
 
-```text
-Title: Threads • Log in
+What happens if the houseguests just refuse to get out of bed?
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+26
 
-Markdown Content:
-[](http://www.threads.com/)
+11
 
-[](http://www.threads.com/)
+[![Image 2: _aniyapapaya's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640378839_17899279503388968_4527385420389850636_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=_nirnOBMTMkQ7kNvwFG1_Nh&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKdvFzq5pNaL3DhiZC9Ml94wAAC0yOQJFW7KV3hJnecHw&oe=6AAFE28C&_nc_sid=10d13b)](https://www.threads.com/@_aniyapapaya)
 
-[](http://www.threads.com/search)
+[_aniyapapaya](https://www.threads.com/@_aniyapapaya)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+[17h](https://www.threads.com/@_aniyapapaya/post/DdTk5gTDvrR)
 
-[![Image 1: supreme1101's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/479057396_8502732629826890_1923630561460028543_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=ZugMXmpyrZwQ7kNvwH-QMLx&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ3eVHCo1jYmKzcnW6zC6ywHLG-Wkpxtl49npLtmU-YuQ&oe=6AAE93E7&_nc_sid=10d13b)](http://www.threads.com/@supreme1101)
+Cancun looks BEAUTIFUL but every time I start planning Mexico my brain starts replaying every news story I’ve ever seen 😭
 
-[supreme1101](http://www.threads.com/@supreme1101)
+40
 
-[Lioness season 3](http://www.threads.com/search?q=Lioness%20season%203&serp_type=tags&tag_id=18436460749125592)
+64
 
-[13h](http://www.threads.com/@supreme1101/post/DdRcpHLHO-X)
+[![Image 3: angeltammz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785979269_17980298934120032_590944429155691338_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=EPq7nxKmrbEQ7kNvwFIxJCF&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ8YzQi1TnyVRkqpEWnIOWczyvii-Edy1HfhzcDyiafNw&oe=6AAFDDD5&_nc_sid=10d13b)](https://www.threads.com/@angeltammz)
 
-If ride or die was a picture!!!
+[angeltammz](https://www.threads.com/@angeltammz)
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/809585515_17983663719118065_5566986532432045785_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk4NjA5MzExNTcwMzA5NTE5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=e8LN-Sh-GSoQ7kNvwFtdrXX&_nc_oc=Adpqt0PHiQlxbiVMho4zgzYOf72KCJa1F59QyyXBh_1GzeEkXB0vgyqkPFbdzjXE6w0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&_nc_ss=7a22e&oh=00_AQJygEizJcVN8ypCAY-G1r0ziWb3_jWZtrah7T7Jdy6nxw&oe=6AAE9233)](http://www.threads.com/@supreme1101/post/DdRcpHLHO-X/media)
+[bts](https://www.threads.com/search?q=bts&serp_type=tags&tag_id=18383655367071141)
 
-1.2K
+[14h](https://www.threads.com/@angeltammz/post/DdT8p5_EeWX)
 
-20
+BTS will be performing at the iHeartRadio music festival. They are performing Friday evening It will be streamed on hulu and disney plus if you have a subscription and also it will be broadcast on iheartradio stations as well.
 
-37
-
-6
-
-[![Image 3: sheskatrice's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/616617905_17935402146119639_4681021850003907876_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDU0LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=klGztg-HTEIQ7kNvwFgtmH6&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIkfbxbTm3Tbm63-5-n5_bhGP_p8m3iRpDrnepaY95EZg&oe=6AAEA472&_nc_sid=10d13b)](http://www.threads.com/@sheskatrice)
-
-[sheskatrice](http://www.threads.com/@sheskatrice)
-
-[10h](http://www.threads.com/@sheskatrice/post/DdR1mNOj_Dd)
-
-When the person you once loved becomes a person you don’t even recognize
-
-149
-
-9
-
-16
-
-2
-
-[![Image 4: karizma_xo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/533130603_17914640700172190_6668105465643189117_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFT9VA4_U7-jBlPGFGCokH63lPlSaNAMin5dRD1CAkXLXIP7M6cZBSAbSYwUf2g_ZA&_nc_ohc=xe9eNvWON0sQ7kNvwG05_2A&_nc_gid=qyft4mSQw4pMAu3iYq8rTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLhdHGzgX6H0uSZNIFA6QKUpzFcgAgdSxxB1H
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/808397806_17
 ```
