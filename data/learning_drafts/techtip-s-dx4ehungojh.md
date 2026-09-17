@@ -1,26 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：My mommy heart wants to make her dreams co"
+title: "techtip_s 的 AI 工作流案例：Of all places, why is Trump visiting Gasto"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
   - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-16T05:06:46+00:00"
+generated_at: "2026-09-17T05:10:00+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：My mommy heart wants to make her dreams co
+# techtip_s 的 AI 工作流案例：Of all places, why is Trump visiting Gasto
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-My mommy heart wants to make her dreams come true for this so badly.
+Of all places, why is Trump visiting Gastonia, NC?
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +28,7 @@ My mommy heart wants to make her dreams come true for this so badly.
 
 ## 使用工具
 
-RAG、Make
+Make、GAS
 
 ## 原始工作流拆解
 
@@ -62,40 +62,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQP1WIlz5raG6DAUL1HrZ0-bFOLJqXb_W822VS9dePEcs7ROQvPmeHXnTM0VVQjP165ALcOfo1Jsq-rnSMOyDXUg27mMX9BAhpiKSZA.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=SobXxbqkZiQQ7kNvwE6W9Ai&e
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-
-- Markdown Content:
-[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -107,41 +73,57 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: christa.rahl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/425167401_947076643504970_3999080427769435792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=G4SXoYEUPyUQ7kNvwE_MTj-&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKqakzyYt1TRsn7H2ftCzWgHh9j6IN0Mu3k20ze3JuWNA&oe=6AB007EC&_nc_sid=10d13b)](https://www.threads.com/@christa.rahl)
+[
+- Title: Threads • Log in
 
-[christa.rahl](https://www.threads.com/@christa.rahl)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[Big Brother](https://www.threads.com/search?q=Big%20Brother&serp_type=tags&tag_id=18400761088002462)
+Markdown Content:
+[![Image 1: muzzied's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622415736_17940027615107164_2836185228856954203_n.jpg?stp=dst-jpg
+- Jon Husted’s new commercial blaming Sherrod Brown for the high cost of groceries and electricity is pretty rich. Brown hasn’t been in office since the end of 2024. And Husted’s campaign made $1 million off the FirstEnergy dirty dealings. Yeah, it’s all Sherrod
 
-[12h](https://www.threads.com/@christa.rahl/post/DdUIsPnHKBh)
+## 抓取品質
 
-What happens if the houseguests just refuse to get out of bed?
+- content_quality: `strong`
+- keyword_hits: AI、Make、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-26
+## 原始抓取內容
 
-11
+```text
+Title: Threads • Log in
 
-[![Image 2: _aniyapapaya's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640378839_17899279503388968_4527385420389850636_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=_nirnOBMTMkQ7kNvwFG1_Nh&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKdvFzq5pNaL3DhiZC9Ml94wAAC0yOQJFW7KV3hJnecHw&oe=6AAFE28C&_nc_sid=10d13b)](https://www.threads.com/@_aniyapapaya)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[_aniyapapaya](https://www.threads.com/@_aniyapapaya)
+Markdown Content:
+[![Image 1: isolde_hales's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/482467857_668751722257509_7463759501554883154_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEAioJ4zX3VTdF2G88eQvDWVdi2jKZGVWsA9schmOUUiedihE07SUgjFbxT7C6Oy3Y&_nc_ohc=R9lkTlCv2MQQ7kNvwEXfbHs&_nc_gid=O9OCKtQqxgy9rDceqYsLtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ5tSDqr-zB0x_UgxHRtxlsEw1XtRJqpZXgUUSewawzdQ&oe=6AB14797&_nc_sid=10d13b)](https://www.threads.com/@isolde_hales)
 
-[17h](https://www.threads.com/@_aniyapapaya/post/DdTk5gTDvrR)
+Of all places, why is Trump visiting Gastonia, NC?
 
-Cancun looks BEAUTIFUL but every time I start planning Mexico my brain starts replaying every news story I’ve ever seen 😭
+146
+
+54
+
+2
+
+1
+
+[![Image 2: dr_ayanna_a's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730351013_17975531259109744_5637483964052217893_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEAioJ4zX3VTdF2G88eQvDWVdi2jKZGVWsA9schmOUUiedihE07SUgjFbxT7C6Oy3Y&_nc_ohc=co1Zei7MvSQQ7kNvwGmSzF4&_nc_gid=O9OCKtQqxgy9rDceqYsLtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKKmSIS2NkjRD5Ff8Kl1U2a2p7vW7LLpWR9OYzOxs7i_Q&oe=6AB14411&_nc_sid=10d13b)](https://www.threads.com/@dr_ayanna_a)
+
+To the event planners & hosts out there: Is it hard to get clinicians/licensed therapists/behavior researchers to speak at mental health events ? Serious question. I ask because I continue to see so many events plugged as mental health themed, but with either no clinicians or many less clinicians than wellness or advocates, or other industries. Someone help me understand this. What are the barriers you come across?
+
+116
 
 40
 
-64
+8
 
-[![Image 3: angeltammz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785979269_17980298934120032_590944429155691338_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFJ2zfJKrxfQjMj0ZFJHawXS7Vr8AIqvBgm78iMWpYUjpQfuG4C4-Wv5KqfgCmkrP8&_nc_ohc=EPq7nxKmrbEQ7kNvwFIxJCF&_nc_gid=Jdn2D0pphfVSTcs1LOSgJA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ8YzQi1TnyVRkqpEWnIOWczyvii-Edy1HfhzcDyiafNw&oe=6AAFDDD5&_nc_sid=10d13b)](https://www.threads.com/@angeltammz)
+2
 
-[angeltammz](https://www.threads.com/@angeltammz)
+[![Image 3: kdrama_fantasyy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/460862294_1004628498084228_1657958654626179185_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEAioJ4zX3VTdF2G88eQvDWVdi2jKZGVWsA9schmOUUiedihE07SUgjFbxT7C6Oy3Y&_nc_ohc=ZAJ2VMgkXwYQ7kNvwFUi31E&_nc_gid=O9OCKtQqxgy9rDceqYsLtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLUZSUXEUD4fOvnGZi43dbWFOxzLD9uz_wBxa-aRogrPA&oe=6AB13BBB&_nc_sid=10d13b)](https://www.threads.com/@kdrama_fantasyy)
 
-[bts](https://www.threads.com/search?q=bts&serp_type=tags&tag_id=18383655367071141)
+Me as a Baby ARMY: Why do they all look same??😭😅 Me Now: I Can even tell who's who from their backs🫠💜
 
-[14h](https://www.threads.com/@angeltammz/post/DdT8p5_EeWX)
-
-BTS will be performing at the iHeartRadio music festival. They are performing Friday evening It will be streamed on hulu and disney plus if you have a subscription and also it will be broadcast on iheartradio stations as well.
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/808397806_17
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/794992595_17950999638266213_1017136965822721853_n.webp?_nc_cat=100&ig_cache_key=Mzk4NzQ1MDI0Mzg1NTIxNjgzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQ4LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=dUM9fv0bUgUQ7kNvwG6lxjB&_nc_oc=AdpmKtlfCIGPhm_0gqvY63DM57K4lsqLoLf-oWN_A_9wZniXAzyaqLik_qr-XpBYSVk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=O9OCKtQqxgy9rDceqYsLtg&_nc_ss=7a22e&oh=00_AQL7XEKuVGHPFpaU_DMuBaxXsrBs8ND_oNY-18NW4SLLUA&oe=6AB139D6)](https://www.
 ```
