@@ -1,25 +1,26 @@
 ---
-title: "boris_cherny 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots "
 source_url: "https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm"
 source_author: "boris_cherny"
 post_id: "DTBVlMIkpcm"
 language: "unknown"
-category: "automation"
+category: "coding"
 tools:
-  - "Make"
+  - "Claude"
+  - "Claude Code"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-17T05:10:00+00:00"
+generated_at: "2026-09-18T05:02:42+00:00"
 ---
 
-# boris_cherny 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+Claude、Claude Code
 
 ## 原始工作流拆解
 
@@ -61,25 +62,16 @@ reply_summary_status: `partial`
 
 - Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
+URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
-- Title: Boris Cherny (@boris_cherny) on Threads
-
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
-- My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however y
-- I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
-- Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Z
+[![Image 1: boris_cherny's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_6
+- URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、Claude
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
@@ -88,22 +80,22 @@ Markdown Content:
 ```text
 Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: boris_cherny's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=o5gbGtii694Q7kNvwGH8_kv&_nc_oc=Adq51PrxwLaiHYPDs9GeWcyeMFtFEyv1Ke1TEztqg7AyqWV6DzOAaw0sUm7dUgnH724&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQKRBvTZferjENBt-p-YqHN60LiyA0ZgVl3Q9YFmfzbJbQ&oe=6AB28322)](https://www.threads.com/@boris_cherny)
 
-[](http://www.threads.com/)
+I'm Boris and I created Claude Code. Lots of people have asked how I use Claude Code, so I wanted to show off my setup a bit.
 
-[](http://www.threads.com/search)
+My setup might be surprisingly vanilla! Claude Code works great out of the box, so I personally don't customize it much. There is no one correct way to use Claude Code: we intentionally build it in a way that you can use it, customize it, and hack it however you like. Each person on the Claude Code team uses it very differently.
 
-Something went wrong, please try again later.
+So, here goes.
 
-Retry
+5.4K
 
-Say more with Threads
+287
 
-Join Threads to share thoughts, find out what's going on, follow your people and more.
+762
+
+3K
 ```

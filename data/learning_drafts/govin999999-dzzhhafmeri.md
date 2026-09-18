@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[Video 2](https://scontent.cdninstagram.co"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-17T05:10:00+00:00"
+generated_at: "2026-09-18T05:02:42+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[Video 2](https://scontent.cdninstagram.co
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOg1uHvP8L4w_2hgmAdUDWimQ7oW-gcYn0R3u4r4kN9fW6l-FKVqNtp5QAkRAgwA61s6SqC0JbuSOLiXSLbruloDDTqLm0aJ_XYO-M.mp4?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -63,16 +64,23 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: twojudgeygirls's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574496750_17934631638101408_3828940957135646408_n.jpg?st
+- ![Image 8](https://scontent.cdninstagram.com/v/t51.71878-15/813949307_1784489942684823_3447356366470351506_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4Nzk5NzIwNzgyMzE2MDk0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- [![Image 4: One North Atlantic map on a white background shows all 10 Condor summer 2026 North American routes to Frankfurt as thin teal northern arcs, American's three Germany routes as thin red southern arcs, and Condor's announced Chicago-Frankfurt route fo
+- DeMarcus Cousins explains why he doesn’t think his pairing with Anthony Davis is the same as putting Giannis and Bam Adebayo together in Miami. 👀🏀
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/813634709_18624289147007314_5362693970917356493_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4ODI3MzMzOTYzNDM3MjY4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
 
-[](http://www.threads.com/)
+## 抓取品質
 
-[](http://www.threads.com/search)
+- content_quality: `strong`
+- keyword_hits: AI、RAG
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-# [Home](http://www.threads.com/?error=invalid_post)
+## 原始抓取內容
 
-[![I
-- Title: Threads • Log in
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -85,54 +93,37 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/813613716_17984375451113469_769244048408349103_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk4Nzg1NTk2Njg2NzM0ODQ5Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQu
-- [![Image 4: 2infinityandbree_ond's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649560108_17946194367116773_8265485981041714025_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzguYzIifQ&_nc_ht=scontent.c
-- [![Image 5: nancy.adams.9678's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/455748427_1157098708881222_5833721198956504238_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDYuYzIifQ&_nc_ht=scontent.cdninst
+[![Image 1: brinkleyed's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/491441475_1735865330695957_395716565235984196_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=fP6E6juWA9kQ7kNvwFFRxnA&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ6qxYbpwnbMdNyyT6iktj4KC-TrwxIviDItsI3bzXX7w&oe=6AB2888F&_nc_sid=10d13b)](https://www.threads.com/@brinkleyed)
 
-## 抓取品質
+[brinkleyed](https://www.threads.com/@brinkleyed)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[14h](https://www.threads.com/@brinkleyed/post/DdZHqv1EaKn)
 
-## 原始抓取內容
+Ya’ll Please think positive thoughts for me. I’m getting ready to go on a bike ride on the greenway system in the killing fields of raleigh nc.
 
-```text
-Title: Threads • Log in
+827
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: caroleking's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/441127067_752415707080022_6911099473598812615_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG6u7zxDq3kACY9vQ8vpcEHP9Z049X-ZH21LgfnVZzjhlXuoKMHB1tp449rpCJ_X6o&_nc_ohc=UTjWRqoH670Q7kNvwGF2ZZt&_nc_gid=uIN-QEuehL77BvI-_lh42w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIsPH7whhcb2SOsl4NCIyqY7oPqrR5ApMgx51bgGbdQ9g&oe=6AB15AC0&_nc_sid=10d13b)](https://www.threads.com/@caroleking)
-
-Remembering the late, great #BBKing on his birthday. Photo by Herb Ritts
-
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/796497588_18627504310051515_609848102919082652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4NzQ4MDczODkwMzk5MDU5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Y4KERTp_y1QQ7kNvwH2xOh1&_nc_oc=AdoNn0XM1yFlHVm7q8xVhprwg6P893hqFliv1jjNvDFQytEZjASzg8LIWtFOHsThj-4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uIN-QEuehL77BvI-_lh42w&_nc_ss=7a22e&oh=00_AQJoTxhm1P1tn4ZCNyKlbvEIxfRGzWez1tM3kykAY4jBtg&oe=6AB133B0)](https://www.threads.com/@caroleking/post/DdWYJr_FaFB/media)
-
-1.4K
-
-20
-
-36
-
-5
-
-[![Image 3: paceball__'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723239065_18122870815588767_3452813062032322440_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG6u7zxDq3kACY9vQ8vpcEHP9Z049X-ZH21LgfnVZzjhlXuoKMHB1tp449rpCJ_X6o&_nc_ohc=APbvMSCes-IQ7kNvwFcdeLa&_nc_gid=uIN-QEuehL77BvI-_lh42w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKjoLCDVbjhEacD-gGM1Vuc7-OkkKJN-nTMr65yF69bew&oe=6AB1408F&_nc_sid=10d13b)](https://www.threads.com/@paceball__)
-
-Cam Schlittler is supposed to win MVP over this guy?
-
-Season Stats: 39 HR / 98 RBI .310 AVG | .429 OBP | 1.023 OPS
-
-Pace: 42 HR / 105 RBI
-
-ChaseTheFight
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/813765497_1761530898223268_2675676920284822569_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4NzYxNjk1MDI1MTM4NDEyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMyIn0%3D&_nc_ohc=moof_FYrSe8Q7kNvwGHKZcb&_nc_oc=AdqMWGinIQMcRQv-uYd-qOzDw_IVOEK5OaAm3ZlbXPyDOnWCdF_aC6OoxKt6qgexmXI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=uIN-QEuehL77BvI-_lh42w&_nc_ss=7a22e&oh=00_AQJFll3V50_kUyrxig9PoNl77lVK7xJ18tfTZKAaqmtXKw&oe=6AB13ABA)
-
-46
+54
 
 10
 
-[![Image 5: ac_junior's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357809540_174249618974581_4519664337131175985_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc
+[![Image 2: susanlassiterlyons's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/505164256_17911129860114982_8130501504979663624_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=3pF9XDxajxQQ7kNvwH5KshD&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKSstVz5KUXYgWfdKnelfkP2hYLh1dU3GVuwGBZof_H0Q&oe=6AB2B3FA&_nc_sid=10d13b)](https://www.threads.com/@susanlassiterlyons)
+
+[susanlassiterlyons](https://www.threads.com/@susanlassiterlyons)
+
+[13h](https://www.threads.com/@susanlassiterlyons/post/DdZKsxrG8SZ)
+
+Dog parents: what’s the best way to get your dog to take pills? Our 17 year old beagle has to take a BUNCH and she’s not having it anymore. We’ve tried peanut butter, green beans, chicken, cheese, turkey, sardines, tuna, roast beef, eggs, ham, deviled ham, and pumpkin. Help!
+
+16
+
+103
+
+[![Image 3: greenisle01's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/359574254_1369380316944310_7292239168604005360_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=17Tj9is4FJ0Q7kNvwEKoC4c&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJCVli_bTic81XdLOMUonigbhFQiD3bAUneakuH2OizNQ&oe=6AB2B29D&_nc_sid=10d13b)](https://www.threads.com/@greenisle01)
+
+[greenisle01](https://www.threads.com/@greenisle01)
+
+[12h](https://www.threads.com/@greenisle01/post/DdZV-aJHKr4)
+
+I got an answer for the Johnstown flood tax: The Pennsylvania Liquor Control Board (PLCB) still charges the 18% "Johnstown Flood Tax" on liquor and wine sales.Key DetailsCurrent Rate: The tax started as a temporary 10% emerg
 ```

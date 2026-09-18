@@ -10,8 +10,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0956
-generated_at: "2026-09-17T05:10:00+00:00"
+zh_ratio: 0.0371
+generated_at: "2026-09-18T05:02:42+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：MCP x META 廣告數據串接教學
@@ -36,6 +36,7 @@ Claude、MCP
 2. 近期要開一門課程包括： • Data Studio 串接操作 • MCP 串接教學
 3. 學會MCP 串接能夠： 1. 離線讀取廣告數據 2. 在手機端透過Agent 與數據互動 3. 讓頂尖 CLAUDE 提供成效提升策略 4. 輕鬆打造數據報表
 4. ** 圖片皆為AI 生成的Demo 數據
+5. 串接資料來源(e.g.串 Meta) 補訊號流失——瀏覽器限制與 AdBlock 各約三成用戶 透過 GTG,加強轉換等內建工具持續餵養系統
 
 ## 可以直接複製的做法
 
@@ -63,21 +64,20 @@ reply_summary_status: `partial`
 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[](https:
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-- Something went wrong, please try again later.
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/75846917
+- Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6
+- Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、生成
-- zh_ratio: `0.0956`
+- keyword_hits: AI、Claude、MCP、Agent、agent、工具、整理、生成
+- zh_ratio: `0.0371`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -85,10 +85,10 @@ Markdown Content:
 ```text
 Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=rU_XKsbV_NUQ7kNvwGCVLxx&_nc_oc=AdomP8-4x9bIONv6o2JZLJ6IBphRVdzCTqffOUdXtkSl3NW8P3b1Hc3arGEwR3SW3DQ&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=ylKN7rs5GQlgRfc19k3_LA&_nc_ss=7b289&oh=00_AQLLuU_JWaxgeqNF_U4JlTlOaQlkmpY6PB6HJFPZin-GmA&oe=6AB13ED5)](http://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGakMlCn1Mf2bXcfxun3f83m5FByOuPoEE-gGIgqZ72ODKVH-r6rpWfY0E8mocImtc&_nc_ohc=tnIVe_ImvssQ7kNvwHhhQdD&_nc_gid=8rnG8ik8fql9iH6t4wrXjw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKHZXEzdWymu_H12iK7nWYVOf_RgvdsMWMuCN5Oufj1HQ&oe=6AB29055&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 MCP x META 廣告數據串接教學
 
@@ -102,7 +102,7 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7d2zIr3YTykQ7kNvwH__Sd7&_nc_oc=AdpDG-BANlKQ5cBjYhhrDEIzMyk8tTqMkR4dBc1jSdpv3h9JQUGNapxa5dceHOXII4c&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ylKN7rs5GQlgRfc19k3_LA&_nc_ss=7b289&oh=00_AQIw3k1ekguNBvIyG_TBlNEuWwUFC099Y_kyg-CodqDBlQ&oe=6AB13366)](http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=7d2zIr3YTykQ7kNvwEv0uAW&_nc_oc=AdoXHzbvACIgqGIO8pH4ZamXZqRlE2Wgk_R-bRcB41P5nkhurzsaex5FKD_2xXwZSDo&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=EMWSZIgopmjj5l5XTWuhHw&_nc_ss=7b289&oh=00_AQLef4aGV3Tgp8oBX1pSivWO-lVnib5zdO5W0-tQw7axpg&oe=6AB284E6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 149
 
@@ -111,4 +111,16 @@ MCP x META 廣告數據串接教學
 14
 
 96
+
+[![Image 3: atai_coding_data's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGakMlCn1Mf2bXcfxun3f83m5FByOuPoEE-gGIgqZ72ODKVH-r6rpWfY0E8mocImtc&_nc_ohc=tnIVe_ImvssQ7kNvwHhhQdD&_nc_gid=8rnG8ik8fql9iH6t4wrXjw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKHZXEzdWymu_H12iK7nWYVOf_RgvdsMWMuCN5Oufj1HQ&oe=6AB29055&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+
+·Author
+
+為什麼突然又燒起來
+
+1
+
+[![Image 4: topyo_ad's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/536450872_17847238836544927_6137953938399915213_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=66u0LNWmz6kQ7kNvwF3GzJj&_nc_oc=AdrWrav2u_quuFFtJQgxhXwjJ2ruJH0i70IG_WVw11OdWBPc4NtMEODqRkaInRqSyWM&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=8rnG8ik8fql9iH6t4wrXjw&_nc_ss=7b289&oh=00_AQIuMfuXs_em9Id-u-8Do2YxCu8BOKIHI8yXaNtbpPMMpA&oe=6AB27E74)](https://www.threads.com/@topyo_ad)
+
+![Image 5: atai_coding_data's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5
 ```
