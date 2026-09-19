@@ -16,7 +16,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.058
-generated_at: "2026-09-18T05:02:42+00:00"
+generated_at: "2026-09-19T04:54:58+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -70,13 +70,13 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
@@ -104,7 +104,7 @@ Markdown Content:
 
 # [Thread 604 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=x_jGCPCYRNQQ7kNvwG9l0dI&_nc_oc=AdpMqhS_Fvs9qBzZn2rjG36q6cFCy03nKWz2I8ofiTmtBamln2d_KeAIeRJH_3dwA0M&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=HqDhDn9uUu9lU8aPOs8AyQ&_nc_ss=7b289&oh=00_AQKEHQi2T7x31mAUNNqkBJxSarTyRNgRg9_1vLR32C6LXQ&oe=6AB2A88B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=x_jGCPCYRNQQ7kNvwFhNk_5&_nc_oc=Adqe1rYHZY5DwehpskMd9B_lxYRCVL9ForMPJ8HRMFR1zZylf7kk_fxQQcStI32LnBE&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&_nc_ss=7b289&oh=00_AQKDTTqBtabdVN5f1Y-I_5O-y7qpeYprF0f1KJGxeAbovQ&oe=6AB3FA0B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -118,7 +118,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8j-AOSjBGnoQ7kNvwHWWrpT&_nc_oc=AdoUpwHL20Fzt8Als8kYH-7M54TbtoQkOzKyK5ezOOsTCL4pwqvhge9xjCRSBNX0PUQ&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=HqDhDn9uUu9lU8aPOs8AyQ&_nc_ss=7b289&oh=00_AQL7HRAwpUJMEM_Xh14EQ8ZfzGPu-L_IRVrDKHWTR0wMnA&oe=6AB28791)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8j-AOSjBGnoQ7kNvwH-MvaF&_nc_oc=AdpTmzBitIczXTVHjLebw59ag17B-U6JrO-NrvQeq5LwrRD8qpNEdf5ZDQ8utHgc6GA&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&_nc_ss=7b289&oh=00_AQLOYAY5ZRc1RMTsp2QsOxn95nF-XxCFwVgpJxmvhQ1Bkw&oe=6AB3D911)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -128,11 +128,11 @@ it just works™
 
 Related threads
 
-[![Image 3: masini1491's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFs3Um28nbU4mHueXE8bHIxrdm4gDqXxa2nLsWAwfFzdetMdGU5ZkAAErjZ_nh72DU&_nc_ohc=CgTIHQYhK80Q7kNvwECJwWA&_nc_gid=HqDhDn9uUu9lU8aPOs8AyQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJUuL-zx58YH27ex2NhNn8gYPvzMzo0RajGQ46JEwc0bw&oe=6AB2AAF2&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
+[![Image 3: masini1491's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHAMJ-HC_6Ldg6qAeCsVuoDp_HyGvIjRUC49WcNx2qfjUvPOkcZPfv9Z9XELzr5VYk&_nc_ohc=CgTIHQYhK80Q7kNvwHqji0n&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIcv6ErJRfbmNDluuq5x13ULq5FGP1CVp_SH7N82k-_EA&oe=6AB3FC72&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
 
 [masini1491](https://www.threads.com/@masini1491)
 
-[4d](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
+[5d](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
 
 因為ChatGPT出包 root要求模型資料給錯 要求ChatGPT給我追加指令要求Codex積極執行Child Routing 然後我就第一次在實際專案在我設Sol/High的情況 Codex主動判定有工作可以開Child用Luna/Low執行 才抓到漏寫的一個規則 造成Codex判斷用我設定的模型跑的完就跑下去 不會啟動Child Routing來嘗試升降模型節省token 讓我困惑了一陣子 我規則有寫進Repo 為什麼Codex就是不執行? 害我剛剛氣得要死......
 

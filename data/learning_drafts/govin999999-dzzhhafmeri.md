@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：[Video 2](https://scontent.cdninstagram.co"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-18T05:02:42+00:00"
+generated_at: "2026-09-19T04:54:58+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：[Video 2](https://scontent.cdninstagram.co
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOg1uHvP8L4w_2hgmAdUDWimQ7oW-gcYn0R3u4r4kN9fW6l-FKVqNtp5QAkRAgwA61s6SqC0JbuSOLiXSLbruloDDTqLm0aJ_XYO-M.mp4?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -61,14 +61,13 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: twojudgeygirls's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/574496750_17934631638101408_3828940957135646408_n.jpg?st
-- ![Image 8](https://scontent.cdninstagram.com/v/t51.71878-15/813949307_1784489942684823_3447356366470351506_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk4Nzk5NzIwNzgyMzE2MDk0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [![Image 4: One North Atlantic map on a white background shows all 10 Condor summer 2026 North American routes to Frankfurt as thin teal northern arcs, American's three Germany routes as thin red southern arcs, and Condor's announced Chicago-Frankfurt route fo
-- DeMarcus Cousins explains why he doesn’t think his pairing with Anthony Davis is the same as putting Giannis and Bam Adebayo together in Miami. 👀🏀
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/813634709_18624289147007314_5362693970917356493_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=Mzk4ODI3MzMzOTYzNDM3MjY4Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+[![Image 1: moneybren's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/502717146_18133527859419028_4320884302269461273_n.jpg?stp=dst
+- [![Image 4: itsbrandontillery's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719126371_18609308227050986_4001117092037794451_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjEuYzIifQ&_nc_ht=scontent.cdni
+- Remember when Facebook users fell by 2% one quarter, everyone said "haha Facebook is dead" and the stock crashed from $400 to $90, I said the market was full of idiots and people laughed at me, within a year it went to $600.
+- JUST IN: Poland joins Ukraine anti-ballistic missile coalition after Tusk Zelensky Carpathian Eight summit 1/2
 
 ## 抓取品質
 
@@ -82,48 +81,58 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Home](https://www.threads.com/?error=invalid_post)
+# [Home](http://www.threads.com/?error=invalid_post)
 
-[![Image 1: brinkleyed's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/491441475_1735865330695957_395716565235984196_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=fP6E6juWA9kQ7kNvwFFRxnA&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ6qxYbpwnbMdNyyT6iktj4KC-TrwxIviDItsI3bzXX7w&oe=6AB2888F&_nc_sid=10d13b)](https://www.threads.com/@brinkleyed)
+[![Image 1: _shawwnieee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/707506596_17968685802098591_8772519279557176411_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=c_11YVlGLZgQ7kNvwH-eFwc&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLUQQi7AonPK249MI5qA5MJb3R7coZfcGzwF1L9mli73g&oe=6AB3D3AC&_nc_sid=10d13b)](http://www.threads.com/@_shawwnieee)
 
-[brinkleyed](https://www.threads.com/@brinkleyed)
+[_shawwnieee](http://www.threads.com/@_shawwnieee)
 
-[14h](https://www.threads.com/@brinkleyed/post/DdZHqv1EaKn)
+[13h](http://www.threads.com/@_shawwnieee/post/DdbyjD8jvBF)
 
-Ya’ll Please think positive thoughts for me. I’m getting ready to go on a bike ride on the greenway system in the killing fields of raleigh nc.
+I can run a mile without stopping outside but when I’m on the treadmill I need a thousand breaks.. how that work?😂🥴
 
-827
+44
 
-54
+14
+
+1
+
+[![Image 2: deadria101's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/558578201_18534628582026187_5926038762010307746_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=EXGalEkNwHkQ7kNvwGxJnex&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ-wTxmc2_00Y55f564gmJctM7aaICNpnlTacvdCdfsNQ&oe=6AB3EAC7&_nc_sid=10d13b)](http://www.threads.com/@deadria101)
+
+[deadria101](http://www.threads.com/@deadria101)
+
+[14h](http://www.threads.com/@deadria101/post/Ddbo6_PHIBi)
+
+Congress be so serious, we can’t eat certain foods. People are literally without clean drinking water, but y’all want to write another letter to Cathy.
+
+280
+
+20
+
+12
+
+1
+
+[![Image 3: history.with.character's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/573579116_17846876895594226_2001931804945870977_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=thD0ldGMRboQ7kNvwFG9qyE&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLPviZqZQmvEJaDOdr8WHqPiaL3h_a5EC1-IZHvX-c4Dw&oe=6AB3D016&_nc_sid=10d13b)](http://www.threads.com/@history.with.character)
+
+[history.with.character](http://www.threads.com/@history.with.character)
+
+[15h](http://www.threads.com/@history.with.character/post/DdbgkPZEVzf)
+
+So I'm at Sheetz yesterday filling up on the stupid expensive go-go juice. This dude comes FLYING into the parking lot and comes out of his car HOT. Kinda looks like Temu Kid Rock. He's screaming profanities and threats at someone, yelling about road rage, telling the other person to "come get some".
+
+56
 
 10
 
-[![Image 2: susanlassiterlyons's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/505164256_17911129860114982_8130501504979663624_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=3pF9XDxajxQQ7kNvwH5KshD&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKSstVz5KUXYgWfdKnelfkP2hYLh1dU3GVuwGBZof_H0Q&oe=6AB2B3FA&_nc_sid=10d13b)](https://www.threads.com/@susanlassiterlyons)
-
-[susanlassiterlyons](https://www.threads.com/@susanlassiterlyons)
-
-[13h](https://www.threads.com/@susanlassiterlyons/post/DdZKsxrG8SZ)
-
-Dog parents: what’s the best way to get your dog to take pills? Our 17 year old beagle has to take a BUNCH and she’s not having it anymore. We’ve tried peanut butter, green beans, chicken, cheese, turkey, sardines, tuna, roast beef, eggs, ham, deviled ham, and pumpkin. Help!
-
-16
-
-103
-
-[![Image 3: greenisle01's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/359574254_1369380316944310_7292239168604005360_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGFqzBzZ840QdL9WvzCtFGJsaWDvwseqRZtepAWFDOnFPhTwkqkbJTAR1mcWlKO8PY&_nc_ohc=17Tj9is4FJ0Q7kNvwEKoC4c&_nc_gid=321R5Le4Uq6xIyPVa6ZPbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJCVli_bTic81XdLOMUonigbhFQiD3bAUneakuH2OizNQ&oe=6AB2B29D&_nc_sid=10d13b)](https://www.threads.com/@greenisle01)
-
-[greenisle01](https://www.threads.com/@greenisle01)
-
-[12h](https://www.threads.com/@greenisle01/post/DdZV-aJHKr4)
-
-I got an answer for the Johnstown flood tax: The Pennsylvania Liquor Control Board (PLCB) still charges the 18% "Johnstown Flood Tax" on liquor and wine sales.Key DetailsCurrent Rate: The tax started as a temporary 10% emerg
+[![Image 4: karibaumann's profile picture](http
 ```
