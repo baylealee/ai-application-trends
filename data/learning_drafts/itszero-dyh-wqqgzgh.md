@@ -4,19 +4,19 @@ source_url: "https://www.threads.com/@itszero/post/DYH_wqQGzgH"
 source_author: "itszero"
 post_id: "DYH_wqQGzgH"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
   - "ChatGPT"
   - "GPT"
-  - "MCP"
+  - "Cursor"
   - "Codex"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.058
-generated_at: "2026-09-19T04:54:58+00:00"
+zh_ratio: 0.056
+generated_at: "2026-09-20T05:14:51+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -33,13 +33,12 @@ generated_at: "2026-09-19T04:54:58+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、ChatGPT、GPT、MCP、Codex、GitHub
+Claude、Claude Code、ChatGPT、GPT、Cursor、Codex、GitHub
 
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
-2. 它能無縫整合到您的 AI 代理中，無論是透過 CLI 指令或 MCP 伺服器模式，都能讓 AI 直接取用即時、來源可靠的程式碼文件，免去手動切換視窗或驗證資訊的麻煩，讓開發流程更順暢。
-3. 這種自動化文件查詢，會如何改變您的日常開發習慣？
+2. 一共 10 种工具 备份、自己做分析、微调都能用
 
 ## 可以直接複製的做法
 
@@ -70,13 +69,13 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
@@ -84,8 +83,8 @@ this fails, fix it 2. "
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Codex、Agent、agent、自動化、流程、prompt、工具、GitHub、CLI、workflow
-- zh_ratio: `0.058`
+- keyword_hits: AI、Claude、ChatGPT、GPT、Cursor、Codex、Agent、agent、prompt、工具、小工具、CRM、GitHub、CLI、workflow
+- zh_ratio: `0.056`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -102,9 +101,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 604 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread 605 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=x_jGCPCYRNQQ7kNvwFhNk_5&_nc_oc=Adqe1rYHZY5DwehpskMd9B_lxYRCVL9ForMPJ8HRMFR1zZylf7kk_fxQQcStI32LnBE&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&_nc_ss=7b289&oh=00_AQKDTTqBtabdVN5f1Y-I_5O-y7qpeYprF0f1KJGxeAbovQ&oe=6AB3FA0B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=b-kukU2n-AMQ7kNvwH7Ydk0&_nc_oc=Adqvp1oj6U7AMJ7I0NR-XR9lBSnokniz6ZmvzoNOSjL2eE-vAawkAB3K1pKCLNZn_nE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&_nc_ss=7b289&oh=00_AQLwXpuhzzlKyeJhOkHUvfcu4Ag3MLQEvdhv1_wdgsjHDw&oe=6AB54B8B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -118,7 +117,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8j-AOSjBGnoQ7kNvwH-MvaF&_nc_oc=AdpTmzBitIczXTVHjLebw59ag17B-U6JrO-NrvQeq5LwrRD8qpNEdf5ZDQ8utHgc6GA&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&_nc_ss=7b289&oh=00_AQLOYAY5ZRc1RMTsp2QsOxn95nF-XxCFwVgpJxmvhQ1Bkw&oe=6AB3D911)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8j-AOSjBGnoQ7kNvwG0EMki&_nc_oc=AdpHVbYUtPze3J1Hl1s_TQMIKD_hfoWCxTJLvQ7pRkjJX3cx_QupaNh5C3KO7wwKnmI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&_nc_ss=7b289&oh=00_AQIMOpxoQo7e7N93qXBH7O2xlzx-wTxWTW1wgzAIhufN7w&oe=6AB52A91)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -128,11 +127,11 @@ it just works™
 
 Related threads
 
-[![Image 3: masini1491's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHAMJ-HC_6Ldg6qAeCsVuoDp_HyGvIjRUC49WcNx2qfjUvPOkcZPfv9Z9XELzr5VYk&_nc_ohc=CgTIHQYhK80Q7kNvwHqji0n&_nc_gid=xgs9pr2gKNCPXRbEtb2Acg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIcv6ErJRfbmNDluuq5x13ULq5FGP1CVp_SH7N82k-_EA&oe=6AB3FC72&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
+[![Image 3: masini1491's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGH5eZGR7cjmP4s3HOFweD1VpwK1ZX9iNwVLiboFCjsshFNwsDaPT-iBgs-KJ1X3GY&_nc_ohc=3d_xVta9q2wQ7kNvwEWSffF&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKUJjMHFMD8T8GrKgVXme5a1kE4h1G4RKHXzYnEeCrwSQ&oe=6AB54DF2&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
 
 [masini1491](https://www.threads.com/@masini1491)
 
-[5d](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
+[6d](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
 
 因為ChatGPT出包 root要求模型資料給錯 要求ChatGPT給我追加指令要求Codex積極執行Child Routing 然後我就第一次在實際專案在我設Sol/High的情況 Codex主動判定有工作可以開Child用Luna/Low執行 才抓到漏寫的一個規則 造成Codex判斷用我設定的模型跑的完就跑下去 不會啟動Child Routing來嘗試升降模型節省token 讓我困惑了一陣子 我規則有寫進Repo 為什麼Codex就是不執行? 害我剛剛氣得要死......
 

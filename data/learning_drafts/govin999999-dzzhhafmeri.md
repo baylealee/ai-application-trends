@@ -1,25 +1,27 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[Image 24: gasbuddyguy's profile picture]("
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "mcp"
 tools:
-  - "RAG"
+  - "MCP"
+  - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-19T04:54:58+00:00"
+generated_at: "2026-09-20T05:14:51+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[Image 24: gasbuddyguy's profile picture](
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 24: gasbuddyguy's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/376850671_1382816142578599_8059876180500006359_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +29,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-RAG
+MCP、Make、GAS
 
 ## 原始工作流拆解
 
@@ -64,15 +66,19 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: moneybren's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/502717146_18133527859419028_4320884302269461273_n.jpg?stp=dst
-- [![Image 4: itsbrandontillery's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719126371_18609308227050986_4001117092037794451_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjEuYzIifQ&_nc_ht=scontent.cdni
-- Remember when Facebook users fell by 2% one quarter, everyone said "haha Facebook is dead" and the stock crashed from $400 to $90, I said the market was full of idiots and people laughed at me, within a year it went to $600.
-- JUST IN: Poland joins Ukraine anti-ballistic missile coalition after Tusk Zelensky Carpathian Eight summit 1/2
+[![Image 1: jeniandjuice's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785282561_17987715267109792_971822435911592460_n.jpg?stp=
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: sha_roni59's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/773881932_17902913160520852_2537008345126266614_n.jpg?stp=ds
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/817742276_18616794046020209_4238763716618544303_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=106&ig_cache_key=Mzk4OTg2MDA3NzYwNDQ1NDQ3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG
+- keyword_hits: AI、MCP、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -81,58 +87,68 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[Home](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+New thread
 
-# [Home](http://www.threads.com/?error=invalid_post)
+[Search](https://www.threads.com/search)
 
-[![Image 1: _shawwnieee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/707506596_17968685802098591_8772519279557176411_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=c_11YVlGLZgQ7kNvwH-eFwc&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLUQQi7AonPK249MI5qA5MJb3R7coZfcGzwF1L9mli73g&oe=6AB3D3AC&_nc_sid=10d13b)](http://www.threads.com/@_shawwnieee)
+Messages
 
-[_shawwnieee](http://www.threads.com/@_shawwnieee)
+Activity
 
-[13h](http://www.threads.com/@_shawwnieee/post/DdbyjD8jvBF)
+Profile
 
-I can run a mile without stopping outside but when I’m on the treadmill I need a thousand breaks.. how that work?😂🥴
+Insights
 
-44
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-14
+More
 
-1
+[](https://www.threads.com/)
 
-[![Image 2: deadria101's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/558578201_18534628582026187_5926038762010307746_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=EXGalEkNwHkQ7kNvwGxJnex&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJ-wTxmc2_00Y55f564gmJctM7aaICNpnlTacvdCdfsNQ&oe=6AB3EAC7&_nc_sid=10d13b)](http://www.threads.com/@deadria101)
+[](https://www.threads.com/)
 
-[deadria101](http://www.threads.com/@deadria101)
+[](https://www.threads.com/search)
 
-[14h](http://www.threads.com/@deadria101/post/Ddbo6_PHIBi)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-Congress be so serious, we can’t eat certain foods. People are literally without clean drinking water, but y’all want to write another letter to Cathy.
+[![Image 1: jeniandjuice's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785282561_17987715267109792_971822435911592460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFW7PAwZ9tmOSAVGmegw6dYyrd5eSgqZlf6zYkR2oQ21ZmZmLYWJvwiWtwMqkhxPUw&_nc_ohc=3yHA8VqA7GIQ7kNvwELIchm&_nc_gid=kDe0xdUfl75_NiT6gHqsbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIIAxmOG8TSw1tmrhDqXaqefwsbnoyqDmL63UtcmHdk-A&oe=6AB54C92&_nc_sid=10d13b)](https://www.threads.com/@jeniandjuice)
 
-280
+[jeniandjuice](https://www.threads.com/@jeniandjuice)
 
-20
+[12h](https://www.threads.com/@jeniandjuice/post/DdeeCzYEUos)
 
-12
+Men being punished brings me such joy
 
-1
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/791245722_1624826745678102_3840479794000752446_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=105&ig_cache_key=Mzk4OTc1ODQ1Mzg5NTc0NDA0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=PD3LeO33-b0Q7kNvwGVuMDN&_nc_oc=AdpIlubT74x4U3vFdMuLnbQF8nr_Rueh5UyekDfDquWyaRuKMZoEIh65-rHI7qt8Ry8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=kDe0xdUfl75_NiT6gHqsbQ&_nc_ss=7a22e&oh=00_AQLNdhHZYuidEPZqVf5mBzrBcDjCZkLiETW6ZIHCUJ3IXA&oe=6AB54E4E)
 
-[![Image 3: history.with.character's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/573579116_17846876895594226_2001931804945870977_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHamijrKlzclM1Sql15PDLQSvJrjXguQPHtZ6v7WJ4v-_qiN7_sPiHMuOO9Yedq62s&_nc_ohc=thD0ldGMRboQ7kNvwFG9qyE&_nc_gid=4ucr3lJkKI0SB0vOiwWuMg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLPviZqZQmvEJaDOdr8WHqPiaL3h_a5EC1-IZHvX-c4Dw&oe=6AB3D016&_nc_sid=10d13b)](http://www.threads.com/@history.with.character)
+Sorry, we're having trouble playing this video.
 
-[history.with.character](http://www.threads.com/@history.with.character)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAgjsNdoYgF_2JFD9LXiezbA8rZi8Qz91xtbbjWHMGTSJAgeempl2uYhiLlUU18DrnjemCsenmSTNFqVibuAQ_koD9CcnPeQlHt0X2ryhVVB0IEYgE)
 
-[15h](http://www.threads.com/@history.with.character/post/DdbgkPZEVzf)
+157
 
-So I'm at Sheetz yesterday filling up on the stupid expensive go-go juice. This dude comes FLYING into the parking lot and comes out of his car HOT. Kinda looks like Temu Kid Rock. He's screaming profanities and threats at someone, yelling about road rage, telling the other person to "come get some".
+8
 
-56
+2
 
-10
+4
 
-[![Image 4: karibaumann's profile picture](http
+[![Image 3: raeshanda_lias's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464188385_1705447886897540_3658098647220041200_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFW7PAwZ9tmOSAVGmegw6dYyrd5eSgqZlf6zYkR2oQ21ZmZmLYWJvwiWtwMqkhxPUw&_nc_ohc=uIpq9plPAekQ7kNvwF0Sy55&_nc_gid=kDe0xdUfl75_NiT6gHqsbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKqYNSu69N0JTtUsLfYisG2x9QPjylTTK1hoMT6YmU7Bw&oe=6AB53092&_nc_sid=10d13b)](https://www.threads.com/@raeshanda_lias)
+
+[raeshanda_lias](https://www.threads.com/@raeshanda_lias)
+
+[12h](https://www.threads.com/@raeshanda_lias/post/Ddebg2kEluE)
+
+We’ve been back home in Colorado 30 minutes and my son and wife are already clowning me.😩
+
+Why is Jaythan in the guest room in my stuff? 🤦🏾‍♀️
+
+![Image 4](https://scontent.cdninstagram.com/v/t51.718
 ```

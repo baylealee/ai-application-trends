@@ -7,13 +7,13 @@ language: "unknown"
 category: "coding"
 tools:
   - "Claude"
-  - "n8n"
   - "Notion"
+  - "GAS"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.037
-generated_at: "2026-09-19T04:54:58+00:00"
+zh_ratio: 0.0352
+generated_at: "2026-09-20T05:14:51+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -30,13 +30,15 @@ generated_at: "2026-09-19T04:54:58+00:00"
 
 ## 使用工具
 
-Claude、n8n、Notion、GitHub
+Claude、Notion、GAS、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
 2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
 3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
+4. 算是個重複性時間黑洞，把流程拆解成標準步驟： 1.確認通知信 2.點擊 join@組織 3.核對GitHub帳號已加入組織
+5. 把這套流程你轉給新人吧...
 
 ## 可以直接複製的做法
 
@@ -73,13 +75,13 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 27.6K vi
+# [Thread 27.7K vi
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、n8n、Agent、agent、流程、工具、整理、Notion、GitHub
-- zh_ratio: `0.037`
+- keyword_hits: AI、Claude、Agent、agent、流程、工具、整理、Notion、GitHub
+- zh_ratio: `0.0352`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -96,9 +98,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 27.6K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 27.7K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwEMXgdr&_nc_oc=AdoZb5LY0Qyrlafl5QGil5UsR74DAjUBlLNBvRQRxZ8Pbn48UW99kS3wez9cZg3dTQU&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=wF7OZDCP7AQbbcbXJeUiyA&_nc_ss=7b289&oh=00_AQIb6am8RoEEUjLXVt3ZhHSw5kkpEfCZ9dwFAqeO19C6HA&oe=6AB3D8B0)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwEmfV4q&_nc_oc=AdrU3CcYs7UsIRySUI3VUqTB8BMxo2y42hb5QuFpJFXy6tnA-BUszK8-uMSAfUbHhIs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=6OaNmLiwursed9ipWEEDKA&_nc_ss=7b289&oh=00_AQJt49A7XWtfjGnmb8ya-vzB0K6zLOs4oB7orrjYNzLETw&oe=6AB52A30)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -122,7 +124,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dot8T_qdQfQQ7kNvwFTHSzP&_nc_oc=AdoGpAaKIvvBfHwO0_28PLw-dZpjzlobbntNvpY_iZbToio3CsdkkY3N7ObrESXn_ys&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=CObi6o9PohYTyryUv3lL9A&_nc_ss=7b289&oh=00_AQLKt5g02y_gRtWOX44jYZZfPD0_LkRhCLtvvCsIEhQUOg&oe=6AB3F908)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dot8T_qdQfQQ7kNvwHQqST1&_nc_oc=Adr9HgMF3HxTanfyZNy4PG11WY0dmsHFz5TuUwVSQQUJc1LlgvDFjLEeAnPWovnny6Q&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=bRwJfkkgDobmmzqeQnHBhA&_nc_ss=7b289&oh=00_AQK9ycu1A6xueo3AiBR2uF3nEuQK-JsDR1yxaH2rH1avVw&oe=6AB54A88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -134,7 +136,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwEMXgdr&_nc_oc=AdoZb5LY0Qyrlafl5QGil5UsR74DAjUBlLNBvRQRxZ8Pbn48UW99kS3wez9cZg3dTQU&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=wF7OZDCP7AQbbcbXJeUiyA&_nc_ss=7b289&oh=00_AQIb6am8RoEEUjLXVt3ZhHSw5kkpEfCZ9dwFAqeO19C6HA&oe=6AB3D8B0)](https://www.threads.com/@pmenance.manager)
+[![Image 3: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwEmfV4q&_nc_oc=AdrU3CcYs7UsIRySUI3VUqTB8BMxo2y42hb5QuFpJFXy6tnA-BUszK8-uMSAfUbHhIs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=6OaNmLiwursed9ipWEEDKA&_nc_ss=7b289&oh=00_AQJt49A7XWtfjGnmb8ya-vzB0K6zLOs4oB7orrjYNzLETw&oe=6AB52A30)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
