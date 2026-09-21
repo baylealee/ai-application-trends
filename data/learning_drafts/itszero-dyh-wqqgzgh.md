@@ -15,8 +15,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.056
-generated_at: "2026-09-20T05:14:51+00:00"
+zh_ratio: 0.0556
+generated_at: "2026-09-21T05:19:11+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -66,16 +66,16 @@ reply_summary_status: `partial`
 
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
-- Title: 傑洛 Zero Cho (@itszero) on Threads
-
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 606 views](http://www.threads.com/@
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
@@ -83,8 +83,8 @@ this fails, fix it 2. "
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、Cursor、Codex、Agent、agent、prompt、工具、小工具、CRM、GitHub、CLI、workflow
-- zh_ratio: `0.056`
+- keyword_hits: AI、Claude、ChatGPT、GPT、Cursor、Codex、Agent、agent、prompt、工具、小工具、GitHub、CLI、workflow
+- zh_ratio: `0.0556`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -101,9 +101,9 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 605 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread 606 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=b-kukU2n-AMQ7kNvwH7Ydk0&_nc_oc=Adqvp1oj6U7AMJ7I0NR-XR9lBSnokniz6ZmvzoNOSjL2eE-vAawkAB3K1pKCLNZn_nE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&_nc_ss=7b289&oh=00_AQLwXpuhzzlKyeJhOkHUvfcu4Ag3MLQEvdhv1_wdgsjHDw&oe=6AB54B8B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=b-kukU2n-AMQ7kNvwEp8aL0&_nc_oc=Adrtse7Q1w-ylVIEOTlqFH009VlB91PBhlbB-DWvWdWUkqhVtkpO74nPP4OVwJMdTXs&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=4fbMQolDr5bRecUwo2KSAw&_nc_ss=7b289&oh=00_AQI-uIO9oBB4KQsDJ8dNfGiwJSSsqwVCepS051pbiRGpvA&oe=6AB69D0B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -117,7 +117,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=8j-AOSjBGnoQ7kNvwG0EMki&_nc_oc=AdpHVbYUtPze3J1Hl1s_TQMIKD_hfoWCxTJLvQ7pRkjJX3cx_QupaNh5C3KO7wwKnmI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&_nc_ss=7b289&oh=00_AQIMOpxoQo7e7N93qXBH7O2xlzx-wTxWTW1wgzAIhufN7w&oe=6AB52A91)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=PCHYNbRwjhsQ7kNvwHQrvnL&_nc_oc=AdqX1oNVWwrpoZkpnsfUv3i6uu8Jxjx8jkM61muh-4WZBMJUk2GyBy_P1IWS7olVBXI&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=4fbMQolDr5bRecUwo2KSAw&_nc_ss=7b289&oh=00_AQI1mNgSewqwPfIooQ2MCdHFJK-ES9SW86n1edSsV065jg&oe=6AB67C11)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -127,15 +127,15 @@ it just works™
 
 Related threads
 
-[![Image 3: masini1491's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGH5eZGR7cjmP4s3HOFweD1VpwK1ZX9iNwVLiboFCjsshFNwsDaPT-iBgs-KJ1X3GY&_nc_ohc=3d_xVta9q2wQ7kNvwEWSffF&_nc_gid=VE2dPGwoPxFSRYySA7JXHw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKUJjMHFMD8T8GrKgVXme5a1kE4h1G4RKHXzYnEeCrwSQ&oe=6AB54DF2&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
+[![Image 3: masini1491's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEOqZtcDClpyNrJmT-AsBc_BMu-1dANDhBkEnsJneTFm1RvjJPZ40OjBeYFhBjtSak&_nc_ohc=3d_xVta9q2wQ7kNvwHF677l&_nc_gid=4fbMQolDr5bRecUwo2KSAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIB3jj2SfqxoV8tWnqXOIsjnkxU60H079RVq5YvTxZ_ug&oe=6AB69F72&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
 
 [masini1491](https://www.threads.com/@masini1491)
 
-[6d](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
+[09/13/26](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
 
 因為ChatGPT出包 root要求模型資料給錯 要求ChatGPT給我追加指令要求Codex積極執行Child Routing 然後我就第一次在實際專案在我設Sol/High的情況 Codex主動判定有工作可以開Child用Luna/Low執行 才抓到漏寫的一個規則 造成Codex判斷用我設定的模型跑的完就跑下去 不會啟動Child Routing來嘗試升降模型節省token 讓我困惑了一陣子 我規則有寫進Repo 為什麼Codex就是不執行? 害我剛剛氣得要死......
 
 Translate
 
-[![Image 4: GitHub - masini1491/ai-development-playbook: AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, repository 
+[![Image 4: GitHub - masini1491/ai-development-playbook: AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, repos
 ```
