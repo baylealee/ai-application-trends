@@ -7,9 +7,9 @@ language: "unknown"
 category: "coding"
 tools:
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-21T05:19:11+00:00"
+generated_at: "2026-09-22T05:17:15+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -63,24 +63,8 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: somaeasoul's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/641422005_17911611831340394_5547117108406595721_n.jpg?stp=dst-
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/814785969_17987398587104708_5080560352569199814_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MDM5NDcyMDY2ODgwNTQwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- [![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/796546238_17983635405117485_8924562580244239193_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5MDQ2NzI2NTQ0MzA0NTYzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- If you’re in the LA area and want to finally try lymphatic drainage facial AND a deep tissue massage, here’s my site below <3
-- Markdown Content:
-[![Image 1: somaeasoul's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/641422005_17911611831340394_5547117108406595721_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=s
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、CLI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: wfla's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358520346_1357564921461286_2023742869719526346_n.jpg?stp=dst-jpg_s150
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -93,33 +77,51 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: stillwater_will's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357779952_1787644841658678_9041103066334551761_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG6qXWtuAkITdhh5RnxUWfNX4PeMQrDwjBtSoHOCOFIwZPp6akWxG5NjcF6kWH0fO0&_nc_ohc=mUXZhdf09eYQ7kNvwExt2na&_nc_gid=vyJUNMVHj_riwvgCfuwhIw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK3HO8jq4-FbQbYB0hAZ8l1WT34RUSwdPenPlIIg03mLA&oe=6AB6A482&_nc_sid=10d13b)](https://www.threads.com/@stillwater_will)
+[
+- [![Image 6: millionairemommytv's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/438566540_688571953301981_715080529470174770_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
 
-[stillwater_will](https://www.threads.com/@stillwater_will)
+## 抓取品質
 
-[11h](https://www.threads.com/@stillwater_will/post/DdhINeSlMOJ)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Really hate that my NFL viewing is dietermined by which former OU quarterback is playing. Do Oklahomans really care more about watching Baker be mediocre than seeing a game between two good teams?
+## 原始抓取內容
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/795430668_17982042579115503_285474479269708340_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&cb=8438d1d6-b026aa3b&ig_cache_key=Mzk5MDUwNjg1NTA3NjI1MDUwNQ%3D%3D.3-ccb7-5-cb8438d1d6-b026aa3b&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8i6VDsZh7pUQ7kNvwGU3WC9&_nc_oc=AdouadLtdACk8imoqq7aHNv_FfTQd9Q8Mo-R9Tpf1MbLlRonDL-5WvFg1nRQQgtncEI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=vyJUNMVHj_riwvgCfuwhIw&_nc_ss=7a22e&oh=00_AQLWsyC1qK2G0mkBcm1eZsE7hblAAKs0E70LIZ6VmucdyQ&oe=6AB687B0)](https://www.threads.com/@stillwater_will/post/DdhINeSlMOJ/media)
+```text
+Title: Threads • Log in
 
-51
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-8
+Markdown Content:
+[![Image 1: thecraftkilla's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731031398_18082606085376066_1127507567687825251_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGw-vaLpa6ZfEeTmS6o34s59yGvQadm12cpIxtUX3BC7YB2Q9oGJOn78p9ai4al_m8&_nc_ohc=ikdBDAo8G1wQ7kNvwFwe0iH&_nc_gid=GYINx7I0CvhSmfxT4yGLYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI-S5Nv0uGtindXz0zTngNQvF-c87wnpbqgluYCIa3e_g&oe=6AB7F8C1&_nc_sid=10d13b)](https://www.threads.com/@thecraftkilla)
 
-2
+Angel really ate with the “THIS IS MY SHIIITTTT”
 
-[![Image 3: heyellemills's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/657343180_17953600929118543_3017420070842448029_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG6qXWtuAkITdhh5RnxUWfNX4PeMQrDwjBtSoHOCOFIwZPp6akWxG5NjcF6kWH0fO0&_nc_ohc=GBjLlkTU5_UQ7kNvwEs1O-B&_nc_gid=vyJUNMVHj_riwvgCfuwhIw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKLVjuFX3bdt7-o8gBKCa8z_Qt34rQQUUfh3yhbj39frw&oe=6AB6788B&_nc_sid=10d13b)](https://www.threads.com/@heyellemills)
+424
 
-[heyellemills](https://www.threads.com/@heyellemills)
+11
 
-[14h](https://www.threads.com/@heyellemills/post/Ddg3-_dnM5j)
+11
 
-Women who changed careers after 35...what are you doing now?
+[![Image 2: bbliveupdaters's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357793441_775880140929990_7238097733961630730_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGw-vaLpa6ZfEeTmS6o34s59yGvQadm12cpIxtUX3BC7YB2Q9oGJOn78p9ai4al_m8&_nc_ohc=e9VTe6fkQIYQ7kNvwFNze3d&_nc_gid=GYINx7I0CvhSmfxT4yGLYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJnt33MLo4Nlc3-n9olLQ5Q4_SkYJqLbA_7NP-1zolwqA&oe=6AB7F131&_nc_sid=10d13b)](https://www.threads.com/@bbliveupdaters)
 
-27
+BB28 Taylor has won HOH!!
 
-15
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/820000032_17993151324108023_7395136707574480204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5MTQyMDAzMzY2Njk2ODM5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNDgwLnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=ibrBlYprReQQ7kNvwEXr6kw&_nc_oc=AdrnEIGzBQIvGiTW321F2exD2bzcQRrWFbm-prPpPvvgZwa-Ys7wIvE2BvPyoSpVBps&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=GYINx7I0CvhSmfxT4yGLYg&_nc_ss=7a22e&oh=00_AQKnKI3wIKJ79qWSaGaZyz3sWcl7ROQ_SYe6v3NXdkvVtg&oe=6AB7FD49)](https://www.threads.com/@bbliveupdaters/post/DdkX1-IGOtL/media)
 
-[![Image 4: justinwolfers's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/752741319_17971228896108362_407696550751453886_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG6qXWtuAkITdhh5RnxUWfNX4PeMQrDwjBtSoHOCOFIwZPp6akWxG5NjcF6kWH0fO0&_nc_ohc=b8kMX4r5QSwQ7kNvwFYS
+337
+
+43
+
+40
+
+7
+
+[![Image 4: mielcamille's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/743318700_18113251984825344_4741584998899038923_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGw-vaLpa6ZfEeTmS6o34s59yGvQadm12cpIxtUX3BC7YB2Q9oGJOn78p9ai4al_m8&_nc_ohc=5E2zRuGlb_UQ7kNvwGArXkF&_nc_gid=GYINx7I0CvhSmfxT4yGLYg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJhjZhMB-De4JApEhuxs53j5HJX3HNM3L73IfbQ0IRkcQ&oe=6AB7E5BA&_nc_sid=10d13b)](https://www.threads.com/@mielcamille)
+
+*Husband appreciation post*. I was a middle schooler when I auditioned successfully to be part of the Canadian premier of Joseph and the Amazing Technicolor Dreamcoat, starring Donny Osmond. As part of the perks we were given tickets to the show. I remember some kids’ parents came to every show, dressed like rainbows, holding signs. Our bus driver even made a huge painting that was displayed in the trophy case at school.
+
+
 ```

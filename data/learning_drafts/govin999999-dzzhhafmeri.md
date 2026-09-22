@@ -4,13 +4,12 @@ source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
-  - "MCP"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-21T05:19:11+00:00"
+generated_at: "2026-09-22T05:17:15+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-MCP
+待人工確認
 
 ## 原始工作流拆解
 
@@ -64,7 +63,7 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: jasmine_wattar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608359681_17892427185391398_7729204927634130627_n.jpg?s
+[![Image 1: omassacredtools's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785645656_17912698341451426_4175605220664164830_n.jpg?
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -79,14 +78,15 @@ Markdown Content:
 # [Home](http://www.threads.com/?error=invalid_post)
 
 [![I
-- [Video 4](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMmIyCn6uE3aeKgs02IUHYqou7CbKnpv3S4wWQj2lQKnyAWpS4yLDE0QAuEoBAzg1nRdnip-p16kqUsPqvc6ur8tZCSJJ6Hgy2gv9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=FbcObIYRvpsQ7kNvwEHOmRy&
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/816392014_17902412214585488_577985556432801827_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MDYxNjcwNTQ2ODU4ODc5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
-- [Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMCrB0Qx5FDQbkBkrLwwxrX012_lQr_sCyiEuu2R57aOFUQfzMEKNnmDgg7SmE9sj2SL4XZHJlpTK_NiSqKEHeIVUPFqDd5BEl6NTI.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=Fx6iBjcZWnEQ7kNvwH-0TTs&
+- [![Image 3: andrea_vandyck's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/395412986_660937319462883_8743890624362386930_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzEuYzIifQ&_nc_ht=scontent.cdninstagr
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/819002885_17980589781108842_6921963397784465625_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5MTE5OTI0ODY2NTk5MzQ0NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- Markdown Content:
+[![Image 1: omassacredtools's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785645656_17912698341451426_4175605220664164830_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、MCP、CLI
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -106,41 +106,37 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: jasmine_wattar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608359681_17892427185391398_7729204927634130627_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGL_ZnjvEEicyO3d-u7eUMFyOUkUW0hCjCPTZt76Lq5CO_HbC6jdp-t7zB0rppzKQU&_nc_ohc=GyvtxGKrv6QQ7kNvwGJpw1U&_nc_gid=93JK4GgG_KCX_X-tduBO7w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIgEZ1m2zrfNCSlGBi18Li03CRICc9dkHRXKwlF93504w&oe=6AB68E50&_nc_sid=10d13b)](https://www.threads.com/@jasmine_wattar)
+[![Image 1: omassacredtools's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/785645656_17912698341451426_4175605220664164830_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG4jOjkmMmccBSM2emlxBLAfzzpYXL-4FOGgGuXA-Orbe-ysH1KghfRrhoPNg4pG1E&_nc_ohc=WPsK5jfbtioQ7kNvwFX1Ze2&_nc_gid=-2x4KtvCG-6KhN_J_ZWdrw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKA2CBOMD9v_CgGYr8xVHsbG1Qf4NOi-Dv1ztDpyJP2AQ&oe=6AB7F84A&_nc_sid=10d13b)](https://www.threads.com/@omassacredtools)
 
-[jasmine_wattar](https://www.threads.com/@jasmine_wattar)
+[omassacredtools](https://www.threads.com/@omassacredtools)
 
-[7h](https://www.threads.com/@jasmine_wattar/post/DdhobXGAfCe)
+[6h](https://www.threads.com/@omassacredtools/post/DdkSHm7EbEv)
 
-CLERK: how’s your week? ME: honestly, terrible. You? CLERK:… 😳… I’m 31 and I got divorced last year and am trying to figure out how my life looks and I want to travel but I can’t afford it and they cut my hours and I’m really struggling to get up everyday… so you’re saying the left passenger tire is flat?
+Remember the dream I posted about? Two storms. North Carolina. South Carolina. Virginia. And one date that wouldn't leave me: 10/10. I said I was going to watch the Atlantic and wait. Well… today something changed. Meteorologists are now watching a coastal low expected to develop off North Carolina, with possible impacts toward Virginia and the Mid-Atlantic. I'm NOT saying this is the storm from my dream. And 10/10 is still weeks away.
 
-131
+102
 
-4
+28
 
-[![Image 2: alleycvt's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/553373318_17922538260116697_957632339303474725_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGL_ZnjvEEicyO3d-u7eUMFyOUkUW0hCjCPTZt76Lq5CO_HbC6jdp-t7zB0rppzKQU&_nc_ohc=VmF0ZF24XhUQ7kNvwG8JKGn&_nc_gid=93JK4GgG_KCX_X-tduBO7w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQK7T1VhOd9YHpeAfDbY3jrKb10TlGLW2-kUiQf-LgACIg&oe=6AB694E2&_nc_sid=10d13b)](https://www.threads.com/@alleycvt)
+1
 
-[alleycvt](https://www.threads.com/@alleycvt)
+1
 
-[10h](https://www.threads.com/@alleycvt/post/DdhRtYAlED3)
+[![Image 2: karaswisher's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358020658_948697726421445_7942154119342644972_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG4jOjkmMmccBSM2emlxBLAfzzpYXL-4FOGgGuXA-Orbe-ysH1KghfRrhoPNg4pG1E&_nc_ohc=hCU8jALHD_sQ7kNvwFgEElj&_nc_gid=-2x4KtvCG-6KhN_J_ZWdrw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQL7pI3B6llOvte-LMPVX4v70_AIbvQGHyd0FvXjQSveqQ&oe=6AB7FCB0&_nc_sid=10d13b)](https://www.threads.com/@karaswisher)
 
-Maybe if every single person at lost lands blows at the sky in one direction all at the same time we might be able to push the weather back a little by like ￼10 minutes maybe. Who’s in
+[karaswisher](https://www.threads.com/@karaswisher)
 
-675
+[4h](https://www.threads.com/@karaswisher/post/DdkdSbwgH82)
 
-14
+This chef 
 
-13
+[@nycmayor](https://www.threads.com/@nycmayor)
 
-6
+ is next level
 
-[![Image 3: real_pop_talk's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/788462305_18084821945400951_2838908643664929437_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGL_ZnjvEEicyO3d-u7eUMFyOUkUW0hCjCPTZt76Lq5CO_HbC6jdp-t7zB0rppzKQU&_nc_ohc=aJJ6gy3AUtMQ7kNvwF_CBnB&_nc_gid=93JK4GgG_KCX_X-tduBO7w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLB-yjxWNXrSzrn759UOdoF0LGzPZ0fF8KSP5eniDXXtg&oe=6AB69313&_nc_sid=10d13b)](https://www.threads.com/@real_pop_talk)
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/757909307_18614160997007018_274100067784419017_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=Mzk1MDYyMzkxMzQ5OTEzNTY5NDE4NjE0MTYwOTk0MDA3MDE4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjcyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=9rDUS-D6ywsQ7kNvwGa9aMT&_nc_oc=Adp1Wo3jMn25G0Kh_F1y573TfktIatGpGlGNjR0HEWYtaRSuC3I_bUnZaxiebQehJaY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=-2x4KtvCG-6KhN_J_ZWdrw&_nc_ss=7a22e&oh=00_AQILGBFv6XH9999_L7q4K9mhXgqGdMpcloHSfl9Mo3KefA&oe=6AB7F81F)
 
-[real_pop_talk](https://www.threads.com/@real_pop_talk)
+Sorry, we're having trouble playing this video.
 
-[real housewives](https://www.threads.com/search?q=real%20housewives&serp_type=tags&tag_id=18327507394106278)
-
-[10h](https://www.threads.com/@real_pop_talk/post/DdhRLr_EdFL)
-
-Now that we are more than a few episodes into RHOC, w
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUC7QGAgg_a3ChbnoAuA-hL1330ui1iWH6URVwtKZfl38M5jv3KDBM1PX21cQkt
 ```

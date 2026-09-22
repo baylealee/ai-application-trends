@@ -4,15 +4,16 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "coding"
+category: "mcp"
 tools:
   - "Claude"
+  - "MCP"
   - "Notion"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0329
-generated_at: "2026-09-21T05:19:11+00:00"
+zh_ratio: 0.0328
+generated_at: "2026-09-22T05:17:15+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -29,13 +30,13 @@ generated_at: "2026-09-21T05:19:11+00:00"
 
 ## 使用工具
 
-Claude、Notion、GitHub
+Claude、MCP、Notion、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
 2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
-3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續](http://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
+3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
 4. 算是個重複性時間黑洞，把流程拆解成標準步驟： 1.確認通知信 2.點擊 join@組織 3.核對GitHub帳號已加入組織
 5. 把這套流程你轉給新人吧...
 
@@ -65,43 +66,6 @@ reply_summary_status: `partial`
 
 - Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
 
-URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread 27.7
-- Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
-
-URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread 27.7
-- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363ec3c1801d9840
-- [![Image 15: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、流程、工具、整理、Notion、GitHub
-- zh_ratio: `0.0329`
-- source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
-
-## 原始抓取內容
-
-```text
-Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
-
 URL Source: http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 Markdown Content:
@@ -111,15 +75,38 @@ Markdown Content:
 
 [](http://www.threads.com/search)
 
-# [Thread 27.7K views](http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+# [Thread 27.7K vi
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwHDkS1_&_nc_oc=AdoA5wjfFHkBhLmgvajjKGCyON6_bQnHhKErLB5AG8wFfdJ-5jmypkDtyCqkY6JzTLY&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=95RFTu0KKwRdWgh1PubFRg&_nc_ss=7b289&oh=00_AQLoXGgIrO74IwrcAHB6MVGgjldfcOM4mKqYvnKWPkhx5g&oe=6AB67BB0)](http://www.threads.com/@pmenance.manager)
+## 抓取品質
 
-[pmenance.manager](http://www.threads.com/@pmenance.manager)
+- content_quality: `strong`
+- keyword_hits: AI、Claude、MCP、Agent、agent、流程、工具、整理、Notion、GitHub
+- zh_ratio: `0.0328`
+- source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
-[PM日常](http://www.threads.com/search?q=PM%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
+## 原始抓取內容
 
-[06/02/26](http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+```text
+Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
+
+URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 27.7K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+
+[![Image 1: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=if3n5ETe2jYQ7kNvwGNZsVh&_nc_oc=Adpt84KnAPEG_gPv8Bz83o3K-BvRNu9mvN02NJDyCKZDs6F3FvqyGlYBx-SUJy_aBEw&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=HQmL18CvDpUpLm1J0uC14Q&_nc_ss=7b289&oh=00_AQLDRC1dm44XyWF4v7X5_TWjrxKPSwwYn_zOl6KVWYKM3w&oe=6AB7CD30)](https://www.threads.com/@pmenance.manager)
+
+[pmenance.manager](https://www.threads.com/@pmenance.manager)
+
+[PM日常](https://www.threads.com/search?q=PM%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
+
+[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
 以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
 
@@ -137,7 +124,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=dot8T_qdQfQQ7kNvwF06LNZ&_nc_oc=AdrSFLB4li7MlClWaM6k-YsiWJPDK5BSQz1DjskWlkLd78UKgpiWAGxUwuspUz9-bd4&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=eNkAn-QGr4iiFXQaMzwMgQ&_nc_ss=7b289&oh=00_AQKDln5lHRHTmHLfRfj2-3JTM8mlpN5mhmzMEXpneO8i5Q&oe=6AB69C08)](http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=1OiGeAs2WqgQ7kNvwE9IrVy&_nc_oc=Adq1eQpwlcDLITx6Su8COW8bGb_qbzocZmbnlI1812sNeK4F70VneA6YEYzOUgaWqX0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=fZpRs6Tnaz3vTBbnb5bxVw&_nc_ss=7b289&oh=00_AQLxpEHDfimAkDLUBU6QcdgfFWLH-eaCbhu8CkVT6wCBYA&oe=6AB7ED88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -149,11 +136,9 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=0c06cTxz6l8Q7kNvwHDkS1_&_nc_oc=AdoA5wjfFHkBhLmgvajjKGCyON6_bQnHhKErLB5AG8wFfdJ-5jmypkDtyCqkY6JzTLY&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=95RFTu0KKwRdWgh1PubFRg&_nc_ss=7b289&oh=00_AQLoXGgIrO74IwrcAHB6MVGgjldfcOM4mKqYvnKWPkhx5g&oe=6AB67BB0)](http://www.threads.com/@pmenance.manager)
+[![Image 3: A Threads user's profile picture](https://scontent-sea1-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=if3n5ETe2jYQ7kNvwGNZsVh&_nc_oc=Adpt84KnAPEG_gPv8Bz83o3K-BvRNu9mvN02NJDyCKZDs6F3FvqyGlYBx-SUJy_aBEw&_nc_zt=24&_nc_ht=scontent-sea1-1.cdninstagram.com&_nc_gid=HQmL18CvDpUpLm1J0uC14Q&_nc_ss=7b289&oh=00_AQLDRC1dm44XyWF4v7X5_TWjrxKPSwwYn_zOl6KVWYKM3w&oe=6AB7CD30)](https://www.threads.com/@pmenance.manager)
 
-[pmenance.manager](http://www.threads.com/@pmenance.manager)
+[pmenance.manager](https://www.threads.com/@pmenance.manager)
 
-[06/02/26](http://www.threads.com/@pmenance.manager/post/DZE_y0emWRM)
-
-·Author
+[06/02/26](https://www.threads.com/@pmenance.manager/post/DZE_y0em
 ```
