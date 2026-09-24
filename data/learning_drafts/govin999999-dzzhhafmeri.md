@@ -1,25 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：JD might play this season on a qualifying "
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
-  - "MCP"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-23T05:02:06+00:00"
+generated_at: "2026-09-24T05:13:07+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：JD might play this season on a qualifying 
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-JD might play this season on a qualifying offer of $9.6M for one year to become an unrestricted free agent.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,11 +27,13 @@ JD might play this season on a qualifying offer of $9.6M for one year to become 
 
 ## 使用工具
 
-MCP
+Make
 
 ## 原始工作流拆解
 
-1. JD might play this season on a qualifying offer of $9.6M for one year to become an unrestricted free agent.
+1. 閱讀原文後，先確認它實際解決的工作情境。
+2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
+3. 再判斷是否能轉成自己的工作流範本。
 
 ## 可以直接複製的做法
 
@@ -62,12 +64,6 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: gabbysidibe's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/359463233_1012575749915509_3796213786707886935_n.jpg?stp=ds
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
@@ -76,21 +72,7 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- [![Image 10: Kara Swisher to ditch CNN ASAP in wake of Paramount-WBD settlement: ‘F–k these guys!’](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/13249362666201391025?url=https%3A%2F%2Fnypost.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F142084529.jpg
-- [![Image 21: ICE officer in Texas shooting was recruit not using a body camera](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/4632548632223002130?url=https%3A%2F%2Fwww.washingtonpost.com%2Fwp-apps%2Fimrs.php%3Fsrc%3Dhttps%3A%2F%2Fcloudfront-us-east-1.images.
-- The Venezuelan man shot by an ICE officer in Austin over the weekend was taken to a hospital late Monday after experiencing paralysis on the left side of his body, according to his lawyer. [washingtonpost.com/immig…](https://l.threads.com/?u=https%3A%2F%2Fwww.
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、MCP、Agent、agent
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+- Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -103,23 +85,51 @@ Markdown Content:
 
 # [Home](http://www.threads.com/?error=invalid_post)
 
-[![Image 1: aaron.rupar's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/456465291_8343612382370345_8092768749465866765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjEuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFfVIP5cyzSKv2B6i2LF_H98ACEUhrboLCnmWR67ZIGcVmf_SL_TJ8arJsDZzG5GxQ&_nc_ohc=QNzIOeEAD1QQ7kNvwEkJ0YG&_nc_gid=tM1J-B9lLLLhnh4QcNi7bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLDmcPd5C0o1qwaM06L4tf9rvojs3mo0Oh7euuBHFFXdg&oe=6AB935C0&_nc_sid=10d13b)](http://www.threads.com/@aaron.rupar)
+[![I
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQPbT2SJ--8_DkWJb9gAqxcqm072iEiu_-D3mRlaC5dArW47SEtDqiFA9UOXfsUpwA8jAIf5k2FN1zos8JzcJEb6DvML9Fml0BgDFfM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=-5pgeD07RPAQ7kNvwEOOrSb&
+- [![Image 2: Threads Lore Coloring Book — Bite the Paintbrush](https://external.xx.fbcdn.net/emg1/v/t13/7052272288011078462?url=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5c2c4b5f8ab7224aa193ea6b%2F5c2daae3cd836603bebbff05%2F6ab3dc86d5e67563c3b53b5f%2F1790
+- I was going to wait and make it look ✨fancier✨, but y'all have infected me with your enthusiasm😅 [tiger-gerbil-f4n6.squarespace.com/shop…](https://l.threads.com/?u=https%3A%2F%2Ftiger-gerbil-f4n6.squarespace.com%2Fshop%2Fthreads-lore-coloring-book&e=AUC2ivFZRo
 
-[aaron.rupar](http://www.threads.com/@aaron.rupar)
+## 抓取品質
 
-[8h](http://www.threads.com/@aaron.rupar/post/DdmmCIojx_6)
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-"The FBI in 2025 under President Trump shut down an inquiry into allegations that a political adviser to Senator Susan Collins had participated in a scheme to funnel illegal campaign contributions from a defense contractor seeking lucrative federal contracts"
+## 原始抓取內容
 
-[![Image 2: F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins (Gift Article)](https://external.xx.fbcdn.net/emg1/v/t13/5734072649085199626?url=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2026%2F09%2F22%2Fmultimedia%2Fdc-fbi1-hbqp%2Fdc-fbi1-hbqp-facebookJumbo.jpg%3Fgift%3D1&utld=nyt.com&_nc_sid=1d65fc&_nc_ht=external.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=tM1J-B9lLLLhnh4QcNi7bw&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAZPnHI3IXJUgGcwsd1HTY8MVOQTi4xjkctS_PzzUs6ha&oe=6AB547D4) ![Image 3](https://external.xx.fbcdn.net/emg1/v/t13/5656743027899025266?url=https%3A%2F%2Fstatic01.nyt.com%2Fvi-assets%2Fstatic-assets%2Fassets%2Ffavicon-BfpYO4zl.svg&utld=nyt.com&_nc_sid=1d65fc&_nc_ht=external.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=tM1J-B9lLLLhnh4QcNi7bw&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_DAXVjQBMu4DbbxZy9iTc39Ii40BsxJzpxgrLmlsJ2UY2B&oe=6AB54C6C) nytimes.com F.B.I. Shut Down Inquiry Into Top Ally of Senator Susan Collins (Gift Article)](https://l.threads.com/?u=https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F22%2Fus%2Fpolitics%2Ffbi-susan-collins-donor.html%3Funlocked_article_code%3D1.DFE.Y2nx.9jN0B1TCPNV2%26smid%3Durl-share&e=AUAvM4ik07PqC_heOBdd9AAnbCltNor6Fn0BVgh3rIIvONUa5u1f-36weYG_T4y5o6jBgcZ4MNfJ6hXnC3Y0EFIqcfNFiqceI2pD9cS5OX0nkvAFxiY)
+```text
+Title: Threads • Log in
 
-690
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-18
+Markdown Content:
+[![Image 1: bitethepaintbrush's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/420060138_1083568512794724_7619364534366998988_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=6Hph1ECGoAwQ7kNvwFtJC7P&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJVrHHJmOk6dGevEmZMlm1Y5naDp61ube53sLa365et_w&oe=6ABA7385&_nc_sid=10d13b)](https://www.threads.com/@bitethepaintbrush)
 
-125
+PREORDER PAGE IS UP
 
-13
+554
 
-[![Image 4: thedetroitline's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/470714543_493606509850164_1175435049811965497_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFfVIP5cyzSKv2B6i2LF_H98ACEUhrboLCnmWR67ZIGcVmf_SL_TJ8arJsDZzG5GxQ&_nc_ohc=cEmh7IB3fxMQ7kNvwFMvenu&_nc_gid=tM1J-B9lLLLhnh4QcNi7bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJXdTGC0j6zulK7FqBnJ_Sz0GhaaPb37OGOiRCZVgCefQ&oe=6AB93835&_nc_s
+112
+
+43
+
+24
+
+[![Image 2: isaiahrmartin's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485756047_548106147755418_1291714319630559295_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=zN2CpNYB7joQ7kNvwEfoSR1&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI2XQ7Xln-7X8eRoY5b2Np0rNedVb3KPSvWcQNn29-g4g&oe=6ABA81DD&_nc_sid=10d13b)](https://www.threads.com/@isaiahrmartin)
+
+Great seeing my bro Gov. Moore last night. He’s doing a lot to fight back against Republican gerrymandering! THANK YOU!
+
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/821151562_17988514488109004_7549400245668548869_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MjUzOTk4NDY0MDk4ODEzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=rezYchY9fBkQ7kNvwFKS0IT&_nc_oc=Ado3Zd8d20Y7MnlLMZ0TnyiAW4W-Y5eEySXw_jBE6BNo3HlD5i2pfVT8hc6DqcZdNzA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&_nc_ss=7a22e&oh=00_AQJLouUBMce-m0bmEcFH5MWb_r0k8f70tQ79fAEHSOOlOg&oe=6ABA7276&se=-1)](https://www.threads.com/@isaiahrmartin/post/DdoWfZwEdPo/media)
+
+899
+
+27
+
+15
+
+[![Image 4: grapeylyle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/764497449_17978742930117943_771329334197692904_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=4OVk7y5lqhUQ7kNvwEnF0DN&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQITFeXyf9UtSro2tkT8ae5di0QSammiGhybpbHGHRFcyg&oe=6ABA6E2E&_nc_sid=10d13b)](https://www.threads.com/@grapeylyle)
+
+Trump’s first ballroom architect reportedly raised concerns about emergency exits and fire containment. Trump replied, “I am the code.” The architect withdrew. He plans to pack hundreds of people into a giant room attached to the White House, hears “fire safety,” and reacts like the building inspector questioned his masculinity. The women’s restr
 ```

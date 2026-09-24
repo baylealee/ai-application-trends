@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：in 1939 two engineers started a company in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-23T05:02:06+00:00"
+generated_at: "2026-09-24T05:13:07+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：in 1939 two engineers started a company in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+in 1939 two engineers started a company in a rented garage with 538 dollars.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -60,6 +61,12 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: notpaul.flores's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792910061_17947680297318483_1724815013229175715_n.jpg?stp
+- Title: Threads • Log in
+
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -72,27 +79,14 @@ Markdown Content:
 # [Home](http://www.threads.com/?error=invalid_post)
 
 [![Ima
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[
-- [![Image 4: daughtersandsuns's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/657619213_18577819819027232_1884306886906996129_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdni
-- Him: What was that one song they did it starts with “bang” or something? Me: Cell Block Tango Him: Yeah, how did that part go? Me: Do you want me to tell you? Him: No wait, don’t tell me yet I wanna see if I can get it…okay give me the first part. Me: Pop.
+- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/819376135_17993401371108023_4652585791556123046_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MjcxMDM5MzkzNzA2MjAwNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/820458336_17896136904672135_7926137194898991807_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5MjYzODc4NTM1NTk1NjI2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/818931818_17983931280119715_1130069680694510143_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5MjgwNjQyMzkzNTk5NTUzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG、CRM
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -104,37 +98,59 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: ashleyyy_jaye's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/720341729_18593688652051280_3333188848252278695_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHOphM_cSWAsUaPgAt1VfppwcFldMGClxLUqJoaKCiagg6I9Sun3hnf6T6KAkieByE&_nc_ohc=ADs36yPle_kQ7kNvwH6PA-i&_nc_gid=NbdIPQgyR1pO5aQzUyU-RQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLumvuyopTfvxXyfVq6o-TLGNtHF2OgGDtnF12q3_dz7A&oe=6AB93463&_nc_sid=10d13b)](https://www.threads.com/@ashleyyy_jaye)
+[](https://www.threads.com/)
 
-I cried when the psychologist said I didn’t meet the criteria for ASD. After weeks of deep reflection, probing, and decoding, I couldn’t help but feel further away from figuring out “what the hell is wrong with me.”😮‍💨
+[Home](https://www.threads.com/)
 
-81
+New thread
 
-69
+[Search](https://www.threads.com/search)
 
-1
+Messages
 
-2
+Activity
 
-[![Image 2: collegesportsonly's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/748194610_18380085745205455_1315872493914790099_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHOphM_cSWAsUaPgAt1VfppwcFldMGClxLUqJoaKCiagg6I9Sun3hnf6T6KAkieByE&_nc_ohc=D9W7DiJyDM4Q7kNvwGkleAJ&_nc_gid=NbdIPQgyR1pO5aQzUyU-RQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJIsZUv29SxfyFmeFeOhaQ9R3gBAPWR79bVB1Vu-qMZuA&oe=6AB92AAF&_nc_sid=10d13b)](https://www.threads.com/@collegesportsonly)
+Profile
 
-The 2001 Miami Hurricanes squad is looking OLD. 👴
+Insights
 
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/794492536_17986184643115981_443845520934909140_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5MTk3OTUwNzg0MjgzODY3OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=6XiYLZE8GH4Q7kNvwFw30uj&_nc_oc=Adr-AlScWh-w1DARInR392kvH3idXy9-l9Mkov7zr4KJGAezehbCzuyzQntTTWW0YRg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=NbdIPQgyR1pO5aQzUyU-RQ&_nc_ss=7a22e&oh=00_AQJw8Xdt6yg27o5skVPpUGj_8aVTaijQ28n-2jwYLKbFvQ&oe=6AB92972)](https://www.threads.com/@collegesportsonly/post/DdmXDZDnHCW/media)
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-139
+More
 
-8
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: notpaul.flores's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792910061_17947680297318483_1724815013229175715_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFFUUHfTCkV_v0vlTIl-2aS8J_2Dx4nXKgtOmLYgSnkn3p15NrsPTTNp_iWn4LvVK0&_nc_ohc=QVNdoSi5kM0Q7kNvwFkjrSl&_nc_gid=RJBstpPhM8_VdM6itH7GDQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIGVljE70Wt3f3hLUwR4f4wrOIL7sMknexuguZDiPHn4A&oe=6ABA78DE&_nc_sid=10d13b)](https://www.threads.com/@notpaul.flores)
+
+[notpaul.flores](https://www.threads.com/@notpaul.flores)
+
+[11h](https://www.threads.com/@notpaul.flores/post/Ddo6iXzFsRh)
+
+in 1939 two engineers started a company in a rented garage with 538 dollars.
+
+their first big customer was Walt Disney.
+
+20
 
 6
 
-2
+[![Image 2: nehahaha_ma's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/757280600_17880073080681589_2164071177030899951_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gFFUUHfTCkV_v0vlTIl-2aS8J_2Dx4nXKgtOmLYgSnkn3p15NrsPTTNp_iWn4LvVK0&_nc_ohc=p_CE46P4dbQQ7kNvwEqm2Tz&_nc_gid=RJBstpPhM8_VdM6itH7GDQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLol6fPmxMFl5ZX8xh5vm1LZeOtVWxMFxnR3PTApQw3qA&oe=6ABA9D29&_nc_sid=10d13b)](https://www.threads.com/@nehahaha_ma)
 
-[![Image 4: ajmrcommunitydavis's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/467291586_914330854174414_9080585837214370176_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHOphM_cSWAsUaPgAt1VfppwcFldMGClxLUqJoaKCiagg6I9Sun3hnf6T6KAkieByE&_nc_ohc=c7eI69a0snAQ7kNvwFf5JOa&_nc_gid=NbdIPQgyR1pO5aQzUyU-RQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKOai_d1N8x7NX_OXB6Z_-3aClhwXNaMIrXzKNTeeNcwA&oe=6AB94411&_nc_sid=10d13b)](https://www.threads.com/@ajmrcommunitydavis)
+[nehahaha_ma](https://www.threads.com/@nehahaha_ma)
 
-MAGA was on a generational run from 2015/16 to late 2025/ early 2026.
+[heated rivalry fanfiction](https://www.threads.com/search?q=heated%20rivalry%20fanfiction&serp_type=tags&tag_id=18371074648094886)
 
-And the entire Republican Party hitched their wagon to it.
+[22h](https://www.threads.com/@nehahaha_ma/post/DdnvRIMlSIS)
 
-Any so called “sensible” Republicans hopped on the MAGA train and went along fo
+new fic!!! ilya starts a school for gays who can’t drive. enter shane hollander who is a gay who can’t drive.
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/822055787_17889578592681589_2493263215760763595_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5MjM2NzQ0MzAwNjE4NzQ0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwNi5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MTL2OZ0O5IwQ7kNvwGK8F3Q&_nc_oc=AdoateaZM2rtqfGRIwfnoZP47KCegjIfWBCghdVrQeAEnW6DMx_4l2Ln4Cf22d8PwUU&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=RJBstpPhM8_VdM6itH7GDQ&_nc_ss=7a22e&oh=00_AQLcLaGSgld5Pat_9UN6E2lgs_cWZ99L65tB3KDf6BqUGA&oe=6ABA68DE)
+
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/810962656_17889578601681589_5968072542753718337_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=
 ```

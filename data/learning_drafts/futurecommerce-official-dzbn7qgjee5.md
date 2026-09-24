@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.1286
-generated_at: "2026-09-23T05:02:06+00:00"
+generated_at: "2026-09-24T05:13:07+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -63,13 +63,13 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/60
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/60
 - URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP
+- keyword_hits: Claude、MCP
 - zh_ratio: `0.1286`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
@@ -81,7 +81,7 @@ Title: 未來商務 (@futurecommerce_official) on Threads
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=moyxpYjpJrwQ7kNvwHhXzPk&_nc_oc=AdoH7ZQnpCwMNagiwfhhzIWdHZxddXxhBiEe1bQ4zOFkweBUopV9y4Rdpyy1Bj0cheg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=NpS7gAiFYmtR00xhtCkjug&_nc_ss=7b289&oh=00_AQJeKzty7YftI0K9suRap4iTNfids51Q_KGmtJ_rzOtstA&oe=6AB93FE8)](https://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=moyxpYjpJrwQ7kNvwEoNzlM&_nc_oc=AdqL7Azw4gWxdszBulv3atCYQ2dB3NqqKgXw0mV4_hnkdmJ-tVEdMsPf04wkrLHNrII&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=4DvW6O1rRQQ8B1u0TgSMPA&_nc_ss=7b289&oh=00_AQJXoJMlFT0arJ-kTu3d9gZ5ORmzZuzyRCCuweVEh1gSoQ&oe=6ABA9168)](https://www.threads.com/@futurecommerce_official)
 
 台灣國考題庫現在可以直接問 Claude 了。
 
