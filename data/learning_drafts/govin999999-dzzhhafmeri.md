@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Bears QBs Caleb Williams (hamstring) and T"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-24T05:13:07+00:00"
+generated_at: "2026-09-25T05:15:22+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Bears QBs Caleb Williams (hamstring) and T
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Bears QBs Caleb Williams (hamstring) and Tyson Bagent (concussion) did not practice today.
 
 ## 這篇在解決什麼問題
 
@@ -27,13 +26,11 @@ Title: Threads • Log in
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. Bears QBs Caleb Williams (hamstring) and Tyson Bagent (concussion) did not practice today.
 
 ## 可以直接複製的做法
 
@@ -77,23 +74,15 @@ Markdown Content:
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQPbT2SJ--8_DkWJb9gAqxcqm072iEiu_-D3mRlaC5dArW47SEtDqiFA9UOXfsUpwA8jAIf5k2FN1zos8JzcJEb6DvML9Fml0BgDFfM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=-5pgeD07RPAQ7kNvwEOOrSb&
-- [![Image 2: Threads Lore Coloring Book — Bite the Paintbrush](https://external.xx.fbcdn.net/emg1/v/t13/7052272288011078462?url=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F5c2c4b5f8ab7224aa193ea6b%2F5c2daae3cd836603bebbff05%2F6ab3dc86d5e67563c3b53b5f%2F1790
-- I was going to wait and make it look ✨fancier✨, but y'all have infected me with your enthusiasm😅 [tiger-gerbil-f4n6.squarespace.com/shop…](https://l.threads.com/?u=https%3A%2F%2Ftiger-gerbil-f4n6.squarespace.com%2Fshop%2Fthreads-lore-coloring-book&e=AUC2ivFZRo
+[![Image 1: dannykpolitics's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/722703866_17941847244232315_3814625630809748801_n.jpg?st
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/825217922_2184676382460126_6832277782286961711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk5MzUzNzg4MTM5MzY5MjI2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- [![Image 7: mrskevonstage's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358002787_658342716319158_1320190298564978439_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
+- Devens tells Drew that he thinks Dee wants to be the last person to talk to him. Devens said if Dee tells you she's dropping in part one she's lying.
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、Agent、agent
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -105,31 +94,37 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: bitethepaintbrush's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/420060138_1083568512794724_7619364534366998988_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=6Hph1ECGoAwQ7kNvwFtJC7P&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJVrHHJmOk6dGevEmZMlm1Y5naDp61ube53sLa365et_w&oe=6ABA7385&_nc_sid=10d13b)](https://www.threads.com/@bitethepaintbrush)
+[![Image 1: pensandpembrokes's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474839573_571262642575453_5853078331353631854_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHHmkA68ng36Y_RoqaVQQRUETfGPBVSs5uzP-D2wknGIuYweQa4-grA-uEcOD08uyc&_nc_ohc=f2V7BeO84MYQ7kNvwG0aVmg&_nc_gid=khHTZD7RAn9F1OF8Yco8Pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKBMkqWFFJyXrk4d52UAasnPWuGtwx65aHiFmK4yjXPhA&oe=6ABBDEB1&_nc_sid=10d13b)](https://www.threads.com/@pensandpembrokes)
 
-PREORDER PAGE IS UP
+Me: *does Beighton test at PCP* PCP: Okay now bend your fingers. Me: *does so* PCP: 👁️👄👁️ Me: 👁️👄👁️ PCP: ….yeah, so…here’s a referral for a geneticist.
 
-554
+61
 
-112
+9
 
-43
+1
 
-24
+[![Image 2: stephemcneal's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/794903500_17987793447107506_3405470104122778751_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHHmkA68ng36Y_RoqaVQQRUETfGPBVSs5uzP-D2wknGIuYweQa4-grA-uEcOD08uyc&_nc_ohc=jnrmNyDN7BkQ7kNvwH6tRyZ&_nc_gid=khHTZD7RAn9F1OF8Yco8Pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLs6bDqBP8Hv6kRnw5TPU9FW6K7ty1C0XgW8E5FyMpZJA&oe=6ABBEEA5&_nc_sid=10d13b)](https://www.threads.com/@stephemcneal)
 
-[![Image 2: isaiahrmartin's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485756047_548106147755418_1291714319630559295_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=zN2CpNYB7joQ7kNvwEfoSR1&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQI2XQ7Xln-7X8eRoY5b2Np0rNedVb3KPSvWcQNn29-g4g&oe=6ABA81DD&_nc_sid=10d13b)](https://www.threads.com/@isaiahrmartin)
+Some fun news—I am editing at for the next 6ish weeks as a maternity leave fill-in! Writers, publicists, etc please pitch me! Let's work together: stephanie.mcneal@voxmedia.com
 
-Great seeing my bro Gov. Moore last night. He’s doing a lot to fight back against Republican gerrymandering! THANK YOU!
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/822036178_17988875499107506_7212041464736264469_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5MzM0MjkwODQxNzc5NjU1Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjM0LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=tkM3H4XN4PYQ7kNvwFvUaQF&_nc_oc=Adrq-m5GDoUcQkxcT5K6rdfCQz1Y0RwH_8b6GHtsleFhZly15D4KULxvJ0yKEyKdeyA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=khHTZD7RAn9F1OF8Yco8Pw&_nc_ss=7a22e&oh=00_AQKWdHHqABXrRdj_2c_dnWjht_p6FFxDxUTEr_3KqY0o7g&oe=6ABBE6E6)](https://www.threads.com/@stephemcneal/post/DdrNDeykWnI/media)
 
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/821151562_17988514488109004_7549400245668548869_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5MjUzOTk4NDY0MDk4ODEzNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzA3Mi5oZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=rezYchY9fBkQ7kNvwFKS0IT&_nc_oc=Ado3Zd8d20Y7MnlLMZ0TnyiAW4W-Y5eEySXw_jBE6BNo3HlD5i2pfVT8hc6DqcZdNzA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&_nc_ss=7a22e&oh=00_AQJLouUBMce-m0bmEcFH5MWb_r0k8f70tQ79fAEHSOOlOg&oe=6ABA7276&se=-1)](https://www.threads.com/@isaiahrmartin/post/DdoWfZwEdPo/media)
+476
 
-899
+34
 
-27
+13
 
-15
+37
 
-[![Image 4: grapeylyle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/764497449_17978742930117943_771329334197692904_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGSKeidmWZ5B5X7FQkwCsuVCLQW3zgYFy41urvEr0EOQW361mb0cbbQjwla1yYXqKQ&_nc_ohc=4OVk7y5lqhUQ7kNvwEnF0DN&_nc_gid=Uc3vjmUIivNNzxJ35BXA8g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQITFeXyf9UtSro2tkT8ae5di0QSammiGhybpbHGHRFcyg&oe=6ABA6E2E&_nc_sid=10d13b)](https://www.threads.com/@grapeylyle)
+[![Image 4: tompelissero's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357789073_1214772659203025_6321453965446633180_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHHmkA68ng36Y_RoqaVQQRUETfGPBVSs5uzP-D2wknGIuYweQa4-grA-uEcOD08uyc&_nc_ohc=gkLM20jeC8EQ7kNvwEFdcxY&_nc_gid=khHTZD7RAn9F1OF8Yco8Pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLo7Bv9EXMeAYNQh9pSpgSxkRWcyhWu3rz7ep31D-5xoQ&oe=6ABBE3E7&_nc_sid=10d13b)](https://www.threads.com/@tompelissero)
 
-Trump’s first ballroom architect reportedly raised concerns about emergency exits and fire containment. Trump replied, “I am the code.” The architect withdrew. He plans to pack hundreds of people into a giant room attached to the White House, hears “fire safety,” and reacts like the building inspector questioned his masculinity. The women’s restr
+Bears QBs Caleb Williams (hamstring) and Tyson Bagent (concussion) did not practice today.
+
+19
+
+1
+
+[![Image 5: omwithelle's profile picture](https://scontent.cdninstagra
 ```

@@ -12,8 +12,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.1084
-generated_at: "2026-09-24T05:13:07+00:00"
+zh_ratio: 0.1015
+generated_at: "2026-09-25T05:15:22+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8172461819341344567?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDkJfODaI1UrOsikRQ_cE6zQtmPz561bJfjgVK90ro10E7pKvkOfc_jGFUS-HJROYoLJAY22aBVuhl5setyGCEv23kkP_sBmOExp2cZ5RJf4m1vMqM)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCBcipV3DkiX7oCAHdG-DAngpxK4H3oIyJOM9kS6IZOWj2WcrJfQaUehLW1MVgQ5wekjLJ-s-o9uy7V59uz0WuCRcxPXsuVtlbH3aDstEUc6jK9xvc)
 
 ## 可以直接複製的做法
 
@@ -65,33 +65,6 @@ reply_summary_status: `partial`
 
 - Title: Jun CP (@_3cpj_) on Threads
 
-URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Thread 115K views](http://www.threads.com/@_3cpj_
-- [![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?url=https%3A%2F%2Fopengraph.githubassets.com%2F4dbedb751b27499cebdbc8c58831a14ba9d8c526a7eaea39f106e6025adb25cc%2FLic
-- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCFiulJz_4p0ps9AleZ9Jh4SMEQ3cjSUDLc601QH85U4v6rVacVG2KWSQJZcPGjJjCSGqemoV_5CF9QT9IUyZfcIYNXAkyma0Qfo4yl-OzlhbfrH2c)
-- [![Image 14: Clippers floated as Jalen Duren trade destination, but Pistons hold the cards](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/4916670186817113757?url=https%3A%2F%2Fi0.wp.com%2Fhoopswire.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fduren0914.jpg%3Ffit
-- [![Image 5: haifengkao's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、GitHub
-- zh_ratio: `0.1084`
-- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-## 原始抓取內容
-
-```text
-Title: Jun CP (@_3cpj_) on Threads
-
 URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
@@ -101,13 +74,62 @@ Markdown Content:
 
 [](https://www.threads.com/search)
 
-# [Thread 115K views](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+# [Thread 115K views](https://www.threads.com/@_
+- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAAVNeQpjUimZWvk7oUJ_9koBL6qQIKE7t6ImdgfGd77EHRITFJmgYWsL4E0spBWTwXEqfT7JqwUcWHzV_1qp1R6i6CtVZZ_rx4tU-fP5ZGBrs_vnI)
+- [![Image 11: dustin_gmat's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/539770324_17853895812516583_5384598132147164372_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_oh
+- [![Image 5: haifengkao's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- Currently use my Quest 3 for productivity, and the battery drains slowly despite being plugged in to an outlet. I do hope the Glasses' puck can be opened up to replace its battery, should the time come that it's starting to drain slow.
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=QKHgb3Bk05MQ7kNvwFXJ53A&_nc_oc=AdrARXgIjTOxSCxIfXlZvNJ6LYomu3Ve1rwohUqE9p_JjuZPFCN7Oxr-ZHhGWwxMnZ4&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQKXjRK8q8KbPd42_27E6OwwrGdnsxa_V3eAIDU80A3MCQ&oe=6ABA8074)](https://www.threads.com/@_3cpj_)
+## 抓取品質
 
-[_3cpj_](https://www.threads.com/@_3cpj_)
+- content_quality: `strong`
+- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、GitHub、CLI
+- zh_ratio: `0.1015`
+- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
-[08/11/25](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+## 原始抓取內容
+
+```text
+Title: Jun CP (@_3cpj_) on Threads
+
+URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[Home](http://www.threads.com/)
+
+New thread
+
+[Search](http://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](http://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+
+115K views
+
+[![Image 1: _3cpj_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=QKHgb3Bk05MQ7kNvwFWcYLq&_nc_oc=Adr3QIFSESI3m7bJL0Th9uRlK6NaHKc9U8gAy7PhaTfE4UWsUJpxclI9--4BpCD9O3U&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQL85_SsQRj2_1xZKZWqUvyGVMypfom1SVUzIC2jNSjR3Q&oe=6ABBD1F4)](http://www.threads.com/@_3cpj_)
+
+[_3cpj_](http://www.threads.com/@_3cpj_)
+
+[08/11/25](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
 最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
 
@@ -129,7 +151,7 @@ Markdown Content:
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8172461819341344567?url=https%3A%2F%2Fopengraph.githubassets.com%2F4dbedb751b27499cebdbc8c58831a14ba9d8c526a7eaea39f106e6025adb25cc%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=2FFct7WpXA7nN094xOZ9-Q&_nc_zt=3&oh=06_Q3_DATqV4H27E-P3f8M7LwrZu1IfXr6bpUq8cwdlSWGxEH81&oe=6AB684B1) ![Image 3](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=2FFct7WpXA7nN094xOZ9-Q&_nc_zt=3&oh=06_Q3_DAXtOOUBjPZpvjUuuzJmeFW0ZuA4-bCInVVlngG5_-Rlq&oe=6AB68547) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDkJfODaI1UrOsikRQ_cE6zQtmPz561bJfjgVK90ro10E7pKvkOfc_jGFUS-HJROYoLJAY22aBVuhl5setyGCEv23kkP_sBmOExp2cZ5RJf4m1vMqM)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?url=https%3A%2F%2Fopengraph.githubassets.com%2F4dbedb751b27499cebdbc8c58831a14ba9d8c526a7eaea39f106e6025adb25cc%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=J-kFz75qxyKRmRJTaCIoQQ&_nc_zt=3&oh=06_Q3_DAere4wtmEcmFKs6Dhri61SS3KxLU-mVGOf0CwgtmA3jD&oe=6AB7D631) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=J-kFz75qxyKRmRJTaCIoQQ&_nc_zt=3&oh=06_Q3_DAeY26n7K5P0D1dPZR_oITikwHmxuSYZNPWMPcGbDrzNW&oe=6AB7D6C7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCBcipV3DkiX7oCAHdG-DAngpxK4H3oIyJOM9kS6IZOWj2WcrJfQaUehLW1MVgQ5wekjLJ-s-o9uy7V59uz0WuCRcxPXsuVtlbH3aDstEUc6jK9xvc)
 
 1.9K
 
@@ -139,11 +161,8 @@ Markdown Content:
 
 2.1K
 
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
 
 * © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
+* [Threads Ter
 ```
