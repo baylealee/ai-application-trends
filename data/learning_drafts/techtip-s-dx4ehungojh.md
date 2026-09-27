@@ -1,26 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Tommy Edman and Edmunds are giving away $2"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "GAS"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-26T05:19:53+00:00"
+generated_at: "2026-09-27T05:37:15+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Tommy Edman and Edmunds are giving away $2
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Tommy Edman and Edmunds are giving away $25,000 worth of gas to LA Drivers at Longo Lexus in El Monte today ahead of the Dodgers postseason 🚨
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ Tommy Edman and Edmunds are giving away $25,000 worth of gas to LA Drivers at Lo
 
 ## 使用工具
 
-RAG、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -65,17 +63,16 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: eduardomitchell71's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/627857621_17940884433117501_7888547617256653020_n.jpg?s
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/825322427_17990528397100600_4844578533583754826_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NDE4MzM5NzUzOTE0MjE5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- Wilson averaged 27.8 points and 8.8 rebounds, while Reese posted 19.3 points and 9.0 rebounds to earn the honor for the third straight week.
-- Markdown Content:
-[![Image 1: eduardomitchell71's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/627857621_17940884433117501_7888547617256653020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzYuYzIifQ&_n
-- [![Image 2: somepoliticaldude's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/591147894_17946131856086481_5125671843364251160_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdn
+[![Image 1: justinbrokar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/772696773_17895530205576353_6199044142505631761_n.jpg?stp=ds
+- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/825277118_17989102485115021_4685137631161726604_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NDk4Mzg2Mjc0MTExMTM5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/825322680_17985215346115635_8782741199935686643_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NTA4OTYxMTk1NzM4MDgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/825276712_17903118216576353_1724566254009636146_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5NDkxNzI1NjE5NjMwODExOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825277002_17903118207576353_2323601938157043729_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5NDkxNzI1NDc3ODc2NTk2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -87,47 +84,31 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: blufftalk's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731037333_17977207242107708_4594227530752895539_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=fb5QjsIxLMUQ7kNvwFyxt_p&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJp2slDy_YMa-BLdDumS9-vL4z9StrvWIgfb45g4TAt7Q&oe=6ABE87CB&_nc_sid=10d13b)](https://www.threads.com/@blufftalk)
 
-[](https://www.threads.com/)
+Good morning from the smallest and prettiest NCAA Division I football stadium.
 
-[](https://www.threads.com/search)
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825324145_18562114279074841_651744825335030750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NDc5OTA0NjE3ODk5MDI0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tl0oOjA0jX4Q7kNvwFeae-I&_nc_oc=Adq1to_MJQbW4eflavsssiq4frGCvwIS4oZ74kGDPeAmbo22gc49GICfuUgO1Ikaj3o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&_nc_ss=7a22e&oh=00_AQIGQx1v7l-qu6JxRRUT4lCoQWLL7PzU-hWsKNCuGhqN6A&oe=6ABE8FE0)](https://www.threads.com/@blufftalk/post/DdwYJEwkWio/media)
 
-# [Home](https://www.threads.com/?error=invalid_post)
+13
 
-[![Image 1: reintgen's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/462661339_2274076072970471_3398194829507311094_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGgNHY4zi0_MRrkDdUCAoDotsWnjOsMcLNzm1yCztyFyVJFU08CYU22jASGNixqymI&_nc_ohc=WzA7ixQc_58Q7kNvwGP-RVm&_nc_gid=wPcSVRUki1SYHFGqfwyLCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQKNyO__GM_YbeIxuFpqoGTppnIU61WfZEGTnXKTNo8Jwg&oe=6ABD1AEF&_nc_sid=10d13b)](https://www.threads.com/@reintgen)
+1
 
-[reintgen](https://www.threads.com/@reintgen)
+1
 
-[Author Threads](https://www.threads.com/search?q=Author%20Threads&serp_type=tags&tag_id=18407611699004686)
+[![Image 3: jaychantelle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/727943706_18191509552333466_2258940556216308900_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=XeGgtaBFMOQQ7kNvwGxwupb&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJmt6mrnKRe5_FWgUDBwhFcVTEL2C9zeZM3gfptOXRsbw&oe=6ABE892F&_nc_sid=10d13b)](https://www.threads.com/@jaychantelle)
 
-[18h](https://www.threads.com/@reintgen/post/DdtPecyFd3j)
+Today is September 26th and we want justice for Nolan Wells.
 
-The MG discourse right now is fascinating to me. It's obvious that the walls are closing in and the room is shrinking. At the same time, I just celebrated the fact that my current MG series--the Dragonships--became my most successful series published. In two years, the first book has not only surpassed the number of sales of my previous bestselling book (Nyxia) but it has doubled them. There's one very specific thing I requested early on that has impacted how these books have performed.
+237
 
-78
+22
 
-33
+1
 
-5
+[![Image 4: itsmoonchildbecca's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/780127523_17905731906523533_5738259948852941656_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=fTneZ5tV4C8Q7kNvwHXx56Y&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLQOMYilnAMFa0PkGz3BYeWzJpkOM1pst1RgScKjx-5pg&oe=6ABE979E&_nc_sid=10d13b)](https://www.threads.com/@itsmoonchildbecca)
 
-9
+Love you both❤️
 
-[![Image 2: geoffjoneswriter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/383849148_861094548512411_5325380500979523915_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGgNHY4zi0_MRrkDdUCAoDotsWnjOsMcLNzm1yCztyFyVJFU08CYU22jASGNixqymI&_nc_ohc=DX3Y4AaqUFcQ7kNvwGNLqVc&_nc_gid=wPcSVRUki1SYHFGqfwyLCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIfdH0aa-ewLhk4uDI4iHGfUNTlWqTwVV3t-ca1HdWRpA&oe=6ABD3CDC&_nc_sid=10d13b)](https://www.threads.com/@geoffjoneswriter)
-
-[geoffjoneswriter](https://www.threads.com/@geoffjoneswriter)
-
-[Back to the Future](https://www.threads.com/search?q=Back%20to%20the%20Future&serp_type=tags&tag_id=18403802866009447)
-
-[8h](https://www.threads.com/@geoffjoneswriter/post/DduUzrAiUNb)
-
-If Dr. Emmet Brown's Delorean was stationary on a treadmill turning at 88 mph, would it be able to travel through time?
-
-30
-
-36
-
-2
-
-[![Image 3: mecklenburgcounty's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/460659622_1040823524401782_5927932275749867677_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGgNHY4zi0_MRrkDdUCAoDotsWnjOsMcLNzm1yCztyFyVJFU08CYU22jASGNixqymI&_nc_ohc=Vqy07S1fYfQQ7kNvwFewULV&_nc_gid=wPcSVRUki1SYHFGqfwyLCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJo7NMQR6LWiHcyZOsKVJM0Y_l7DlOPkoTl2D54rYefVg&
+[![Image 5](https://scontent.cdninstagram.com/v/t39.30808-6/825336818_28297301063273625_5615380478498711051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDk3NDIyNzkzODczMTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE0NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yEZyHFcQibAQ7kNvwG0HXuT&_nc_oc=Adr5b5TA1EGMJ6
 ```
