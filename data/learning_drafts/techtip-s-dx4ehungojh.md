@@ -4,12 +4,13 @@ source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-27T05:37:15+00:00"
+generated_at: "2026-09-28T05:44:49+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -63,16 +64,24 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: justinbrokar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/772696773_17895530205576353_6199044142505631761_n.jpg?stp=ds
-- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/825277118_17989102485115021_4685137631161726604_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NDk4Mzg2Mjc0MTExMTM5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/825322680_17985215346115635_8782741199935686643_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=Mzk5NTA4OTYxMTk1NzM4MDgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/825276712_17903118216576353_1724566254009636146_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5NDkxNzI1NjE5NjMwODExOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825277002_17903118207576353_2323601938157043729_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=Mzk5NDkxNzI1NDc3ODc2NTk2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Ima
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOZ5FRmwZXfY3Ua6Cy_HlXWp9LV0XFAi-j1B0Q5YD-Hm2j1ahA7S52nQ0TCJSMLc91kcv4-FA-hDt66XrcOvKKMh4A2RcOYBSHOD_Q.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=Kn5COiFuXdUQ7kNvwEvnaWR&
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/825276774_18354966856222194_6498608708965418875_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NTY3OTQyMTE4NTA2MDY5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/825277009_18354966847222194_3630429368705092367_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5NTY3OTQyMTYyOTY0OTgxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- [![Image 4: lvaces's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/780840720_17976923982109097_5327644364782420645_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.c
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -84,31 +93,59 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: blufftalk's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731037333_17977207242107708_4594227530752895539_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=fb5QjsIxLMUQ7kNvwFyxt_p&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJp2slDy_YMa-BLdDumS9-vL4z9StrvWIgfb45g4TAt7Q&oe=6ABE87CB&_nc_sid=10d13b)](https://www.threads.com/@blufftalk)
+[](https://www.threads.com/)
 
-Good morning from the smallest and prettiest NCAA Division I football stadium.
+[](https://www.threads.com/)
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825324145_18562114279074841_651744825335030750_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NDc5OTA0NjE3ODk5MDI0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=tl0oOjA0jX4Q7kNvwFeae-I&_nc_oc=Adq1to_MJQbW4eflavsssiq4frGCvwIS4oZ74kGDPeAmbo22gc49GICfuUgO1Ikaj3o&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&_nc_ss=7a22e&oh=00_AQIGQx1v7l-qu6JxRRUT4lCoQWLL7PzU-hWsKNCuGhqN6A&oe=6ABE8FE0)](https://www.threads.com/@blufftalk/post/DdwYJEwkWio/media)
+[](https://www.threads.com/search)
 
-13
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: tlevans1's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/462999500_1073903030409276_161636451042099331_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=c5gMfh-KjXIQ7kNvwE0PCZc&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNegC6Uy_Fp5DpdfROgbCmLkRJXmlnwmBSVBPxPu4W0vw&oe=6ABFD5B4&_nc_sid=10d13b)](https://www.threads.com/@tlevans1)
+
+[tlevans1](https://www.threads.com/@tlevans1)
+
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+
+[9h](https://www.threads.com/@tlevans1/post/DdzewaTEuvv)
+
+Azzi Fudd #1 for a reason. Fight me, I got allllll day.
+
+713
+
+47
+
+41
+
+[![Image 2: tanyaray_fox's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/770077712_17981238795101376_1873707743597482621_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=3pfJp6MFAP0Q7kNvwELhWCH&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPyMOSuFcEwpv--amczuX9ZVq8Mp0fwUSctO2N_CPL17A&oe=6ABFD161&_nc_sid=10d13b)](https://www.threads.com/@tanyaray_fox)
+
+[tanyaray_fox](https://www.threads.com/@tanyaray_fox)
+
+[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
+
+[6h](https://www.threads.com/@tanyaray_fox/post/DdzzSU1j2JB)
+
+The Ravens tackling really is awful… wtf
+
+119
+
+11
 
 1
 
 1
 
-[![Image 3: jaychantelle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/727943706_18191509552333466_2258940556216308900_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=XeGgtaBFMOQQ7kNvwGxwupb&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJmt6mrnKRe5_FWgUDBwhFcVTEL2C9zeZM3gfptOXRsbw&oe=6ABE892F&_nc_sid=10d13b)](https://www.threads.com/@jaychantelle)
+[![Image 3: glamacrylics_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/688288470_18579239677004813_2053660543933215071_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=qthnY-nBs6gQ7kNvwFuezw7&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPIIRRIpgO5dYaP5fjzUQ8e028QzLhjKihpaTdqjxD9wg&oe=6ABFBCA9&_nc_sid=10d13b)](https://www.threads.com/@glamacrylics_)
 
-Today is September 26th and we want justice for Nolan Wells.
+[glamacrylics_](https://www.threads.com/@glamacrylics_)
 
-237
+[19h](https://www.threads.com/@glamacrylics_/post/DdyXgqCDv5X)
 
-22
+I just want to go home 😢😢
 
-1
+26
 
-[![Image 4: itsmoonchildbecca's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/780127523_17905731906523533_5738259948852941656_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gHILrFN0Qi_lJrf6T5CK-uJTCurxuf1Y58IbsOg84DARjzmeEPc-xBQwJHysu35BCg&_nc_ohc=fTneZ5tV4C8Q7kNvwHXx56Y&_nc_gid=3VXh-SLgmOPhnu1qxBmfYQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLQOMYilnAMFa0PkGz3BYeWzJpkOM1pst1RgScKjx-5pg&oe=6ABE979E&_nc_sid=10d13b)](https://www.threads.com/@itsmoonchildbecca)
+10
 
-Love you both❤️
-
-[![Image 5](https://scontent.cdninstagram.com/v/t39.30808-6/825336818_28297301063273625_5615380478498711051_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDk3NDIyNzkzODczMTIzOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE0NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=yEZyHFcQibAQ7kNvwG0HXuT&_nc_oc=Adr5b5TA1EGMJ6
+[![Image 4: premefootball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472138694_622183420479971_3097115532851013464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOfl
 ```

@@ -10,8 +10,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0358
-generated_at: "2026-09-27T05:37:15+00:00"
+zh_ratio: 0.1286
+generated_at: "2026-09-28T05:44:49+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -33,8 +33,6 @@ Claude、MCP
 ## 原始工作流拆解
 
 1. Twinkle Hub 把 6.4 萬份考卷、32 萬題的考選部資料整合進 MCP 端點，Claude 串接後可即時搜尋題目、篩選關鍵字、拿到 PDF 連結。
-2. 三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?
-3. 我哋個新app「香港基本法測試」正式上線🎉 唔使再喺海量條文入面迷失，直接同你拆解測驗重點：
 
 ## 可以直接複製的做法
 
@@ -65,19 +63,28 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/6
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread 137K v
 - Title: 未來商務 (@futurecommerce_official) on Threads
 
 URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/60
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/60
+- [![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26outp
+- [![Image 22: twinkyleung.ky's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/383340876_3537627559781993_321237725797045908_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy
+- [![Image 9: 刷題神器 Quiz Factory｜把你的考卷變成可以刷的題庫](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?url=https%3A%2F%2Fquiz-factory.tw%2Ficons%2Fog-brand.png&utld=quiz-factory.tw&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-src&ccb=18
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、MCP
-- zh_ratio: `0.0358`
+- zh_ratio: `0.1286`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 ## 原始抓取內容
@@ -88,41 +95,7 @@ Title: 未來商務 (@futurecommerce_official) on Threads
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread](https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5)
-
-137K views
-
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=GCnRKwSRI80Q7kNvwGQdDdq&_nc_oc=AdqO938UurlkSjIQ9ryHp-abY6C9Bx0W3pOtDbY8ayRbjdCrHzNpw3gaqI_r1g0Rxwc&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=U6B5xXLalGXAMBTo2fKcyQ&_nc_ss=7b289&oh=00_AQIf6YsXmkkB_IQ7TwIw9587LOPQbTSjixyRHxih2ObZjw&oe=6ABE85E8)](https://www.threads.com/@futurecommerce_official)
-
-[futurecommerce_official](https://www.threads.com/@futurecommerce_official)
-
-[05/31/26](https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=We89ZW4VmW8Q7kNvwEWTWvH&_nc_oc=AdrwxsnTgD2o5y3GnxbFdK3ohp25dYH2AotaYaFICoON3lFjj9qAr_1ib5LxzqokrGE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=3uTYJ8RZ2gfaImqjDoFyGQ&_nc_ss=7b289&oh=00_AQNCiOOHuclb0YG33O1M-9Lpw87vtMk7GzfDlX_ZZbauQg&oe=6ABFD768)](https://www.threads.com/@futurecommerce_official)
 
 台灣國考題庫現在可以直接問 Claude 了。
 
@@ -139,16 +112,4 @@ Twinkle Hub 把 6.4 萬份考卷、32 萬題的考選部資料整合進 MCP 端�
 433
 
 2.4K
-
-[![Image 2: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=GCnRKwSRI80Q7kNvwGQdDdq&_nc_oc=AdqO938UurlkSjIQ9ryHp-abY6C9Bx0W3pOtDbY8ayRbjdCrHzNpw3gaqI_r1g0Rxwc&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=U6B5xXLalGXAMBTo2fKcyQ&_nc_ss=7b289&oh=00_AQIf6YsXmkkB_IQ7TwIw9587LOPQbTSjixyRHxih2ObZjw&oe=6ABE85E8)](https://www.threads.com/@futurecommerce_official)
-
-[futurecommerce_official](https://www.threads.com/@futurecommerce_official)
-
-[05/31/26](https://www.threads.com/@futurecommerce_official/post/DZBN7uEDHgs)
-
-Author
-
-三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUBnQgVBxH-puAcU_jAM0rcn7rVIGZX3AbM1k5ZbC7ArPBqoupQglcds9IvphmSLPyO8JN2r87LW5VKrxbq-WpD_U7RLM0ujy4hnNHTu-lYECTGgKVI)
-
-[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26output%3Dwebp&utld=learnin.tw&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=U6B5xXLalGX
 ```

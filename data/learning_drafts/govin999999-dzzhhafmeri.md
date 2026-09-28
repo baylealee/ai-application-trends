@@ -6,11 +6,10 @@ post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-27T05:37:15+00:00"
+generated_at: "2026-09-28T05:44:49+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,39 +60,11 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: chelsealeite's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/682913986_17859755751690731_4860966965846724397_n.jpg?stp
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![I
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/825276732_17974216899135434_2112159609059032074_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&cb=8438d1d6-b026aa3b&ig_cache_key=Mzk5NDcxNjQ2MDU4NTk4OTg2Mg%3D%3D.3-ccb7-5-cb8438d1d6-b026aa3b&ccb=7-5&_nc_sid=58cd
-- [![Image 2](https://scontent.cdninstagram.com/v/t39.30808-6/825352932_10234643506212286_5089208330927206365_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5NTAyOTYyMjA2MDU5Nzg2OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- [![Image 7](https://scontent.cdninstagram.com/v/t51.82787-15/825324679_17970569715171927_3769039716798763062_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NDk5Mjc4Mzk5OTgzNTc2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: selmamakescents's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608854565_17949000438111696_4895205303871586032_n.jpg?s
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -106,49 +77,60 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: chelsealeite's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/682913986_17859755751690731_4860966965846724397_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEj9IlHVI55AoYHixkyCRcivn3z3y6mNatp4aH-N8c9_VeR1iv8dxANqbJRKFRhpsk&_nc_ohc=diN_5PhivYgQ7kNvwHBIoeU&_nc_gid=tbz_ihnFnxJ8hBgM6vt4IA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQJxeWfRRV9sIhmgy0M6rndCUNEoFBtE7PjyfIfQsM95hA&oe=6ABE67D9&_nc_sid=10d13b)](https://www.threads.com/@chelsealeite)
+- Markdown Content:
+[![Image 1: selmamakescents's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608854565_17949000438111696_4895205303871586032_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc
+- [![Image 6](https://scontent.cdninstagram.com/v/t39.30808-6/825274156_10237827247835062_7842346738079667010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk5NTYzNTA3NTY3Mzc5NDg1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
 
-[chelsealeite](https://www.threads.com/@chelsealeite)
+## 抓取品質
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[12h](https://www.threads.com/@chelsealeite/post/DdwfVrolP9D)
+## 原始抓取內容
 
-Toronto ![Image 2](https://cdn.fbsbx.com/v/t65.23080-21/687668893_1719289715750548_2574459396344549730_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQJPEfz89WXZu4ZcQyJth5IH5YxL_Q39VGHkoY4Ug4vJUQ&oe=6ABA9AF6)Tempo exit interview thread part 2:
+```text
+Title: Threads • Log in
 
-42
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-16
+Markdown Content:
+[![Image 1: realrclark's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358792119_282479604300932_8552940139930217151_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=CbpmV2HGtlAQ7kNvwFnya1A&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOQoDOof4lAfkSxgy1p3TjjRIevjCQrIAJhIyblvR4TLA&oe=6ABFBA69&_nc_sid=10d13b)](https://www.threads.com/@realrclark)
 
-4
+Bryce Young you are playing high level football!
 
-[![Image 3: keeamor's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/788901824_17940120540343356_5993091024136497315_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEj9IlHVI55AoYHixkyCRcivn3z3y6mNatp4aH-N8c9_VeR1iv8dxANqbJRKFRhpsk&_nc_ohc=wZ7fIL5RooEQ7kNvwEi1vsK&_nc_gid=tbz_ihnFnxJ8hBgM6vt4IA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQLihEyyfheIlq1-rcz47piz4cIFCvGjEBAa0m5UsSFa-Q&oe=6ABE7104&_nc_sid=10d13b)](https://www.threads.com/@keeamor)
+86
 
-[keeamor](https://www.threads.com/@keeamor)
+1
 
-[11h](https://www.threads.com/@keeamor/post/DdwnJs4GGw8)
+1
 
-Gerald Levert was in his mf BAG with “Baby I’m Ready”
+1
 
-561
+[![Image 2: maiocconbcs's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358363726_1445392549335717_993338922550136788_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=0kDk7Tu28P8Q7kNvwF-PGlj&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPgxKtG096EU8IMHw3ja8vu-0hqCjprDPjZGqW3krmgIg&oe=6ABFED6C&_nc_sid=10d13b)](https://www.threads.com/@maiocconbcs)
 
-24
+49ers injury update: WR Mike Evans has been ruled OUT for the remainder of the game.
 
-75
+29
 
-9
+2
 
-[![Image 4: achilleus_capital's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/417445758_1086347719382027_2037712929905890017_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEj9IlHVI55AoYHixkyCRcivn3z3y6mNatp4aH-N8c9_VeR1iv8dxANqbJRKFRhpsk&_nc_ohc=VYLRiRazpzIQ7kNvwF4Ry5Z&_nc_gid=tbz_ihnFnxJ8hBgM6vt4IA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQIbdDx_lrSmswI_BuNgeIuShiEKqKGsjYMzojoSKXmQwg&oe=6ABE6C7B&_nc_sid=10d13b)](https://www.threads.com/@achilleus_capital)
+1
 
-[achilleus_capital](https://www.threads.com/@achilleus_capital)
+[![Image 3: regina.baker___'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825269744_18119406967825348_4203014505617115997_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=98EDaANjq_kQ7kNvwFUf5ev&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNj9_dITaxo1GiljmtrgJlTT3SxGGrw9TGmfzIvHvtBzw&oe=6ABFB687&_nc_sid=10d13b)](https://www.threads.com/@regina.baker___)
 
-[16h](https://www.threads.com/@achilleus_capital/post/DdwFhvACOGL)
+Made this account because I turned 52, finalized my divorce, and realized I had zero idea who I was outside of being someone's wife. Decided it's time for chapter two. Turns out, starting over is terrifying but also kind of exhilarating! Cheers to finding myself.
 
-🚨Oracle might be in big trouble.
+[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/825325243_18119408026825348_7663160336916903815_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NTU0Mjg2Nzc2NTQyMjI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=y2I7o-KrtkYQ7kNvwElPkHt&_nc_oc=Adrye6RmIW87zzgVQXq6rDZ-v55Ql4joCPAyviCpVYiTyQuTKX5CyfpK4R4Z7bA99Qk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&_nc_ss=7a22e&oh=00_AQOFl5eXxrRT3N3H7E1alw685HNA8zQ38bgIHQ_kHK-YJg&oe=6ABFC85F)](https://www.threads.com/@regina.baker___/post/DdzBRGmAOjQ/media)
 
-Its credit default swaps just hit a record high, and its 2056 bonds are now yielding over 8% for the first time.
+4.4K
 
-Oracle is one downgrade away from junk status.
+187
 
-If that happens, $120 billion of its bond
+12
+
+3
+
+[![Image 5: patti.k.greer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/55
 ```
