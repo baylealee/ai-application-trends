@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：[Image 2: bobthedragqueen's profile pictur"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-28T05:44:49+00:00"
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：[Image 2: bobthedragqueen's profile pictur
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 2: bobthedragqueen's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361274812_1009597543546064_2499689625262674340_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -61,22 +61,28 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[
+- Title: Threads • Log in
+
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Ima
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOZ5FRmwZXfY3Ua6Cy_HlXWp9LV0XFAi-j1B0Q5YD-Hm2j1ahA7S52nQ0TCJSMLc91kcv4-FA-hDt66XrcOvKKMh4A2RcOYBSHOD_Q.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=Kn5COiFuXdUQ7kNvwEvnaWR&
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/825276774_18354966856222194_6498608708965418875_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NTY3OTQyMTE4NTA2MDY5Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/825277009_18354966847222194_3630429368705092367_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5NTY3OTQyMTYyOTY0OTgxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- [![Image 4: lvaces's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/780840720_17976923982109097_5327644364782420645_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.c
+[![Image 1: msnownews's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583442970_17930921655110610_5958914482674721860_n.jpg?stp=dst-j
+- ![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/829585606_2089475901670343_3465940960061772944_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk5NjI4NjgzNzc4OTMzMDMwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- [![Image 7: happyheathersmiles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/573322462_18495988648076440_4526332605174372705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cd
+- Markdown Content:
+[![Image 1: msnownews's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583442970_17930921655110610_5958914482674721860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=sco
 
 ## 抓取品質
 
@@ -93,59 +99,39 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: kofi.frempong.art's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760511479_17974041354120427_7870751579755926380_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=kKTPeCyedZIQ7kNvwHpENsN&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOEtCub0Uj__Et0Fvw4oMAaI8gGA06o9kpTWmIFZBzz2A&oe=6AC10E5B&_nc_sid=10d13b)](https://www.threads.com/@kofi.frempong.art)
 
-[](https://www.threads.com/)
+Raven Johnson had a solid game lastnight, based on what I observed from the stats. Can anyone who watched the game speak on this ? The effiency looked like she maximized every ounce of her 17mins
 
-[](https://www.threads.com/search)
+102
 
-# [Home](https://www.threads.com/?error=invalid_post)
+61
 
-[![Image 1: tlevans1's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/462999500_1073903030409276_161636451042099331_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=c5gMfh-KjXIQ7kNvwE0PCZc&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNegC6Uy_Fp5DpdfROgbCmLkRJXmlnwmBSVBPxPu4W0vw&oe=6ABFD5B4&_nc_sid=10d13b)](https://www.threads.com/@tlevans1)
+2
 
-[tlevans1](https://www.threads.com/@tlevans1)
+[![Image 2: bobthedragqueen's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361274812_1009597543546064_2499689625262674340_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=AHP3Wq5Bq5MQ7kNvwGzbtHS&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPMd1JMK60bHRJ4X5IZ9y9o4Vl6l83SbRBL3Lb5zdRUWg&oe=6AC1385F&_nc_sid=10d13b)](https://www.threads.com/@bobthedragqueen)
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+I went back and watched love island USA S7 fully thinking Nick and Olandria won the whole time
 
-[9h](https://www.threads.com/@tlevans1/post/DdzewaTEuvv)
+498
 
-Azzi Fudd #1 for a reason. Fight me, I got allllll day.
+25
 
-713
+12
 
-47
+4
 
-41
+[![Image 3: roydegannes's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724252030_17965144545106645_1871617528616876898_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=hm2fYUs0nR4Q7kNvwFmx-P-&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM11etigV8H5NHZhLnCRl2bkqB7TpzneOWk0wYS3T-cxA&oe=6AC13BDA&_nc_sid=10d13b)](https://www.threads.com/@roydegannes)
 
-[![Image 2: tanyaray_fox's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/770077712_17981238795101376_1873707743597482621_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=3pfJp6MFAP0Q7kNvwELhWCH&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPyMOSuFcEwpv--amczuX9ZVq8Mp0fwUSctO2N_CPL17A&oe=6ABFD161&_nc_sid=10d13b)](https://www.threads.com/@tanyaray_fox)
+What’s wrong with this guy? Does he understand what really happened to him? Clueless. ￼I wonder what he’ll say when they lose again next year lol
 
-[tanyaray_fox](https://www.threads.com/@tanyaray_fox)
+[![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/825292178_38756848973930672_5579039718371625552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5NjQxMDA0OTM5NjY0NTUwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AjI25KHpuBMQ7kNvwG9quNg&_nc_oc=AdqoPCrtxZPq4_moXcA4_so87zLkPL41yon3tETV78FPrugbU_FEWyPnaAyiJH-7KpI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&_nc_ss=7a22e&oh=00_AQO1y7R10Cbw7W7DMFLwQAhPgmVLZEFXKnvnDRhK3W6aEQ&oe=6AC10ACA)](https://www.threads.com/@roydegannes/post/Dd2GcQbFp59/media)
 
-[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
+43
 
-[6h](https://www.threads.com/@tanyaray_fox/post/DdzzSU1j2JB)
+16
 
-The Ravens tackling really is awful… wtf
+5
 
-119
-
-11
-
-1
-
-1
-
-[![Image 3: glamacrylics_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/688288470_18579239677004813_2053660543933215071_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOflvZMFfa2XU_RpwhP9b9gPprdaSI&_nc_ohc=qthnY-nBs6gQ7kNvwFuezw7&_nc_gid=zQfEjM9i2XEnaFK8oqGsXw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPIIRRIpgO5dYaP5fjzUQ8e028QzLhjKihpaTdqjxD9wg&oe=6ABFBCA9&_nc_sid=10d13b)](https://www.threads.com/@glamacrylics_)
-
-[glamacrylics_](https://www.threads.com/@glamacrylics_)
-
-[19h](https://www.threads.com/@glamacrylics_/post/DdyXgqCDv5X)
-
-I just want to go home 😢😢
-
-26
-
-10
-
-[![Image 4: premefootball's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472138694_622183420479971_3097115532851013464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc3LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF45iH7CsS_6qCBAemoFhB1WORgB0Voey31vfOfl
+[![Image 5: pawsoloshop's profile picture](http
 ```

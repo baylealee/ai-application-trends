@@ -7,12 +7,13 @@ language: "unknown"
 category: "coding"
 tools:
   - "Claude"
+  - "n8n"
   - "Notion"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0313
-generated_at: "2026-09-28T05:44:49+00:00"
+zh_ratio: 0.0322
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -29,7 +30,7 @@ generated_at: "2026-09-28T05:44:49+00:00"
 
 ## 使用工具
 
-Claude、Notion、GitHub
+Claude、n8n、Notion、GitHub
 
 ## 原始工作流拆解
 
@@ -79,8 +80,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、流程、prompt、提示詞、工具、整理、Notion、GitHub
-- zh_ratio: `0.0313`
+- keyword_hits: AI、Claude、n8n、Agent、agent、流程、prompt、提示詞、工具、整理、Notion、GitHub
+- zh_ratio: `0.0322`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -99,7 +100,7 @@ Markdown Content:
 
 # [Thread 27.7K views](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=CVOk5SbByvwQ7kNvwEWRKsi&_nc_oc=AdqymWPgTSwanWcnAcDcACUO75j9cCBuH8wo9y3HDc0wrP-3YoJWgdMsBkUdYSmZBc8&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=qqdXH4FHY_T_89cTljFP6w&_nc_ss=7b289&oh=00_AQOCt3dqTWYThJPWROsT2JpmHT_xFMxLavQa5v7ZQ_yOJw&oe=6ABFB630)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=CVOk5SbByvwQ7kNvwFVuxJx&_nc_oc=AdoLhW_TqnDF3KyL4eCGvtp94OaPLtcd9uAi6QEJ97MjuiLPiWA4nj0CSrwDI4NlQ5o&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=UPIagd2MIqw3MxXIborqEw&_nc_ss=7b289&oh=00_AQM2WGrcgQw8quwj6zb6XUWeA-CCSfNOmYqt3c0EKjQW0w&oe=6AC13FF0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -123,7 +124,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L32HPDYpiSwQ7kNvwHvavAl&_nc_oc=Adp95x-ob6WMQLf_j7NIvgqnlzYJQdnB09I4j4KG-4F3-T-kz7H6XhAX9f_qYizcBio&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=GBoonf9D4l-CeoN3ROw66g&_nc_ss=7b289&oh=00_AQNoGahZ0hXOJhHXlYWIqrCW-sN3xh4-uRvi3jPMjcaUuQ&oe=6ABFD688)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L32HPDYpiSwQ7kNvwHnuM4f&_nc_oc=AdqLeGZO02jG4iWZWudyU8pbHv0Z5mq-VKTtenPKh0E_F2cxO2UfZkw0kVA8SNffTro&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=djgaVBQBYbwyatisyzYvYQ&_nc_ss=7b289&oh=00_AQPtO3OnnAY56-BX3dhKd393uLWys5gRFMn0qtp_YR9sng&oe=6AC12808)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -135,7 +136,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=CVOk5SbByvwQ7kNvwEWRKsi&_nc_oc=AdqymWPgTSwanWcnAcDcACUO75j9cCBuH8wo9y3HDc0wrP-3YoJWgdMsBkUdYSmZBc8&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=qqdXH4FHY_T_89cTljFP6w&_nc_ss=7b289&oh=00_AQOCt3dqTWYThJPWROsT2JpmHT_xFMxLavQa5v7ZQ_yOJw&oe=6ABFB630)](https://www.threads.com/@pmenance.manager)
+[![Image 3: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=CVOk5SbByvwQ7kNvwFVuxJx&_nc_oc=AdoLhW_TqnDF3KyL4eCGvtp94OaPLtcd9uAi6QEJ97MjuiLPiWA4nj0CSrwDI4NlQ5o&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=UPIagd2MIqw3MxXIborqEw&_nc_ss=7b289&oh=00_AQM2WGrcgQw8quwj6zb6XUWeA-CCSfNOmYqt3c0EKjQW0w&oe=6AC13FF0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 

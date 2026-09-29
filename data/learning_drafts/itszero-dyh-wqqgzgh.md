@@ -10,14 +10,13 @@ tools:
   - "Claude Code"
   - "ChatGPT"
   - "GPT"
-  - "n8n"
   - "Cursor"
   - "Codex"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0544
-generated_at: "2026-09-28T05:44:49+00:00"
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -34,7 +33,7 @@ generated_at: "2026-09-28T05:44:49+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、ChatGPT、GPT、n8n、Cursor、Codex、GitHub
+Claude、Claude Code、ChatGPT、GPT、Cursor、Codex、GitHub
 
 ## 原始工作流拆解
 
@@ -70,7 +69,13 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Thread 607 views](http://www.threads.com/@
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
@@ -78,7 +83,7 @@ this fails, fix it 2. "
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、n8n、Cursor、Codex、Agent、agent、prompt、工具、小工具、GitHub、CLI、workflow
+- keyword_hits: AI、Claude、ChatGPT、GPT、Cursor、Codex、Agent、agent、prompt、工具、小工具、GitHub、CLI、workflow
 - zh_ratio: `0.0544`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
@@ -98,7 +103,7 @@ Markdown Content:
 
 # [Thread 607 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=QweEi3VgakgQ7kNvwGuYmcc&_nc_oc=AdrlFf7GDN0MZ78g_wQpUn0rqLfcDANXGQmqFisaqT8Rqzjn53U4nKlFZ-vBd-HAnLk&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=gCF_a3uVWn8nOhfyv-i1Pw&_nc_ss=7b289&oh=00_AQMQMXpXZmdd_pyRY_iZyAyoRjpUvi-VhaVGOQFQuezODw&oe=6ABFD78B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IB18LisL2ugQ7kNvwE0aLjy&_nc_oc=AdqtWTTtsnGTqUp_sZOUterO1D8QiW6QD20yEeQbidOzyVzSJhgcFmHSaNTFmjaMGxo&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=J5yxLBWNqsE1fVuT9DA2Lg&_nc_ss=7b289&oh=00_AQNrLZN7VIOVsJwZcpqpVS2Lrs43RsHboYFnG58I_jJFeA&oe=6AC1290B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -112,7 +117,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=qZoPZi_orxMQ7kNvwGJcUrx&_nc_oc=AdqKSjgYDlZuUlNuHhnb2boNysBYcnIkA40RESfC9KGiQJZ4lW7mUCplSPlI5zq4RmM&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=gCF_a3uVWn8nOhfyv-i1Pw&_nc_ss=7b289&oh=00_AQMOmvFcwc5MHx50G6lHa6hP6fgED9W0SYEHBwaJFXbuQA&oe=6ABFB691)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=qZoPZi_orxMQ7kNvwHbUXFT&_nc_oc=AdqW3sa2f9UvyelBRC75OFRmm_8iMnMsEXx-G8IdQM93rc6k_KWDQqXMQJH0xEDp2ks&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=J5yxLBWNqsE1fVuT9DA2Lg&_nc_ss=7b289&oh=00_AQPwS5wun94JMH2IELKTvaKxoRck7Byn-n-tZrWn-RhPFg&oe=6AC14051)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -122,7 +127,7 @@ it just works™
 
 Related threads
 
-[![Image 3: masini1491's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEflFVKYtvRexxp6yICbXroM8470hfc-6hamDQRnVKbiwT29zNMb0QiOXGTtwpFfvs&_nc_ohc=sR8R6CzlK3QQ7kNvwFgJHD1&_nc_gid=gCF_a3uVWn8nOhfyv-i1Pw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOoZecCBaJYJ6pF05bAj-cYcYDJdlBlZztIawvuNCJEdw&oe=6ABFD9F2&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
+[![Image 3: masini1491's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE2fmzMdZ9WlUCVapcWBgs5baDub5mKr9Qww2hpW35CMGJguisj7krK4izKRzIBSzE&_nc_ohc=nOqJJYJdB2AQ7kNvwEiBTUb&_nc_gid=J5yxLBWNqsE1fVuT9DA2Lg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMl75p7djRnC05EyZrVYpToV4L5LeHS5Ew9M02a_7pL-w&oe=6AC12B72&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
 
 [masini1491](https://www.threads.com/@masini1491)
 

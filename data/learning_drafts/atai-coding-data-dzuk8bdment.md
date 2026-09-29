@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0954
-generated_at: "2026-09-28T05:44:49+00:00"
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：MCP x META 廣告數據串接教學
@@ -66,8 +66,11 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/75846917
-- URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/75846917
+- 很開心完成今天「跟 AI 說什麼，網站就更新什麼｜秒站 × MCP 線上 DEMO」講座，我目前認為：沒有 mcp 的網站根本是不可用的。 ⠀⠀⠀⠀ 因為有 MCP 後才能接入：自動產文、自動更新、產品上架、產品分類、內部連結、表單資訊提供、標籤分類......。 ⠀⠀⠀⠀ 這些如果都還要人工處理，簡直是一種不人道！但現在透過 AI＋MCP 通通都能處理。 ⠀⠀⠀⠀ 關於秒站跟 MCP 有個限時優惠（單純加購 MCP 亦有優惠），只到今天晚上 23:59，有興趣的朋友歡迎私訊我。
+- [![Image 36](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/790059487_17986938921105477_116050166517360160_n.webp?_nc_cat=102&ig_cache_key=Mzk3NTY5MjcyMTQyNDI1NTc0MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5
+- ![Image 39](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/815018489_17950295922270643_348568443095289283_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk4ODgzMTEyNTY2OTkxODk5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBU
+- [![Image 11: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
 
 ## 抓取品質
 
@@ -84,7 +87,7 @@ Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JVSmItSAn7oQ7kNvwFuWRSR&_nc_oc=AdqIzPk1COuil6B1Ox1-1irzGhrXBMetlhaQ4x3hnnGEmmnaLJ4TKKohOJbswYY4EDQ&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=ssT4RgYcZrIbhvbeRl3RIg&_nc_ss=7b289&oh=00_AQPADyIgH_HcD41NxsRt4GttgFhJTL6Cwb4nYjIA7IIpTA&oe=6ABFBF55)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JVSmItSAn7oQ7kNvwFH51vj&_nc_oc=AdrnBYaq7EKNReL62bI-ybRii751cnHH0k74JNMdebVVbWZPYv1I0owP-03a8vl3YCw&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=i06ZhQeOwBmvDe0ZxJJW6w&_nc_ss=7b289&oh=00_AQMROpSZnl9pA8RQr1yQU2fKzWtuwMTkSroOot11bGVuYg&oe=6AC110D5)](https://www.threads.com/@atai_coding_data)
 
 MCP x META 廣告數據串接教學
 
@@ -98,7 +101,7 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JlOwqTEtO-EQ7kNvwFcutSJ&_nc_oc=AdpzuWKRsu4qlUqDCL0M0qdm81aL5SdmDVNqHHLEVb2wOgjAsLAlttyxPZV2mWIaPjw&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=ssT4RgYcZrIbhvbeRl3RIg&_nc_ss=7b289&oh=00_AQP8_ryiybb5Jo5xmW-_N1Vqp-WXnNCuWFkSdl9wa7o5Yw&oe=6ABFEC26)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=JlOwqTEtO-EQ7kNvwHdTHga&_nc_oc=AdoDek0vvHZ9WGVH-8Aa_s0Jdi1qKjGshHAyRYiPcgdlh5YnwfAWmQ0vX11VwoX_Sw8&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=i06ZhQeOwBmvDe0ZxJJW6w&_nc_ss=7b289&oh=00_AQMAmBVRuQM2jQTLK9twlzPm1r_1KOxHiyDJEoFaSKITTg&oe=6AC13DA6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 150
 

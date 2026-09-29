@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.1286
-generated_at: "2026-09-28T05:44:49+00:00"
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -75,10 +75,10 @@ Markdown Content:
 URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/60
-- [![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26outp
-- [![Image 22: twinkyleung.ky's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/383340876_3537627559781993_321237725797045908_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy
-- [![Image 9: 刷題神器 Quiz Factory｜把你的考卷變成可以刷的題庫](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/3060794876575914258?url=https%3A%2F%2Fquiz-factory.tw%2Ficons%2Fog-brand.png&utld=quiz-factory.tw&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-src&ccb=18
+[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/60
+- [![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26outp
+- [![Image 2: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGV
+- [![Image 20: sia_binghong's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/649183135_17946728736118417_1974052727942043338_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3d
 
 ## 抓取品質
 
@@ -95,7 +95,7 @@ Title: 未來商務 (@futurecommerce_official) on Threads
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=We89ZW4VmW8Q7kNvwEWTWvH&_nc_oc=AdrwxsnTgD2o5y3GnxbFdK3ohp25dYH2AotaYaFICoON3lFjj9qAr_1ib5LxzqokrGE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=3uTYJ8RZ2gfaImqjDoFyGQ&_nc_ss=7b289&oh=00_AQNCiOOHuclb0YG33O1M-9Lpw87vtMk7GzfDlX_ZZbauQg&oe=6ABFD768)](https://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=We89ZW4VmW8Q7kNvwEfv01a&_nc_oc=AdqnWqLieBc1TAWSaaD0BtfxwobvXlBaIjaUxikuAVK26pxoCt1zHDnCfPqexGHxRyg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=8IyFHeU7Og6GAp7MHwnWdA&_nc_ss=7b289&oh=00_AQM10kzuGCSc20FMjVqtdJptPW48yYMu-PM_0pHddvaTnQ&oe=6AC128E8)](https://www.threads.com/@futurecommerce_official)
 
 台灣國考題庫現在可以直接問 Claude 了。
 

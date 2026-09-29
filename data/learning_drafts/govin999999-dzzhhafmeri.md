@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-28T05:44:49+00:00"
+generated_at: "2026-09-29T06:02:14+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -58,12 +58,8 @@ Title: Threads • Log in
 
 reply_summary_status: `partial`
 
-- Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: selmamakescents's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608854565_17949000438111696_4895205303871586032_n.jpg?s
+- ![Image 16](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/825277196_17990716977101222_786307347610813861_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NjQ4OTQ2NDg1OTU2NzU2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBU
+- [![Image 8: _aisforambitious's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/629280392_17908581813343655_7071617525965661384_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -77,9 +73,8 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-- Markdown Content:
-[![Image 1: selmamakescents's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/608854565_17949000438111696_4895205303871586032_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc
-- [![Image 6](https://scontent.cdninstagram.com/v/t39.30808-6/825274156_10237827247835062_7842346738079667010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk5NTYzNTA3NTY3Mzc5NDg1MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+- [![Image 11](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/825320549_18116582911893779_1079045103677031058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5NjAyODcyNTAxMjE2OTQzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZ
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/825269754_18191996755395654_4641176029754594404_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5NjMwNzg4NTU1NDQ5MTQ2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
 
 ## 抓取品質
 
@@ -93,44 +88,34 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: realrclark's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358792119_282479604300932_8552940139930217151_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=CbpmV2HGtlAQ7kNvwFnya1A&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOQoDOof4lAfkSxgy1p3TjjRIevjCQrIAJhIyblvR4TLA&oe=6ABFBA69&_nc_sid=10d13b)](https://www.threads.com/@realrclark)
+[![Image 1: stellapartonofficial's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/703316158_17967110070110105_4860772879601224464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=oxFbg00wUUUQ7kNvwG5jhGb&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOE1woPrcn_tyXaY7KkZtVshkisWnR85aube57VzlbGmw&oe=6AC12247&_nc_sid=10d13b)](http://www.threads.com/@stellapartonofficial)
 
-Bryce Young you are playing high level football!
+Happy Monday !
 
-86
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/828551732_17989129887110105_4391225260135672275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5NjA4MjUyMTc1MTE2Mzc0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=A0f4VpZkV7MQ7kNvwEMXK71&_nc_oc=Adqylj2SHC2VZSbPy1E5R6vA8MgEkQLcdwOEnXRVAvWfqLOL8ZfeLeCh3e_COqQt1xM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&_nc_ss=7a22e&oh=00_AQOH3-z0p9hMvRzG2IZ3v-dUw9Ysw8HgW-rsFq6kTYFAkg&oe=6AC10D1B)](http://www.threads.com/@stellapartonofficial/post/Dd07-GiIBNg/media)
 
-1
+893
 
-1
+51
 
-1
+9
 
-[![Image 2: maiocconbcs's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358363726_1445392549335717_993338922550136788_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=0kDk7Tu28P8Q7kNvwF-PGlj&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPgxKtG096EU8IMHw3ja8vu-0hqCjprDPjZGqW3krmgIg&oe=6ABFED6C&_nc_sid=10d13b)](https://www.threads.com/@maiocconbcs)
+[![Image 3: ai3dunks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474122777_474149285495930_5682007902285395917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODkuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=wj0OFDzjXQQQ7kNvwEylZNv&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPJzJhKAbcWTsHiAGsXlfVuSrX_MmsCT72ZAtmduse7Yw&oe=6AC11B96&_nc_sid=10d13b)](http://www.threads.com/@ai3dunks)
 
-49ers injury update: WR Mike Evans has been ruled OUT for the remainder of the game.
-
-29
-
-2
-
-1
-
-[![Image 3: regina.baker___'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825269744_18119406967825348_4203014505617115997_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEjpl0dxgaNzpnzvI5LdfTBkYJMnlTcXqQfFBKoF0SgKpllaa9eDV_ocl7bzm2-Dm0&_nc_ohc=98EDaANjq_kQ7kNvwFUf5ev&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNj9_dITaxo1GiljmtrgJlTT3SxGGrw9TGmfzIvHvtBzw&oe=6ABFB687&_nc_sid=10d13b)](https://www.threads.com/@regina.baker___)
-
-Made this account because I turned 52, finalized my divorce, and realized I had zero idea who I was outside of being someone's wife. Decided it's time for chapter two. Turns out, starting over is terrifying but also kind of exhilarating! Cheers to finding myself.
-
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/825325243_18119408026825348_7663160336916903815_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NTU0Mjg2Nzc2NTQyMjI4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=y2I7o-KrtkYQ7kNvwElPkHt&_nc_oc=Adrye6RmIW87zzgVQXq6rDZ-v55Ql4joCPAyviCpVYiTyQuTKX5CyfpK4R4Z7bA99Qk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=E7G1JS1GPL_cEv59ndrysQ&_nc_ss=7a22e&oh=00_AQOFl5eXxrRT3N3H7E1alw685HNA8zQ38bgIHQ_kHK-YJg&oe=6ABFC85F)](https://www.threads.com/@regina.baker___/post/DdzBRGmAOjQ/media)
-
-4.4K
-
-187
-
-12
+Seeing pests about production cheating, helping Devens. Anyone got a video showing production cheating?
 
 3
 
-[![Image 5: patti.k.greer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/55
+3
+
+1
+
+[![Image 4: omarcnn's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358006716_631762885576254_7111135207568055445_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=pmxrw5tvFhgQ7kNvwFK_6Kq&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMB-AyvWQPMky68zN5HHuYzQhJON4Lzv9nyfXFB-eXt3Q&oe=6AC10E82&_nc_sid=10d13b)](http://www.threads.com/@omarcnn)
+
+"The recent increases in fertilizer prices and diesel prices have caught everyone at the worst time possible," Aaron Lehman, President of the Iowa Farmers Union, says. "We're going into a very busy harvest season."
+
+![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/827548720_2648552762240195_2239824979833828410_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101
 ```
