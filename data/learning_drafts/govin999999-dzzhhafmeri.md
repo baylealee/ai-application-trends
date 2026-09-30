@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-09-29T06:02:14+00:00"
+generated_at: "2026-09-30T05:51:52+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -58,23 +58,30 @@ Title: Threads • Log in
 
 reply_summary_status: `partial`
 
-- ![Image 16](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/825277196_17990716977101222_786307347610813861_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5NjQ4OTQ2NDg1OTU2NzU2Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBU
-- [![Image 8: _aisforambitious's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/629280392_17908581813343655_7071617525965661384_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[Home](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+New thread
 
-# [Home](https://www.threads.com/?error=invalid_post)
+[Search](http://www.threads.com/search)
 
-- [![Image 11](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/825320549_18116582911893779_1079045103677031058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5NjAyODcyNTAxMjE2OTQzNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZ
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/825269754_18191996755395654_4641176029754594404_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5NjMwNzg4NTU1NDQ5MTQ2NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
+Messages
+
+Activity
+
+Profile
+
+Insight
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825277399_17991161505103609_2654124126094652332_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5Njk5MjA1NDA3MzM4OTA3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- The United States government should have been safeguarded against a fuckin felon rapist pedophile conman coming in and bleeding us dry and abusing every fucking loophole and violating laws incessantly….but they never planned for the citizens to be so fucking s
+- My braider is telling me that she doesn’t think she can do my hair for my wedding … My wedding is on Friday I’m about to cry
+- They need to overhaul redoing everything so this shit never happens again. Because what in the entire fuck?!
 
 ## 抓取品質
 
@@ -88,34 +95,68 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: stellapartonofficial's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/703316158_17967110070110105_4860772879601224464_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=oxFbg00wUUUQ7kNvwG5jhGb&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOE1woPrcn_tyXaY7KkZtVshkisWnR85aube57VzlbGmw&oe=6AC12247&_nc_sid=10d13b)](http://www.threads.com/@stellapartonofficial)
+[](https://www.threads.com/)
 
-Happy Monday !
+[Home](https://www.threads.com/)
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/828551732_17989129887110105_4391225260135672275_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5NjA4MjUyMTc1MTE2Mzc0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTQ0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=A0f4VpZkV7MQ7kNvwEMXK71&_nc_oc=Adqylj2SHC2VZSbPy1E5R6vA8MgEkQLcdwOEnXRVAvWfqLOL8ZfeLeCh3e_COqQt1xM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&_nc_ss=7a22e&oh=00_AQOH3-z0p9hMvRzG2IZ3v-dUw9Ysw8HgW-rsFq6kTYFAkg&oe=6AC10D1B)](http://www.threads.com/@stellapartonofficial/post/Dd07-GiIBNg/media)
+New thread
 
-893
+[Search](https://www.threads.com/search)
 
-51
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: blacknewsbeat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358766766_564361052580040_6767630419481146826_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=Lf4zvMhISDAQ7kNvwFW0sx7&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP_0TEpCFIX9xF1rbPWo6DEW26qYVkqz0VZN5CXqn_u1A&oe=6AC26767&_nc_sid=10d13b)](https://www.threads.com/@blacknewsbeat)
+
+[blacknewsbeat](https://www.threads.com/@blacknewsbeat)
+
+6h
+
+This content is unavailable
+
+[![Image 2: fullof_grace's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/779002146_17986671945105329_1422982447275417268_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=wBxPkPXfM9QQ7kNvwHpeG8n&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMx4iHEoZcQ1QDoY3DrM9kqPb7iYV6qzptGKgahajFWFg&oe=6AC27EF9&_nc_sid=10d13b)](https://www.threads.com/@fullof_grace)
+
+[fullof_grace](https://www.threads.com/@fullof_grace)
+
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+
+[4h](https://www.threads.com/@fullof_grace/post/Dd5HLgIDcIh)
+
+Syd and TP were both out their seat tooo!?
+
+454
+
+10
 
 9
 
-[![Image 3: ai3dunks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474122777_474149285495930_5682007902285395917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODkuZXhwZXJpbWVudGFsIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=wj0OFDzjXQQQ7kNvwEylZNv&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPJzJhKAbcWTsHiAGsXlfVuSrX_MmsCT72ZAtmduse7Yw&oe=6AC11B96&_nc_sid=10d13b)](http://www.threads.com/@ai3dunks)
+[![Image 3: thephillypod's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/829286965_18648182554058748_7552167655113592602_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=g9LxZfCsOfsQ7kNvwF47z-_&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNOoNEIgc7rqBKxJoF4KGTfYgHF3wrO-mnIY8aqBy8vkQ&oe=6AC26055&_nc_sid=10d13b)](https://www.threads.com/@thephillypod)
 
-Seeing pests about production cheating, helping Devens. Anyone got a video showing production cheating?
+[thephillypod](https://www.threads.com/@thephillypod)
 
-3
+[13h](https://www.threads.com/@thephillypod/post/Dd4KdBTEXNZ)
 
-3
+Would like to see more Biletnikoff Winner Makai Lemon and less bubble screen Makai Lemon.
 
-1
-
-[![Image 4: omarcnn's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358006716_631762885576254_7111135207568055445_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gENPinaq9NDNDM1BtW9ZslpcQxvMpadS_BnT4ASYeGgvuQz6Gy6EdE9_bRChhMtb_U&_nc_ohc=pmxrw5tvFhgQ7kNvwFK_6Kq&_nc_gid=0YRanPWgm9bMqCBMmvz5Yg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMB-AyvWQPMky68zN5HHuYzQhJON4Lzv9nyfXFB-eXt3Q&oe=6AC10E82&_nc_sid=10d13b)](http://www.threads.com/@omarcnn)
-
-"The recent increases in fertilizer prices and diesel prices have caught everyone at the worst time possible," Aaron Lehman, President of the Iowa Farmers Union, says. "We're going into a very busy harvest season."
-
-![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/827548720_2648552762240195_2239824979833828410_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101
+![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/828626827_1083080847658503_834073663406816391_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk5Njk5MDY0NDAxNDkwNDE1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=e
 ```

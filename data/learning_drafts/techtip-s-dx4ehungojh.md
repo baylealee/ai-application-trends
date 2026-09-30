@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[Image 2: bobthedragqueen's profile pictur"
+title: "techtip_s 的 AI 工作流案例：\"Fear maybe contagious, Courage is as well"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-29T06:02:14+00:00"
+generated_at: "2026-09-30T05:51:52+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[Image 2: bobthedragqueen's profile pictur
+# techtip_s 的 AI 工作流案例："Fear maybe contagious, Courage is as well
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 2: bobthedragqueen's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361274812_1009597543546064_2499689625262674340_n.jpg?
+"Fear maybe contagious, Courage is as well"
 
 ## 這篇在解決什麼問題
 
@@ -64,25 +64,30 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[
+[![Image 1: briemznews_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/654012634_18060638903403091_8181598220279550194_n.jpg?stp=ds
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: msnownews's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583442970_17930921655110610_5958914482674721860_n.jpg?stp=dst-j
-- ![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/829585606_2089475901670343_3465940960061772944_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk5NjI4NjgzNzc4OTMzMDMwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [![Image 7: happyheathersmiles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/573322462_18495988648076440_4526332605174372705_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cd
-- Markdown Content:
-[![Image 1: msnownews's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583442970_17930921655110610_5958914482674721860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDAuYzIifQ&_nc_ht=sco
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insig
+- [![Image 7: qsoprettyyyyy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724420159_18075445772477761_8712637560222044575_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/829836868_18094631615403091_3937592550591052106_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NzI0MTQ4MzUyNzczOTcyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/830453785_2082798172600510_2237291395142571338_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk5NzA2NzI3MTg1MTk4NzIyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
 
 ## 抓取品質
 
@@ -96,42 +101,44 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: kofi.frempong.art's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760511479_17974041354120427_7870751579755926380_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=kKTPeCyedZIQ7kNvwHpENsN&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOEtCub0Uj__Et0Fvw4oMAaI8gGA06o9kpTWmIFZBzz2A&oe=6AC10E5B&_nc_sid=10d13b)](https://www.threads.com/@kofi.frempong.art)
+[](http://www.threads.com/)
 
-Raven Johnson had a solid game lastnight, based on what I observed from the stats. Can anyone who watched the game speak on this ? The effiency looked like she maximized every ounce of her 17mins
+[](http://www.threads.com/)
 
-102
+[](http://www.threads.com/search)
 
-61
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Image 1: itsdeanna.h's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/732070121_17874845814621976_9117174208005730306_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHwbkmoisnqTjm4W8Yy3ZQ-V9RKDuqn4nb18-vbjCVJr8bjahZX-pzRCIsIKioWNUY&_nc_ohc=DLqf6wLbBKgQ7kNvwFYokny&_nc_gid=J1BHlDewyH6-GIduXuAKKg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPLaQbV7IwoEskUHulqrRGCt4O0YS-bt4xroM0bs9z4yw&oe=6AC285D6&_nc_sid=10d13b)](http://www.threads.com/@itsdeanna.h)
+
+[itsdeanna.h](http://www.threads.com/@itsdeanna.h)
+
+[Dancing with the Stars](http://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
+
+[4h](http://www.threads.com/@itsdeanna.h/post/Dd5KMpMjYv-)
+
+What did I miss with Connor’s dance cause I thought he’d get all 5s…
+
+64
+
+13
 
 2
 
-[![Image 2: bobthedragqueen's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/361274812_1009597543546064_2499689625262674340_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=AHP3Wq5Bq5MQ7kNvwGzbtHS&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPMd1JMK60bHRJ4X5IZ9y9o4Vl6l83SbRBL3Lb5zdRUWg&oe=6AC1385F&_nc_sid=10d13b)](https://www.threads.com/@bobthedragqueen)
+[![Image 2: donkoclock's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/360037820_816046486498044_6278237757609715332_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NDMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHwbkmoisnqTjm4W8Yy3ZQ-V9RKDuqn4nb18-vbjCVJr8bjahZX-pzRCIsIKioWNUY&_nc_ohc=wwn8-TZDZyAQ7kNvwHaG1qD&_nc_gid=J1BHlDewyH6-GIduXuAKKg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPLpZq7xP7pywjL5HIiMkCebQPEBg7A3GIR1oF-M_eHmA&oe=6AC28D80&_nc_sid=10d13b)](http://www.threads.com/@donkoclock)
 
-I went back and watched love island USA S7 fully thinking Nick and Olandria won the whole time
+[donkoclock](http://www.threads.com/@donkoclock)
 
-498
+[16h](http://www.threads.com/@donkoclock/post/Dd35uy9ACrl)
 
-25
+Jack Smith's opening statement needs to be heard by every American.
 
-12
+"Fear maybe contagious, Courage is as well"
 
-4
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/829941137_3820479458094654_2483850295922189068_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk5NjkxNzA5ODc3MjE3OTY4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=U9mIpWY7Vk0Q7kNvwHCrjQ6&_nc_oc=AdrqvGVxn_czP__N7aCQmK5KCryOYsRCsmoeF1sVtCCDuFs8kddqjgUt-T6OmjaoeDo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=J1BHlDewyH6-GIduXuAKKg&_nc_ss=7a22e&oh=00_AQOw_aLxh_sHoQ7hsFgO7IwVRS5pWT00sPxBxnTpdpKodQ&oe=6AC26F35)
 
-[![Image 3: roydegannes's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724252030_17965144545106645_1871617528616876898_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGoafs4phpFw5rW17XGDegvHHbkBzjVp5QiSj3_Wu5bXRGeCnOnS3mjPLX5bcohCfU&_nc_ohc=hm2fYUs0nR4Q7kNvwFmx-P-&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM11etigV8H5NHZhLnCRl2bkqB7TpzneOWk0wYS3T-cxA&oe=6AC13BDA&_nc_sid=10d13b)](https://www.threads.com/@roydegannes)
-
-What’s wrong with this guy? Does he understand what really happened to him? Clueless. ￼I wonder what he’ll say when they lose again next year lol
-
-[![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/825292178_38756848973930672_5579039718371625552_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=Mzk5NjQxMDA0OTM5NjY0NTUwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=AjI25KHpuBMQ7kNvwG9quNg&_nc_oc=AdqoPCrtxZPq4_moXcA4_so87zLkPL41yon3tETV78FPrugbU_FEWyPnaAyiJH-7KpI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=A4PVnmnxGSc025ixfcF2jQ&_nc_ss=7a22e&oh=00_AQO1y7R10Cbw7W7DMFLwQAhPgmVLZEFXKnvnDRhK3W6aEQ&oe=6AC10ACA)](https://www.threads.com/@roydegannes/post/Dd2GcQbFp59/media)
-
-43
-
-16
-
-5
-
-[![Image 5: pawsoloshop's profile picture](http
+[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQP5amyZ7JibSuDQTiLgPxHp2TPpZKDive2Zkk4B_2cZgpglhRunwOiSWzl54dF-OfbgDA-O7JVk3iajMJ3uGEOXe-DR4lirh_kQA7Y.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=TXeltnaWF1wQ7kNvwF9pEJc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy45MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk4OTAyMzcyNjEwNjI5MywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvb
 ```
