@@ -1,25 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：\"Fear maybe contagious, Courage is as well"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-30T05:51:52+00:00"
+generated_at: "2026-10-01T06:23:46+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例："Fear maybe contagious, Courage is as well
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-"Fear maybe contagious, Courage is as well"
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ generated_at: "2026-09-30T05:51:52+00:00"
 
 ## 使用工具
 
-RAG
+Make
 
 ## 原始工作流拆解
 
@@ -64,8 +64,27 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: briemznews_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/654012634_18060638903403091_8181598220279550194_n.jpg?stp=ds
+[![Image 1: kristybausch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/655600805_18068289803305999_477059136216810608_n.jpg?stp=ds
 - Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: authoress_rosy_library's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/529584603_17953191171004221_2760691040100653394_n.
+- Markdown Content:
+[![Image 1: authoress_rosy_library's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/529584603_17953191171004221_2760691040100653394_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDguYzIi
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -84,61 +103,53 @@ Activity
 
 Profile
 
-Insig
-- [![Image 7: qsoprettyyyyy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724420159_18075445772477761_8712637560222044575_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/829836868_18094631615403091_3937592550591052106_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=Mzk5NzI0MTQ4MzUyNzczOTcyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFR
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/830453785_2082798172600510_2237291395142571338_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=105&ig_cache_key=Mzk5NzA2NzI3MTg1MTk4NzIyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+More
 
-## 原始抓取內容
+[](https://www.threads.com/)
 
-```text
-Title: Threads • Log in
+[](https://www.threads.com/)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](https://www.threads.com/search)
 
-Markdown Content:
-[](http://www.threads.com/)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-[](http://www.threads.com/)
+[![Image 1: kristybausch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/655600805_18068289803305999_477059136216810608_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gH6T1pruM3dIm_q76csyUtOIQw2OUIUAdVH2NcN6H52W-Hseet32KJBCavkhRS5dqA&_nc_ohc=Hm4Tcz5hHxwQ7kNvwGv8Fuz&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8taxPbSm_lCy61QIKleex4-t6EuWc4uyq_2MoxMNBDQ&oe=6AC3CDD7&_nc_sid=10d13b)](https://www.threads.com/@kristybausch)
 
-[](http://www.threads.com/search)
+[kristybausch](https://www.threads.com/@kristybausch)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+[heated rivalry](https://www.threads.com/search?q=heated%20rivalry&serp_type=tags&tag_id=18485329438068310)
 
-[![Image 1: itsdeanna.h's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/732070121_17874845814621976_9117174208005730306_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHwbkmoisnqTjm4W8Yy3ZQ-V9RKDuqn4nb18-vbjCVJr8bjahZX-pzRCIsIKioWNUY&_nc_ohc=DLqf6wLbBKgQ7kNvwFYokny&_nc_gid=J1BHlDewyH6-GIduXuAKKg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPLaQbV7IwoEskUHulqrRGCt4O0YS-bt4xroM0bs9z4yw&oe=6AC285D6&_nc_sid=10d13b)](http://www.threads.com/@itsdeanna.h)
+[7h](https://www.threads.com/@kristybausch/post/Dd7dj7fmqVI)
 
-[itsdeanna.h](http://www.threads.com/@itsdeanna.h)
+“BUT THE ACTUAL LEVEL OF INTIMACY IS LIKE, A PIECE OF CAKE.” FML. I am so overstimulated right now.
 
-[Dancing with the Stars](http://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
+854
 
-[4h](http://www.threads.com/@itsdeanna.h/post/Dd5KMpMjYv-)
+7
 
-What did I miss with Connor’s dance cause I thought he’d get all 5s…
+10
 
-64
+1
 
-13
+[![Image 2: gaby.andreolii's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790968848_17981974731097534_6745494808978007468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gH6T1pruM3dIm_q76csyUtOIQw2OUIUAdVH2NcN6H52W-Hseet32KJBCavkhRS5dqA&_nc_ohc=9lSSkGCsOFQQ7kNvwEsOriV&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM2EqXZ1vsQfYgpc8AnFMrcc44P0lJSglP0vGlxIWsUmA&oe=6AC3DBBF&_nc_sid=10d13b)](https://www.threads.com/@gaby.andreolii)
 
-2
+[gaby.andreolii](https://www.threads.com/@gaby.andreolii)
 
-[![Image 2: donkoclock's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/360037820_816046486498044_6278237757609715332_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NDMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHwbkmoisnqTjm4W8Yy3ZQ-V9RKDuqn4nb18-vbjCVJr8bjahZX-pzRCIsIKioWNUY&_nc_ohc=wwn8-TZDZyAQ7kNvwHaG1qD&_nc_gid=J1BHlDewyH6-GIduXuAKKg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPLpZq7xP7pywjL5HIiMkCebQPEBg7A3GIR1oF-M_eHmA&oe=6AC28D80&_nc_sid=10d13b)](http://www.threads.com/@donkoclock)
+[14h](https://www.threads.com/@gaby.andreolii/post/Dd6vo8rFNKI)
 
-[donkoclock](http://www.threads.com/@donkoclock)
+Girls, today I’m introducing you to Fraser Minten and if you watched Boston’s first game of the season, you might have already noticed him. 😭🐻🏒
 
-[16h](http://www.threads.com/@donkoclock/post/Dd35uy9ACrl)
+Because who opened the scoring for the Bruins?
 
-Jack Smith's opening statement needs to be heard by every American.
+HE DID.
 
-"Fear maybe contagious, Courage is as well"
+But let’s start from the beginning.
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/829941137_3820479458094654_2483850295922189068_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=Mzk5NjkxNzA5ODc3MjE3OTY4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=U9mIpWY7Vk0Q7kNvwHCrjQ6&_nc_oc=AdrqvGVxn_czP__N7aCQmK5KCryOYsRCsmoeF1sVtCCDuFs8kddqjgUt-T6OmjaoeDo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=J1BHlDewyH6-GIduXuAKKg&_nc_ss=7a22e&oh=00_AQOw_aLxh_sHoQ7hsFgO7IwVRS5pWT00sPxBxnTpdpKodQ&oe=6AC26F35)
+Minten is a 22-year-old Canadian center currently playing for the Boston Bruins.
 
-[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQP5amyZ7JibSuDQTiLgPxHp2TPpZKDive2Zkk4B_2cZgpglhRunwOiSWzl54dF-OfbgDA-O7JVk3iajMJ3uGEOXe-DR4lirh_kQA7Y.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=TXeltnaWF1wQ7kNvwF9pEJc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy45MTYuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk4OTAyMzcyNjEwNjI5MywiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvb
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/831768836_17985957894097534_275688467985691320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5NzcxNzEzNjcyNjYwODI4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DVeekEix3u4Q7kNvwEOR5_0&_nc_oc=AdopsW1iPr_z8rr_xXKB0GdE4_szlnvq1ZRT_dZ-KRqv6nX5kjQy24Smg3OOUeRe69A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&_nc_ss=7a22e&oh=00_AQOPAhOnNKbzl83XnliF82Y_O94VSRu8XephEuKWN9Lh8A&oe=
 ```

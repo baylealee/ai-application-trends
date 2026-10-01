@@ -9,12 +9,11 @@ tools:
   - "Claude"
   - "Claude Code"
   - "GPT"
-  - "GAS"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0284
-generated_at: "2026-09-30T05:51:52+00:00"
+zh_ratio: 0.0326
+generated_at: "2026-10-01T06:23:46+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -31,15 +30,15 @@ generated_at: "2026-09-30T05:51:52+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、GPT、GAS、GitHub
+Claude、Claude Code、GPT、GitHub
 
 ## 原始工作流拆解
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUBZDXhe5y9U-doFsWf70TS__h-bGFNHgfBo8V2ijatU0lHpkYoEgmWD30Eok6UUnyImYQsyhOGByAoMKvtRNtx8XCkHdsemw8j1ngtZQcALdY3GHyI)
-5. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDatfA9V3aKgAsUmpzihhSyf6a1mwqWwKfOhuA2aXNymBHWM0E1yL7of9cjlVXmxioW02EyWgkvJdhfgS0Udv_Vw8wUWjChkTQu_fXz19dlLppMCis)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAMoFaplb4BXi3-1uu6eergejLWtxaobvaXvt8RNQ3RTo2R6e0DrsGTFhLXBVdOsN9VZgLk3_v3WJ5xqTZvdTfjIfmItMOoliuxy2zq9L6_QDv7SFE)
+5. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUD7zPzdiwblN9CtSXDHl69OcUAC-ZZFJZcInLYElt0R4Ek46-lyxtOM9uGPAWIvb5laIdfuxveFvZxxfRhANHotT82yAlfkYLEGImTkWr-m-84Kvq8)
 
 ## 可以直接複製的做法
 
@@ -83,14 +82,16 @@ Messages
 Activity
 
 Profil
-- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUA3pcO4aeO2lcCHbwS4-CdSCmwO_bw99Nuvt-G-rb7F7W7yOJY-O9FEDoiY-vVjLGB5X6KJJM5wStRY_Xva6oFY5SpHx9nl5HmnL1_oNdiLRlDzozk)
-- Jack Smith: "History teaches that the rule of law is rarely destroyed all at once. It is often weakened by attacks on the institutions in the public servants sworn to uphold it. Since January of 2025, we have witnessed precisely such an effort including the vi
+- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAk6hOf64oibbtOb20HSGrmt9Vg5SUT904V-XkjB4_deiyB26EfwE7p170X0sPHeCfew47l7ixZeal33EK_tw4ouH2-ek9XCbzCF21RH8bN3_RduKw)
+- [![Image 14: 'Reacher' Star Hopes to Return to Prime Video Show After Season 4 Absence](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/305434903130493663?url=https%3A%2F%2Fstatic0.moviewebimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2026%2F09%2Falan-ritchs
+- ![Image 17](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/825325836_1133998379192568_75566088034317501_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=Mzk5Nzc2OTE4NjI3ODIwNDYxMTE4NjMyNDg4NjAzMDI5ODY4.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX
+- [![Image 18: lukasvanderlende's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/467865679_510566035467781_3583327348987602484_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、知識庫、GitHub
-- zh_ratio: `0.0284`
+- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、知識庫、CRM、GitHub
+- zh_ratio: `0.0326`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -131,7 +132,7 @@ More
 
 115K views
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=E3EIxxBOOGEQ7kNvwEY5au9&_nc_oc=AdrGpixzrw4ot3l5jI9Gn1ET_rzNhijhzcg9RjxmZ1kglK39ERf2mIa_qEHfLWQrB_4&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQMM5Va696TlYbIw9qwcmTFzpo0Tk-QUUoU58pPsNjmY8w&oe=6AC26974)](http://www.threads.com/@_3cpj_)
+[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=E3EIxxBOOGEQ7kNvwHQlCC_&_nc_oc=Adr_trpGn4VElOhdKxWTXM-uUUKkQ-h6CcgFx9o7ERoX1bt4MjGX3OCyLiy2jH9be_M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNEOMPDtFij2ukdu_R7jDC6OfpVtBwKImriOI-OykR8yQ&oe=6AC3BAF4)](http://www.threads.com/@_3cpj_)
 
 [_3cpj_](http://www.threads.com/@_3cpj_)
 
@@ -157,7 +158,7 @@ More
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?url=https%3A%2F%2Fopengraph.githubassets.com%2F4dbedb751b27499cebdbc8c58831a14ba9d8c526a7eaea39f106e6025adb25cc%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=JIstl3-BWsMcgyykORJDqw&_nc_zt=3&oh=06_Q3_DAXmPT3Ei_lH0g_ds3L3VWHkRijD1gg0vT2szJuYSwG-N&oe=6ABE6DB1) ![Image 3](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=JIstl3-BWsMcgyykORJDqw&_nc_zt=3&oh=06_Q3_DARqRX8eNEBlEnWrZn0nthT8z_yivhPKkte0Vfcal_HZ_&oe=6ABE6E47) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUBZDXhe5y9U-doFsWf70TS__h-bGFNHgfBo8V2ijatU0lHpkYoEgmWD30Eok6UUnyImYQsyhOGByAoMKvtRNtx8XCkHdsemw8j1ngtZQcALdY3GHyI)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8172461819341344567?url=https%3A%2F%2Fopengraph.githubassets.com%2F4dbedb751b27499cebdbc8c58831a14ba9d8c526a7eaea39f106e6025adb25cc%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=YCEetTPpjfATKUe93_G5Yg&_nc_zt=3&oh=06_Q3_DAbXk1aluqBHuIj046yrdkTXelS8J_fN8PEuW0nnCgLVA&oe=6ABFBF31) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=YCEetTPpjfATKUe93_G5Yg&_nc_zt=3&oh=06_Q3_DAZb3dGNdv2vtVt8YgcIGGOi8D-Mb-zj4vW-bi0UtbGyM&oe=6ABFBFC7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAMoFaplb4BXi3-1uu6eergejLWtxaobvaXvt8RNQ3RTo2R6e0DrsGTFhLXBVdOsN9VZgLk3_v3WJ5xqTZvdTfjIfmItMOoliuxy2zq9L6_QDv7SFE)
 
 1.9K
 
@@ -169,5 +170,5 @@ More
 
 Pinned
 
-[![Image 4: _3cpj_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_n
+[![Image 4: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_n
 ```

@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：WHY AM I NOT GETTING THE DRAGONKIND REMIND"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-09-30T05:51:52+00:00"
+generated_at: "2026-10-01T06:23:46+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：WHY AM I NOT GETTING THE DRAGONKIND REMIND
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+WHY AM I NOT GETTING THE DRAGONKIND REMINDER EMAIL?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG
 
 ## 原始工作流拆解
 
@@ -78,15 +79,15 @@ Activity
 Profile
 
 Insight
-- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/825277399_17991161505103609_2654124126094652332_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5Njk5MjA1NDA3MzM4OTA3NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- The United States government should have been safeguarded against a fuckin felon rapist pedophile conman coming in and bleeding us dry and abusing every fucking loophole and violating laws incessantly….but they never planned for the citizens to be so fucking s
-- My braider is telling me that she doesn’t think she can do my hair for my wedding … My wedding is on Friday I’m about to cry
-- They need to overhaul redoing everything so this shit never happens again. Because what in the entire fuck?!
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/828938818_1776345690270747_5239479065443849161_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk5Nzc5MDIwOTgyMzMwMDk2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMiY6TNGZmZVdDLyT2GjhY3wIEDr60YbOOmHQwrf-gUsyQ5q_vC0HhJqKuXqiCZ1TPlSVWSidnFqv9wXorxXznbta8iYpM67vcZKwo.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=twJCTE5pzIYQ7kNvwHYqO2U&
+- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/828202064_17988649707114932_1952528925942842915_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NzgzNzM0NTk0MTE3NTQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/829363309_17972448681167138_1355308927579013410_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5Nzg2MjIyMzY3NTE4MTg5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -126,37 +127,47 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: blacknewsbeat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358766766_564361052580040_6767630419481146826_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=Lf4zvMhISDAQ7kNvwFW0sx7&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP_0TEpCFIX9xF1rbPWo6DEW26qYVkqz0VZN5CXqn_u1A&oe=6AC26767&_nc_sid=10d13b)](https://www.threads.com/@blacknewsbeat)
+[![Image 1: _alexyis's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/689115863_17967675537105471_8874915636348196004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=dDIzYiZphCoQ7kNvwHJbnQ9&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN_iBaqideHkyoRN0uLuJLqcmtpzUy7bjNcPO7nbvbPSQ&oe=6AC3BDF8&_nc_sid=10d13b)](https://www.threads.com/@_alexyis)
 
-[blacknewsbeat](https://www.threads.com/@blacknewsbeat)
+[_alexyis](https://www.threads.com/@_alexyis)
 
-6h
+[18h](https://www.threads.com/@_alexyis/post/Dd6R9ksEUvn)
 
-This content is unavailable
+We should not be mixing pilates and wine wtf🥲
 
-[![Image 2: fullof_grace's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/779002146_17986671945105329_1422982447275417268_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=wBxPkPXfM9QQ7kNvwHpeG8n&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMx4iHEoZcQ1QDoY3DrM9kqPb7iYV6qzptGKgahajFWFg&oe=6AC27EF9&_nc_sid=10d13b)](https://www.threads.com/@fullof_grace)
+58
 
-[fullof_grace](https://www.threads.com/@fullof_grace)
+33
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+11
 
-[4h](https://www.threads.com/@fullof_grace/post/Dd5HLgIDcIh)
+[![Image 2: sofia.roseonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/742799975_17974584915119169_119476153340608323_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=cY4SX6Vtp0AQ7kNvwHXyt5S&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO-EODuct1KPAVxiIFdvR5o7FaSI8rQyhk9xkVC004Pdw&oe=6AC3D046&_nc_sid=10d13b)](https://www.threads.com/@sofia.roseonline)
 
-Syd and TP were both out their seat tooo!?
+[sofia.roseonline](https://www.threads.com/@sofia.roseonline)
 
-454
+[21h](https://www.threads.com/@sofia.roseonline/post/Dd57F_GlSGD)
 
-10
+NOBODY WARNED ME ABOUT WHAT MARRIAGE FEELS LIKE THE YEAR YOU HAVE A TODDLER AND A NEWBORN.
 
-9
+SO I'M WARNING YOU.
 
-[![Image 3: thephillypod's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/829286965_18648182554058748_7552167655113592602_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEDZ1gXT5-lvy77D7dVP9ScQHprgTl7CFiQxR6N75bGznh9IJnJtrvyFL89aah2nOM&_nc_ohc=g9LxZfCsOfsQ7kNvwF47z-_&_nc_gid=BV0KuuVhPROU-71ZCeoNDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNOoNEIgc7rqBKxJoF4KGTfYgHF3wrO-mnIY8aqBy8vkQ&oe=6AC26055&_nc_sid=10d13b)](https://www.threads.com/@thephillypod)
+And if one or both of you has ADHD, it lands completely differently.
 
-[thephillypod](https://www.threads.com/@thephillypod)
+71
 
-[13h](https://www.threads.com/@thephillypod/post/Dd4KdBTEXNZ)
+6
 
-Would like to see more Biletnikoff Winner Makai Lemon and less bubble screen Makai Lemon.
+2
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/828626827_1083080847658503_834073663406816391_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=103&ig_cache_key=Mzk5Njk5MDY0NDAxNDkwNDE1Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=e
+8
+
+[![Image 3: robmeeuwsen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/761043165_17890021125605936_5346398815731438375_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=RWs0esi2H2IQ7kNvwEv6_OX&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOKKH4CwG6zgewzpMmpBKB6HY4StDPCReQXDyOCyUzxXg&oe=6AC3D896&_nc_sid=10d13b)](https://www.threads.com/@robmeeuwsen)
+
+[robmeeuwsen](https://www.threads.com/@robmeeuwsen)
+
+[apple accessories](https://www.threads.com/search?q=apple%20accessories&serp_type=tags&tag_id=18349784581129543)
+
+[10h](https://www.threads.com/@robmeeuwsen/post/Dd7KU3MAI1X)
+
+Anyone experiencing wrinkles on the tech woven Apple iPhone cases? Don’t throw it a
 ```

@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0953
-generated_at: "2026-09-30T05:51:52+00:00"
+generated_at: "2026-10-01T06:23:46+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -70,10 +70,10 @@ Markdown Content:
 New thread
 
 [Search](http://www.threads.com/searc
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUB-ryvKfnySEmV8OwkTaIFN9_Ll0JgUznR6XMlNLJB-QxCFpONWl6I86f9
-- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363ec3c1801d9840
-- [![Image 15: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 21: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUA9llMPe1S4jTL6KLVha3oDrb7JcbS7fTw_BAIj3WuxEarcFU-psbkKFEz
+- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/17529704032983580767?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe13cee82b6a11c3e00afd4e645e4d0363ec3c1801d9840
+- [![Image 15: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 21: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
 
 ## 抓取品質
 
@@ -120,7 +120,7 @@ More
 
 27.8K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=CVOk5SbByvwQ7kNvwFk8kNA&_nc_oc=AdoPULotFI5XI4fsh1irkU_pGXlqoY_7U1-HnK-ciYA9I87FgiOA79w8rwlj4Rfyygw&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=LtrgLsvILJG-2x5Ga0D3Eg&_nc_ss=7b289&oh=00_AQM_yvmc7G0_CDIa3sAHQ6hvvfGn2tNlwpS-E3tAuajunQ&oe=6AC29170)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=s5rxc76GKMEQ7kNvwHI83VJ&_nc_oc=Ado4_ov92EJLRyUk0REqAFEzhe2rgjVJLshgZlO9xINIq5cvN2Xwh500JNtoKLVNSHA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Efz4Dw2KGcKLK7CWivBfcA&_nc_ss=7b289&oh=00_AQNEfho_TIehaCa_9w0u0yiQA3o05ugOwF6taQHYSUwCYQ&oe=6AC3E2F0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -144,7 +144,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=L32HPDYpiSwQ7kNvwEbMNX9&_nc_oc=AdpvvRx_y649inpJV17dPHtO8QaJt935dgKu7YgJjSFkiZn-4lisVJpRZP1XufvW814&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=LtrgLsvILJG-2x5Ga0D3Eg&_nc_ss=7b289&oh=00_AQOOnsjzfAHuD9rpOd-losc8xL8kpNhPNL-JcgMEA_QigA&oe=6AC27988)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9IAqHpLUMegQ7kNvwEmqLij&_nc_oc=AdqDQgm7n5R7BMmOjQu5ZMhO8mcn5gEQoiiMUT6W53GkKs1-lOO20cJcYdQY337so4U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Efz4Dw2KGcKLK7CWivBfcA&_nc_ss=7b289&oh=00_AQMgUPuwCGSsGtPmVelGCRxepH6ZraPaaA7in-jt_yFUTg&oe=6AC3CB08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
