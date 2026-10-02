@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：[18h](https://www.threads.com/@operationwe"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -7,19 +7,20 @@ language: "unknown"
 category: "coding"
 tools:
   - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-01T06:23:46+00:00"
+generated_at: "2026-10-02T06:02:21+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：[18h](https://www.threads.com/@operationwe
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[18h](https://www.threads.com/@operationweaver/post/Dd8xgaSlXFX)
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-Make
+Make、GAS
 
 ## 原始工作流拆解
 
@@ -61,23 +62,31 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: kristybausch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/655600805_18068289803305999_477059136216810608_n.jpg?stp=ds
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: authoress_rosy_library's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/529584603_17953191171004221_2760691040100653394_n.
-- Markdown Content:
-[![Image 1: authoress_rosy_library's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/529584603_17953191171004221_2760691040100653394_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDguYzIi
+[](http://www.threads.com/)
+
+[Home](http://www.threads.com/)
+
+New thread
+
+[Search](http://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+- [![Image 3: beekind239's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/656696991_18072736613216646_4475022949436622020_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
+- keyword_hits: AI、Make、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -117,39 +126,43 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: kristybausch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/655600805_18068289803305999_477059136216810608_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gH6T1pruM3dIm_q76csyUtOIQw2OUIUAdVH2NcN6H52W-Hseet32KJBCavkhRS5dqA&_nc_ohc=Hm4Tcz5hHxwQ7kNvwGv8Fuz&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO8taxPbSm_lCy61QIKleex4-t6EuWc4uyq_2MoxMNBDQ&oe=6AC3CDD7&_nc_sid=10d13b)](https://www.threads.com/@kristybausch)
+[![Image 1: operationweaver's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/770586114_17989853073104188_2389348503972220431_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gENq_1OiGt-RJsJafiheeQMAFdFFZXDWV6rvj19E-1PXLdhW2hsndfjs2A5NtkxoA4&_nc_ohc=p7UA-KkJUwUQ7kNvwFOZWgt&_nc_gid=x0NPrarJ7xVDijeKXHVNQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNOla0u-5dmpzjYjZ8-u36jBpKtnsUZZFZ1uJYfN7cxTQ&oe=6AC52C4C&_nc_sid=10d13b)](https://www.threads.com/@operationweaver)
 
-[kristybausch](https://www.threads.com/@kristybausch)
+[operationweaver](https://www.threads.com/@operationweaver)
 
-[heated rivalry](https://www.threads.com/search?q=heated%20rivalry&serp_type=tags&tag_id=18485329438068310)
+[18h](https://www.threads.com/@operationweaver/post/Dd8xgaSlXFX)
 
-[7h](https://www.threads.com/@kristybausch/post/Dd7dj7fmqVI)
+witches up at the ass crack of dawn wya
 
-“BUT THE ACTUAL LEVEL OF INTIMACY IS LIKE, A PIECE OF CAKE.” FML. I am so overstimulated right now.
+399
 
-854
+57
 
-7
+17
 
-10
+[![Image 2: raeshanda_lias's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464188385_1705447886897540_3658098647220041200_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gENq_1OiGt-RJsJafiheeQMAFdFFZXDWV6rvj19E-1PXLdhW2hsndfjs2A5NtkxoA4&_nc_ohc=U7x_P96XHzAQ7kNvwGpNJcT&_nc_gid=x0NPrarJ7xVDijeKXHVNQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPPiEZSyO5QPGb903efrdt4fLsaN2EMzr88geu-BytJ4g&oe=6AC50292&_nc_sid=10d13b)](https://www.threads.com/@raeshanda_lias)
 
-1
+[raeshanda_lias](https://www.threads.com/@raeshanda_lias)
 
-[![Image 2: gaby.andreolii's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790968848_17981974731097534_6745494808978007468_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDIyLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gH6T1pruM3dIm_q76csyUtOIQw2OUIUAdVH2NcN6H52W-Hseet32KJBCavkhRS5dqA&_nc_ohc=9lSSkGCsOFQQ7kNvwEsOriV&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM2EqXZ1vsQfYgpc8AnFMrcc44P0lJSglP0vGlxIWsUmA&oe=6AC3DBBF&_nc_sid=10d13b)](https://www.threads.com/@gaby.andreolii)
+[14h](https://www.threads.com/@raeshanda_lias/post/Dd9L_seHH2D)
 
-[gaby.andreolii](https://www.threads.com/@gaby.andreolii)
+My bad yall! 😒
 
-[14h](https://www.threads.com/@gaby.andreolii/post/Dd6vo8rFNKI)
+I forgot that most people are ignorant and refuse to have an intelligent conversation based on facts and not feelings.😫
 
-Girls, today I’m introducing you to Fraser Minten and if you watched Boston’s first game of the season, you might have already noticed him. 😭🐻🏒
+I totally forgot and it won’t happen again. 🤦🏾‍♀️
 
-Because who opened the scoring for the Bruins?
+448
 
-HE DID.
+17
 
-But let’s start from the beginning.
+8
 
-Minten is a 22-year-old Canadian center currently playing for the Boston Bruins.
+[![Image 3: tmonty76's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358162350_7149959908351857_634803890941507280_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gENq_1OiGt-RJsJafiheeQMAFdFFZXDWV6rvj19E-1PXLdhW2hsndfjs2A5NtkxoA4&_nc_ohc=Uu5HsmjR2AQQ7kNvwGfXCw1&_nc_gid=x0NPrarJ7xVDijeKXHVNQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOvgOblqWE98RIHItlHlebIstVWdcspDvpjr6Kd2aAA4A&oe=6AC50721&_nc_sid=10d13b)](https://www.threads.com/@tmonty76)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/831768836_17985957894097534_275688467985691320_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=Mzk5NzcxNzEzNjcyNjYwODI4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DVeekEix3u4Q7kNvwEOR5_0&_nc_oc=AdopsW1iPr_z8rr_xXKB0GdE4_szlnvq1ZRT_dZ-KRqv6nX5kjQy24Smg3OOUeRe69A&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=6XZDHtx5TTdwZnEUWhnCcA&_nc_ss=7a22e&oh=00_AQOPAhOnNKbzl83XnliF82Y_O94VSRu8XephEuKWN9Lh8A&oe=
+[tmonty76](https://www.threads.com/@tmonty76)
+
+[3h](https://www.threads.com/@tmonty76/post/Dd-Y3otnYej)
+
+Hulu is raising its prices by 10.00 a month in the midst of an affordability crisis. Hulu made 12 billion in profits last year and got a 1.4 billion dollar tax refund. CORPORATE GREED IS THE PROBLE
 ```

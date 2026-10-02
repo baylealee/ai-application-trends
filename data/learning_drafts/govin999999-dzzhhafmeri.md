@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：WHY AM I NOT GETTING THE DRAGONKIND REMIND"
+title: "govin999999 的 AI 工作流案例：Today is the first time that we've achieve"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-01T06:23:46+00:00"
+generated_at: "2026-10-02T06:02:21+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：WHY AM I NOT GETTING THE DRAGONKIND REMIND
+# govin999999 的 AI 工作流案例：Today is the first time that we've achieve
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-WHY AM I NOT GETTING THE DRAGONKIND REMINDER EMAIL?
+Today is the first time that we've achieved peace on BookThreads and it's all because we're too busy getting incinerated on Dragonkind 😂
 
 ## 這篇在解決什麼問題
 
@@ -79,10 +79,10 @@ Activity
 Profile
 
 Insight
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/828938818_1776345690270747_5239479065443849161_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=Mzk5Nzc5MDIwOTgyMzMwMDk2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMiY6TNGZmZVdDLyT2GjhY3wIEDr60YbOOmHQwrf-gUsyQ5q_vC0HhJqKuXqiCZ1TPlSVWSidnFqv9wXorxXznbta8iYpM67vcZKwo.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=twJCTE5pzIYQ7kNvwHYqO2U&
-- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/828202064_17988649707114932_1952528925942842915_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=Mzk5NzgzNzM0NTk0MTE3NTQzMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/829363309_17972448681167138_1355308927579013410_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=Mzk5Nzg2MjIyMzY3NTE4MTg5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- [![Image 2: fitthickjaz's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/469636572_1746765549508878_7768369235532923743_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagra
+- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMqc_zOC3Kp4vo-6GPMcRfVQX4_6xUtUO6ZY93RBaDvS5MN1NEkXj9LS5SeiftA46pAnimPCSEQ9mjKB_KaYFAsa5gjVYeXxjotFcw.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=8uKqkODeeNYQ7kNvwGiTQE6&
+- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/833862685_18115827758278594_1340810515414038477_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5ODQ2OTkxNDg0NzQ2ODUwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
+- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/831568079_17888090217618099_4819801717776651054_n.webp?_nc_cat=102&ig_cache_key=Mzk5ODU3NDg5MTk4NTg3NjcyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzUwLnNkci5yZW
 
 ## 抓取品質
 
@@ -127,47 +127,35 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: _alexyis's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/689115863_17967675537105471_8874915636348196004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=dDIzYiZphCoQ7kNvwHJbnQ9&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN_iBaqideHkyoRN0uLuJLqcmtpzUy7bjNcPO7nbvbPSQ&oe=6AC3BDF8&_nc_sid=10d13b)](https://www.threads.com/@_alexyis)
+[![Image 1: vonmiller's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/265608490_126117683208534_8120124375078291152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gESLsM4JRJgsfAAQe1nGpnxVqJMNt0hrPLA0Es3Fxxu-vGj5QiocYU4wRDKI4mGfC4&_nc_ohc=hNX2LPi0i5IQ7kNvwHeR4Mh&_nc_gid=kecBrQocwca6SyXiqc8KpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPDz5gO6VEEHH4GFuq5TzEWs7C4wcBR3Ncb2Bq05KyYYw&oe=6AC51604&_nc_sid=10d13b)](https://www.threads.com/@vonmiller)
 
-[_alexyis](https://www.threads.com/@_alexyis)
+[vonmiller](https://www.threads.com/@vonmiller)
 
-[18h](https://www.threads.com/@_alexyis/post/Dd6R9ksEUvn)
+[8h](https://www.threads.com/@vonmiller/post/Dd92_xbHc6z)
 
-We should not be mixing pilates and wine wtf🥲
+Howdy friends, I’m on Threads now 🤠
 
-58
+Lmk what y’all wanna talk about!
 
-33
+1.2K
 
-11
+148
 
-[![Image 2: sofia.roseonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/742799975_17974584915119169_119476153340608323_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=cY4SX6Vtp0AQ7kNvwHXyt5S&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO-EODuct1KPAVxiIFdvR5o7FaSI8rQyhk9xkVC004Pdw&oe=6AC3D046&_nc_sid=10d13b)](https://www.threads.com/@sofia.roseonline)
-
-[sofia.roseonline](https://www.threads.com/@sofia.roseonline)
-
-[21h](https://www.threads.com/@sofia.roseonline/post/Dd57F_GlSGD)
-
-NOBODY WARNED ME ABOUT WHAT MARRIAGE FEELS LIKE THE YEAR YOU HAVE A TODDLER AND A NEWBORN.
-
-SO I'M WARNING YOU.
-
-And if one or both of you has ADHD, it lands completely differently.
-
-71
-
-6
-
-2
+1
 
 8
 
-[![Image 3: robmeeuwsen's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/761043165_17890021125605936_5346398815731438375_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFK3bcjQ_aTQ1VxUPCKhiUzRQ8ZtKzwbdK4moBkq-xvj2GsPmqRgdvC2_HdCSKX3CE&_nc_ohc=RWs0esi2H2IQ7kNvwEv6_OX&_nc_gid=uFojNFhlntQ8WtQ38KoYXg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOKKH4CwG6zgewzpMmpBKB6HY4StDPCReQXDyOCyUzxXg&oe=6AC3D896&_nc_sid=10d13b)](https://www.threads.com/@robmeeuwsen)
+[![Image 2: chaneljai's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/669447259_18077669534207760_3639730963870073033_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gESLsM4JRJgsfAAQe1nGpnxVqJMNt0hrPLA0Es3Fxxu-vGj5QiocYU4wRDKI4mGfC4&_nc_ohc=63yHPXUxJsQQ7kNvwGrCK0H&_nc_gid=kecBrQocwca6SyXiqc8KpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO4DkhlaMVawUt-8Ot25Mxmrjv6pgvjuxFY9Y6PfmeQOw&oe=6AC52B18&_nc_sid=10d13b)](https://www.threads.com/@chaneljai)
 
-[robmeeuwsen](https://www.threads.com/@robmeeuwsen)
+[chaneljai](https://www.threads.com/@chaneljai)
 
-[apple accessories](https://www.threads.com/search?q=apple%20accessories&serp_type=tags&tag_id=18349784581129543)
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-[10h](https://www.threads.com/@robmeeuwsen/post/Dd7KU3MAI1X)
+[4h](https://www.threads.com/@chaneljai/post/Dd-SQLSkfll)
 
-Anyone experiencing wrinkles on the tech woven Apple iPhone cases? Don’t throw it a
+Clark & Turner receive a tech early.
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/831467248_1907505727324979_9039676736005437425_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk5ODcxMzc5NTYyMzEyMzMwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=d9vcSby5iX0Q7kNvwEWGclJ&_nc_oc=Adpprkfxx6ye5IzPz9IQF6A7N4ICVFCgacMHLCfi6H-dGLSTX6V8gvg-4MLNiFKVJlg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kecBrQocwca6SyXiqc8KpQ&_nc_ss=7a22e&oh=00_AQPPuGhqiGzTxRylWYCwumfc1b0coIgvuHZ_BHhIXVufnw&oe=6AC507B6)
+
+[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNxdZx1mCqx7Wxe4iV99nUNqmcBcoR42EKni_IwmiNKKQXRpfAUdOAKaD1LLhYy_MuM1ZmeD-3aSz23IL5jmse7TBkokNZMRartBCQ.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=JV5ylFgXULMQ7kNvwHIZUU-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjUyLmRhc2
 ```
