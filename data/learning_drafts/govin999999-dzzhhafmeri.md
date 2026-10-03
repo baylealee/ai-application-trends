@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：Today is the first time that we've achieve"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-02T06:02:21+00:00"
+generated_at: "2026-10-03T05:37:54+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Today is the first time that we've achieve
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Today is the first time that we've achieved peace on BookThreads and it's all because we're too busy getting incinerated on Dragonkind 😂
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Today is the first time that we've achieved peace on BookThreads and it's all be
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,41 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insight
-- [![Image 2: fitthickjaz's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/469636572_1746765549508878_7768369235532923743_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagra
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMqc_zOC3Kp4vo-6GPMcRfVQX4_6xUtUO6ZY93RBaDvS5MN1NEkXj9LS5SeiftA46pAnimPCSEQ9mjKB_KaYFAsa5gjVYeXxjotFcw.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=8uKqkODeeNYQ7kNvwGiTQE6&
-- [![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/833862685_18115827758278594_1340810515414038477_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=110&ig_cache_key=Mzk5ODQ2OTkxNDg0NzQ2ODUwNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQue
-- [![Image 8](https://scontent.cdninstagram.com/v/t51.82787-15/831568079_17888090217618099_4819801717776651054_n.webp?_nc_cat=102&ig_cache_key=Mzk5ODU3NDg5MTk4NTg3NjcyMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzUwLnNkci5yZW
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -113,49 +77,59 @@ Activity
 
 Profile
 
-Insights
+Ins
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-More
+Markdown Content:
+[![Image 1: notpaul.flores's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792910061_17947680297318483_1724815013229175715_n.jpg?st
+- [![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/831641760_17949156537318483_290896576173007767_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=Mzk5OTEwNzc3NjcyMjgzMjEwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+- Markdown Content:
+[![Image 1: notpaul.flores's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792910061_17947680297318483_1724815013229175715_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/)
+- content_quality: `strong`
+- keyword_hits: AI、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/search)
+## 原始抓取內容
 
-# [Home](https://www.threads.com/?error=invalid_post)
+```text
+Title: Threads • Log in
 
-[![Image 1: vonmiller's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/265608490_126117683208534_8120124375078291152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gESLsM4JRJgsfAAQe1nGpnxVqJMNt0hrPLA0Es3Fxxu-vGj5QiocYU4wRDKI4mGfC4&_nc_ohc=hNX2LPi0i5IQ7kNvwHeR4Mh&_nc_gid=kecBrQocwca6SyXiqc8KpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPDz5gO6VEEHH4GFuq5TzEWs7C4wcBR3Ncb2Bq05KyYYw&oe=6AC51604&_nc_sid=10d13b)](https://www.threads.com/@vonmiller)
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[vonmiller](https://www.threads.com/@vonmiller)
+Markdown Content:
+[![Image 1: actuallystevenweber's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358801121_1896447694073711_988275897724647735_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzEuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHFAXX-HKz0OqRRTFpzuxc03uX82a3wqDxkq-NIxagmkBP6fj9FRLmHrXPItOVRKsY&_nc_ohc=im3du4BkIIMQ7kNvwEqGSvO&_nc_gid=1-1iXNlPkfiyjCTcV1wf0A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQObmzzXtvhTPF9Xq6elCBMNAsUkwRxfcMImhY-lbaMx3g&oe=6AC670F6&_nc_sid=10d13b)](https://www.threads.com/@actuallystevenweber)
 
-[8h](https://www.threads.com/@vonmiller/post/Dd92_xbHc6z)
+“Anyone who is in anyway okay with this can go fuck themselves.” — A. Lincoln
 
-Howdy friends, I’m on Threads now 🤠
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/833388056_18114836729598940_6551853363034092956_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk5OTEwMTk4Nzc4NjI1NjY2MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIzOC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=5Q4JukQHpQkQ7kNvwGzs9CV&_nc_oc=AdqN6ntuY9U77VDdB8j5MheSVQK8XWfVU3yNq5hHcINe2_guDlIjGOamUeNhmV9lXQo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1-1iXNlPkfiyjCTcV1wf0A&_nc_ss=7a22e&oh=00_AQPIbaQZPb9ZZt8i1_zDYyF4-1l3Y1jUDDAqe8r7KIaHcA&oe=6AC67BD1)](https://www.threads.com/@actuallystevenweber/post/Dd_qhHajvEU/media)
 
-Lmk what y’all wanna talk about!
+1.1K
 
-1.2K
+67
 
-148
+38
 
-1
+6
 
-8
+[![Image 3: renesperezii's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358047241_651066706901754_7912701220093153324_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zOTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHFAXX-HKz0OqRRTFpzuxc03uX82a3wqDxkq-NIxagmkBP6fj9FRLmHrXPItOVRKsY&_nc_ohc=pMf3-ywA80oQ7kNvwHFLeNV&_nc_gid=1-1iXNlPkfiyjCTcV1wf0A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNgyrCyINj1eYFDT2sFEBet81a59FKqmvRnrqAfLoUHQw&oe=6AC67B6A&_nc_sid=10d13b)](https://www.threads.com/@renesperezii)
 
-[![Image 2: chaneljai's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/669447259_18077669534207760_3639730963870073033_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gESLsM4JRJgsfAAQe1nGpnxVqJMNt0hrPLA0Es3Fxxu-vGj5QiocYU4wRDKI4mGfC4&_nc_ohc=63yHPXUxJsQQ7kNvwGrCK0H&_nc_gid=kecBrQocwca6SyXiqc8KpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO4DkhlaMVawUt-8Ot25Mxmrjv6pgvjuxFY9Y6PfmeQOw&oe=6AC52B18&_nc_sid=10d13b)](https://www.threads.com/@chaneljai)
+It was me and one other dude at the first showing of *Digger* this morning.
 
-[chaneljai](https://www.threads.com/@chaneljai)
+The other dude walked out at 30 minutes in…🤷🏻‍♂️
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+31
 
-[4h](https://www.threads.com/@chaneljai/post/Dd-SQLSkfll)
+13
 
-Clark & Turner receive a tech early.
+[![Image 4: adamschefter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832733_187865147331651_6878775976036134737_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHFAXX-HKz0OqRRTFpzuxc03uX82a3wqDxkq-NIxagmkBP6fj9FRLmHrXPItOVRKsY&_nc_ohc=WOWKv22VCQ8Q7kNvwHkVpsF&_nc_gid=1-1iXNlPkfiyjCTcV1wf0A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMvqCkR10-_pkneBDIasqO6fV0iWbxaM3YYV1nuctjhNA&oe=6AC65B62&_nc_sid=10d13b)](https://www.threads.com/@adamschefter)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/831467248_1907505727324979_9039676736005437425_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=Mzk5ODcxMzc5NTYyMzEyMzMwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=d9vcSby5iX0Q7kNvwEWGclJ&_nc_oc=Adpprkfxx6ye5IzPz9IQF6A7N4ICVFCgacMHLCfi6H-dGLSTX6V8gvg-4MLNiFKVJlg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=kecBrQocwca6SyXiqc8KpQ&_nc_ss=7a22e&oh=00_AQPPuGhqiGzTxRylWYCwumfc1b0coIgvuHZ_BHhIXVufnw&oe=6AC507B6)
+Jets ruled out RB Breece Hall and WR Adonai Mitchell for Sunday’s game vs. the Bears.
 
-[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQNxdZx1mCqx7Wxe4iV99nUNqmcBcoR42EKni_IwmiNKKQXRpfAUdOAKaD1LLhYy_MuM1ZmeD-3aSz23IL5jmse7TBkokNZMRartBCQ.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=JV5ylFgXULMQ7kNvwHIZUU-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjUyLmRhc2
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/833603435_17988175089119874_804301111449868652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=Mzk5OTEyMTU4MDAwMTQwNTE3Mw%3D%3D.3-ccb7-5&ccb=7-
 ```
