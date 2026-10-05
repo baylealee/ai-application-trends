@@ -6,11 +6,10 @@ post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "GPT"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-04T06:13:11+00:00"
+generated_at: "2026-10-05T06:04:45+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-GPT
+待人工確認
 
 ## 原始工作流拆解
 
@@ -81,16 +80,18 @@ Profile
 Ins
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: footballforever's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628739192_18557065174047448_3116350220492728330_n.jpg?
-- I been in love with Davinchi for years and I beeeen peeping how he really feels. Idgaf how fine you are. Your mindset will make you so unattractive
+[![Image 1: daleyn.london's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/748397013_17936715591306128_8433734477969379365_n.jpg?stp
+- [![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/835060470_17988068199118104_985307735940482478_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwMDU1MTY3NTcxNDcyMzUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQu
+- Markdown Content:
+[![Image 1: daleyn.london's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/748397013_17936715591306128_8433734477969379365_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_h
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、GPT
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -99,68 +100,40 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: a_poetic_poesy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/527578508_17845673487540825_5608449748490447458_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=tqTgL9uq7fcQ7kNvwGOHvec&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODUR3_3o0vVYyTeypwbo5hafoMAuyKi7KlNMrHP5fvdg&oe=6AC9059B&_nc_sid=10d13b)](https://www.threads.com/@a_poetic_poesy)
 
-[Home](http://www.threads.com/)
+When did you realize you were carrying more than anyone knew?
 
-New thread
+100
 
-[Search](http://www.threads.com/search)
+66
 
-Messages
+4
 
-Activity
+1
 
-Profile
+[![Image 2: nicoleivory's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/581256200_17901433455316842_3409470921496595982_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=zhyoRHMWyoYQ7kNvwHpkIm6&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMWKeskwkDqZsW3qRjxxxte5weSjm005DW1d41NMGRv4A&oe=6AC8F82F&_nc_sid=10d13b)](https://www.threads.com/@nicoleivory)
 
-Insights
+chipotle, for y’all next seasonal protein switcharoo, can yall do grilled shrimp? 🫠
 
-[Log in](http://www.threads.com/login?show_choice_screen=false)
+378
 
-More
+25
 
-[](http://www.threads.com/)
+12
 
-[](http://www.threads.com/)
+[![Image 3: rudysreaction's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472512472_9161839953879479_2680329268127526252_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=YoRmOFiVQY4Q7kNvwE2jaiM&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP1oAzic28l0pYf-_gfTk3Xa56KPm0Bl-7POsgtc0LRcw&oe=6AC8FBDB&_nc_sid=10d13b)](https://www.threads.com/@rudysreaction)
 
-[](http://www.threads.com/search)
+I am at my breaking point with Jameis Winston!! New York Giants need a good healthy quarterback, and he is NOT it! ￼ 😡
 
-# [Home](http://www.threads.com/?error=invalid_post)
+[![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/825327244_29725864900336401_4903423581857266357_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMDY3MDM0MjM4MTY2MDk0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sJQts68myyAQ7kNvwGByoC1&_nc_oc=Adp-HvCoxjqBN0sDP-IDVNYH4tiESd56H3BkkgZjvG-cHF-WXPH3NuiowLLDLVB-7IQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&_nc_ss=7a22e&oh=00_AQMIAKSELMuMeCPRiertn3yVd9OZBl17t6dohrISnK4WXA&oe=6AC92425)](https://www.threads.com/@rudysreaction/post/DeFPHrdGWsS/media)
 
-[![Image 1: __keyairrah's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/475287619_1566799024030884_4014021745598192130_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHwKQJ6Do9jgPtahchWRnAVXDrUlG-xumvNyNQnt_77X9BtwsYLhgpJjNZ0Xwol-z8&_nc_ohc=sacMf-S-6YAQ7kNvwFf39zC&_nc_gid=0TXUH4UNtiZynyyJBJSFCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOfav6A0bjo_yLaSkCTecY7i_HhhqTWoYxKux51WbGzcg&oe=6AC7C3D6&_nc_sid=10d13b)](http://www.threads.com/@__keyairrah)
+62
 
-[__keyairrah](http://www.threads.com/@__keyairrah)
+42
 
-[17h](http://www.threads.com/@__keyairrah/post/DeCDizaFOYF)
-
-It’s something about that wintergreen rubbing alcohol that is VERY ancestral 😂
-
-970
-
-22
-
-84
-
-7
-
-[![Image 2: deenotedelegance's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/370615764_224175870625795_5224177912014730172_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHwKQJ6Do9jgPtahchWRnAVXDrUlG-xumvNyNQnt_77X9BtwsYLhgpJjNZ0Xwol-z8&_nc_ohc=jADo3dNpZFIQ7kNvwG1UJvy&_nc_gid=0TXUH4UNtiZynyyJBJSFCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOdlmzHt_ojteBDTtYb6gmo48hANmEMIN7a-Uo--jfclQ&oe=6AC7A59F&_nc_sid=10d13b)](http://www.threads.com/@deenotedelegance)
-
-[deenotedelegance](http://www.threads.com/@deenotedelegance)
-
-[10h](http://www.threads.com/@deenotedelegance/post/DeC3ZCUoN8K)
-
-Serious question! For all the mommas out there, when you were pregnant did you keep any of your pre-pregnancy clothes or toss them all out? For those that kept the clothes, were you able to fit them again or did you have a completely new body you had to adjust to after birth? I understand that every woman’s body is different but I’m just looking for some helpful advice on what to do with my clothes.
-
-8
-
-23
-
-[![Image 3: ijpooledc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358186619_648664200514240_2948388962739541636_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHwKQJ6Do9jgPtahchWRnAVXDrUlG-xumvNyNQnt_77X9BtwsYLhgpJjNZ0Xwol-z8&_nc_ohc=4_7uLEuUK-8Q7kNvwFG1ofx&_nc_gid=0TXUH4UNtiZynyyJBJSFCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN6D8LxziltEr1Y9somKVsNzGPNaxmKJ_-U7LGV-aAd1A&oe=6AC7A849&_nc_sid=10d13b)](http://www.threads.com/@ijpooledc)
-
-[ijpooledc](http://www.threads.com/@ijpooledc)
-
-[7h](http://www.threads.c
+[![Image 5: nankwat_mbi's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358520759_612982474266042_4935628175225391922_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMy
 ```
