@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：The price of gasoline has gone up more in "
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "GAS"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-05T06:04:45+00:00"
+generated_at: "2026-10-06T06:44:21+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：The price of gasoline has gone up more in 
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+The price of gasoline has gone up more in Utah than in any other state thanks to Donald Trump’s war in Iran, a whopping $2.19 since February 28. [sltrib.com/news…](https://l.thread
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+GAS
 
 ## 原始工作流拆解
 
@@ -60,28 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: laylaylou's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540391185_17847459699551294_2513794276852217342_n.jpg?stp=dst-j
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/831118476_1383974867111805_5538079855562991461_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAwMDU0OTAwNDM1NDIzNjgzMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- Markdown Content:
-[![Image 1: laylaylou's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540391185_17847459699551294_2513794276852217342_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
-- [![Image 4: notactuallyfamous's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/435413589_446298074522549_7185607100366254054_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
-- [![Image 6: abbet__1's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/827509900_18144819505505435_3624107609745486512_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -99,69 +78,58 @@ Activity
 
 Profile
 
-Insights
+Insig
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-More
+Markdown Content:
+[![Image 1: mediterranean.code's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749535318_18145234543503954_6006144644967372581_n.jpg
+- Markdown Content:
+[![Image 1: mediterranean.code's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749535318_18145234543503954_6006144644967372581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&
+- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/831424103_18115852460115408_5869644652280027190_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwMTM1NTYyNjQyNTUxNzkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/833332892_18115852391115408_5145027422718828754_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMTM1NTYyNzIzMDgyMzczOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/)
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/search)
+## 原始抓取內容
 
-# [Home](https://www.threads.com/?error=invalid_post)
+```text
+Title: Threads • Log in
 
-[![Image 1: __tyra.__'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/457480428_517056347542106_4168718930013748919_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGpIhBkPv8TMt7-kcBTlCRq_OAXnq5IAu049NAsKiTNUnISaD2FrM4JHOqHTRHPlME&_nc_ohc=2mIgnrMOMqoQ7kNvwExXkoO&_nc_gid=GgSK1x6xpNx75OxnB3hbqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMPSu6LCM1Rjyq_CvexKyeKlgOhU0KLx8AAcarova3oJg&oe=6AC9085E&_nc_sid=10d13b)](https://www.threads.com/@__tyra.__)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[__tyra.__](https://www.threads.com/@__tyra.__)
+Markdown Content:
+[![Image 1: eyyloveyou's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450821540_402235556297968_384359612469775333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=_vWZjX_B2j0Q7kNvwGi2n7_&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNXPWg_Ayn-1AdUB1SgxT6V8tykL_O79YX03QZz62RLdA&oe=6ACA7E74&_nc_sid=10d13b)](http://www.threads.com/@eyyloveyou)
 
-[13h](https://www.threads.com/@__tyra.__/post/DeFGPv5ETvk)
+In 1953 a food company in Nebraska was stuck with about 260 tons of turkey nobody bought for Thanksgiving. The turkey was sitting in refrigerated train cars because there was nowhere else to keep it. That turkey became the first TV dinner. 🇺🇸
 
-Pulmonologist about to have a field day in 20 years with yall vape and hookah smokers
+42
 
-371
+13
 
-37
+[![Image 2: nba's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/607616234_17940155394100489_2088631185480768873_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=ocW_jGA58ksQ7kNvwHtXHPZ&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMwxCX6lrlkAkWQ8WdXlqSvz7X5gstrFl2K6SMotLUrIA&oe=6ACA75F1&_nc_sid=10d13b)](http://www.threads.com/@nba)
 
-33
+"Give to me, come up, hit, and roll again."
 
-5
+THIS ALLEY-OOP PAIRING 🔥 LaMelo Ball and Rudy Gobert building their lob connection during practice!
 
-[![Image 2: niathelocgod's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/461727577_1317223769655834_5913964211475829883_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGpIhBkPv8TMt7-kcBTlCRq_OAXnq5IAu049NAsKiTNUnISaD2FrM4JHOqHTRHPlME&_nc_ohc=u23dTAkTQa0Q7kNvwF7c1L7&_nc_gid=GgSK1x6xpNx75OxnB3hbqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNn2qQIVjotT4eNzUvo72bX-E8ZAoVi1zE1qRLJsIvTAw&oe=6AC911A1&_nc_sid=10d13b)](https://www.threads.com/@niathelocgod)
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/839010457_1781430453067607_1922716781277891309_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwMTQwMTk3MjM5NDI2OTgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=eybH_VtmaboQ7kNvwHkgmoe&_nc_oc=AdoWIZSoEow-O1W4-maN6UgAVcpqeq9KTXWQ3veiPfrrluQbzYdUj2FeYb5yeMRuhco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&_nc_ss=7a22e&oh=00_AQM7db3JAPi1EwZLsdGUmOqVURGRoKYQEl-LY_6qyaZ4mA&oe=6ACA5F71)
 
-[niathelocgod](https://www.threads.com/@niathelocgod)
+357
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+9
 
-[8h](https://www.threads.com/@niathelocgod/post/DeFo_O0mEB0)
+7
 
-Damn Stew’ja 😣
+4
 
-207
+[![Image 4: sltrib's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358028943_6462586407097918_4093438300518064044_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=DoiZi90ijJ4Q7kNvwFf8Qda&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPXps6dV2PK2waJ8lUKliTky-FH-TjvEJ9rFJxt05flhQ&oe=6ACA7C01&_nc_sid=10d13b)](http://www.threads.com/@sltrib)
 
-8
-
-2
-
-2
-
-[![Image 3: pollinatorpatchgarden's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/820064587_17902197369657617_2019743736092578909_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGpIhBkPv8TMt7-kcBTlCRq_OAXnq5IAu049NAsKiTNUnISaD2FrM4JHOqHTRHPlME&_nc_ohc=V2W9TzlqeqoQ7kNvwGBHox5&_nc_gid=GgSK1x6xpNx75OxnB3hbqg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVy9he18aB8LZFBuwnTkkrRulbvh0ZYwiIbj_A_apuOw&oe=6AC91A77&_nc_sid=10d13b)](https://www.threads.com/@pollinatorpatchgarden)
-
-[pollinatorpatchgarden](https://www.threads.com/@pollinatorpatchgarden)
-
-[8h](https://www.threads.com/@pollinatorpatchgarden/post/DeFl6kIj6iG)
-
-Shoreline, Washington will pay you up to $5,600 to build a rain garden. Seven bucks a square foot for soaking it up. Check your address.
-
-289
-
-5
-
-25
-
-12
-
-[![Image 4: millertime40's profil
+The price of gasoline has gone up more in Utah than in any other state thanks to Donald Trump’s war in Iran, a whopping $2.19 since February 28. [sltrib.com/news…](https://l.threads.com/?u=https%3A%2F%2Fwww.sltrib.com%
 ```

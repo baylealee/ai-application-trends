@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[18h](https://www.threads.com/@ohyarnyone/"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
+  - "GPT"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-05T06:04:45+00:00"
+generated_at: "2026-10-06T06:44:21+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[18h](https://www.threads.com/@ohyarnyone/
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[18h](https://www.threads.com/@ohyarnyone/post/DeHPGPtHDej)
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+GPT
 
 ## 原始工作流拆解
 
@@ -60,6 +61,41 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[](http://www.threads.com/)
+
+[Home](http://www.threads.com/)
+
+New thread
+
+[Search](http://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insight
+- [Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQP1mtwOIAerO5o8i2RhMylmSEkskrlF7xZeZdcVzCa_T2LRi30ofEyB0v1trguYcyta10HO1nGMYXEcg6-IsBXoyaV9cKFXjbBeHQM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=LWKekz7YrSUQ7kNvwG-lswh&
+- [Video 4](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOFBpUuC8cz18K58SOocKYXt6lg3Z1Gj8IaPkbAqxXmV_lutbJp4XALnyCl6yhedfS0D4swH8JZhGVLVOsu7XOQKM1l50BG81zuWzE.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=Ws4rG60MZ-MQ7kNvwF89cwQ&
+- TAPPER: Trump wants to send checks from the $2.2 billion Medicare Improvement Fund, which the CBO says is supposed to be used to make improvements to insurance programs. Do you have concerns about using the funds the way the Trump is suggesting?
+- daily for sucking the fun out of the game & just turning it into the biggest cash grab. Literally 10 years playing religiously & I’m just starting to be over it. 😤
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、GPT
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -77,63 +113,67 @@ Activity
 
 Profile
 
-Ins
-- Title: Threads • Log in
+Insights
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-Markdown Content:
-[![Image 1: daleyn.london's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/748397013_17936715591306128_8433734477969379365_n.jpg?stp
-- [![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/835060470_17988068199118104_985307735940482478_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwMDU1MTY3NTcxNDcyMzUyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQu
-- Markdown Content:
-[![Image 1: daleyn.london's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/748397013_17936715591306128_8433734477969379365_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_h
+More
 
-## 抓取品質
+[](https://www.threads.com/)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[](https://www.threads.com/)
 
-## 原始抓取內容
+[](https://www.threads.com/search)
 
-```text
-Title: Threads • Log in
+# [Home](https://www.threads.com/?error=invalid_post)
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+[![Image 1: ameliacooper_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/797753636_17971811127138411_3905049849658450109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEEvdQ--lNGS5Hcy6DheBJjOF1W0Y8yZ-3rdSLhk14W_oRsitCi4bK0n2Illb0xcBs&_nc_ohc=OCjp2xik6IEQ7kNvwFDxD_K&_nc_gid=E3s_LuvislS6EpsV9BJhig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMWHnlzyTmR9A6LitSFea7lhaaapRICINwxRO616aRPcA&oe=6ACA576D&_nc_sid=10d13b)](https://www.threads.com/@ameliacooper_)
 
-Markdown Content:
-[![Image 1: a_poetic_poesy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/527578508_17845673487540825_5608449748490447458_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=tqTgL9uq7fcQ7kNvwGOHvec&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQODUR3_3o0vVYyTeypwbo5hafoMAuyKi7KlNMrHP5fvdg&oe=6AC9059B&_nc_sid=10d13b)](https://www.threads.com/@a_poetic_poesy)
+[ameliacooper_](https://www.threads.com/@ameliacooper_)
 
-When did you realize you were carrying more than anyone knew?
+[14h](https://www.threads.com/@ameliacooper_/post/DeHoYGMlPNi)
 
-100
+there’s something especially grim about “she knew the risks.” because taken to its logical conclusion, what are women supposed to do? never drink? never party? never date? never hook up? never visit a male friend? never be vulnerable around a man?
 
-66
+because apparently she wasn’t even entitled to think her friend was safe.
+
+512
+
+123
+
+21
+
+7
+
+[![Image 2: ula.casanova's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/641766768_17913693912337844_346715984537813437_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEEvdQ--lNGS5Hcy6DheBJjOF1W0Y8yZ-3rdSLhk14W_oRsitCi4bK0n2Illb0xcBs&_nc_ohc=Fl88N1iwG4AQ7kNvwGaTkYN&_nc_gid=E3s_LuvislS6EpsV9BJhig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM_TjHlKB6UOaWUxvDOSsvEPPTIi1j48V8RRJ4seROCPw&oe=6ACA4F4A&_nc_sid=10d13b)](https://www.threads.com/@ula.casanova)
+
+[ula.casanova](https://www.threads.com/@ula.casanova)
+
+[![Image 3](https://scontent.xx.fbcdn.net/v/t1.6435-9/720038859_18471410428111971_6234677537009346174_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQMnjHGE1ccFBQL6skqjsMd9UIX70GtaIhHiiT4kB9oxjQ&oe=6AEC09EF) Book Threads](https://www.threads.com/search?q=bookthreads&serp_type=tags&tag_id=18325582843102244)
+
+[13h](https://www.threads.com/@ula.casanova/post/DeHxOf0lMzP)
+
+When 
+
+Liam died
+
+ in Fourth Wing I wasn't that heart broken over it. Like yes obvi it was sad and I cried while reading the scene (I'm not a robot after all) but like going into it I knew 
+
+somebody was gonna have to die
+
+ so alright it happened and now we're moving on. When I saw all the reactions 
+
+to his death
+
+ online I was like am I missing something? Cuz again yes it was sad but like 
+
+it's a battle, people die...
+
+65
+
+39
 
 4
 
-1
-
-[![Image 2: nicoleivory's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/581256200_17901433455316842_3409470921496595982_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=zhyoRHMWyoYQ7kNvwHpkIm6&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMWKeskwkDqZsW3qRjxxxte5weSjm005DW1d41NMGRv4A&oe=6AC8F82F&_nc_sid=10d13b)](https://www.threads.com/@nicoleivory)
-
-chipotle, for y’all next seasonal protein switcharoo, can yall do grilled shrimp? 🫠
-
-378
-
-25
-
-12
-
-[![Image 3: rudysreaction's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472512472_9161839953879479_2680329268127526252_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGSgRVhZZI5V8sE8Wig9wgXShY4TmdVlVZS0ADRtR4w07M5GR9NFTytwgyKzH0kKoo&_nc_ohc=YoRmOFiVQY4Q7kNvwE2jaiM&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP1oAzic28l0pYf-_gfTk3Xa56KPm0Bl-7POsgtc0LRcw&oe=6AC8FBDB&_nc_sid=10d13b)](https://www.threads.com/@rudysreaction)
-
-I am at my breaking point with Jameis Winston!! New York Giants need a good healthy quarterback, and he is NOT it! ￼ 😡
-
-[![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/825327244_29725864900336401_4903423581857266357_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=NDAwMDY3MDM0MjM4MTY2MDk0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA0OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sJQts68myyAQ7kNvwGByoC1&_nc_oc=Adp-HvCoxjqBN0sDP-IDVNYH4tiESd56H3BkkgZjvG-cHF-WXPH3NuiowLLDLVB-7IQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=nvEMYqgiYJwuv6CZbAiCig&_nc_ss=7a22e&oh=00_AQMIAKSELMuMeCPRiertn3yVd9OZBl17t6dohrISnK4WXA&oe=6AC92425)](https://www.threads.com/@rudysreaction/post/DeFPHrdGWsS/media)
-
-62
-
-42
-
-[![Image 5: nankwat_mbi's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358520759_612982474266042_4935628175225391922_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMy
+[![Image 4: chimpo178's p
 ```

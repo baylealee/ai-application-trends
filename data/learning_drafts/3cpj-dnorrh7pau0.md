@@ -13,7 +13,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.101
-generated_at: "2026-10-05T06:04:45+00:00"
+generated_at: "2026-10-06T06:44:21+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/9981642741609448918?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCkKc5e3VMRjC1XDxGB3a23IBDBtgIjhHFoxF5lYgfUkWPNauPl8T1Bzfb3aAWpf4j5XF6XsqEAJwg0YRoKAZWV-VhFeiYDstOVYJ_3tr0zTqZDrWQ)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9981642741609448918?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAFJfYLtug_jNlPZzIicSYV1bymu-ryNV0HJ5xq44CAXpqm8DBsfw6eIA8hoPfbmZq9GE06qOMZ0FjWcIPLYVDF7l8fUTmFyeBPcktL83hQdUyYZko)
 
 ## 可以直接複製的做法
 
@@ -83,10 +83,10 @@ Activity
 Profile
 
 I
-- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAQ960EhbPOTTbuZU8QYZJzyibUTGbUPz42gus6YOtHGUKFuKdOmB9Bjs1SVdADfsUojWlOMhPPic7gK6Ek9vgOJ9jdCmkGZgIkYWKIGAWeow9CIng)
-- [![Image 20: Paramount's Final Movie Before Its Merger Is a 101-Minute Action Thriller Officially Hailed as "One of the Year's Best"](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8119359638280271715?url=https%3A%2F%2Fstatic0.moviewebimages.com%2Fwordpress%2
-- [![Image 11: dustin_gmat's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/539770324_17853895812516583_5384598132147164372_n.jpg?_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_oh
-- [![Image 5: haifengkao's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUChm0GbtT69IRU4j0URzT52gRoMTFFGnuvpn3rRroZvPe_FjBThf9zFB15YX9opt4wRjhmm0S--yMGQ0fINSx1Q6WwR_eNls_zHQY0o3HikrNk2-MQ)
+- [![Image 5: haifengkao's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- [![Image 15: Nobel prize for medicine goes to trio who developed optogenetics | New Scientist](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9804672017016917695?url=https%3A%2F%2Fwww.newscientist.com%2Fwp-content%2Fuploads%2F2026%2F10%2FSEI_315391953.jpg&utl
+- The 2026 Nobel prize in physiology or medicine has gone to Karl Deisseroth, Peter Hegemann and Georg Nagel for the development of techniques for controlling brain cells with light
 
 ## 抓取品質
 
@@ -133,7 +133,7 @@ More
 
 115K views
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=zdTN9lMBV6wQ7kNvwGK6MP5&_nc_oc=Adoo8S05bLEE9ciL20PMeCJf-k4uKA15_oFOgUhEIYdIU56asLoEmk4CUhrO2kaYt_c&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQOLnY9qspML1YMSQynN86ZYy4I2mipAEdx6O5SHjWOhcg&oe=6AC900F4)](https://www.threads.com/@_3cpj_)
+[![Image 1: _3cpj_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=zdTN9lMBV6wQ7kNvwFzfdMc&_nc_oc=Adq30oSjy2U3GAMtVU9k4DFCltjn-mRPFcOLS35T0ds4ICkYt3JYFZeqpHAEOS7nQcg&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQP4ZkxzsrHv9aL_GzsIBtgHFMXGTXXz7tSwtI1Vv1o4Cg&oe=6ACA5274)](https://www.threads.com/@_3cpj_)
 
 [_3cpj_](https://www.threads.com/@_3cpj_)
 
@@ -159,7 +159,7 @@ More
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/9981642741609448918?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe04c2f4df1a91a1490923d232a83f5fc7bce33c255a596b59e3c2aa40bb767f8%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=hHg0Wy1dY6WmhOcuzDy07A&_nc_zt=3&oh=06_Q3_DAYLskZ4dtLA5wAbSxSbRf2j8cgjD6TjJ1wWCEUQrGFWA&oe=6AC521D7) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=hHg0Wy1dY6WmhOcuzDy07A&_nc_zt=3&oh=06_Q3_DATll6MHKjglPD4DPTFUqBIouvuLOA1fkhGwf9aG5GWz8&oe=6AC505C7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCkKc5e3VMRjC1XDxGB3a23IBDBtgIjhHFoxF5lYgfUkWPNauPl8T1Bzfb3aAWpf4j5XF6XsqEAJwg0YRoKAZWV-VhFeiYDstOVYJ_3tr0zTqZDrWQ)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/9981642741609448918?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe04c2f4df1a91a1490923d232a83f5fc7bce33c255a596b59e3c2aa40bb767f8%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=n8h7Ie8LrU__xOmjmnR0aw&_nc_zt=3&oh=06_Q3_EAeUAN0tWjA4sz7EQlLbw7tG5VhikL5ZEB18sSqccGh-D&oe=6AC67357) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=n8h7Ie8LrU__xOmjmnR0aw&_nc_zt=3&oh=06_Q3_EAaPdFa3rgehwZXmeh0zo8N5t6zvwu_yP_2v-3x7Soxkb&oe=6AC68F87) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAFJfYLtug_jNlPZzIicSYV1bymu-ryNV0HJ5xq44CAXpqm8DBsfw6eIA8hoPfbmZq9GE06qOMZ0FjWcIPLYVDF7l8fUTmFyeBPcktL83hQdUyYZko)
 
 1.9K
 
