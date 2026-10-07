@@ -4,15 +4,14 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
   - "Notion"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0953
-generated_at: "2026-10-06T06:44:21+00:00"
+generated_at: "2026-10-07T06:20:35+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -29,7 +28,7 @@ generated_at: "2026-10-06T06:44:21+00:00"
 
 ## 使用工具
 
-RAG、Notion、GitHub
+Notion、GitHub
 
 ## 原始工作流拆解
 
@@ -71,15 +70,15 @@ Markdown Content:
 New thread
 
 [Search](http://www.threads.com/searc
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUBZeLgoD9in5Ijwf42UfBZePToZSId712wSDSSWJ4GXyUJou0jmet9QyNf
-- [![Image 14: GitHub - oliviaiii1224/issue_tmp](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 20: GitHub - oliviaiii1224/issue_tmp](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 24: GitHub - oliviaiii1224/issue_tmp](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUDz0P-NHZBfd2vN4lA0B56CelwMFKF49xnsIL-RKJcyptT6h5zZNWcvdEF
+- [![Image 14: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 20: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 24: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG、流程、工具、Notion、GitHub
+- keyword_hits: AI、流程、工具、Notion、GitHub
 - zh_ratio: `0.0953`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
@@ -121,7 +120,7 @@ More
 
 27.8K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=JYSzWk6jkUkQ7kNvwGgJc2s&_nc_oc=Adq5sOQto1iuUnTYa-cd5ETPfoAz7z54jI5EruHbXomg1ADyWEDnmFv16KnALiRkhsE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=b36inJrTQ5MPnbo8DsoDYQ&_nc_ss=7b289&oh=00_AQMekRYPWroZzMXbEFAS-vy96D2RSyBi_vszbjAEQ_48iw&oe=6ACA7A70)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=-49ithU8lXgQ7kNvwGDMgQU&_nc_oc=Adob2VxkMHo4PJAgppvKNQ6gSwZu8cvArQixsqnL0WW4UY4LH3jKRriB3S1aPTAL4rc&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=0O8hGljv3ovHy0G3XGzzFQ&_nc_ss=7b289&oh=00_AQOdO7XDRHT8icE7CXVkfuvLj6xN5sVm8XbbfQovrMdu5g&oe=6ACBCBF0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -145,7 +144,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LkEShiwmkSkQ7kNvwEixGw3&_nc_oc=Adq04VMjiVEhraGPk-9fJ-e62nwWKMkHEeHAU7qsB3Wn0BYYdA7N8_N6okGDCA8AAaw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=b36inJrTQ5MPnbo8DsoDYQ&_nc_ss=7b289&oh=00_AQMXDEGKY1cUCoOPpAsWp1s_hMTBzdcmJFt5r8m9ZvV1cw&oe=6ACA6288)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LkEShiwmkSkQ7kNvwHk09p6&_nc_oc=Adpg9d_jSLhPSkGb9H9VL5o6pVU0nFLhr-MBhwHdOoLOK6bmb9JOfO0dnn1ED_G01OU&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=0O8hGljv3ovHy0G3XGzzFQ&_nc_ss=7b289&oh=00_AQNOyEU5w4Lp7Ey1KJXErdHGYSrSAhl5oHoMLbwZlKgaBA&oe=6ACBB408)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 506
 

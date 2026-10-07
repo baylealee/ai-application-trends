@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：[18h](https://www.threads.com/@ohyarnyone/"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "GPT"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-06T06:44:21+00:00"
+generated_at: "2026-10-07T06:20:35+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：[18h](https://www.threads.com/@ohyarnyone/
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[18h](https://www.threads.com/@ohyarnyone/post/DeHPGPtHDej)
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ generated_at: "2026-10-06T06:44:21+00:00"
 
 ## 使用工具
 
-GPT
+待人工確認
 
 ## 原始工作流拆解
 
@@ -79,15 +78,15 @@ Activity
 Profile
 
 Insight
-- [Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQP1mtwOIAerO5o8i2RhMylmSEkskrlF7xZeZdcVzCa_T2LRi30ofEyB0v1trguYcyta10HO1nGMYXEcg6-IsBXoyaV9cKFXjbBeHQM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=LWKekz7YrSUQ7kNvwG-lswh&
-- [Video 4](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOFBpUuC8cz18K58SOocKYXt6lg3Z1Gj8IaPkbAqxXmV_lutbJp4XALnyCl6yhedfS0D4swH8JZhGVLVOsu7XOQKM1l50BG81zuWzE.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=Ws4rG60MZ-MQ7kNvwF89cwQ&
-- TAPPER: Trump wants to send checks from the $2.2 billion Medicare Improvement Fund, which the CBO says is supposed to be used to make improvements to insurance programs. Do you have concerns about using the funds the way the Trump is suggesting?
-- daily for sucking the fun out of the game & just turning it into the biggest cash grab. Literally 10 years playing religiously & I’m just starting to be over it. 😤
+- [![Image 2: susanquinn2334's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825322726_17957690187247095_2816811472322453969_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzYuYzIifQ&_nc_ht=scontent.cdninst
+- [![Image 3: its_kiajay's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671821124_17921655609353721_5689071640146043864_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzAuYzIifQ&_nc_ht=scontent.cdninstagra
+- Companion [amzn.to/4AQZ1…](https://l.threads.com/?u=https%3A%2F%2Famzn.to%2F4AQZ1aY&e=AUCIcXfTHxeUhqdFldEkr2zMNVJEln4Cgk1v_3sXKODqVPkQtglupHDrIR2nio3Me4G3buMecXvwrV6PZR3U6qmIBnGpUv3_7ymXRo_Xy5uui5rSpww) Final Destination: Bloodlines [amzn.to/4jpS6…](https://l.
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/836084384_17994879441104648_1820080533506039699_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwMTg0MTA0NTczNDkzNjQ5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、GPT
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -127,53 +126,47 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: ameliacooper_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/797753636_17971811127138411_3905049849658450109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEEvdQ--lNGS5Hcy6DheBJjOF1W0Y8yZ-3rdSLhk14W_oRsitCi4bK0n2Illb0xcBs&_nc_ohc=OCjp2xik6IEQ7kNvwFDxD_K&_nc_gid=E3s_LuvislS6EpsV9BJhig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMWHnlzyTmR9A6LitSFea7lhaaapRICINwxRO616aRPcA&oe=6ACA576D&_nc_sid=10d13b)](https://www.threads.com/@ameliacooper_)
+[![Image 1: iambriajanelle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/818479231_17976936183121174_2884329331184603186_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=Tzhhimr9F9wQ7kNvwGNtPUe&_nc_gid=lcUiIVbBfu3KEJdJu1HA1A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNJrd68k6Zzkuoqpz8yl2jJTLK1xUwfqyph3wCWVxGf7Q&oe=6ACBB486&_nc_sid=10d13b)](https://www.threads.com/@iambriajanelle)
 
-[ameliacooper_](https://www.threads.com/@ameliacooper_)
+[iambriajanelle](https://www.threads.com/@iambriajanelle)
 
-[14h](https://www.threads.com/@ameliacooper_/post/DeHoYGMlPNi)
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
 
-there’s something especially grim about “she knew the risks.” because taken to its logical conclusion, what are women supposed to do? never drink? never party? never date? never hook up? never visit a male friend? never be vulnerable around a man?
+[17h](https://www.threads.com/@iambriajanelle/post/DeJziLaEbPd)
 
-because apparently she wasn’t even entitled to think her friend was safe.
+[@atlantadream](https://www.threads.com/@atlantadream)
 
-512
+ PLAYOFF HOUSE RULES DROP TODAY AT 12 P.M. ⏰
 
-123
+Set your alarms and send this to your game-day crew. We’ve got some things to go over before Game 2! 👀🔥
 
-21
+I don’t wanna hear “nobody told me” when it’s time to get LOUD! 🤭🤭🤭🤭
 
-7
+377
 
-[![Image 2: ula.casanova's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/641766768_17913693912337844_346715984537813437_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEEvdQ--lNGS5Hcy6DheBJjOF1W0Y8yZ-3rdSLhk14W_oRsitCi4bK0n2Illb0xcBs&_nc_ohc=Fl88N1iwG4AQ7kNvwGaTkYN&_nc_gid=E3s_LuvislS6EpsV9BJhig&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM_TjHlKB6UOaWUxvDOSsvEPPTIi1j48V8RRJ4seROCPw&oe=6ACA4F4A&_nc_sid=10d13b)](https://www.threads.com/@ula.casanova)
+26
 
-[ula.casanova](https://www.threads.com/@ula.casanova)
+18
 
-[![Image 3](https://scontent.xx.fbcdn.net/v/t1.6435-9/720038859_18471410428111971_6234677537009346174_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQMnjHGE1ccFBQL6skqjsMd9UIX70GtaIhHiiT4kB9oxjQ&oe=6AEC09EF) Book Threads](https://www.threads.com/search?q=bookthreads&serp_type=tags&tag_id=18325582843102244)
+2
 
-[13h](https://www.threads.com/@ula.casanova/post/DeHxOf0lMzP)
+[![Image 2: jdrewsilvers's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/338607557_584327820289015_4108719750184535959_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=3xeGSW-8WykQ7kNvwG-owaK&_nc_gid=lcUiIVbBfu3KEJdJu1HA1A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOj7YwtHfNrVYwVl1L0s4NcP0V7vtiqqzouiR1LT-ZKUw&oe=6ACBA136&_nc_sid=10d13b)](https://www.threads.com/@jdrewsilvers)
 
-When 
+[jdrewsilvers](https://www.threads.com/@jdrewsilvers)
 
-Liam died
+[Georgia Threads](https://www.threads.com/search?q=Georgia%20Threads&serp_type=tags&tag_id=18299785390087583)
 
- in Fourth Wing I wasn't that heart broken over it. Like yes obvi it was sad and I cried while reading the scene (I'm not a robot after all) but like going into it I knew 
+[5h](https://www.threads.com/@jdrewsilvers/post/DeLFdFQlog3)
 
-somebody was gonna have to die
+Keisha Lane Bottoms has a lot of stats, information, and thought out planning in her responses. Jackson is just saying things like "I was poor, my mom was uneducated, I'm going to take care of it, trust me bro."
 
- so alright it happened and now we're moving on. When I saw all the reactions 
+445
 
-to his death
+18
 
- online I was like am I missing something? Cuz again yes it was sad but like 
+32
 
-it's a battle, people die...
+2
 
-65
-
-39
-
-4
-
-[![Image 4: chimpo178's p
+[![Image 3: teacherrobi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825372420_17988277392100838_832777665595297068_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=IBUx7LuD-YEQ7kNvwFHhAvc&
 ```

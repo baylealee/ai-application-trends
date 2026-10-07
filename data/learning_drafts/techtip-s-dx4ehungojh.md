@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：The price of gasoline has gone up more in "
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "GAS"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-06T06:44:21+00:00"
+generated_at: "2026-10-07T06:20:35+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：The price of gasoline has gone up more in 
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-The price of gasoline has gone up more in Utah than in any other state thanks to Donald Trump’s war in Iran, a whopping $2.19 since February 28. [sltrib.com/news…](https://l.thread
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ The price of gasoline has gone up more in Utah than in any other state thanks to
 
 ## 使用工具
 
-GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,6 +60,27 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: gracehartsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357779500_999327574426887_7732139907237345247_n.jpg?stp=ds
+- A tractor pulling a hayride flipped in Wellsburg, New York, after passengers reported its brakes began to smoke. Eleven people were injured, and the 16-year-old driver remains in critical condition.
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/839594148_1660053132506091_7098065286859643732_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwMjI5NzcxNjQ3MDQ2NTc5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- Markdown Content:
+[![Image 1: gracehartsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357779500_999327574426887_7732139907237345247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -78,58 +98,43 @@ Activity
 
 Profile
 
-Insig
-- Title: Threads • Log in
+Insights
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-Markdown Content:
-[![Image 1: mediterranean.code's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749535318_18145234543503954_6006144644967372581_n.jpg
-- Markdown Content:
-[![Image 1: mediterranean.code's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749535318_18145234543503954_6006144644967372581_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&
-- ![Image 10](https://scontent.cdninstagram.com/v/t51.82787-15/831424103_18115852460115408_5869644652280027190_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAwMTM1NTYyNjQyNTUxNzkxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0V
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/833332892_18115852391115408_5145027422718828754_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwMTM1NTYyNzIzMDgyMzczOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+More
 
-## 抓取品質
+[](https://www.threads.com/)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](https://www.threads.com/)
 
-## 原始抓取內容
+[](https://www.threads.com/search)
 
-```text
-Title: Threads • Log in
+# [Home](https://www.threads.com/?error=invalid_post)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[![Image 1: d_ace_jackson's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474593675_1595770851144901_2716596741547466687_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHxPjIWBJFrJjSKidAEHVrOoE0zDEc2rz30Se0bXqLtjqPuFIMRhRcDkAGF4yFiNOw&_nc_ohc=_3HwoNkt-yMQ7kNvwGd3olG&_nc_gid=esOmoY670_pFOP677Yc71g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAr8VQ5rAJMYi5l7iec1YzFi7FO8-mnkQlRkL2UwhXdg&oe=6ACBB7EE&_nc_sid=10d13b)](https://www.threads.com/@d_ace_jackson)
 
-Markdown Content:
-[![Image 1: eyyloveyou's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450821540_402235556297968_384359612469775333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=_vWZjX_B2j0Q7kNvwGi2n7_&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNXPWg_Ayn-1AdUB1SgxT6V8tykL_O79YX03QZz62RLdA&oe=6ACA7E74&_nc_sid=10d13b)](http://www.threads.com/@eyyloveyou)
+[d_ace_jackson](https://www.threads.com/@d_ace_jackson)
 
-In 1953 a food company in Nebraska was stuck with about 260 tons of turkey nobody bought for Thanksgiving. The turkey was sitting in refrigerated train cars because there was nowhere else to keep it. That turkey became the first TV dinner. 🇺🇸
+[13h](https://www.threads.com/@d_ace_jackson/post/DeKSnanlD8C)
 
-42
+I live in Montana, we have a number of celebrities that live in the area. But we know they're here for the same reasons we are, so the locals tend to ignore them. Twice I've seen big stars and just kept walking. Maybe a nod.
 
-13
+When I ran into Mark Harmon in a Lowe's though, well, his sister is married to my bestie's uncle. I'd met her. So I engaged. It was less than 2 minutes, and I got "Gibbs smacked" like I was Tony DiNozzo. Fun.
 
-[![Image 2: nba's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/607616234_17940155394100489_2088631185480768873_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=ocW_jGA58ksQ7kNvwHtXHPZ&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMwxCX6lrlkAkWQ8WdXlqSvz7X5gstrFl2K6SMotLUrIA&oe=6ACA75F1&_nc_sid=10d13b)](http://www.threads.com/@nba)
+29
 
-"Give to me, come up, hit, and roll again."
+2
 
-THIS ALLEY-OOP PAIRING 🔥 LaMelo Ball and Rudy Gobert building their lob connection during practice!
+[![Image 2: thedailyshow's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358167300_6703821866328696_60336042846240819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHxPjIWBJFrJjSKidAEHVrOoE0zDEc2rz30Se0bXqLtjqPuFIMRhRcDkAGF4yFiNOw&_nc_ohc=vvuJqADEXtMQ7kNvwHJjGoI&_nc_gid=esOmoY670_pFOP677Yc71g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNjex1t2i-8OwisrNFdyMHtHMxaleZVE0UJxEVjNA5f0g&oe=6ACB9F42&_nc_sid=10d13b)](https://www.threads.com/@thedailyshow)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/839010457_1781430453067607_1922716781277891309_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwMTQwMTk3MjM5NDI2OTgxNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=eybH_VtmaboQ7kNvwHkgmoe&_nc_oc=AdoWIZSoEow-O1W4-maN6UgAVcpqeq9KTXWQ3veiPfrrluQbzYdUj2FeYb5yeMRuhco&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&_nc_ss=7a22e&oh=00_AQM7db3JAPi1EwZLsdGUmOqVURGRoKYQEl-LY_6qyaZ4mA&oe=6ACA5F71)
+[thedailyshow](https://www.threads.com/@thedailyshow)
 
-357
+[4h](https://www.threads.com/@thedailyshow/post/DeLGS66kcpL)
 
-9
+Vivek Ramaswamy showed everyone what happens when you skip lifting kids day at the gym
 
-7
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/840363420_1605428260652266_7559791640508509372_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwMjMyMDM4MjMzODEyNDM2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=aq2Vzl9GIsEQ7kNvwGEEvsh&_nc_oc=AdoR29jlZnfbsVsnxmzI0bmKra6Bh8Z-YHLO363FklEbjIZlFutfOXKaC9xGu5Uzgp4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=esOmoY670_pFOP677Yc71g&_nc_ss=7a22e&oh=00_AQMZuxWM26uTskdqJ40hqZdPutIDGw3U3tmdAybkW1RSDA&oe=6ACBA95D)
 
-4
-
-[![Image 4: sltrib's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358028943_6462586407097918_4093438300518064044_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEavxKPv0zhOU3FnjLBZC0SDt9S4_HtMG-KY18jWj66m9f_7xs-mqC18LK7k04K1M8&_nc_ohc=DoiZi90ijJ4Q7kNvwFf8Qda&_nc_gid=tY8ZpAW217JYi70JQ-NznQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPXps6dV2PK2waJ8lUKliTky-FH-TjvEJ9rFJxt05flhQ&oe=6ACA7C01&_nc_sid=10d13b)](http://www.threads.com/@sltrib)
-
-The price of gasoline has gone up more in Utah than in any other state thanks to Donald Trump’s war in Iran, a whopping $2.19 since February 28. [sltrib.com/news…](https://l.threads.com/?u=https%3A%2F%2Fwww.sltrib.com%
+[Video 2
 ```
