@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-07T06:20:35+00:00"
+generated_at: "2026-10-08T06:30:39+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -63,23 +63,8 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: gracehartsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357779500_999327574426887_7732139907237345247_n.jpg?stp=ds
-- A tractor pulling a hayride flipped in Wellsburg, New York, after passengers reported its brakes began to smoke. Eleven people were injured, and the 16-year-old driver remains in critical condition.
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.71878-15/839594148_1660053132506091_7098065286859643732_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwMjI5NzcxNjQ3MDQ2NTc5MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- Markdown Content:
-[![Image 1: gracehartsbooks's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357779500_999327574426887_7732139907237345247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: daphnejosephine's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/828938987_17959573731209615_8941287572666664332_n.jpg?stp
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -98,43 +83,59 @@ Activity
 
 Profile
 
-Insights
+Insig
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/839631828_18638039836012317_3501597355726926217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwMjk4NzE0MTkwMjcxMjgxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- [![Image 13: goodnoticingspod's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/542385304_17925462030103759_5013219185012572038_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdni
+- If you’re Caitlin Clark fan or a normal and unproblematic ![Image 8](https://cdn.fbsbx.com/v/t65.23080-21/686348490_2394263591097004_155847030026314418_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQPup9huHkv1qKH2X9X-Xa8U7ifXvgfww68KxXwnYDko_A&oe=6
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
+```text
+Title: Threads • Log in
 
-[](https://www.threads.com/search)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Markdown Content:
+[![Image 1: strainxhtx's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464313152_482684621590641_3505213537973993494_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGRXfacctSOflY3iVwHjxSi-JFJ8JeyxnsmwV5dob2dpkfKGlN07asDlNXGuiMQB4s&_nc_ohc=v8exasA4sKwQ7kNvwFktecg&_nc_gid=P84Um9RmEYhY8MujTe69bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVWj_gczjdoaipjLgF1rmXaV3Z-GF8efz027nCWLJ8LA&oe=6ACD0A60&_nc_sid=10d13b)](https://www.threads.com/@strainxhtx)
 
-[![Image 1: d_ace_jackson's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474593675_1595770851144901_2716596741547466687_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHxPjIWBJFrJjSKidAEHVrOoE0zDEc2rz30Se0bXqLtjqPuFIMRhRcDkAGF4yFiNOw&_nc_ohc=_3HwoNkt-yMQ7kNvwGd3olG&_nc_gid=esOmoY670_pFOP677Yc71g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNAr8VQ5rAJMYi5l7iec1YzFi7FO8-mnkQlRkL2UwhXdg&oe=6ACBB7EE&_nc_sid=10d13b)](https://www.threads.com/@d_ace_jackson)
+“I’m bout to go pay my rent” 🙌🫶
 
-[d_ace_jackson](https://www.threads.com/@d_ace_jackson)
+Pay us a visit at 10560 Westheimer rd ✨
 
-[13h](https://www.threads.com/@d_ace_jackson/post/DeKSnanlD8C)
+#mysterygift #helpingothers #kindness #giving #helping
 
-I live in Montana, we have a number of celebrities that live in the area. But we know they're here for the same reasons we are, so the locals tend to ignore them. Twice I've seen big stars and just kept walking. Maybe a nod.
+![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/836917922_17947420533343250_2394832191829309759_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAwMjg3OTI5Mjg0MDk1MzgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=9moVGVC23cAQ7kNvwFCTMQL&_nc_oc=AdpIFWV4bn_Wi2Uk7uJWBlTw0308-QJ-Wlvhx3gzfJGZdVGva8xa56CPRZ9kL_N9kGA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=P84Um9RmEYhY8MujTe69bw&_nc_ss=7a22e&oh=00_AQPZrUv6WEMhrnGCs_5BNxMVwCvX2t-Ve6HQIFBrsdiwYw&oe=6ACCFED3)
 
-When I ran into Mark Harmon in a Lowe's though, well, his sister is married to my bestie's uncle. I'd met her. So I engaged. It was less than 2 minutes, and I got "Gibbs smacked" like I was Tony DiNozzo. Fun.
+4.5K
 
-29
+31
 
-2
+123
 
-[![Image 2: thedailyshow's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358167300_6703821866328696_60336042846240819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHxPjIWBJFrJjSKidAEHVrOoE0zDEc2rz30Se0bXqLtjqPuFIMRhRcDkAGF4yFiNOw&_nc_ohc=vvuJqADEXtMQ7kNvwHJjGoI&_nc_gid=esOmoY670_pFOP677Yc71g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNjex1t2i-8OwisrNFdyMHtHMxaleZVE0UJxEVjNA5f0g&oe=6ACB9F42&_nc_sid=10d13b)](https://www.threads.com/@thedailyshow)
+12
 
-[thedailyshow](https://www.threads.com/@thedailyshow)
+[![Image 3: ruthillea's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/441467242_1133972027920489_1087232570848638167_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGRXfacctSOflY3iVwHjxSi-JFJ8JeyxnsmwV5dob2dpkfKGlN07asDlNXGuiMQB4s&_nc_ohc=oi-lgIZGYG4Q7kNvwH6f2Yk&_nc_gid=P84Um9RmEYhY8MujTe69bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPb8oURCsDoQSh3cDVWMS-fGAi5Hkt0KfYZ3VfSZKR5sQ&oe=6ACCFC7B&_nc_sid=10d13b)](https://www.threads.com/@ruthillea)
 
-[4h](https://www.threads.com/@thedailyshow/post/DeLGS66kcpL)
+📍Los Angeles
 
-Vivek Ramaswamy showed everyone what happens when you skip lifting kids day at the gym
+In need of a licensed Black gun instructor. Preferably ex military and/or active law enforcement.
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/840363420_1605428260652266_7559791640508509372_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwMjMyMDM4MjMzODEyNDM2Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=aq2Vzl9GIsEQ7kNvwGEEvsh&_nc_oc=AdoR29jlZnfbsVsnxmzI0bmKra6Bh8Z-YHLO363FklEbjIZlFutfOXKaC9xGu5Uzgp4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=esOmoY670_pFOP677Yc71g&_nc_ss=7a22e&oh=00_AQMZuxWM26uTskdqJ40hqZdPutIDGw3U3tmdAybkW1RSDA&oe=6ACBA95D)
+![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/836882412_2263709991081804_4137350165699584737_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwMjcwOTcyMjYzMjkxMDM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=MHzotUrD1RUQ7kNvwGUFncc&_nc_oc=AdoEEWNZsUN1Q1VgRo9XdVyRTY1dm3DBKH3E92DlBLcR3Iaef0j1r9bapRyn2d6Ses0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=P84Um9RmEYhY8MujTe69bw&_nc_ss=7a22e&oh=00_AQPqOMvCgXP5Xxl2PbHOaG9228rRRvm8OURGz5r27TTd5A&oe=6ACCF5BA)
 
-[Video 2
+359
+
+52
+
+27
+
+9
+
+[![Image 5: steven_woodrow's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/589065059_17871572001466310_1090279845216390968_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6c
 ```

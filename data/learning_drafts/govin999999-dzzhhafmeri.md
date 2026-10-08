@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-07T06:20:35+00:00"
+generated_at: "2026-10-08T06:30:39+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -63,37 +63,8 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insight
-- [![Image 2: susanquinn2334's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825322726_17957690187247095_2816811472322453969_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzYuYzIifQ&_nc_ht=scontent.cdninst
-- [![Image 3: its_kiajay's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671821124_17921655609353721_5689071640146043864_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzAuYzIifQ&_nc_ht=scontent.cdninstagra
-- Companion [amzn.to/4AQZ1…](https://l.threads.com/?u=https%3A%2F%2Famzn.to%2F4AQZ1aY&e=AUCIcXfTHxeUhqdFldEkr2zMNVJEln4Cgk1v_3sXKODqVPkQtglupHDrIR2nio3Me4G3buMecXvwrV6PZR3U6qmIBnGpUv3_7ymXRo_Xy5uui5rSpww) Final Destination: Bloodlines [amzn.to/4jpS6…](https://l.
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/836084384_17994879441104648_1820080533506039699_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwMTg0MTA0NTczNDkzNjQ5NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: larbeadles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/784518220_18089158700294059_4440483987871575955_n.jpg?stp=ds
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -112,61 +83,62 @@ Activity
 
 Profile
 
-Insights
+Ins
+- [![Image 5: radiant_ray's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/496701515_17908169226111139_3169469498242522850_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDEwLmMyIn0&_nc_ht=scontent.cdninstagr
+- [Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUCg7WAXKOWMqljUC-Dsef18hwK-KmbAICtRw5TXnKwz9CulYa96_0ThDMaFqxS6YicSdwEx6PqEgqW2tFmqF0Zy4dxPJO8Fnxws-fB3jPqU_nokap0)
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
+```text
+Title: Threads • Log in
 
-[](https://www.threads.com/search)
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Markdown Content:
+[![Image 1: _chaneljanae_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/669723031_17938898736192660_6196915034539029524_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42OTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=XufCDlB_eh0Q7kNvwGG7-ap&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO3nMYwGVxVY4kjEG7OgUFtYPPkS23FPeqaAgSKOjtFJQ&oe=6ACCF1C7&_nc_sid=10d13b)](https://www.threads.com/@_chaneljanae_)
 
-[![Image 1: iambriajanelle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/818479231_17976936183121174_2884329331184603186_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=Tzhhimr9F9wQ7kNvwGNtPUe&_nc_gid=lcUiIVbBfu3KEJdJu1HA1A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNJrd68k6Zzkuoqpz8yl2jJTLK1xUwfqyph3wCWVxGf7Q&oe=6ACBB486&_nc_sid=10d13b)](https://www.threads.com/@iambriajanelle)
+Just saw a lady say she’s divorced with 15 kids omg he would have to take at least 13 in the divorce IKYFL
 
-[iambriajanelle](https://www.threads.com/@iambriajanelle)
+890
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+80
 
-[17h](https://www.threads.com/@iambriajanelle/post/DeJziLaEbPd)
+37
 
-[@atlantadream](https://www.threads.com/@atlantadream)
+27
 
- PLAYOFF HOUSE RULES DROP TODAY AT 12 P.M. ⏰
+[![Image 2: cassie_smiless's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789595399_17897215824595873_7118609892181112425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=rho2Sj7QkrgQ7kNvwHuQYFG&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMml_YCfp8r6XnKCtHGrKyXguflc02b8HpvUbXD5-S4oA&oe=6ACD0471&_nc_sid=10d13b)](https://www.threads.com/@cassie_smiless)
 
-Set your alarms and send this to your game-day crew. We’ve got some things to go over before Game 2! 👀🔥
+Sooooo if it’s live in theaters… we gonna be there at like 5am… we are just gonna have one big pajama party righttttt?
 
-I don’t wanna hear “nobody told me” when it’s time to get LOUD! 🤭🤭🤭🤭
+348
 
-377
-
-26
-
-18
-
-2
-
-[![Image 2: jdrewsilvers's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/338607557_584327820289015_4108719750184535959_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=3xeGSW-8WykQ7kNvwG-owaK&_nc_gid=lcUiIVbBfu3KEJdJu1HA1A&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOj7YwtHfNrVYwVl1L0s4NcP0V7vtiqqzouiR1LT-ZKUw&oe=6ACBA136&_nc_sid=10d13b)](https://www.threads.com/@jdrewsilvers)
-
-[jdrewsilvers](https://www.threads.com/@jdrewsilvers)
-
-[Georgia Threads](https://www.threads.com/search?q=Georgia%20Threads&serp_type=tags&tag_id=18299785390087583)
-
-[5h](https://www.threads.com/@jdrewsilvers/post/DeLFdFQlog3)
-
-Keisha Lane Bottoms has a lot of stats, information, and thought out planning in her responses. Jackson is just saying things like "I was poor, my mom was uneducated, I'm going to take care of it, trust me bro."
-
-445
-
-18
-
-32
+24
 
 2
 
-[![Image 3: teacherrobi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825372420_17988277392100838_832777665595297068_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gFjuKo_UaEk5A0rHxcDPQb8fIyjVcsm9K4Y14K2n_eAwVpYI0XoCwLxAEkPNM6FWAY&_nc_ohc=IBUx7LuD-YEQ7kNvwFHhAvc&
+8
+
+[![Image 3: kevonstage's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/508388784_18516696961040466_1327383453674141691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=_91mST4RJEMQ7kNvwHTBbXY&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVOiKmkC5I6c9mut4zQxDNdYbtmXPb9A0NMMH-9Za-dw&oe=6ACCFD41&_nc_sid=10d13b)](https://www.threads.com/@kevonstage)
+
+What is the perfect bacon?
+
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/839670942_18639462952040466_8945587233674007753_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwMjk4NjM4NzAzNjcwODUxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1Fa0kYqbGn4Q7kNvwFaC3PR&_nc_oc=AdrpqdcH40gM9Q5lfEkDLvkEWx3NG7pO8XkV7aWcyQYcHw07qBIYIqm5hchHKOUCLDk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&_nc_ss=7a22e&oh=00_AQN7YX03bjwL3gDZGEtZFhl3x-ksqA-lbLBjEPHySRkajg&oe=6ACCF578)
+
+420
+
+272
+
+11
+
+35
+
+[![Image 5: fridaghitis's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358365194_649075226869526_3372107745303664832_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc
 ```
