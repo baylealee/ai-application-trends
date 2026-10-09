@@ -11,7 +11,7 @@
     "content_quality": "medium",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實",
@@ -21,14 +21,15 @@
     "post_id": "DZEgVRcGVJR",
     "category": "coding",
     "tools": [
+      "Claude",
       "Notion",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0958,
+    "zh_ratio": 0.0432,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads",
@@ -44,7 +45,7 @@
     "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads",
@@ -52,16 +53,17 @@
     "source_url": "https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC",
     "source_author": "kaochenlong",
     "post_id": "DNRi-WKzgeC",
-    "category": "coding",
+    "category": "knowledge_base",
     "tools": [
       "Claude",
-      "Claude Code"
+      "Claude Code",
+      "RAG"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0086,
+    "zh_ratio": 0.0083,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我",
@@ -78,9 +80,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0299,
+    "zh_ratio": 0.032,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我",
@@ -88,22 +90,21 @@
     "source_url": "https://www.threads.com/@itszero/post/DYH_wqQGzgH",
     "source_author": "itszero",
     "post_id": "DYH_wqQGzgH",
-    "category": "knowledge_base",
+    "category": "coding",
     "tools": [
       "Claude",
       "Claude Code",
       "ChatGPT",
       "GPT",
-      "RAG",
       "Cursor",
       "Codex",
       "GitHub"
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.0541,
+    "zh_ratio": 0.0531,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競",
@@ -117,9 +118,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.1179,
+    "zh_ratio": 0.1178,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "govin999999 的 AI 工作流案例：Title: Threads • Log in",
@@ -130,10 +131,10 @@
     "category": "coding",
     "tools": [],
     "status": "draft",
-    "content_quality": "medium",
+    "content_quality": "strong",
     "zh_ratio": 0.0,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。",
@@ -148,9 +149,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.1289,
+    "zh_ratio": 0.0327,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots ",
@@ -171,8 +172,8 @@
     "status": "draft",
     "content_quality": "strong",
     "zh_ratio": 0.0,
-    "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "reply_summary_status": "unavailable",
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?",
@@ -187,9 +188,9 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.03,
+    "zh_ratio": 0.029,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   },
   {
     "title": "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短",
@@ -197,7 +198,7 @@
     "source_url": "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0",
     "source_author": "_3cpj_",
     "post_id": "DNORrH7Pau0",
-    "category": "coding",
+    "category": "knowledge_base",
     "tools": [
       "Claude",
       "Claude Code",
@@ -206,8 +207,8 @@
     ],
     "status": "draft",
     "content_quality": "strong",
-    "zh_ratio": 0.101,
+    "zh_ratio": 0.0355,
     "reply_summary_status": "partial",
-    "generated_at": "2026-10-08T06:30:39+00:00"
+    "generated_at": "2026-10-09T06:32:06+00:00"
   }
 ]

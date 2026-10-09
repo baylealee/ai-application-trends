@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-08T06:30:39+00:00"
+generated_at: "2026-10-09T06:32:06+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -63,7 +63,7 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: daphnejosephine's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/828938987_17959573731209615_8941287572666664332_n.jpg?stp
+[![Image 1: shes0fly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/465686020_2667381276776665_3370460089576840718_n.jpg?stp=dst-jpg_
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -84,9 +84,10 @@ Activity
 Profile
 
 Insig
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/839631828_18638039836012317_3501597355726926217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAwMjk4NzE0MTkwMjcxMjgxOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- [![Image 13: goodnoticingspod's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/542385304_17925462030103759_5013219185012572038_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdni
-- If you’re Caitlin Clark fan or a normal and unproblematic ![Image 8](https://cdn.fbsbx.com/v/t65.23080-21/686348490_2394263591097004_155847030026314418_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQPup9huHkv1qKH2X9X-Xa8U7ifXvgfww68KxXwnYDko_A&oe=6
+- Markdown Content:
+[![Image 1: shes0fly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/465686020_2667381276776665_3370460089576840718_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
+- Quick video explainer, featuring ghost screens, weak side exchanges, and the biggest layup of the 101-98 ![Image 6](https://cdn.fbsbx.com/v/t65.23080-21/689102741_2128161621455292_2351754698283550178_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQO
+- Why was Naz Hillmon so open for the Atlanta Dream's eventually game-winning layup against the New York ![Image 5](https://cdn.fbsbx.com/v/t65.23080-21/690899812_1695143924969175_6179562066132709630_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQNPk
 
 ## 抓取品質
 
@@ -103,39 +104,41 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: strainxhtx's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464313152_482684621590641_3505213537973993494_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTkuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGRXfacctSOflY3iVwHjxSi-JFJ8JeyxnsmwV5dob2dpkfKGlN07asDlNXGuiMQB4s&_nc_ohc=v8exasA4sKwQ7kNvwFktecg&_nc_gid=P84Um9RmEYhY8MujTe69bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVWj_gczjdoaipjLgF1rmXaV3Z-GF8efz027nCWLJ8LA&oe=6ACD0A60&_nc_sid=10d13b)](https://www.threads.com/@strainxhtx)
+[![Image 1: allthingzblackmovies's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/632827271_17918940504258649_4165779648572095692_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=kbH8hVk6Y2AQ7kNvwEy_4SV&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMkRQ7Yz3L_gHuOWXa29YETbhYEX_sq3-ayhPntxTOauA&oe=6ACE5D53&_nc_sid=10d13b)](https://www.threads.com/@allthingzblackmovies)
 
-“I’m bout to go pay my rent” 🙌🫶
+Bam Adebayo message to his WIFE A'ja Wilson on her 5th MVP award.💍💍💍💍
 
-Pay us a visit at 10560 Westheimer rd ✨
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/839670924_1112747404545668_536609557525619561_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwMzc5Mzg5NjQ3OTc0NDE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=r4Wy3bWIoqIQ7kNvwH5Ovmt&_nc_oc=AdrflS0xrOKAClf8dB6DiM529MQ7Xx38A9PHhZ818pHbkJ49IWM-oK7gvZcaipel4U4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qnNDY6TqsPZyqKchqayRGw&_nc_ss=7a22e&oh=00_AQN83nOFWT0PmaUWa9uN8r9Oum9tasdhRDJW-kJ0uHBRIQ&oe=6ACE6998)
 
-#mysterygift #helpingothers #kindness #giving #helping
+4.2K
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/836917922_17947420533343250_2394832191829309759_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=100&ig_cache_key=NDAwMjg3OTI5Mjg0MDk1MzgzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=9moVGVC23cAQ7kNvwFCTMQL&_nc_oc=AdpIFWV4bn_Wi2Uk7uJWBlTw0308-QJ-Wlvhx3gzfJGZdVGva8xa56CPRZ9kL_N9kGA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=P84Um9RmEYhY8MujTe69bw&_nc_ss=7a22e&oh=00_AQPZrUv6WEMhrnGCs_5BNxMVwCvX2t-Ve6HQIFBrsdiwYw&oe=6ACCFED3)
+86
 
-4.5K
+347
 
-31
+204
 
-123
+[![Image 3: ninzied's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/650412743_18059050493423920_2972631855110123367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=TBUfSj0-ZS4Q7kNvwG8EoYw&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNrd6rq8DVWGauRqo99807ZPH8L_sQDNA6QLUhebQshmg&oe=6ACE492F&_nc_sid=10d13b)](https://www.threads.com/@ninzied)
 
-12
+“How was your night?” Ilya asks casually. “Mr. Party Man was out late.”
 
-[![Image 3: ruthillea's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/441467242_1133972027920489_1087232570848638167_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGRXfacctSOflY3iVwHjxSi-JFJ8JeyxnsmwV5dob2dpkfKGlN07asDlNXGuiMQB4s&_nc_ohc=oi-lgIZGYG4Q7kNvwH6f2Yk&_nc_gid=P84Um9RmEYhY8MujTe69bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPb8oURCsDoQSh3cDVWMS-fGAi5Hkt0KfYZ3VfSZKR5sQ&oe=6ACCFC7B&_nc_sid=10d13b)](https://www.threads.com/@ruthillea)
+“It was fine,” Shane says tersely. “Would’ve been better if I got to use my own bed last night, but it was fine.”
 
-📍Los Angeles
+“Sorry I beat you to it,” Ilya says, looking smug.
 
-In need of a licensed Black gun instructor. Preferably ex military and/or active law enforcement.
+“It’s fine,” Shane says again, like if he keeps saying it, it will somehow be true. “I spent the night with Rose.”
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/836882412_2263709991081804_4137350165699584737_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=108&ig_cache_key=NDAwMjcwOTcyMjYzMjkxMDM3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=MHzotUrD1RUQ7kNvwGUFncc&_nc_oc=AdoEEWNZsUN1Q1VgRo9XdVyRTY1dm3DBKH3E92DlBLcR3Iaef0j1r9bapRyn2d6Ses0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=P84Um9RmEYhY8MujTe69bw&_nc_ss=7a22e&oh=00_AQPqOMvCgXP5Xxl2PbHOaG9228rRRvm8OURGz5r27TTd5A&oe=6ACCF5BA)
+Ilya goes very still, suddenly. He doesn’t look so smug anymore.
 
-359
+149
 
-52
+1
 
-27
+1
 
-9
+3
 
-[![Image 5: steven_woodrow's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/589065059_17871572001466310_1090279845216390968_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6c
+[![Image 4: josiahcohen13's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357774860_205941315368638_8595785368793277254_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=UQPRY6SnvTIQ7kNvwH3hreQ&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPkD_mJ6mOyv4w3aG41pnzRMdJSUsDFE2m8tcG96SPf5A&oe=6ACE6433&_nc_sid=10d13b)](https://www.threads.com/@josiahcohen13)
+
+Why was Naz Hillmon so open for the Atlanta Dream's event
 ```

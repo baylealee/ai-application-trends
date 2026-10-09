@@ -10,7 +10,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-08T06:30:39+00:00"
+generated_at: "2026-10-09T06:32:06+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -32,7 +32,7 @@ Notion
 ## 原始工作流拆解
 
 1. So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
-2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
+2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
 3. My AI agent completes more tasks than most Dev teams… while I sleep.
 4. Agents aren’t assistants.
 5. #ai #aiagents #automation #buildinpublic
@@ -113,7 +113,7 @@ More
 
 4.4K views
 
-[![Image 1: notionhq's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=G9NXFo5C4qkQ7kNvwFC23Zm&_nc_oc=AdpAVrB9lvLQvF0E89JEtkLlztiINxu6CNxCvyfbXp22kbyXYm-5_GBFczHcW3KZBnY&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQMBWXsWOcgb0bhIFoBE-zUsVC_eDPaTzjqCVAteNuA2wA&oe=6ACCF4B0)](https://www.threads.com/@notionhq)
+[![Image 1: notionhq's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=WyAGuiqyeRoQ7kNvwEa57_c&_nc_oc=AdpS9hDgOs4qHcnX6HfQ_Qo-vSjkDNuaevy441flYiZnjwww_xr-PkqL0ZVdGvxD6iE&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQN2KX_x2YZiBJDo0f9qvU6S9kxcE_8s1XbxY6ivndNgEQ&oe=6ACE4630)](https://www.threads.com/@notionhq)
 
 [notionhq](https://www.threads.com/@notionhq)
 
@@ -123,9 +123,9 @@ More
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=xgKxlmYa_nYQ7kNvwEOw9WP&_nc_oc=AdoJtakY1lYonl-14wf_91966FiaGuHV938-VYxg36TFyHvwGzrfOYSYBOGjKizOpNE&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=CKQJNjGp31hijWbLeLBFow&_nc_ss=7b289&oh=00_AQOyiMIgyX6tGO7f5s8Ye3xcxAKzl779SxdvZxPVTFiDhQ&oe=6ACCEF7C)
+![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=xgKxlmYa_nYQ7kNvwFRHMdb&_nc_oc=Adp2oECAZMmioITdVux4m0qw9dHTm_aruGqBLcaw9-VQyC0QZtWHavVX9Gbjhyk7Uq8&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=3KrqTEbEQh0kwgMrCXwOMQ&_nc_ss=7b289&oh=00_AQOQN91r3COY3v-8jyKcPcLQUD8sO1-iSURR1sYFkjSMiA&oe=6ACE40FC)
 
-[Video 7](https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=XwOuCr3sjsgQ7kNvwG3JnJx&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjE0NSwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=CKQJNjGp31hijWbLeLBFow&_nc_ss=7b289&_nc_zt=28&oh=00_AQMxJ0HstHXDN9X4mfJuDu_0_Y2l4FclHJukfBZhu-o0OA&oe=6ACCF334)
+[Video 7](https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=XwOuCr3sjsgQ7kNvwGzXXi8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjE0NiwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3KrqTEbEQh0kwgMrCXwOMQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMKewQVy6AoBoos736EnvIBBVd6zFr1QZ7eCjOzS0bYUg&oe=6ACE44B4)
 
 52
 

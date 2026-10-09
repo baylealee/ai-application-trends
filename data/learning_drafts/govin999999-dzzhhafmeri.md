@@ -7,9 +7,9 @@ language: "unknown"
 category: "coding"
 tools:
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-08T06:30:39+00:00"
+generated_at: "2026-10-09T06:32:06+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,12 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: larbeadles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/784518220_18089158700294059_4440483987871575955_n.jpg?stp=ds
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -84,13 +78,15 @@ Activity
 Profile
 
 Ins
-- [![Image 5: radiant_ray's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/496701515_17908169226111139_3169469498242522850_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDEwLmMyIn0&_nc_ht=scontent.cdninstagr
-- [Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUCg7WAXKOWMqljUC-Dsef18hwK-KmbAICtRw5TXnKwz9CulYa96_0ThDMaFqxS6YicSdwEx6PqEgqW2tFmqF0Zy4dxPJO8Fnxws-fB3jPqU_nokap0)
+- It’s 2:10am in Rome. Anyone think Pope Leo is pulling an all-nighter with the Sox playing a potential ALCS-clinching game? 😉
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/842785958_17992324227099971_3864609065802070941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMzU3MzIyOTYwOTUzNjMzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/839971929_17992324236099971_986994230683562574_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAwMzU3MzIyNzc1NTUwMDgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
+- [![Image 3: danicaxoxo27's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713325246_17883902592581098_5468112863067433132_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -99,46 +95,44 @@ Ins
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: _chaneljanae_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/669723031_17938898736192660_6196915034539029524_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42OTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=XufCDlB_eh0Q7kNvwGG7-ap&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO3nMYwGVxVY4kjEG7OgUFtYPPkS23FPeqaAgSKOjtFJQ&oe=6ACCF1C7&_nc_sid=10d13b)](https://www.threads.com/@_chaneljanae_)
+[![Image 1: keepittrizzy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/660191495_17956500681114287_1947593833095902045_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=0M6IDvM_eckQ7kNvwFjLD5i&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM1lXIjgAAxz3dfBij3cv53ZTMb4t3R989_KzYK5P1sww&oe=6ACE445A&_nc_sid=10d13b)](http://www.threads.com/@keepittrizzy)
 
-Just saw a lady say she’s divorced with 15 kids omg he would have to take at least 13 in the divorce IKYFL
+baby that man said “THA’S MY WIFE WINNING HER FIFTH M’VP.” listennnnnnnnn
 
-890
+970
 
-80
+4
 
-37
+38
 
-27
+3
 
-[![Image 2: cassie_smiless's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789595399_17897215824595873_7118609892181112425_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=rho2Sj7QkrgQ7kNvwHuQYFG&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMml_YCfp8r6XnKCtHGrKyXguflc02b8HpvUbXD5-S4oA&oe=6ACD0471&_nc_sid=10d13b)](https://www.threads.com/@cassie_smiless)
+[![Image 2: tiff_marie88's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792053715_17901354804561864_8786427081404199983_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=r70vXPSLyocQ7kNvwHsv7MU&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP3jS2ZHP48BHU31e0n5uXOFrx5Vff-qNQ8JJhNHbArJQ&oe=6ACE6731&_nc_sid=10d13b)](http://www.threads.com/@tiff_marie88)
 
-Sooooo if it’s live in theaters… we gonna be there at like 5am… we are just gonna have one big pajama party righttttt?
+Me: I’m not gonna overthink this.
 
-348
+Also me:
 
-24
+[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/840346671_17906861754561864_526184251472524005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMzU3MzIxMDMyMzkwMjIyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FYRPRWu0W4IQ7kNvwFiZsBC&_nc_oc=Adr-N7DPG4-TFwdXNc-63CHQPfJN1w6a2XL3oOJyvHIre_YYoOb3jhdbrGu_cgYdawQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&_nc_ss=7a22e&oh=00_AQO-JzDUnYcHJafhWtLb1yIiz2eASVplehIeYxiHAAu86w&oe=6ACE65A0)](http://www.threads.com/@tiff_marie88/post/DePjJ95oF8N/media)
 
-2
+970
 
-8
+5
 
-[![Image 3: kevonstage's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/508388784_18516696961040466_1327383453674141691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF1Zc25x4AiPEaBtqjSoJ7GCB7UELbulXMe5yl9eSAS2AcWVTHQxoeK9QUHIdu43uU&_nc_ohc=_91mST4RJEMQ7kNvwHTBbXY&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVOiKmkC5I6c9mut4zQxDNdYbtmXPb9A0NMMH-9Za-dw&oe=6ACCFD41&_nc_sid=10d13b)](https://www.threads.com/@kevonstage)
+121
 
-What is the perfect bacon?
+156
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/839670942_18639462952040466_8945587233674007753_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwMjk4NjM4NzAzNjcwODUxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTIwNi5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=1Fa0kYqbGn4Q7kNvwFaC3PR&_nc_oc=AdrpqdcH40gM9Q5lfEkDLvkEWx3NG7pO8XkV7aWcyQYcHw07qBIYIqm5hchHKOUCLDk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=E2ssJxOuAqsUtdVME0hVNQ&_nc_ss=7a22e&oh=00_AQN7YX03bjwL3gDZGEtZFhl3x-ksqA-lbLBjEPHySRkajg&oe=6ACCF578)
+[![Image 4: mjo.photos's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/795430669_17987122590115476_9065557724089467441_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=z_Y9-DQPAKgQ7kNvwENCIEQ&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNENMuNJxDjnkZVtPaqMORx2ASOSCvvECTDhWdy2PKbdA&oe=6ACE42B0&_nc_sid=10d13b)](http://www.threads.com/@mjo.photos)
 
-420
+I'm re-watching Boston Legal. It's basically this:
 
-272
+Early seasons: Slightly unhinged legal procedural.
 
-11
+Later seasons: Alan Shore basically looks into the camera and says "I'm actor James Spader and this is a TV show. I'm going to monologue my character's client off a murder charge and you're going to *fucking* love it."
 
-35
-
-[![Image 5: fridaghitis's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358365194_649075226869526_3372107745303664832_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc
+[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/838433
 ```
