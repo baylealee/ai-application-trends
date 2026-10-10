@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：Remember when Syd and TP gave Kah the awar"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -7,18 +7,18 @@ language: "unknown"
 category: "coding"
 tools:
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-09T06:32:06+00:00"
+generated_at: "2026-10-10T06:15:00+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：Remember when Syd and TP gave Kah the awar
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Remember when Syd and TP gave Kah the award for “most likely to be a TSA agent?
 
 ## 這篇在解決什麼問題
 
@@ -30,9 +30,7 @@ Title: Threads • Log in
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. Remember when Syd and TP gave Kah the award for “most likely to be a TSA agent?
 
 ## 可以直接複製的做法
 
@@ -63,8 +61,24 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: shes0fly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/465686020_2667381276776665_3370460089576840718_n.jpg?stp=dst-jpg_
-- Title: Threads • Log in
+[![Image 1: blackgirlthatreads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459174296_1038150554139570_7075431577453727042_n.jpg?st
+- Trump to Italian-Americans: “You should be very proud of what's taking place for you because you were a very discriminated group, but you never complained about it.”
+- ![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/842785893_1637506924828379_458701228194434704_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwNDQ1MDc2NDI2NDE5MjMyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
+- ![Image 8](https://scontent.cdninstagram.com/v/t51.71878-15/839691761_1760333195262723_6807069253567565540_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwNDI0MTg1NDc2NTIxODA2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHM
+- Markdown Content:
+[![Image 1: blackgirlthatreads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459174296_1038150554139570_7075431577453727042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_n
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Agent、agent
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -83,62 +97,37 @@ Activity
 
 Profile
 
-Insig
-- Markdown Content:
-[![Image 1: shes0fly's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/465686020_2667381276776665_3370460089576840718_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
-- Quick video explainer, featuring ghost screens, weak side exchanges, and the biggest layup of the 101-98 ![Image 6](https://cdn.fbsbx.com/v/t65.23080-21/689102741_2128161621455292_2351754698283550178_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQO
-- Why was Naz Hillmon so open for the Atlanta Dream's eventually game-winning layup against the New York ![Image 5](https://cdn.fbsbx.com/v/t65.23080-21/690899812_1695143924969175_6179562066132709630_n.png?_nc_ht=cdn.fbsbx.com&_nc_sid=eaeba7&ccb=14-4&oh=00_AQNPk
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+More
 
-## 原始抓取內容
+[](https://www.threads.com/)
 
-```text
-Title: Threads • Log in
+[](https://www.threads.com/)
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](https://www.threads.com/search)
 
-Markdown Content:
-[![Image 1: allthingzblackmovies's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/632827271_17918940504258649_4165779648572095692_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=kbH8hVk6Y2AQ7kNvwEy_4SV&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMkRQ7Yz3L_gHuOWXa29YETbhYEX_sq3-ayhPntxTOauA&oe=6ACE5D53&_nc_sid=10d13b)](https://www.threads.com/@allthingzblackmovies)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-Bam Adebayo message to his WIFE A'ja Wilson on her 5th MVP award.💍💍💍💍
+[![Image 1: bulwarkonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753647241_18214638313339709_3961450644189966615_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFl82P9SDL9GacXKGQCU1fzZnRzwRKDC0oQT1XsQdXgLNTY5NbhMvjussQt8D09ga8&_nc_ohc=1M4CbyK8LJEQ7kNvwEcJrUJ&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPexgzIQUciB7vg7P_6UiSIBYjIGQB6mIf6hjxptyI3lg&oe=6ACF9E92&_nc_sid=10d13b)](https://www.threads.com/@bulwarkonline)
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/839670924_1112747404545668_536609557525619561_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwMzc5Mzg5NjQ3OTc0NDE5Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=r4Wy3bWIoqIQ7kNvwH5Ovmt&_nc_oc=AdrflS0xrOKAClf8dB6DiM529MQ7Xx38A9PHhZ818pHbkJ49IWM-oK7gvZcaipel4U4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=qnNDY6TqsPZyqKchqayRGw&_nc_ss=7a22e&oh=00_AQN83nOFWT0PmaUWa9uN8r9Oum9tasdhRDJW-kJ0uHBRIQ&oe=6ACE6998)
+[bulwarkonline](https://www.threads.com/@bulwarkonline)
 
-4.2K
+[6h](https://www.threads.com/@bulwarkonline/post/DeSrQkilI7Z)
 
-86
+Q: "Why is the military action tied up to the midterm election? Why not act now with Iran?"
 
-347
+Trump: "Well, we may. We will see. But I think they're failing badly."
 
-204
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/842191630_1646684590361716_684870120149447654_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAwNDQ1MzI3MzQzMjI2NDQwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iN4ShD2wbUsQ7kNvwEruam3&_nc_oc=Adqn4C65ekI96Dr4EamTkQNuoKQVjnH79k7cWTK2ne4r-7sdQ_fZZZ2BMG2RQkabZxI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&_nc_ss=7a22e&oh=00_AQNISWovy6lHkudkvqjri349u7Uui6JMpnkljIfU-7RJZA&oe=6ACF9689)
 
-[![Image 3: ninzied's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/650412743_18059050493423920_2972631855110123367_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=TBUfSj0-ZS4Q7kNvwG8EoYw&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNrd6rq8DVWGauRqo99807ZPH8L_sQDNA6QLUhebQshmg&oe=6ACE492F&_nc_sid=10d13b)](https://www.threads.com/@ninzied)
+[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMqibZCDw9FlPtVuwz2g4mM83BHrW8UDZHw1DkuSMByTCGPESvcustqnRbg0EwlXPktWPWYr4T7a87YNhoPOssaslo0kRbf5tHfEjg.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=bDVJbOlT90QQ7kNvwGJ0azz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODk3NzIwMTYxMTU1NDQsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=508a4c0ec4233beb&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DRkJFMTE2OEYwRUI0MEZBOUNDODAzMDMwMzg0MTY2Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA2Q0ZCNkQzMzdFODQ4OEU4Njg4NkE5MjBBQUM2MEQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw_eKpxub0PxUCKAJDMywXQDx3S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&_nc_zt=28&_nc_ss=7a22e&oh=00_AQNCn5OiXuA9dPmQtFXO6IAtr3ldeCgP6FXhoWAX-wr3eg&oe=6ACBAAD0)
 
-“How was your night?” Ilya asks casually. “Mr. Party Man was out late.”
+64
 
-“It was fine,” Shane says tersely. “Would’ve been better if I got to use my own bed last night, but it was fine.”
+18
 
-“Sorry I beat you to it,” Ilya says, looking smug.
-
-“It’s fine,” Shane says again, like if he keeps saying it, it will somehow be true. “I spent the night with Rose.”
-
-Ilya goes very still, suddenly. He doesn’t look so smug anymore.
-
-149
-
-1
-
-1
-
-3
-
-[![Image 4: josiahcohen13's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357774860_205941315368638_8595785368793277254_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gF4PsVZdpnMHGKZYLxunC4eMIBhp6n-so4Pe3r1aNm8oeQzFq7kjIqv-a56RWYd8hg&_nc_ohc=UQPRY6SnvTIQ7kNvwH3hreQ&_nc_gid=qnNDY6TqsPZyqKchqayRGw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPkD_mJ6mOyv4w3aG41pnzRMdJSUsDFE2m8tcG96SPf5A&oe=6ACE6433&_nc_sid=10d13b)](https://www.threads.com/@josiahcohen13)
-
-Why was Naz Hillmon so open for the Atlanta Dream's event
+9
 ```

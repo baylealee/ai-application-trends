@@ -6,11 +6,12 @@ post_id: "DYXi9DaEicv"
 language: "unknown"
 category: "coding"
 tools:
+  - "n8n"
   - "Notion"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-09T06:32:06+00:00"
+generated_at: "2026-10-10T06:15:00+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -27,12 +28,12 @@ Title: Notion (@notionhq) on Threads
 
 ## 使用工具
 
-Notion
+n8n、Notion
 
 ## 原始工作流拆解
 
 1. So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
-2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/6263644576499079166?
+2. [Image 4: Brainlabs' Get Stuff Done System: Custom Agents That Execute While You Focus on Deep Work](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/13833971274414120399?
 3. My AI agent completes more tasks than most Dev teams… while I sleep.
 4. Agents aren’t assistants.
 5. #ai #aiagents #automation #buildinpublic
@@ -66,12 +67,12 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Agent、agent、Notion、CLI、workflow
+- keyword_hits: AI、n8n、Agent、agent、Notion、CLI、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
@@ -113,7 +114,7 @@ More
 
 4.4K views
 
-[![Image 1: notionhq's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=WyAGuiqyeRoQ7kNvwEa57_c&_nc_oc=AdpS9hDgOs4qHcnX6HfQ_Qo-vSjkDNuaevy441flYiZnjwww_xr-PkqL0ZVdGvxD6iE&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQN2KX_x2YZiBJDo0f9qvU6S9kxcE_8s1XbxY6ivndNgEQ&oe=6ACE4630)](https://www.threads.com/@notionhq)
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=WyAGuiqyeRoQ7kNvwH_PQhd&_nc_oc=AdosHEsKqYc3DbJ7FiHEoUe6gMs5a1oFOOHd8Rg9qRBvE6kfFX1HjqU4U-LAoQHk-gA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQPonz5ghRE1xuU3_AFszZByCD9nrRfPvviTb3cKPtehrQ&oe=6ACF97B0)](https://www.threads.com/@notionhq)
 
 [notionhq](https://www.threads.com/@notionhq)
 
@@ -123,9 +124,9 @@ More
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=xgKxlmYa_nYQ7kNvwFRHMdb&_nc_oc=Adp2oECAZMmioITdVux4m0qw9dHTm_aruGqBLcaw9-VQyC0QZtWHavVX9Gbjhyk7Uq8&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=3KrqTEbEQh0kwgMrCXwOMQ&_nc_ss=7b289&oh=00_AQOQN91r3COY3v-8jyKcPcLQUD8sO1-iSURR1sYFkjSMiA&oe=6ACE40FC)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=xgKxlmYa_nYQ7kNvwFnu4ic&_nc_oc=Adr5v0RJtoQaY5VVoxAzygId60EU8VRIp88-0Q3Vt_ObRzm6tku4y3-lU-PuTqidR5w&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vX-hMSBDmuIWRQeZPjBg7Q&_nc_ss=7b289&oh=00_AQN3s3nx91chfFEk59QGB6yRo1T18NSAaCuEdsLbKSJSXQ&oe=6ACF927C)
 
-[Video 7](https://scontent-atl3-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ohc=XwOuCr3sjsgQ7kNvwGzXXi8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjE0NiwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=3KrqTEbEQh0kwgMrCXwOMQ&_nc_ss=7b289&_nc_zt=28&oh=00_AQMKewQVy6AoBoos736EnvIBBVd6zFr1QZ7eCjOzS0bYUg&oe=6ACE44B4)
+[Video 7](https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=XwOuCr3sjsgQ7kNvwEi4FEk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjE0NywidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=vX-hMSBDmuIWRQeZPjBg7Q&_nc_ss=7b289&_nc_zt=28&oh=00_AQOZE-aWwkC9xpp48KIlwIZqw2GNYfa8NJD0wsx63pcABQ&oe=6ACF9634)
 
 52
 
@@ -135,5 +136,5 @@ So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real 
 
 4
 
-[![Image 3: notionhq's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ
+[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ
 ```

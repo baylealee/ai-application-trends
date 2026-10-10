@@ -4,12 +4,13 @@ source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "mcp"
 tools:
+  - "MCP"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-09T06:32:06+00:00"
+generated_at: "2026-10-10T06:15:00+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+MCP
 
 ## 原始工作流拆解
 
@@ -60,6 +61,27 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: thehoodhealer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/818102068_18618353095051841_4570428273587608178_n.jpg?stp
+- Not only did Atlanta sweep the Libs out of the playoffs, the Dream also put a pin in ESPN’s game coverage this postseason. The rest of the playoffs can be found on NBC or USA Network and all finals games will stream live on Peacock 🦚
+- Watching Rob quit because he missed his fluffy bed when I’ve applied to be on survivor countless times is painful
+- Markdown Content:
+[![Image 1: thehoodhealer's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/818102068_18618353095051841_4570428273587608178_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MjIuYzIifQ&_nc_ht
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、MCP
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -77,62 +99,39 @@ Activity
 
 Profile
 
-Ins
-- It’s 2:10am in Rome. Anyone think Pope Leo is pulling an all-nighter with the Sox playing a potential ALCS-clinching game? 😉
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/842785958_17992324227099971_3864609065802070941_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMzU3MzIyOTYwOTUzNjMzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/839971929_17992324236099971_986994230683562574_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAwMzU3MzIyNzc1NTUwMDgwMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX
-- [![Image 3: danicaxoxo27's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713325246_17883902592581098_5468112863067433132_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninsta
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `strong`
-- keyword_hits: AI、CLI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+More
 
-## 原始抓取內容
+[](https://www.threads.com/)
 
-```text
-Title: Threads • Log in
+[](https://www.threads.com/)
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+[](https://www.threads.com/search)
 
-Markdown Content:
-[![Image 1: keepittrizzy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/660191495_17956500681114287_1947593833095902045_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=0M6IDvM_eckQ7kNvwFjLD5i&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM1lXIjgAAxz3dfBij3cv53ZTMb4t3R989_KzYK5P1sww&oe=6ACE445A&_nc_sid=10d13b)](http://www.threads.com/@keepittrizzy)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-baby that man said “THA’S MY WIFE WINNING HER FIFTH M’VP.” listennnnnnnnn
+[![Image 1: chefwillcoleman's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/481858579_1567902703896439_296760715826537931_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTUuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFkMD4JLcKWIlX1cmnFvirifo7CcjBhyztIJonGfCejg2EfvlfXvZrV4FRnFCgib4A&_nc_ohc=v0jb656Kh98Q7kNvwEvLLOr&_nc_gid=XC4CVWUVYwu_kVOw-wdZyw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM_Y1sbrUKtph_3md_SSDrlw5ng47JCtqQ2_5cJcMGLcg&oe=6ACF9885&_nc_sid=10d13b)](https://www.threads.com/@chefwillcoleman)
 
-970
+[chefwillcoleman](https://www.threads.com/@chefwillcoleman)
 
-4
+[17h](https://www.threads.com/@chefwillcoleman/post/DeRkw7ElZUm)
 
-38
+Wasn’t expecting people to leave Fish Frydays shedding tears 🥹… Fish Frydays, every Friday in Williamsburg 📍
 
-3
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/834678054_1665082651802283_1508110209544916840_n.jpg?stp=dst-jpegr_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDE0MzIzNTM0NjA0NDE5OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLmhkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=ZNPvGIPxkAIQ7kNvwGRjBrv&_nc_oc=AdqTR_UYraw9wlxX0PI20RE-fW23C8-wHCVAl4dbOiqfQkM0CCkCL0vbM-EDG3TiTRs&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&se=-1&_nc_ht=scontent.cdninstagram.com&_nc_gid=XC4CVWUVYwu_kVOw-wdZyw&_nc_ss=7a22e&oh=00_AQPhB3Sma7LwhrShBiaBc_ayLoSmCPsvRpSlpILMekT2OQ&oe=6ACFC2EF)
 
-[![Image 2: tiff_marie88's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792053715_17901354804561864_8786427081404199983_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=r70vXPSLyocQ7kNvwHsv7MU&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQP3jS2ZHP48BHU31e0n5uXOFrx5Vff-qNQ8JJhNHbArJQ&oe=6ACE6731&_nc_sid=10d13b)](http://www.threads.com/@tiff_marie88)
+[Video 3](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQOe6Q-c1-_weyQ0ALLMjasOhGNCWjciBTR_CQ1CblvA13YKcFJkUKkWm0CjtxsG-rDyohVzRD7pmYqCXIPxHpeT4tJ57fm-R3_7FcA.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=E0D9IlgvCLoQ7kNvwEZBeZS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxODQxMjk4MzgzNzE1MzMyLCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjY2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=79138bcc3ce6e1f5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NDc0QTgzNzYxRUI0MjU2QUM4MzlFQzlFMDQzNUUyQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YyM0NFMkI2MDQzMjQ1NzI5Q0JFNzU1NzY2QkZEQzVCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaI8LGB1qnFBhUCKAJDMywXQFCEOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=XC4CVWUVYwu_kVOw-wdZyw&_nc_ss=7a22e&_nc_zt=28&oh=00_AQNCYdXIacBGZOpsYjE9Z1fnnKp6-_RS5Awa5Ry4f_qTnQ&oe=6ACBB438)
 
-Me: I’m not gonna overthink this.
+389
 
-Also me:
+11
 
-[![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/840346671_17906861754561864_526184251472524005_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAwMzU3MzIxMDMyMzkwMjIyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=FYRPRWu0W4IQ7kNvwFiZsBC&_nc_oc=Adr-N7DPG4-TFwdXNc-63CHQPfJN1w6a2XL3oOJyvHIre_YYoOb3jhdbrGu_cgYdawQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&_nc_ss=7a22e&oh=00_AQO-JzDUnYcHJafhWtLb1yIiz2eASVplehIeYxiHAAu86w&oe=6ACE65A0)](http://www.threads.com/@tiff_marie88/post/DePjJ95oF8N/media)
+17
 
-970
+54
 
-5
-
-121
-
-156
-
-[![Image 4: mjo.photos's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/795430669_17987122590115476_9065557724089467441_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGVWxheBktgHKK2cEQpBVQRpJw6dmIPggFdyhd9Brf2I5CMXmViovTsp9hKAWyr_L0&_nc_ohc=z_Y9-DQPAKgQ7kNvwENCIEQ&_nc_gid=BtGkwWWIYTZJs_KmvnMR5Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNENMuNJxDjnkZVtPaqMORx2ASOSCvvECTDhWdy2PKbdA&oe=6ACE42B0&_nc_sid=10d13b)](http://www.threads.com/@mjo.photos)
-
-I'm re-watching Boston Legal. It's basically this:
-
-Early seasons: Slightly unhinged legal procedural.
-
-Later seasons: Alan Shore basically looks into the camera and says "I'm actor James Spader and this is a TV show. I'm going to monologue my character's client off a murder charge and you're going to *fucking* love it."
-
-[![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/838433
+[![Image 3: no_pants_fera
 ```
