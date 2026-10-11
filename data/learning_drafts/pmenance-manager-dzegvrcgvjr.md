@@ -9,11 +9,12 @@ tools:
   - "Claude"
   - "RAG"
   - "Notion"
+  - "GAS"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0433
-generated_at: "2026-10-10T06:15:00+00:00"
+zh_ratio: 0.0432
+generated_at: "2026-10-11T06:12:52+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -30,7 +31,7 @@ generated_at: "2026-10-10T06:15:00+00:00"
 
 ## 使用工具
 
-Claude、RAG、Notion、GitHub
+Claude、RAG、Notion、GAS、GitHub
 
 ## 原始工作流拆解
 
@@ -76,12 +77,14 @@ Markdown Content:
 New thread
 
 [Search](http://www.threads.com/searc
+- [![Image 13: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 18: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、Agent、agent、流程、prompt、提示詞、工具、整理、小工具、CRM、Notion、GitHub、CLI
-- zh_ratio: `0.0433`
+- keyword_hits: AI、Claude、RAG、Agent、agent、流程、prompt、提示詞、工具、整理、小工具、CRM、Notion、GitHub
+- zh_ratio: `0.0432`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -122,7 +125,7 @@ More
 
 27.9K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=K2qUMbtZFfYQ7kNvwEsav5a&_nc_oc=Adp_wwtbmAYtP86HeUY3rnYgTJUhVLbcCSQa3yTXz5Vss3uUC4KwTQEV00_ZpcFVs9s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=gY_WX-eFo9y3fWhAtGsLaw&_nc_ss=7b289&oh=00_AQNsp1hgz-FIKa-3SQ8VNnChm9bSMSPT5yEAQP_-3F99oA&oe=6ACFC070)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=K2qUMbtZFfYQ7kNvwFbf_yO&_nc_oc=AdrklyprvE9PkRWWSK4YP2BsmVD-4VKE8DHkpHeL9iU-PdRNOfmJvMkRC7faOWGasvM&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=E5tVfGmSAKEsltbSCvLYcQ&_nc_ss=7b289&oh=00_AQNfwCC99gEYXO6vBdEoBnNz6o3cXCk0goFzUJH3nT3Dvw&oe=6AD111F0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -146,7 +149,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sm7ZmTjjC_QQ7kNvwG2rd6j&_nc_oc=AdqQ6_k9QKY0KHIVQt_yTuLF0zaXhrQWYvBEXnbgze8WTQJJtwGB6NIpU_VPEZwIrOM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vgwgliT98cAhv9_dN1bAag&_nc_ss=7b289&oh=00_AQMfh5isl2NonwiCu_hzloASobcWT2U-w1lg_ZTtVGteAw&oe=6ACFA888)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sm7ZmTjjC_QQ7kNvwFF0BI2&_nc_oc=Adr2AzI8z68oKDZB26LgaXes2WAzIUdqcm1nenAyuxDXEm3FT_RH-a6cQ2R6E4QAQ1M&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=GDUJhJytTFneTX0wgfpFZw&_nc_ss=7b289&oh=00_AQMwOpW3beNNbm7x2quFmbed0_pHLR4u7gOuP4INxl7y9Q&oe=6AD0FA08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 506
 
@@ -158,5 +161,5 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=K2qUMbtZFfYQ7kNvwEsav5a&_nc_oc=Adp_wwtbmAYtP86HeUY3rnYgTJUhVLbcCSQa3yTXz5Vss3uUC4KwTQEV00_ZpcFVs9s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=gY_WX-eFo9y3fWhAtGsLaw&_nc_ss=7b289&oh=00_AQNs
+[![Image 3: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=K2qUMbtZFfYQ7kNvwFbf_yO&_nc_oc=AdrklyprvE9PkRWWSK4YP2BsmVD-4VKE8DHkpHeL9iU-PdRNOfmJvMkRC7faOWGasvM&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=E5tVfGmSAKEsltbSCvLYcQ&_nc_ss=7b289&oh=00_AQNf
 ```

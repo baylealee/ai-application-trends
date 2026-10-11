@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Remember when Syd and TP gave Kah the awar"
+title: "techtip_s 的 AI 工作流案例：Who make custom dresses?"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-10T06:15:00+00:00"
+generated_at: "2026-10-11T06:12:52+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Remember when Syd and TP gave Kah the awar
+# techtip_s 的 AI 工作流案例：Who make custom dresses?
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Remember when Syd and TP gave Kah the award for “most likely to be a TSA agent?
+Who make custom dresses?
 
 ## 這篇在解決什麼問題
 
@@ -26,11 +27,13 @@ Remember when Syd and TP gave Kah the award for “most likely to be a TSA agent
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
-1. Remember when Syd and TP gave Kah the award for “most likely to be a TSA agent?
+1. 閱讀原文後，先確認它實際解決的工作情境。
+2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
+3. 再判斷是否能轉成自己的工作流範本。
 
 ## 可以直接複製的做法
 
@@ -58,28 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: blackgirlthatreads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459174296_1038150554139570_7075431577453727042_n.jpg?st
-- Trump to Italian-Americans: “You should be very proud of what's taking place for you because you were a very discriminated group, but you never complained about it.”
-- ![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/842785893_1637506924828379_458701228194434704_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAwNDQ1MDc2NDI2NDE5MjMyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
-- ![Image 8](https://scontent.cdninstagram.com/v/t51.71878-15/839691761_1760333195262723_6807069253567565540_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwNDI0MTg1NDc2NTIxODA2MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHM
-- Markdown Content:
-[![Image 1: blackgirlthatreads's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459174296_1038150554139570_7075431577453727042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_n
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Agent、agent
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -97,37 +78,47 @@ Activity
 
 Profile
 
-Insights
+Insig
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-More
+Markdown Content:
+[![Image 1: feelay's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/539605472_18525720412014415_5235290748511538868_n.jpg?stp=dst-jpg_
+- My mother-in-law buckled my seven-year-old daughter into her car and smiled at me as if she were doing me a favor. “Go make your deal,” Evelyn said. “I’ll take care of Lily.” Ten minutes earlier, Lily had gripped my sleeve under the breakfast table and whisper
+- ![Image 10](https://scontent.cdninstagram.com/v/t51.71878-15/842901210_2390488605194354_5081338444145107518_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDcyMDc0MDU2NTI5MjYwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/843405169_1688322416188098_36818918933094288_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNDcyMDY1MzUwODMwNDgxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0l
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/)
+- content_quality: `strong`
+- keyword_hits: AI、Make、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/search)
+## 原始抓取內容
 
-# [Home](https://www.threads.com/?error=invalid_post)
+```text
+Title: Threads • Log in
 
-[![Image 1: bulwarkonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/753647241_18214638313339709_3961450644189966615_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFl82P9SDL9GacXKGQCU1fzZnRzwRKDC0oQT1XsQdXgLNTY5NbhMvjussQt8D09ga8&_nc_ohc=1M4CbyK8LJEQ7kNvwEcJrUJ&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPexgzIQUciB7vg7P_6UiSIBYjIGQB6mIf6hjxptyI3lg&oe=6ACF9E92&_nc_sid=10d13b)](https://www.threads.com/@bulwarkonline)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[bulwarkonline](https://www.threads.com/@bulwarkonline)
+Markdown Content:
+[![Image 1: bradcooney1's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/809076288_18618204241019375_4807522241813752595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEEdJL-IDkTAtHc1iD7uSCMmvW6N6IxnCVHafE-kVI9wFc0HI5GIFdd8VENCu_ujoo&_nc_ohc=-WKofQAIdOgQ7kNvwHPp8JF&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNI99oxr_bxidlxI4_jW8l9slsKE599pYqn8_IhXxS44w&oe=6AD0E001&_nc_sid=10d13b)](https://www.threads.com/@bradcooney1)
 
-[6h](https://www.threads.com/@bulwarkonline/post/DeSrQkilI7Z)
+Look at how much engagement erosion Trump’s posts have now compared to his numbers back in Jan 2025.
 
-Q: "Why is the military action tied up to the midterm election? Why not act now with Iran?"
+![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/844137611_17986840218119188_2843310883561729084_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwNTAzOTM4ODUyNTk4NjMzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DL9mKRk_0qEQ7kNvwFTMBoY&_nc_oc=AdqLaOLAJ7Q6f20POzI-GOp1o9Y2UwCZz8aMNAR0kHhGIfxOUE251Fk7UBsK_-dd_R4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQNTh6ATRdzcnsX4vwNDE5C_qGvt-4_YAUqVtUQR8SPt_Q&oe=6AD0EE7A)
 
-Trump: "Well, we may. We will see. But I think they're failing badly."
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/842255379_17986840245119188_7346324590822182401_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAwNTAzOTQyOTcxNDA5NDEyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zSxPL2waJ6cQ7kNvwHIZYTo&_nc_oc=AdrW3fXC6U3YPdtq0P6P7Ty4EJPlyLL20qhaxyeGWYCBqvrRof1gZuUCM525-eop9hA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQOX-u1nmZw5KTrczNq4exFLuXiMFLQg9maFcSHypHouoA&oe=6AD0F864)
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/842191630_1646684590361716_684870120149447654_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAwNDQ1MzI3MzQzMjI2NDQwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=iN4ShD2wbUsQ7kNvwEruam3&_nc_oc=Adqn4C65ekI96Dr4EamTkQNuoKQVjnH79k7cWTK2ne4r-7sdQ_fZZZ2BMG2RQkabZxI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&_nc_ss=7a22e&oh=00_AQNISWovy6lHkudkvqjri349u7Uui6JMpnkljIfU-7RJZA&oe=6ACF9689)
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/842529464_17986840272119188_4491541643867517147_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTAzOTQ3NTU4MzA1NjE5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=18g4pUDQkK0Q7kNvwHrGIwE&_nc_oc=AdpKXtvU_S1efxqtDbTsTuLVDt-pk3vcovfGxsb3oW1iP1Jqb0dcxIulGHRa7W0EGfc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQNcOA7co49L7jG2KFwFaCXOd3fQTm4K_crusiXT7FbzJw&oe=6AD101BA)
 
-[Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQMqibZCDw9FlPtVuwz2g4mM83BHrW8UDZHw1DkuSMByTCGPESvcustqnRbg0EwlXPktWPWYr4T7a87YNhoPOssaslo0kRbf5tHfEjg.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=bDVJbOlT90QQ7kNvwGJ0azz&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5ODk3NzIwMTYxMTU1NDQsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=508a4c0ec4233beb&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC9DRkJFMTE2OEYwRUI0MEZBOUNDODAzMDMwMzg0MTY2Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA2Q0ZCNkQzMzdFODQ4OEU4Njg4NkE5MjBBQUM2MEQ0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACaw_eKpxub0PxUCKAJDMywXQDx3S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=LUnerVlI8kVNJIeLnvp9Sw&_nc_zt=28&_nc_ss=7a22e&oh=00_AQNCn5OiXuA9dPmQtFXO6IAtr3ldeCgP6FXhoWAX-wr3eg&oe=6ACBAAD0)
+178
 
-64
-
-18
+20
 
 9
+
+[![Image 5: mr.goose27's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/433411221_935985231163166_6060462930182165500_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEEdJL-IDkTAtHc1iD7uSCMmvW6N6IxnCVHafE-kVI9wFc0HI5GIFdd8VENCu_ujoo&_nc_ohc=3aPzNGWnAY0Q7kNvwGPaC8h&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&edm=APs1
 ```
