@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：It is okay to fall for rage bait. It is ok"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-11T06:12:52+00:00"
+generated_at: "2026-10-12T06:21:02+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：It is okay to fall for rage bait. It is ok
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-It is okay to fall for rage bait. It is okay to be fooled and to get caught up in misinformation.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ It is okay to fall for rage bait. It is okay to be fooled and to get caught up i
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -61,26 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: micah_erfan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/724081595_18591561436030282_3782565507703243985_n.jpg?stp=d
-- [![Image 2: Post quoted by Micah Erfan: Republican Roger Marshall's chief of staff, when staff asked if a 2020 trip was official business or campaigning: "Primary purpose is what we say it is."](https://scontent.cdninstagram.com/v/t51.82787-15/843117155_179902
-- It's the hockey summer camp. The kids are on the ice doing precision training. Ilya is leading the session, with the help of his new toy: the megaphone.
-- Republican Roger Marshall's chief of staff, when staff asked if a 2020 trip was official business or campaigning:
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -98,45 +77,83 @@ Activity
 
 Profile
 
-Insights
+Ins
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-More
+Markdown Content:
+[![Image 1: wildmoonchildxo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/750645296_17974479735117340_9120989818663197158_n.jpg?
+- :: It’s 6 AM and I just randomly booked a vacation. 😂🥹 In a few minutes, I’m waking my boys up to tell them we’re going to DISNEY WORLD! 🏰✨ They’ve been obsessed with Toy Story and Cars forever, so why not go see the magic in real life?! Let’s go make some mem
+- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/843324471_17985274098120871_1188345173318775427_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNTY5MzAwOTgwNjIzMDgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/844219914_17985274107120871_6831920435891608834_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNTY5MzAzNTc2MDY5MTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/)
+- content_quality: `strong`
+- keyword_hits: AI、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/search)
+## 原始抓取內容
 
-# [Home](https://www.threads.com/?error=invalid_post)
+```text
+Title: Threads • Log in
 
-[![Image 1: thepoliticschicks's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/734705843_17919214833401616_5233557527295616931_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHtxF9WeHq9Sk0tuvfHR2lyPz47N8imd3B-acuIAgONEQDC5shHzhmx6nEVXOW6DDE&_nc_ohc=Rl9nBSE6SOQQ7kNvwHe0boR&_nc_gid=fpA13uG2pBMilTJJ4Xo6SQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMa4HprSK3jZCPN4mbiusp9Hr2IRk_gzqkgAzcLZHFzqQ&oe=6AD10082&_nc_sid=10d13b)](https://www.threads.com/@thepoliticschicks)
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[thepoliticschicks](https://www.threads.com/@thepoliticschicks)
+Markdown Content:
+![Image 1](https://static.cdninstagram.com/rsrc.php/yT/r/W1XGDwD01g_.webp)
 
-[11h](https://www.threads.com/@thepoliticschicks/post/DeUvTmeGOC0)
+# How would you like to use Threads?
 
-My vocabulary is starting to be limited to daily (hourly?) utterances of "what the fuck?!?"
+[Continue with Instagram Log in or create a Threads profile with your Instagram account. This will let you post and interact on Threads.](http://www.threads.com/login/?show_choice_screen=false)[Use without a profile You can browse Threads without a profile, but you won’t be able to post or interact with content.](http://www.threads.com/nonconsent/)
 
-1.4K
+* © 2026
+* [Threads Terms](https://help.instagram.com/769983657850450)
+* [Privacy Policy](https://help.instagram.com/515230437301944)
+* [Cookies Policy](https://help.instagram.com/1896641480634370/)
+* Report a problem 
 
-56
+Allow the use of cookies from Threads by Instagram on this browser?We use cookies and similar technologies to help provide and improve content on [Meta Products](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139&e=AUDeoj7KGNeV1utGC6wNRHU9HmVgE7eSnilF3xV203ORNKAWBehizacms8v7KdkhpKNmu6zGFdVOLNiqy1Mdf1-gVHqM4X0yv0DBo7ln9MqYIAb4m7s). We also use them to provide a safer experience by using information we receive from cookies on and off Threads, and to provide and improve Meta Products for people who have an account.
+* Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
+* Cookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.
 
-25
+You have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://help.instagram.com/1896641480634370/).See the [Meta privacy policy](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%2F&e=AUDeoj7KGNeV1utGC6wNRHU9HmVgE7eSnilF3xV203ORNKAWBehizacms8v7KdkhpKNmu6zGFdVOLNiqy1Mdf1-gVHqM4X0yv0DBo7ln9MqYIAb4m7s) and the [Threads Supplemental Privacy Policy](https://help.instagram.com/515230437301944) for more details.About cookies
 
-9
+What are cookies?
 
-[![Image 2: imjst__key's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/597661693_17842470270652184_1192855613176203187_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHtxF9WeHq9Sk0tuvfHR2lyPz47N8imd3B-acuIAgONEQDC5shHzhmx6nEVXOW6DDE&_nc_ohc=_ZvSJmfxNR8Q7kNvwE67smY&_nc_gid=fpA13uG2pBMilTJJ4Xo6SQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNDoi25eqSIQD8YLJzpNymD2h2q2yXZzFWx74cgSqULYw&oe=6AD0FEE4&_nc_sid=10d13b)](https://www.threads.com/@imjst__key)
+Learn more
 
-[imjst__key](https://www.threads.com/@imjst__key)
+Why do we use cookies?
 
-[5h](https://www.threads.com/@imjst__key/post/DeVZYEhI5wW)
+Learn more
 
-Leelee woke up 2 days before homecoming and said you know mom I actually do wanna go 🤦🏾‍♀️ she’s so gorgeous
+What are Meta Products?
 
-![Image 3](https://scontent.cdninstagram.com/v/t39.30808-6/843041957_28890793690546681_3354098057779708649_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwNTIxOTAyOTEwODMzNjkyNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQ1LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=6K4_W5PBoqwQ7kNvwEe9fZN&_nc_oc=AdowmTrDk-wnxikrruugWV-IBBzL53oPQKlW0xgZuUNB_ilCx3lI7N97lkkYTWS9kNY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=fpA13uG2pBMilTJJ4Xo6SQ&_nc_ss=7a22e&oh=00_AQP411KtPsCJolXXjTXu7KTcONoX9Z0zbKblc95mo8OwrQ&oe=6AD10282)
+Learn more
 
-![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/845459213_28890794190546631_3728417850573156165_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwNTIxOTAyOTg5Njg2NTk0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuOTQ1LnNkci5yZWd1bGFyX3Bob3RvLk
+Your cookie choices
+
+Learn more
+
+Cookies from other companies We use cookies from [other companies](https://privacycenter.instagram.com/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off of our Products, and provide features like maps, payment services and video.
+
+How we use these cookies
+
+If you allow these cookies
+
+If you don't allow these cookies
+
+Other ways you can control your information
+
+Controls in your Instagram account
+
+More information about online advertising
+
+Controlling cookies with browser settings
+
+Allow all cookies
+
+Decline optional cookies
 ```

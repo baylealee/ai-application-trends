@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Who make custom dresses?"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-11T06:12:52+00:00"
+generated_at: "2026-10-12T06:21:02+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Who make custom dresses?
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Who make custom dresses?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Who make custom dresses?
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -63,36 +62,24 @@ reply_summary_status: `partial`
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insig
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to a
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: feelay's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/539605472_18525720412014415_5235290748511538868_n.jpg?stp=dst-jpg_
-- My mother-in-law buckled my seven-year-old daughter into her car and smiled at me as if she were doing me a favor. “Go make your deal,” Evelyn said. “I’ll take care of Lily.” Ten minutes earlier, Lily had gripped my sleeve under the breakfast table and whisper
-- ![Image 10](https://scontent.cdninstagram.com/v/t51.71878-15/842901210_2390488605194354_5081338444145107518_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=107&ig_cache_key=NDAwNDcyMDc0MDU2NTI5MjYwMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VM
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.71878-15/843405169_1688322416188098_36818918933094288_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwNDcyMDY1MzUwODMwNDgxNg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0l
+[![Image 1: koemalakhtar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/793024469_17904335247591403_5828290575836564389_n.jpg?stp=ds
+- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/842901203_17989787379096818_6376745024113122999_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwNTc1MzY3MzMyMjI0OTU0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
+- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+- Markdown Content:
+[![Image 1: koemalakhtar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/793024469_17904335247591403_5828290575836564389_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make、CLI
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -104,21 +91,57 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: bradcooney1's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/809076288_18618204241019375_4807522241813752595_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gEEdJL-IDkTAtHc1iD7uSCMmvW6N6IxnCVHafE-kVI9wFc0HI5GIFdd8VENCu_ujoo&_nc_ohc=-WKofQAIdOgQ7kNvwHPp8JF&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNI99oxr_bxidlxI4_jW8l9slsKE599pYqn8_IhXxS44w&oe=6AD0E001&_nc_sid=10d13b)](https://www.threads.com/@bradcooney1)
+![Image 1](https://static.cdninstagram.com/rsrc.php/yT/r/W1XGDwD01g_.webp)
 
-Look at how much engagement erosion Trump’s posts have now compared to his numbers back in Jan 2025.
+# How would you like to use Threads?
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/844137611_17986840218119188_2843310883561729084_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAwNTAzOTM4ODUyNTk4NjMzNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=DL9mKRk_0qEQ7kNvwFTMBoY&_nc_oc=AdqLaOLAJ7Q6f20POzI-GOp1o9Y2UwCZz8aMNAR0kHhGIfxOUE251Fk7UBsK_-dd_R4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQNTh6ATRdzcnsX4vwNDE5C_qGvt-4_YAUqVtUQR8SPt_Q&oe=6AD0EE7A)
+[Continue with Instagram Log in or create a Threads profile with your Instagram account. This will let you post and interact on Threads.](https://www.threads.com/login/?show_choice_screen=false)[Use without a profile You can browse Threads without a profile, but you won’t be able to post or interact with content.](https://www.threads.com/nonconsent/)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/842255379_17986840245119188_7346324590822182401_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAwNTAzOTQyOTcxNDA5NDEyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zSxPL2waJ6cQ7kNvwHIZYTo&_nc_oc=AdrW3fXC6U3YPdtq0P6P7Ty4EJPlyLL20qhaxyeGWYCBqvrRof1gZuUCM525-eop9hA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQOX-u1nmZw5KTrczNq4exFLuXiMFLQg9maFcSHypHouoA&oe=6AD0F864)
+* © 2026
+* [Threads Terms](https://help.instagram.com/769983657850450)
+* [Privacy Policy](https://help.instagram.com/515230437301944)
+* [Cookies Policy](https://help.instagram.com/1896641480634370/)
+* Report a problem 
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/842529464_17986840272119188_4491541643867517147_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNTAzOTQ3NTU4MzA1NjE5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTEyNS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=18g4pUDQkK0Q7kNvwHrGIwE&_nc_oc=AdpKXtvU_S1efxqtDbTsTuLVDt-pk3vcovfGxsb3oW1iP1Jqb0dcxIulGHRa7W0EGfc&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&_nc_ss=7a22e&oh=00_AQNcOA7co49L7jG2KFwFaCXOd3fQTm4K_crusiXT7FbzJw&oe=6AD101BA)
+Allow the use of cookies from Threads by Instagram on this browser?We use cookies and similar technologies to help provide and improve content on [Meta Products](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139&e=AUBczT8NvMLhkgK9kaJaRPcBWiAsceuVW9RgjOLG-gdnQ0nmbyiKSc2V_cBDpLuIFrEJd01FyNeJTPo7NHQWQB5v7RV6ln07bu8AglwDw3eiKMMLMXQ). We also use them to provide a safer experience by using information we receive from cookies on and off Threads, and to provide and improve Meta Products for people who have an account.
+* Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
+* Cookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.
 
-178
+You have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://help.instagram.com/1896641480634370/).See the [Meta privacy policy](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%2F&e=AUBczT8NvMLhkgK9kaJaRPcBWiAsceuVW9RgjOLG-gdnQ0nmbyiKSc2V_cBDpLuIFrEJd01FyNeJTPo7NHQWQB5v7RV6ln07bu8AglwDw3eiKMMLMXQ) and the [Threads Supplemental Privacy Policy](https://help.instagram.com/515230437301944) for more details.About cookies
 
-20
+What are cookies?
 
-9
+Learn more
 
-[![Image 5: mr.goose27's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/433411221_935985231163166_6060462930182165500_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEEdJL-IDkTAtHc1iD7uSCMmvW6N6IxnCVHafE-kVI9wFc0HI5GIFdd8VENCu_ujoo&_nc_ohc=3aPzNGWnAY0Q7kNvwGPaC8h&_nc_gid=j-NoPG-MazMrB78wvQr5Gg&edm=APs1
+Why do we use cookies?
+
+Learn more
+
+What are Meta Products?
+
+Learn more
+
+Your cookie choices
+
+Learn more
+
+Cookies from other companies We use cookies from [other companies](https://privacycenter.instagram.com/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off of our Products, and provide features like maps, payment services and video.
+
+How we use these cookies
+
+If you allow these cookies
+
+If you don't allow these cookies
+
+Other ways you can control your information
+
+Controls in your Instagram account
+
+More information about online advertising
+
+Controlling cookies with browser settings
+
+Allow all cookies
+
+Decline optional cookies
 ```
