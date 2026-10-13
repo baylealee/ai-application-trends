@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：Eighteen women artists. Every one of them "
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-12T06:21:02+00:00"
+generated_at: "2026-10-13T07:00:19+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：Eighteen women artists. Every one of them 
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Eighteen women artists. Every one of them over 75. And the exhibition is not about what they used to make. It is about what they are making now.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -62,24 +63,36 @@ reply_summary_status: `partial`
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to a
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insig
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: koemalakhtar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/793024469_17904335247591403_5828290575836564389_n.jpg?stp=ds
-- [![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/842901203_17989787379096818_6376745024113122999_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAwNTc1MzY3MzMyMjI0OTU0OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
-- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- Markdown Content:
-[![Image 1: koemalakhtar's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/793024469_17904335247591403_5828290575836564389_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=
+[![Image 1: destineeroseofficial's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/658312059_18063100667415832_4955050804590548710_n.jp
+- [![Image 6: lord.wells's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/838593439_17940093156371299_950986139028901572_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagra
+- Genie: You have three wishes. Me: First, I want every billionaire to have to assemble their own furniture and clean their own toilets. Genie: You have four wishes.
+- So paxton is trailing talarico and he spent the last two weeks when talarico was off the campaign trail asking where he is???
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、CLI
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -91,57 +104,41 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-![Image 1](https://static.cdninstagram.com/rsrc.php/yT/r/W1XGDwD01g_.webp)
+[![Image 1: jordancortezz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729073168_17971674954114080_3663457281175764458_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFDDLOVkvPjsqZAzhTpYohkXeBf73xVTD0BwxvCxzECDREHUzR16uWd68o7BBBDK4w&_nc_ohc=0T-oLWyiPFIQ7kNvwFlf5mv&_nc_gid=oRYkK7gNhrmmUIBG9cwjZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN0N3ok-PavauwI8oMVNbHP6gH1AjeN3Fz-hOrQcsKm-A&oe=6AD3BE85&_nc_sid=10d13b)](https://www.threads.com/@jordancortezz)
 
-# How would you like to use Threads?
+My heart goes out to the family who went to six flags for a good time today and lost a loved one. That’s such a horrific, unthinkable way to lose your life. I know his son is especially traumatized considering he was right next to him. 🥺
 
-[Continue with Instagram Log in or create a Threads profile with your Instagram account. This will let you post and interact on Threads.](https://www.threads.com/login/?show_choice_screen=false)[Use without a profile You can browse Threads without a profile, but you won’t be able to post or interact with content.](https://www.threads.com/nonconsent/)
+95
 
-* © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem 
+5
 
-Allow the use of cookies from Threads by Instagram on this browser?We use cookies and similar technologies to help provide and improve content on [Meta Products](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139&e=AUBczT8NvMLhkgK9kaJaRPcBWiAsceuVW9RgjOLG-gdnQ0nmbyiKSc2V_cBDpLuIFrEJd01FyNeJTPo7NHQWQB5v7RV6ln07bu8AglwDw3eiKMMLMXQ). We also use them to provide a safer experience by using information we receive from cookies on and off Threads, and to provide and improve Meta Products for people who have an account.
-* Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
-* Cookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.
+3
 
-You have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://help.instagram.com/1896641480634370/).See the [Meta privacy policy](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%2F&e=AUBczT8NvMLhkgK9kaJaRPcBWiAsceuVW9RgjOLG-gdnQ0nmbyiKSc2V_cBDpLuIFrEJd01FyNeJTPo7NHQWQB5v7RV6ln07bu8AglwDw3eiKMMLMXQ) and the [Threads Supplemental Privacy Policy](https://help.instagram.com/515230437301944) for more details.About cookies
+[![Image 2: alindalewris's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/793595090_18101581580014359_8954710963613738613_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFDDLOVkvPjsqZAzhTpYohkXeBf73xVTD0BwxvCxzECDREHUzR16uWd68o7BBBDK4w&_nc_ohc=sH6PuJUCAfkQ7kNvwF0f5qD&_nc_gid=oRYkK7gNhrmmUIBG9cwjZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPTRHwWB851mA-nWph_H_gfWc1mjQzuv8gPaHMz-31P5A&oe=6AD3C1F3&_nc_sid=10d13b)](https://www.threads.com/@alindalewris)
 
-What are cookies?
+Eighteen women artists. Every one of them over 75. And the exhibition is not about what they used to make. It is about what they are making now.
 
-Learn more
+The Prime of Your Life, currently on view in New York, celebrates women whose creative lives are still evolving.
 
-Why do we use cookies?
+Perhaps the prime of life is not a period we pass through. Perhaps it can keep moving with us.
 
-Learn more
+791
 
-What are Meta Products?
+22
 
-Learn more
+47
 
-Your cookie choices
+14
 
-Learn more
+[![Image 3: tiffanydcross's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/504008507_17914237692119211_2631864739396469917_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFDDLOVkvPjsqZAzhTpYohkXeBf73xVTD0BwxvCxzECDREHUzR16uWd68o7BBBDK4w&_nc_ohc=i3QOXm5M2PwQ7kNvwGZUbp6&_nc_gid=oRYkK7gNhrmmUIBG9cwjZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMBaMb6SF_It8_JbMQDxDWT1TWDO3zpOf560F4rKMN-UQ&oe=6AD3B12E&_nc_sid=10d13b)](https://www.threads.com/@tiffanydcross)
 
-Cookies from other companies We use cookies from [other companies](https://privacycenter.instagram.com/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off of our Products, and provide features like maps, payment services and video.
+What’s better? If it happens on a weekend or a week day? Either way… 🥂💃🏽
 
-How we use these cookies
+262
 
-If you allow these cookies
+48
 
-If you don't allow these cookies
+3
 
-Other ways you can control your information
-
-Controls in your Instagram account
-
-More information about online advertising
-
-Controlling cookies with browser settings
-
-Allow all cookies
-
-Decline optional cookies
+[![Image 4: ashleigh__kate's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/659142353_17954245278106496_3157031749449657686_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFDDLOVkvPjsqZAzhTpYohkXeBf73xVTD0BwxvCxzECDREHUzR16uWd68o7BBBDK4w&_nc_ohc=nFkfqtH73HgQ7kNvwEKIO7G&_nc_gid=oRYkK7gNhrmmUIBG9cwjZQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPidsblCIWaJgLVZ
 ```

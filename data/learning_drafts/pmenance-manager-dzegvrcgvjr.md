@@ -4,14 +4,17 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "Claude"
+  - "GPT"
+  - "RAG"
   - "Notion"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0953
-generated_at: "2026-10-12T06:21:02+00:00"
+zh_ratio: 0.043
+generated_at: "2026-10-13T07:00:19+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -28,11 +31,15 @@ generated_at: "2026-10-12T06:21:02+00:00"
 
 ## 使用工具
 
-Notion、GitHub
+Claude、GPT、RAG、Notion、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
+2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
+3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
+4. 算是個重複性時間黑洞，把流程拆解成標準步驟： 1.確認通知信 2.點擊 join@組織 3.核對GitHub帳號已加入組織
+5. 把這套流程你轉給新人吧...
 
 ## 可以直接複製的做法
 
@@ -65,21 +72,17 @@ URL Source: http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 Markdown Content:
 [](http://www.threads.com/)
 
-[](http://www.threads.com/)
+[Home](http://www.threads.com/)
 
-[](http://www.threads.com/search)
+New thread
 
-[Log in](http://ww
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUAMaxEM4mh01PWKLwRw_jz06pp8oo3767fTv1kogtwb-pIe_S8DCUWO7CZ
-- [![Image 14: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 20: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 24: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+[Search](http://www.threads.com/searc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、流程、工具、Notion、GitHub
-- zh_ratio: `0.0953`
+- keyword_hits: AI、Claude、GPT、RAG、Agent、agent、流程、prompt、提示詞、工具、整理、小工具、Notion、GitHub
+- zh_ratio: `0.043`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -120,13 +123,13 @@ More
 
 27.9K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=K2qUMbtZFfYQ7kNvwFKG4n4&_nc_oc=AdoRC2lm5J4MNj8WFmz57JA4XZpXPHB3nbwqxV6X1YOKmqatif1edjxKPCE41ZgwEeU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=BgDIBik7e047gEA6FLK8rQ&_nc_ss=7b289&oh=00_AQPyEw8FshjVANl_KgMV4XYmn-9Shkgk7pa9Hn1ZXce3pg&oe=6AD26370)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=bRym67zmkRUQ7kNvwH-RG-6&_nc_oc=Ado6i7c_EYmsVh3Aafa6vrn14JbT8RdO9dk3FNbsk0AmKcvvSd3GEbNGanlsy3TsGWA&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=r3a8oJfk0Al-uqILKe4fcA&_nc_ss=7b289&oh=00_AQMmBeOw6LiEb1UTweno2YA68tOK5QMT0t3RF_dQoDmXFA&oe=6AD3B4F0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
 [PM日常](https://www.threads.com/search?q=PM%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
 
-[06/01/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
 以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
 
@@ -144,7 +147,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=sm7ZmTjjC_QQ7kNvwGy-3bo&_nc_oc=Adpa5roeXJKkqHQoWbArzLR09ZTbfWVLplHh7Dni9mYDAa_rwbY7QPVpKHwwtlj_M68&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=BgDIBik7e047gEA6FLK8rQ&_nc_ss=7b289&oh=00_AQPW21UtwMlcKMO_4Aui1A7vPQGY3hOTHYBWore6xaUspg&oe=6AD24B88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMiJ9&_nc_ohc=cafwytkfFOkQ7kNvwEMK6eo&_nc_oc=AdqG6Z25Vgv_emhYAFxoLZ1U9Mhfe6wVevXstQAafAXMB3y8qFLQtduYho6BMFkZ_pw&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=uXnBRZNL8305yVOV9HmivA&_nc_ss=7b289&oh=00_AQNk3AJRqGtSCnzfyIgenRAJfZVOghU9a0VttciKGa_cAQ&oe=6AD39D08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 506
 
@@ -154,11 +157,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 466
 
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+Pinned
 
-* © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
+[![Image 3: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzIifQ%3D%3D&_nc_ohc=bRym67zmkRUQ7kNvwH-RG-6&_nc_oc=Ado6i7c_EYmsVh3Aafa6vrn14JbT8RdO9dk3FNbsk0AmKcvvSd3GEbNGanlsy3TsGWA&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=r3a8oJfk0Al-uqILKe4fcA&_nc_ss=7b289&oh=00_AQMm
 ```

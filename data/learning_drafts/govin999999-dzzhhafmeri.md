@@ -6,10 +6,11 @@ post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
+  - "GPT"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-12T06:21:02+00:00"
+generated_at: "2026-10-13T07:00:19+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+GPT
 
 ## 原始工作流拆解
 
@@ -78,20 +79,20 @@ Activity
 Profile
 
 Ins
+- [![Image 4: unsportslike's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448646023_1233870984245091_6688490795216023480_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=scontent.cdninstagra
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: wildmoonchildxo's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/750645296_17974479735117340_9120989818663197158_n.jpg?
-- :: It’s 6 AM and I just randomly booked a vacation. 😂🥹 In a few minutes, I’m waking my boys up to tell them we’re going to DISNEY WORLD! 🏰✨ They’ve been obsessed with Toy Story and Cars forever, so why not go see the magic in real life?! Let’s go make some mem
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/843324471_17985274098120871_1188345173318775427_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNTY5MzAwOTgwNjIzMDgxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/844219914_17985274107120871_6831920435891608834_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=107&ig_cache_key=NDAwNTY5MzAzNTc2MDY5MTc4OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
+[![Image 1: keep.civil's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/468522485_1251240129257424_5062385927832253573_n.jpg?stp=dst-
+- [![Image 19: Trump wants a race war. Minnesotans won’t take the bait.](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/4576478299326855492?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21CO1A%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cf
+- [![Image 6: firstamendmentprotectionagency's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464036570_846680950976163_3084709458691413356_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、CLI
+- keyword_hits: AI、GPT
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -100,60 +101,48 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-![Image 1](https://static.cdninstagram.com/rsrc.php/yT/r/W1XGDwD01g_.webp)
+[![Image 1: reneesayinghey's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756612622_17972732202106600_2947194163219939816_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=Sulw9lA8KIQQ7kNvwGP6X8L&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMXkPurkAVBIiilbz5Zj5bf_vbnpZxsC6vxyeYNOhBe8w&oe=6AD3AE60&_nc_sid=10d13b)](https://www.threads.com/@reneesayinghey)
 
-# How would you like to use Threads?
+[reneesayinghey](https://www.threads.com/@reneesayinghey)
 
-[Continue with Instagram Log in or create a Threads profile with your Instagram account. This will let you post and interact on Threads.](http://www.threads.com/login/?show_choice_screen=false)[Use without a profile You can browse Threads without a profile, but you won’t be able to post or interact with content.](http://www.threads.com/nonconsent/)
+[17h](https://www.threads.com/@reneesayinghey/post/DeZW64ijlft)
 
-* © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem 
+Yay!!!!!!!!!!!!
 
-Allow the use of cookies from Threads by Instagram on this browser?We use cookies and similar technologies to help provide and improve content on [Meta Products](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139&e=AUDeoj7KGNeV1utGC6wNRHU9HmVgE7eSnilF3xV203ORNKAWBehizacms8v7KdkhpKNmu6zGFdVOLNiqy1Mdf1-gVHqM4X0yv0DBo7ln9MqYIAb4m7s). We also use them to provide a safer experience by using information we receive from cookies on and off Threads, and to provide and improve Meta Products for people who have an account.
-* Essential cookies: These cookies are required to use Meta Products and are necessary for our sites to work as intended.
-* Cookies from other companies: We use these cookies to show you ads off of Meta Products and to provide features like maps and videos on Meta Products. These cookies are optional.
+[](https://www.threads.com/@reneesayinghey/post/DeZW64ijlft/media)
 
-You have control over the optional cookies we use. Learn more about cookies and how we use them, and review or change your choices at any time in our [Cookies Policy](https://help.instagram.com/1896641480634370/).See the [Meta privacy policy](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fprivacy%2Fpolicy%2F&e=AUDeoj7KGNeV1utGC6wNRHU9HmVgE7eSnilF3xV203ORNKAWBehizacms8v7KdkhpKNmu6zGFdVOLNiqy1Mdf1-gVHqM4X0yv0DBo7ln9MqYIAb4m7s) and the [Threads Supplemental Privacy Policy](https://help.instagram.com/515230437301944) for more details.About cookies
+1.9K
 
-What are cookies?
+32
 
-Learn more
+116
 
-Why do we use cookies?
+4
 
-Learn more
+[![Image 2: gxnxvab's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628850885_17911841553314032_4803307395396789689_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=1BNcgIXjIK8Q7kNvwEYLC3D&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNcec8Atm_xb7Z_UjQQNQTmfKTYvqbU9eYqyXR9X76CeA&oe=6AD38F66&_nc_sid=10d13b)](https://www.threads.com/@gxnxvab)
 
-What are Meta Products?
+[gxnxvab](https://www.threads.com/@gxnxvab)
 
-Learn more
+[14h](https://www.threads.com/@gxnxvab/post/DeZo7BiEcuk)
 
-Your cookie choices
+perseverance is key
 
-Learn more
+1
 
-Cookies from other companies We use cookies from [other companies](https://privacycenter.instagram.com/policies/cookies/?annotations[0]=explanation%2F3_companies_list) in order to show you ads off of our Products, and provide features like maps, payment services and video.
+1
 
-How we use these cookies
+[![Image 3: unsportslike's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448646023_1233870984245091_6688490795216023480_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=AiyXtTn6JAQQ7kNvwECrVsA&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPJAAK2uVzFRc71IjfAhntxJRXtzc8DvRhyAKvEB6f7Ig&oe=6AD3C382&_nc_sid=10d13b)](https://www.threads.com/@unsportslike)
 
-If you allow these cookies
+[unsportslike](https://www.threads.com/@unsportslike)
 
-If you don't allow these cookies
+[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
 
-Other ways you can control your information
+[19h](https://www.threads.com/@unsportslike/post/DeZG96ujlFH)
 
-Controls in your Instagram account
+UPON FURTHER REVIEW: DPI as a 15 yard penalty instead of a spot foul
 
-More information about online advertising
-
-Controlling cookies with browser settings
-
-Allow all cookies
-
-Decline optional cookies
+![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/844044494_2924439181222478_162335090363990044_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwNjI2Mzk4Njc0ODAxOTAxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=vk8HoSply8QQ7kNvwFndDAK&_nc_oc=AdoEaMYcqw8DtnvklBNP_sg-U6pp-92UmmRhiHYGZmhTd2bNc2WjYVDv7zBJJRyouEY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&_nc_ss=7a22e&oh=00_AQNJq
 ```
