@@ -6,11 +6,10 @@ post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
-  - "GPT"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-13T07:00:19+00:00"
+generated_at: "2026-10-14T05:14:22+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-GPT
+待人工確認
 
 ## 原始工作流拆解
 
@@ -64,6 +63,12 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
+[![Image 1: samara.curtiss's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485224552_1158135522167428_935269405229088147_n.jpg?stp=
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
 [](https://www.threads.com/)
 
 [Home](https://www.threads.com/)
@@ -79,20 +84,15 @@ Activity
 Profile
 
 Ins
-- [![Image 4: unsportslike's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448646023_1233870984245091_6688490795216023480_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=scontent.cdninstagra
-- Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: keep.civil's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/468522485_1251240129257424_5062385927832253573_n.jpg?stp=dst-
-- [![Image 19: Trump wants a race war. Minnesotans won’t take the bait.](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/4576478299326855492?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21CO1A%21%2Cw_1200%2Ch_675%2Cc_fill%2Cf_jpg%2Cq_auto%3Agood%2Cf
-- [![Image 6: firstamendmentprotectionagency's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/464036570_846680950976163_3084709458691413356_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
+- Markdown Content:
+[![Image 1: samara.curtiss's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485224552_1158135522167428_935269405229088147_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=
+- [![Image 2: chapterswithmackenzie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825269719_17939169651367796_8812373367096621469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
+- [![Image 5: chapterswithmackenzie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/825269719_17939169651367796_8812373367096621469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、GPT
+- keyword_hits: AI、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -101,48 +101,34 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: reneesayinghey's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756612622_17972732202106600_2947194163219939816_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=Sulw9lA8KIQQ7kNvwGP6X8L&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMXkPurkAVBIiilbz5Zj5bf_vbnpZxsC6vxyeYNOhBe8w&oe=6AD3AE60&_nc_sid=10d13b)](https://www.threads.com/@reneesayinghey)
+[![Image 1: stephroberts670's profile picture](https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-webp&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xNTAuYzIifQ&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGfeSnNBoxdlORTN37ug-NPqC7ZUwLbi95Fm967LXkV04TueHyvxm42RXSY91qIsqVFZdpqhdQPJ-sJhs4MzQ3i&_nc_ohc=6tMhbzsXag0Q7kNvwHY9QX9&_nc_gid=JZ2gAX7iBQ1tULiKGqEvNw&edm=AGISLTEBAAAA&ccb=7-5&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&oh=00_AQPQp4NyHLgiE72rgkLVSUkbrgGtb26uTt5OmbQsKsygdA&oe=6AD4F16A&_nc_sid=255e82)](http://www.threads.com/@rubel_gazi1880)
 
-[reneesayinghey](https://www.threads.com/@reneesayinghey)
+THESE COASTERS ARE TOO FUNNY! 😂 Protect your coffee table while giving your guests a good laugh! 🛒 Check it out 👉 [link.amazon/B0fye…](https://l.threads.com/?u=http%3A%2F%2Flink.amazon%2FB0fyeiybs&e=AUCJrWzYzkCeF7H3GbnfMq8_-5_akhByYfxq-C39gsw_nvh_I3AdO3b6YcRJ46oar3VYiv0mB08oUP0C5rjQniZXRwFR0QH9jm1RBCLX9okN2gWqrIs) #ad #AmazonAffiliate
 
-[17h](https://www.threads.com/@reneesayinghey/post/DeZW64ijlft)
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/846449695_2743059839425497_4205538727761005115_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwNzE4MTc4ODkwMzk0MDM5Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=y6ptF7fHMIQQ7kNvwGumnPX&_nc_oc=Adr0wf-SZ2liTJ23tzh7PZU4cMj-WFu750CxVO_LVr3T6r5xRlXZh0EL0hE_RNMLJ-c&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=fXAxKrl-YvhwPq8wOsjU0Q&_nc_ss=7a22e&oh=00_AQODxabeHhtyFxe51ab7TYS_S7eYCTEtH9OU1l1Klf_q6w&oe=6AD4EF89)
 
-Yay!!!!!!!!!!!!
+1K
 
-[](https://www.threads.com/@reneesayinghey/post/DeZW64ijlft/media)
+18
 
-1.9K
+27
 
-32
+1.1K
 
-116
+[![Image 3: allbymyshelff's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/475063036_1138011574670779_3938910938510742600_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFI7NmKmRjnITtv4XgKGJzthyDr0jrlebxIA6zH3Sb66LfOqZiQi5Ym-cmvYX60c8M&_nc_ohc=G1wPaVsHWMoQ7kNvwF6hL7z&_nc_gid=fXAxKrl-YvhwPq8wOsjU0Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMIQ4h59plji8vEe6bl_ZLO-IaqATU4ntlMGS1-9Whjvg&oe=6AD4ECE8&_nc_sid=10d13b)](http://www.threads.com/@allbymyshelff)
+
+I simply do not understand the judges scoring Connor significantly lower than Tyler and Jackson when I feel like they all have a very similar quality of dance?? And scoring Tyler and Amber the same let’s be so real??
+
+345
+
+15
 
 4
 
-[![Image 2: gxnxvab's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628850885_17911841553314032_4803307395396789689_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=1BNcgIXjIK8Q7kNvwEYLC3D&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNcec8Atm_xb7Z_UjQQNQTmfKTYvqbU9eYqyXR9X76CeA&oe=6AD38F66&_nc_sid=10d13b)](https://www.threads.com/@gxnxvab)
-
-[gxnxvab](https://www.threads.com/@gxnxvab)
-
-[14h](https://www.threads.com/@gxnxvab/post/DeZo7BiEcuk)
-
-perseverance is key
-
 1
 
-1
-
-[![Image 3: unsportslike's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/448646023_1233870984245091_6688490795216023480_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG6f_RIwgpT6GEloJaGhneaMLB-_ufL-6r23oxqMZtIZRarafE1vTLvWIuk0u6xLk4&_nc_ohc=AiyXtTn6JAQQ7kNvwECrVsA&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPJAAK2uVzFRc71IjfAhntxJRXtzc8DvRhyAKvEB6f7Ig&oe=6AD3C382&_nc_sid=10d13b)](https://www.threads.com/@unsportslike)
-
-[unsportslike](https://www.threads.com/@unsportslike)
-
-[NFL Threads](https://www.threads.com/search?q=NFL%20Threads&serp_type=tags&tag_id=18323298895111531)
-
-[19h](https://www.threads.com/@unsportslike/post/DeZG96ujlFH)
-
-UPON FURTHER REVIEW: DPI as a 15 yard penalty instead of a spot foul
-
-![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/844044494_2924439181222478_162335090363990044_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwNjI2Mzk4Njc0ODAxOTAxNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=vk8HoSply8QQ7kNvwFndDAK&_nc_oc=AdoEaMYcqw8DtnvklBNP_sg-U6pp-92UmmRhiHYGZmhTd2bNc2WjYVDv7zBJJRyouEY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=HIYvThrrB_r049Qh_4_pQQ&_nc_ss=7a22e&oh=00_AQNJq
+[![Image 4: karasmaticliving's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/828413122_17989798848100798_6371012719576356126_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gFI7NmKmRjnITtv4XgKGJzthyDr0jrlebxIA6zH3Sb66LfOqZiQi5Ym-cmvYX60c8M&_nc_ohc=RPs_UZGgvIMQ7kNvwG3RHOP&_nc_gid=fXAxKrl-YvhwPq8wOsjU0Q&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMn11sUBq-PbBmsYVKn_F-T9V57OsHxku
 ```
