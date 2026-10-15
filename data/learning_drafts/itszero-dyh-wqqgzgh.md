@@ -4,20 +4,19 @@ source_url: "https://www.threads.com/@itszero/post/DYH_wqQGzgH"
 source_author: "itszero"
 post_id: "DYH_wqQGzgH"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
   - "ChatGPT"
   - "GPT"
-  - "RAG"
   - "Cursor"
   - "Codex"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.073
-generated_at: "2026-10-14T05:14:22+00:00"
+zh_ratio: 0.1176
+generated_at: "2026-10-15T05:01:41+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -34,7 +33,7 @@ generated_at: "2026-10-14T05:14:22+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、ChatGPT、GPT、RAG、Cursor、Codex、GitHub
+Claude、Claude Code、ChatGPT、GPT、Cursor、Codex、GitHub
 
 ## 原始工作流拆解
 
@@ -69,27 +68,29 @@ reply_summary_status: `partial`
 
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
-- Title: 傑洛 Zero Cho (@itszero) on Threads
-
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+- Title: 傑洛 Zero Cho (@itszero) on Threads
+
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+
+Markdown Content:
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
 - Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
+- Markdown Content:
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、ChatGPT、GPT、RAG、Cursor、Codex、Agent、agent、prompt、提示詞、工具、小工具、GitHub、workflow
-- zh_ratio: `0.073`
+- keyword_hits: AI、Claude、ChatGPT、GPT、Cursor、Codex、Agent、agent、prompt、提示詞、工具、小工具、GitHub、workflow
+- zh_ratio: `0.1176`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -130,7 +131,7 @@ More
 
 610 views
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ysy0c5kaFzsQ7kNvwHZnjvh&_nc_oc=AdrgcF65OlO_qsEuXb5BHYHQYm2h3AlGz-aQ7_VRx2G_6MX4Jrlds9duIqu682XIGDg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=0wCM9yzWgXEUi7DR1qOmTA&_nc_ss=7b289&oh=00_AQMP2epgc8PVc6STRbc_B071EccAIDrSVheaZZiMkJMszQ&oe=6AD4EF8B)](https://www.threads.com/@itszero)
+[![Image 1: lolomousegame's profile picture](https://static.cdninstagram.com/rsrc.php/v1/yb/r/5OTfmveiK1K.jpg)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -144,7 +145,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=HHQiQROJVg8Q7kNvwHAfwJT&_nc_oc=Adpq86L-b9t5Jhd1P75hHn637nyHeaxwlVz7K9_a8badkXbUmS3zraT4D5TgZTHP3qk&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=0wCM9yzWgXEUi7DR1qOmTA&_nc_ss=7b289&oh=00_AQM6riiuh2vtNOQnhaaq5WKr8P2_w8zUXgbATJbScSvtTg&oe=6AD4CE91)](https://www.threads.com/@ethanhuang13)
+[![Image 2: lolomousegame's profile picture](https://static.cdninstagram.com/rsrc.php/v1/yb/r/5OTfmveiK1K.jpg)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -154,11 +155,23 @@ it just works™
 
 Related threads
 
-[![Image 3: masini1491's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/432066572_6661087393993077_7003219420132651337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFJB3n_2iaMcljBNm7OmW9R69vi4MKZpRpYxrva-b5kPGzwVMpYeTYE8xRZiWjkiQo&_nc_ohc=89FiWN_SywIQ7kNvwExOCJw&_nc_gid=0wCM9yzWgXEUi7DR1qOmTA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPIgyCf7tVGqU4lEc5Gn9iRKM1N33XER9RagkB5NyQnEA&oe=6AD4F1F2&_nc_sid=10d13b)](https://www.threads.com/@masini1491)
+[![Image 3: lolomousegame's profile picture](https://static.cdninstagram.com/rsrc.php/v1/yb/r/5OTfmveiK1K.jpg)](https://www.threads.com/@masini1491)
 
 [masini1491](https://www.threads.com/@masini1491)
 
 [09/13/26](https://www.threads.com/@masini1491/post/DdPHN7ZgTQj)
 
-因為ChatGPT出包 root要求模型資料給錯 要求ChatGPT給我追加指令要求Codex積極執行Child Routing 然後我就第一次在實際專案在我設Sol/High的情況 Codex主動判定有工作可以開Child用Luna/Low執行 才抓到漏寫的一個規則 造成Codex判斷用我設定的模型跑的完就跑下去 不會啟動Child Routing來嘗試升降模型節省token 讓我困惑了一陣子 我規則有
+因為ChatGPT出包 root要求模型資料給錯 要求ChatGPT給我追加指令要求Codex積極執行Child Routing 然後我就第一次在實際專案在我設Sol/High的情況 Codex主動判定有工作可以開Child用Luna/Low執行 才抓到漏寫的一個規則 造成Codex判斷用我設定的模型跑的完就跑下去 不會啟動Child Routing來嘗試升降模型節省token 讓我困惑了一陣子 我規則有寫進Repo 為什麼Codex就是不執行? 害我剛剛氣得要死......
+
+Translate
+
+[![Image 4: GitHub - masini1491/ai-development-playbook: AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, repository memory and cost-aware workflows.](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/1046802116460796615?url=https%3A%2F%2Frepository-images.githubusercontent.com%2F1345547446%2Fe6954e46-5d6e-4c6c-8d40-27e7078d3c21&utld=githubusercontent.com&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=2VyKYKt2N7jJlfgZdfAE7Q&_nc_ad=z-m&_nc_cid=0&_nc_zt=3&oh=06_Q3_EAdTw2FgmB8hEecXAuDNrtSTPxQo6xY4egbZdfCGzgnGi&oe=6AD24BD2) github.com GitHub - masini1491/ai-development-playbook: AI development playbook for ChatGPT, Codex & GitHub — context engineering, agent governance, task routing, validation, repository memory and cost-aware workflows.](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Fmasini1491%2Fai-development-playbook&e=AUBOBNHUWV1DBSH2JNVhoF7N1_zmpBntFyxNYUD6goIY5jZq8mcwHMTGskJdVB7nj5atWpocSbKQ0kCxIPB6k657rGEvt1Jr0IT8snAvIItBs1afm08)
+
+1
+
+2
+
+[![Image 5: lolomousegame's profile picture](https://static.cdninstagram.com/rsrc.php/v1/yb/r/5OTfmveiK1K.jpg)](https://www.threads.com/@choihunghk)
+
+[choihunghk](https://www.t
 ```
