@@ -1,26 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I’d love to get a group together for anoth"
+title: "techtip_s 的 AI 工作流案例：this season of love is blind is rage bait."
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "mcp"
+category: "knowledge_base"
 tools:
-  - "MCP"
+  - "RAG"
   - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-15T05:01:41+00:00"
+generated_at: "2026-10-16T04:51:36+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I’d love to get a group together for anoth
+# techtip_s 的 AI 工作流案例：this season of love is blind is rage bait.
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I’d love to get a group together for another fun day with our girls and make some sweet memories. Both moms and dads are welcome!
+this season of love is blind is rage bait. netflix, please
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +28,7 @@ I’d love to get a group together for another fun day with our girls and make s
 
 ## 使用工具
 
-MCP、Make
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -65,20 +65,17 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: gkates123's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/538755485_17919782484114972_615329472783119635_n.jpg?stp=dst-jp
-- I can only imagine the headache Kaori would have if he ever found out the methods cadets used on threshing day. What do you mean Ridoc and Aotrom climbed a tree and Liam sat around doing arts and crafts. Bodhi got scooped up by his and Aaric straight up told M
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: bubbiecore's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/615428244_17849742378657954_2556179045236340610_n.jpg?stp=dst
-- Poland pays for the subscription cost of Ukraine's Starlink terminals, FYI. The U.S. is not only endangering Ukrainian lives, it is doing so at the expense of others.
+[![Image 1: ronaldfilipkowski's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/833882289_17992778013101736_6766043806217990877_n.jpg?s
+- Markdown Content:
+[![Image 1: ronaldfilipkowski's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/833882289_17992778013101736_6766043806217990877_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzIuYzIifQ&_n
+- [![Image 4: ceciliacycles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/712783451_17972390388102114_6629306716954854650_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjUuYzIifQ&_nc_ht=scontent.cdninsta
+- [![Image 5: erik96203's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/846964769_18125048464782055_7753283777070768238_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagra
+- [![Image 3: aaron.rupar's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/456465291_8343612382370345_8092768749465866765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjEuYzIifQ&_nc_ht=scontent.cdninstagram
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、MCP、Make
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -92,71 +89,37 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 Markdown Content:
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: bubbiecore's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/615428244_17849742378657954_2556179045236340610_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEyfjtsrIcxgyukhc3wjPmOAtm9B9PW_ayPObk8VqqrvlHipcK3RVbhTq-SA_qW31k&_nc_ohc=lDAcwQdd1jcQ7kNvwFw0chP&_nc_gid=Ceuv5K1sODM_G5o_zscnuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOSFQGOU4ewmZvbMwLUPPuCRSiyndjwPZ5S7eH_lybxkw&oe=6AD6363B&_nc_sid=10d13b)](https://www.threads.com/@bubbiecore)
+[![Image 1: _itsjustco's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/532175917_17901674319247684_7767071940239346169_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFk5VsTpi92KomKoT1bjbQhCVZI9U-N9qagP0KrtI_8UdFTrDjGy_wX87cNy3q0zdY&_nc_ohc=ICnmiFlBEIMQ7kNvwFLuWau&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOu7iS_2L8DNi7UL1EJKOv99vTefHuUSXCn7vpid3VkLQ&oe=6AD79010&_nc_sid=10d13b)](https://www.threads.com/@_itsjustco)
 
-[bubbiecore](https://www.threads.com/@bubbiecore)
+[_itsjustco](https://www.threads.com/@_itsjustco)
 
-[10h](https://www.threads.com/@bubbiecore/post/DefDcVGlvbh)
+[Love is Blind](https://www.threads.com/search?q=Love%20is%20Blind&serp_type=tags&tag_id=18413143870045990)
 
-Y'all ever think about how quibi was just like 7ish years too early
+[8h](https://www.threads.com/@_itsjustco/post/DehxIOUFGXV)
 
-201
+this season of love is blind is rage bait. netflix, please
 
-8
-
-3
+70
 
 5
 
-[![Image 2: mediumboi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583245539_18540205762054768_6110810315065450491_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEyfjtsrIcxgyukhc3wjPmOAtm9B9PW_ayPObk8VqqrvlHipcK3RVbhTq-SA_qW31k&_nc_ohc=Lqoq35cLF6MQ7kNvwFxAYMs&_nc_gid=Ceuv5K1sODM_G5o_zscnuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNwhcWoRmRUJWKhMqI71vcsm9Tpc7A-J7-eFP7TV56rlQ&oe=6AD624FA&_nc_sid=10d13b)](https://www.threads.com/@mediumboi)
+2
 
-[mediumboi](https://www.threads.com/@mediumboi)
+[![Image 2: aaron.rupar's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/456465291_8343612382370345_8092768749465866765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjEuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFk5VsTpi92KomKoT1bjbQhCVZI9U-N9qagP0KrtI_8UdFTrDjGy_wX87cNy3q0zdY&_nc_ohc=-J6lVBIoC-8Q7kNvwHxs-Yu&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNOxcd6G8PctObDRLMJmzhxsXg_XZhnddL66C33yjJpMA&oe=6AD78840&_nc_sid=10d13b)](https://www.threads.com/@aaron.rupar)
 
-[4h](https://www.threads.com/@mediumboi/post/DefrYtFCa1b)
+[aaron.rupar](https://www.threads.com/@aaron.rupar)
 
-Can it please happen already? This shit is so exhausting.
+[11h](https://www.threads.com/@aaron.rupar/post/DehhEuPDn4S)
 
-1.6K
+Tim Scott: “I want to make sure the next generation can grow up like I did -- maybe in poverty”
 
-25
+![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/845458666_1460125106322978_4555226544419419935_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAwODYzMDYwMzM5Mzk1NzM5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=MSNlBqVKPgoQ7kNvwH1JXQh&_nc_oc=AdqYMQHKqKSE2VvpBSjQNVa8cs0qPzt1ardHKU7_ITm60LWmKN8AvFt5cSKfeLBqQEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&_nc_ss=7a20f&oh=00_AQMwUlqjroxqqLuEFFShc-j4QosgEDjnT9hhwt-biF1kuQ&oe=6AD79464)
 
-21
-
-1
-
-[![Image 3: brandontour's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671072517_17959041618120863_7758568468885701469_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEyfjtsrIcxgyukhc3wjPmOAtm9B9PW_ayPObk8VqqrvlHipcK3RVbhTq-SA_qW31k&_nc_ohc=sv_3H68-d7AQ7kNvwGU2S8z&_nc_gid=Ceuv5K1sODM_G5o_zscnuw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMmcO3rT4ylNF0IRg92Y9zd4SZFCoXy6biTw2iX2GAMVQ&oe=6AD62FE1&_nc_sid=10d13b)](https://www.threads.com/@brandontour)
-
-[brandontour](https://www.threads.com/@brandontour)
-
-[15h](https://www.threads.com/@brandontour/post/DeehXtMlAzK)
-
-Dudes are never beating the allegations because what the fuck is this? Stop hitting on me 🤣😮‍💨
-
-[![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/847979093_17983343535120863_8357355356533480652_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAwNzc4NzQ4MzAxODU2Mjc2Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&ef
+[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOKYn1acY8GyhiMB9650M8lU0arMhmMQJDg1qRPj75HRaWp20-NplN_QpuGACy3GqYEX-8hgBEg1LBpigiaA4HDWIr7FBch8h04kqk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=ZqV_brXF7qgQ7kNvwGalz-H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE4MTUwODIxMDY1NTMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTA1LCJ1cmxnZW5fc291cmNlIjoid3
 ```

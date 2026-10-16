@@ -4,16 +4,14 @@ source_url: "https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC"
 source_author: "kaochenlong"
 post_id: "DNRi-WKzgeC"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
-  - "RAG"
-  - "Make"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0073
-generated_at: "2026-10-15T05:01:41+00:00"
+zh_ratio: 0.0087
+generated_at: "2026-10-16T04:51:36+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -30,7 +28,7 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-Claude、Claude Code、RAG、Make
+Claude、Claude Code
 
 ## 原始工作流拆解
 
@@ -63,16 +61,20 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- [![Image 3: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xM
+- [![Image 5: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xM
+- [![Image 14: hydai's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLk
+- Sandisk announced “Made for Meta” storage products for Quest headsets and upcoming VR Glasses, including microSD Express cards and USB-C flash drives.
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、Make、Agent、agent、工具、CLI
-- zh_ratio: `0.0073`
+- keyword_hits: AI、Claude、Agent、agent、工具
+- zh_ratio: `0.0087`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -80,16 +82,16 @@ Markdown Content:
 ```text
 Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[Home](https://www.threads.com/)
+[Home](http://www.threads.com/)
 
 New thread
 
-[Search](https://www.threads.com/search)
+[Search](http://www.threads.com/search)
 
 Messages
 
@@ -99,31 +101,31 @@ Profile
 
 Insights
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+[Log in](http://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+# [Thread](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
 12.3K views
 
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=IMIULj-fbT8Q7kNvwGo6gbU&_nc_oc=Adr4hy8dInOBzrulE0boEjJyPivzNcN4u23atxjQBix6clLg6B3QdpqoHBZz9FopQGU&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQOq2I3iocw6Iv4hbVLpJkmpW3ngWV_QAxrhB-jINw_vlA&oe=6AD63BCB)](https://www.threads.com/@kaochenlong)
+[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=0MVOpctD03UQ7kNvwEaj3y4&_nc_oc=AdqwzlzebTvi8iyYT2Nfrkl9qxnFZtlHr4RnDdZLPvpcX3Mf6b82lgcU-Thh4YxJ1gg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNi2wMrd3OdoZdr6j1lGk1slztHVhXxUFgxeWoP7gNmqA&oe=6AD78D4B)](http://www.threads.com/@kaochenlong)
 
-[kaochenlong](https://www.threads.com/@kaochenlong)
+[kaochenlong](http://www.threads.com/@kaochenlong)
 
-[ai coding](https://www.threads.com/search?q=ai%20coding&serp_type=tags&tag_id=18459619093014492)
+[ai coding](http://www.threads.com/search?q=ai%20coding&serp_type=tags&tag_id=18459619093014492)
 
-[08/12/25](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+[08/12/25](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
-[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=spLu_a-vyQAQ7kNvwGhQZ_J&_nc_oc=AdprAN-L9912X8rBNts27JvQ_bQAUyS6EUXA9gPNWVZLJdM747MXQ08JFxmDvvHvpak&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=2zxUm2oTbDfDTf1YRFXjmQ&_nc_ss=7b289&oh=00_AQNGVvqaDLl8oevEODziZm7H_d5xvGQ5ScJ4H_Pz4OJkYQ&oe=6AD63260)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=j5Q-0xSvUDoQ7kNvwH7e9hS&_nc_oc=AdpQYVnD03R-un-OqwZl0hJGvN5s8XxPLeeHxeka-dtDd_oFoUxQ2vC5_AIktn5ht4c&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ObSpMhBafAw33E6XUl00-g&_nc_ss=7b289&oh=00_AQODSfc0_aDZnr0lJev-Qjchea9B2sr9PMx9liJEfpyshQ&oe=6AD783E0)](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -133,15 +135,15 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 16
 
-[![Image 3: ziyuang's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNTYuQzMifQ%3D%3D&_nc_ohc=p1JB8Va2L4EQ7kNvwEHhPsa&_nc_oc=AdrQ4geXfqEEW2aPMcJggWe0bx6AaNWyCs00Y9C_vIUw89SpFyJ9qGA_hC_G4nAYFPE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNdcHQn7g6PFfrr4GlWlb6otzQw0YM5aCpiJMqIodyojw&oe=6AD63704)](https://www.threads.com/@ziyuang)
+[![Image 3: ziyuang's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNTYuQzMifQ%3D%3D&_nc_ohc=p1JB8Va2L4EQ7kNvwFj226y&_nc_oc=AdoGi_HuP_k3FKFk3Z3cSitY5Cy5Gj3ky3xjkonKe5rrOqHkteE5GjQ_DNITB0jbeOU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNdP05sZ0yETbJPBrO03j31y5EO6NKrM9oTw_9KkheALQ&oe=6AD78884)](http://www.threads.com/@ziyuang)
 
-[ziyuang](https://www.threads.com/@ziyuang)
+[ziyuang](http://www.threads.com/@ziyuang)
 
-[08/13/25](https://www.threads.com/@ziyuang/post/DNRpMmIoU32)
+[08/13/25](http://www.threads.com/@ziyuang/post/DNRpMmIoU32)
 
 这个是什么
 
 1
 
-[![Image 4: edetroy8404's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sdrYJKsiHPoQ7kNvwFobYBh&_nc_oc
+[![Image 4: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sdrYJKsiHPoQ7kNvwEHHpy6&_nc_oc=Adoi9ruvOVzEBnM_
 ```
