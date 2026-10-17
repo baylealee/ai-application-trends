@@ -6,12 +6,10 @@ post_id: "DNRi-WKzgeC"
 language: "unknown"
 category: "coding"
 tools:
-  - "Claude"
-  - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0087
-generated_at: "2026-10-16T04:51:36+00:00"
+zh_ratio: 0.0415
+generated_at: "2026-10-17T04:51:47+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -28,12 +26,11 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-Claude、Claude Code
+待人工確認
 
 ## 原始工作流拆解
 
 1. Title: 高見龍.agent (@kaochenlong) on Threads
-2. 我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
 
 ## 可以直接複製的做法
 
@@ -64,17 +61,17 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- [![Image 3: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xM
-- [![Image 5: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xM
-- [![Image 14: hydai's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLk
-- Sandisk announced “Made for Meta” storage products for Quest headsets and upcoming VR Glasses, including microSD Express cards and USB-C flash drives.
+[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- [![Image 14: hydai's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLk
+- You fail to understand the systemic sustained nature of the game you’re playing and think it’s only limited to one move at a time. Meanwhile we’ve been retreating into center right corner on the left my entire life. Grow up. Stop buying it.
+- Once again reminding you that whatever someone does with abortion they will do with trans rights and immigration. And then it’ll be women’s rights or “interracial marriage” or perhaps they’ll just come after all of us at once.
+- 我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工具
-- zh_ratio: `0.0087`
+- keyword_hits: AI、Agent、agent
+- zh_ratio: `0.0415`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -85,47 +82,9 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](http://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Thread](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
-
-12.3K views
-
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=0MVOpctD03UQ7kNvwEaj3y4&_nc_oc=AdqwzlzebTvi8iyYT2Nfrkl9qxnFZtlHr4RnDdZLPvpcX3Mf6b82lgcU-Thh4YxJ1gg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNi2wMrd3OdoZdr6j1lGk1slztHVhXxUFgxeWoP7gNmqA&oe=6AD78D4B)](http://www.threads.com/@kaochenlong)
-
-[kaochenlong](http://www.threads.com/@kaochenlong)
-
-[ai coding](http://www.threads.com/search?q=ai%20coding&serp_type=tags&tag_id=18459619093014492)
-
-[08/12/25](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=0MVOpctD03UQ7kNvwEuCGO4&_nc_oc=AdpurmTWHhrsR7bW173C-3sZG3Clch5zFLsWgH7dL0dn2c3x3IHtSMMAiMCVyLYs0bM&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNhPmBiUZNl5vpBVUQRTCOqcQrwdwB9F8tswd2E0YtBsw&oe=6AD8DECB)](http://www.threads.com/@kaochenlong)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
-
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=j5Q-0xSvUDoQ7kNvwH7e9hS&_nc_oc=AdpQYVnD03R-un-OqwZl0hJGvN5s8XxPLeeHxeka-dtDd_oFoUxQ2vC5_AIktn5ht4c&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=ObSpMhBafAw33E6XUl00-g&_nc_ss=7b289&oh=00_AQODSfc0_aDZnr0lJev-Qjchea9B2sr9PMx9liJEfpyshQ&oe=6AD783E0)](http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -134,16 +93,4 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 18
 
 16
-
-[![Image 3: ziyuang's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNTYuQzMifQ%3D%3D&_nc_ohc=p1JB8Va2L4EQ7kNvwFj226y&_nc_oc=AdoGi_HuP_k3FKFk3Z3cSitY5Cy5Gj3ky3xjkonKe5rrOqHkteE5GjQ_DNITB0jbeOU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQNdP05sZ0yETbJPBrO03j31y5EO6NKrM9oTw_9KkheALQ&oe=6AD78884)](http://www.threads.com/@ziyuang)
-
-[ziyuang](http://www.threads.com/@ziyuang)
-
-[08/13/25](http://www.threads.com/@ziyuang/post/DNRpMmIoU32)
-
-这个是什么
-
-1
-
-[![Image 4: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=sdrYJKsiHPoQ7kNvwEHHpy6&_nc_oc=Adoi9ruvOVzEBnM_
 ```

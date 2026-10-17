@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-16T04:51:36+00:00"
+generated_at: "2026-10-17T04:51:47+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,12 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: is_bet_ter's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/612477073_17847081762664849_5416111540436963253_n.jpg?stp=ds
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -84,9 +78,10 @@ Activity
 Profile
 
 Ins
-- [![Image 2: Why Is Tech Billionaire Marc Andreessen So Mad?](https://external.xx.fbcdn.net/emg1/v/t13/12482518823638469408?url=https%3A%2F%2Fassets.bwbx.io%2Fimages%2Fusers%2FiqjWHBFdfxIU%2FiDqL9n5aB0Rs%2Fv0%2F1200x630.jpg&utld=bwbx.io&_nc_sid=1d65fc&_nc_ht=ex
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/851829016_17957604336255909_746374132815812196_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=NDAwODY0ODAzMDk2MjE1ODAyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- [![Image 4: baileeelizabeth21's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/684267735_17886169965508016_8181840621130503572_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdn
+- [Video 4](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOgSIhnTTTiZDcg4QDm0zWdrw_Pg61PcZk-E50btPKSqIHZqSI5xfFqqiemSDFjk97fztALpF3UqnFnMG15aC_oK24Uq-sp_HEBLxI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=FmXNF-MPBVAQ7kNvwFO8-nJ&
+- ![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/851829646_1460151992630567_1972021684923775301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwOTIzNzk0NzAzNjE2NzY3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
+- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/849508656_18349388653252871_7756461338072954157_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwOTIxMTA3MzEwNTM4NTk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
+- [![Image 1: ginafortexas's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/434144555_771898331258964_5066981147616245377_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram
 
 ## 抓取品質
 
@@ -100,54 +95,58 @@ Ins
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: bloombergbusiness's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357734277_946614906601615_6170135375116345194_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE52S9rJIYXPNLuaHJKkaARUfR28nZ-8uQlQhg1Y5JQekK4oyKEsHMCXk8AWwiKOVA&_nc_ohc=7K9UDos1G5YQ7kNvwFBx3kv&_nc_gid=d34HokSWHbyO9FNFB-8igw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOyBWqxvd3WTuhuXhuT03a9PHpuUrZdLMqVfAeMiRRZyA&oe=6AD7715E&_nc_sid=10d13b)](https://www.threads.com/@bloombergbusiness)
+[](http://www.threads.com/)
 
-The famous investor Marc Andreessen has said the Biden administration pushed him to the political right, but sources say his grievances don't always match reality.
+[Home](http://www.threads.com/)
 
-38
+New thread
 
-10
+[Search](http://www.threads.com/search)
 
-5
+Messages
 
-3
+Activity
 
-[![Image 2: _colewithdacurls's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/491452406_17860353411399877_2241238855259023690_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE52S9rJIYXPNLuaHJKkaARUfR28nZ-8uQlQhg1Y5JQekK4oyKEsHMCXk8AWwiKOVA&_nc_ohc=fVq9N3tiyuQQ7kNvwHNd_YT&_nc_gid=d34HokSWHbyO9FNFB-8igw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMUQL2oTQRLrdtVGTcZJBrqTlpzqsK1ihYXksZKQinJWw&oe=6AD79A43&_nc_sid=10d13b)](https://www.threads.com/@_colewithdacurls)
+Profile
 
-Left 4 dead 2 was such a goated game.
+Insights
 
-221
+[Log in](http://www.threads.com/login?show_choice_screen=false)
 
-28
+More
 
-23
+[](http://www.threads.com/)
+
+[](http://www.threads.com/)
+
+[](http://www.threads.com/search)
+
+# [Home](http://www.threads.com/?error=invalid_post)
+
+[![Image 1: confidence.andabig.smile's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/795068462_18103697209998208_7625371649447822486_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEVR8HUm4nqX2GcI9tSDMtUbQVdV6sXHNS1xzwFz5qOxgDd4cu5eVttSiZI99ZY89M&_nc_ohc=xGNMM8HctoEQ7kNvwFjHgdF&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMh6BuF9GJ1f6C0YmIzLwYmO1T1mX5-rjZjlahYhLHLqw&oe=6AD8DCD4&_nc_sid=10d13b)](http://www.threads.com/@confidence.andabig.smile)
+
+[confidence.andabig.smile](http://www.threads.com/@confidence.andabig.smile)
+
+[heated rivalry](http://www.threads.com/search?q=heated%20rivalry&serp_type=tags&tag_id=18485329438068310)
+
+[13h](http://www.threads.com/@confidence.andabig.smile/post/Dejz4cllmWa)
+
+This look doesn’t get enough appreciation. Pausing mid run to immediately read it when a text from Shanebug comes in 🥰
+
+![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/848293294_18115657579998208_1464202838199927214_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwOTI3NTc2MjA3ODgxMTMwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZrauN4MIrhwQ7kNvwErRuIg&_nc_oc=AdocuVlTA9vB2hSwT6rlEQLRveSHcHOI8teF_hdOEKbbNccm1rVH6TgXYtxPkplqPZ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&_nc_ss=7a22e&oh=00_AQMu2Tfxp_D289qBFz2wZ6FtDs3TDwLz1UL-3N6cHljpxw&oe=6AD8BBDF)
+
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/848832437_18115657603998208_6296982634454230006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwOTI3NTc4MjU4MDY0OTYwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9RnrRZbXRcEQ7kNvwEe2SFS&_nc_oc=AdpTWVP9g_IL9glcYZ1dYluIqGz4mNsxH6LA5deyPIR4EvbeKaIn9xWkKEqQkw4GuuY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&_nc_ss=7a22e&oh=00_AQNiQXBJsyF_L_pwWF59FNE6hO0g80z54AtInzNATgXuXg&oe=6AD8DA8D)
+
+1.3K
+
+16
+
+8
 
 1
 
-[![Image 3: raphousetvclips's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/468031411_424852274029490_4187926568476074908_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE52S9rJIYXPNLuaHJKkaARUfR28nZ-8uQlQhg1Y5JQekK4oyKEsHMCXk8AWwiKOVA&_nc_ohc=D0jXw4vCTLEQ7kNvwHd2GkV&_nc_gid=d34HokSWHbyO9FNFB-8igw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOhxJhVKfRer1ml_-ZgpgCUYzwqhpkWwQ2oljTpVVTMxg&oe=6AD77874&_nc_sid=10d13b)](https://www.threads.com/@raphousetvclips)
-
-Lil man wasn’t trying to hear no lecture😅
-
-799
-
-94
-
-61
-
-85
-
-[![Image 4: bravoandy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/562482760_17928917745112355_7708142454826919071_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MTYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE52S9rJIYXPNLuaHJKkaARUfR28nZ-8uQlQhg1Y5JQekK4oyKEsHMCXk8AWwiKOVA&_nc_ohc=f0rQ201EUqUQ7kNvwGBLRLJ&_nc_gid=d34HokSWHbyO9FNFB-8igw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMaS2nX3IDJ6i49XJQ2Un94P_t_Z8j7NEH9lI7KS_X5Jw&oe=6AD78BB6&_nc_sid=10d13b)](https://www.threads.com/@bravoandy)
-
-, , Shannon Storms Beador, , , & will be joining me in Charleston for #WWHL at FanFest! Post all of your questions for them, NOW!
-
-118
-
-63
-
-1
-
-3
+[![Image 4: cedric1nyc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/244468642_1329699757487484_4076727038898405514_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEVR8HUm4nqX2GcI9tSDMtUbQVdV6sXHNS1xzwFz5qOxgDd4cu5e
 ```

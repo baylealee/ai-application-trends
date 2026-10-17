@@ -1,26 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：this season of love is blind is rage bait."
+title: "techtip_s 的 AI 工作流案例：I’m a woman if that makes a difference."
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
   - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-16T04:51:36+00:00"
+generated_at: "2026-10-17T04:51:47+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：this season of love is blind is rage bait.
+# techtip_s 的 AI 工作流案例：I’m a woman if that makes a difference.
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-this season of love is blind is rage bait. netflix, please
+I’m a woman if that makes a difference.
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +27,7 @@ this season of love is blind is rage bait. netflix, please
 
 ## 使用工具
 
-RAG、Make
+Make
 
 ## 原始工作流拆解
 
@@ -65,17 +64,17 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: ronaldfilipkowski's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/833882289_17992778013101736_6766043806217990877_n.jpg?s
+[![Image 1: _matt_kowalski's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450363095_1659325688168578_4376107178944632819_n.jpg?stp=ds
+- Fuck. I’ve had UTIs that lasted longer than that. Alas poor Katie Zacharia, we knew her Horatio. Well, there goes the only entertaining thing to come out of the Shite House in a very long time. For a piss-funny take, here’s on our Aussie morning TV. Big questi
+- When Katie Zacharia said she passed the bar exam, she meant the Barr exam — a test to see if you're bigoted enough to join the Trump administration.
 - Markdown Content:
-[![Image 1: ronaldfilipkowski's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/833882289_17992778013101736_6766043806217990877_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NzIuYzIifQ&_n
-- [![Image 4: ceciliacycles's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/712783451_17972390388102114_6629306716954854650_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjUuYzIifQ&_nc_ht=scontent.cdninsta
-- [![Image 5: erik96203's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/846964769_18125048464782055_7753283777070768238_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagra
-- [![Image 3: aaron.rupar's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/456465291_8343612382370345_8092768749465866765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjEuYzIifQ&_nc_ht=scontent.cdninstagram
+[![Image 1: _matt_kowalski's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450363095_1659325688168578_4376107178944632819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbn
+- [![Image 4: ryanschwartztv's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723904633_17971658016116968_2671650087862544152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=sc
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、RAG、Make
+- keyword_hits: AI、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -89,37 +88,41 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 Markdown Content:
 [](https://www.threads.com/)
 
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: _itsjustco's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/532175917_17901674319247684_7767071940239346169_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFk5VsTpi92KomKoT1bjbQhCVZI9U-N9qagP0KrtI_8UdFTrDjGy_wX87cNy3q0zdY&_nc_ohc=ICnmiFlBEIMQ7kNvwFLuWau&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOu7iS_2L8DNi7UL1EJKOv99vTefHuUSXCn7vpid3VkLQ&oe=6AD79010&_nc_sid=10d13b)](https://www.threads.com/@_itsjustco)
+[![Image 1: wealthwestng's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749846213_17977736685112250_4185693534944333951_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF1pLTg74bbsQnH8oPmBFHrlWJ-8dtsqaeVFpI9j80LuvRf0dxAq4X792lPymyVYcc&_nc_ohc=uEjygQ6PAKwQ7kNvwH_d1tL&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMlESSoZ95IdBL4mgOJpfVcjz_n71UbeCpTk3UVybXBEQ&oe=6AD8E335&_nc_sid=10d13b)](https://www.threads.com/@wealthwestng)
 
-[_itsjustco](https://www.threads.com/@_itsjustco)
+[wealthwestng](https://www.threads.com/@wealthwestng)
 
-[Love is Blind](https://www.threads.com/search?q=Love%20is%20Blind&serp_type=tags&tag_id=18413143870045990)
+[17h](https://www.threads.com/@wealthwestng/post/DejdvlvEwVo)
 
-[8h](https://www.threads.com/@_itsjustco/post/DehxIOUFGXV)
+The kindness and care her teacher showed her will stay in her heart forever, especially when her own classmates were laughing at her. Sometimes, one person’s kindness can mean more than a hundred people’s laughter. ❤️
 
-this season of love is blind is rage bait. netflix, please
+![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/851828914_1900578384240430_7933044142953377101_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwOTE3ODkwNjk3MjMyNTIyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=UkC6f-w4Z5AQ7kNvwEl-esL&_nc_oc=AdqK3iM70eGIAdTmslkz3-qHoZHFh3_Trkvi7IH2eEZKD3mFXMkVy7DsI4msBDZOfyg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&_nc_ss=7a20f&oh=00_AQPaLHoNIcYfB3DnYax-fPCtLdMwLmQ69B0azok9EH3tiQ&oe=6AD8B6E9)
 
-70
-
-5
-
-2
-
-[![Image 2: aaron.rupar's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/456465291_8343612382370345_8092768749465866765_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yNjEuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFk5VsTpi92KomKoT1bjbQhCVZI9U-N9qagP0KrtI_8UdFTrDjGy_wX87cNy3q0zdY&_nc_ohc=-J6lVBIoC-8Q7kNvwHxs-Yu&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNOxcd6G8PctObDRLMJmzhxsXg_XZhnddL66C33yjJpMA&oe=6AD78840&_nc_sid=10d13b)](https://www.threads.com/@aaron.rupar)
-
-[aaron.rupar](https://www.threads.com/@aaron.rupar)
-
-[11h](https://www.threads.com/@aaron.rupar/post/DehhEuPDn4S)
-
-Tim Scott: “I want to make sure the next generation can grow up like I did -- maybe in poverty”
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.71878-15/845458666_1460125106322978_4555226544419419935_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=109&ig_cache_key=NDAwODYzMDYwMzM5Mzk1NzM5NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=MSNlBqVKPgoQ7kNvwH1JXQh&_nc_oc=AdqYMQHKqKSE2VvpBSjQNVa8cs0qPzt1ardHKU7_ITm60LWmKN8AvFt5cSKfeLBqQEE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=MzcWEuY9BRGXpv4J7owrCw&_nc_ss=7a20f&oh=00_AQMwUlqjroxqqLuEFFShc-j4QosgEDjnT9hhwt-biF1kuQ&oe=6AD79464)
-
-[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOKYn1acY8GyhiMB9650M8lU0arMhmMQJDg1qRPj75HRaWp20-NplN_QpuGACy3GqYEX-8hgBEg1LBpigiaA4HDWIr7FBch8h04kqk.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=ZqV_brXF7qgQ7kNvwGalz-H&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTc5OTE4MTUwODIxMDY1NTMsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDE2NCwiZHVyYXRpb25fcyI6MTA1LCJ1cmxnZW5fc291cmNlIjoid3
+[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQN8ugO9AYGA6Lkqwo9Ef6n4hsiyG-2dm52lZ8FGpWkOKXmqg05pRd1k7Sfzq7YYl4n94JPgwEvC3aDyzcyCka_Z48EkAqbJ42e2XXU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=jgTtNHdan14Q7kNvwFhfxad&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy41NDAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk5MTk0NDM3OTExMjI1MCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aa4c95256e6dbd3&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8xNEY3REZENzMyMDg0Qjk0QjA0NTRENDBFQUUzQTM0RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE3MDEwOTA0N0E5QzRDRjNBRjNFRENDMjc0QTg3MDAzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb07MjY_-T1PxUCKAJDMywXQCjul41P3zsYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&_nc_ss=7a20f&_nc_zt=28&oh=00_AQMZeZ3z65xsmVLihb0HZDJqzEVpfE
 ```
