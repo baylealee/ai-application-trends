@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：I’m a woman if that makes a difference."
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -7,19 +7,20 @@ language: "unknown"
 category: "coding"
 tools:
   - "Make"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-17T04:51:47+00:00"
+generated_at: "2026-10-18T04:58:03+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：I’m a woman if that makes a difference.
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I’m a woman if that makes a difference.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +28,7 @@ I’m a woman if that makes a difference.
 
 ## 使用工具
 
-Make
+Make、GAS
 
 ## 原始工作流拆解
 
@@ -61,28 +62,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: _matt_kowalski's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450363095_1659325688168578_4376107178944632819_n.jpg?stp=ds
-- Fuck. I’ve had UTIs that lasted longer than that. Alas poor Katie Zacharia, we knew her Horatio. Well, there goes the only entertaining thing to come out of the Shite House in a very long time. For a piss-funny take, here’s on our Aussie morning TV. Big questi
-- When Katie Zacharia said she passed the bar exam, she meant the Barr exam — a test to see if you're bigoted enough to join the Trump administration.
-- Markdown Content:
-[![Image 1: _matt_kowalski's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/450363095_1659325688168578_4376107178944632819_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbn
-- [![Image 4: ryanschwartztv's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723904633_17971658016116968_2671650087862544152_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmV4cGVyaW1lbnRhbCJ9&_nc_ht=sc
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -100,29 +79,68 @@ Activity
 
 Profile
 
-Insights
+Insig
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-More
+Markdown Content:
+[![Image 1: indoor_mom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622068579_17850795051664582_8806459762745492517_n.jpg?stp=dst-
+- [![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/850069812_29314655531460576_4074843130932582540_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMDEzNTgzNzkwOTEzMjE4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+- Markdown Content:
+[![Image 1: indoor_mom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622068579_17850795051664582_8806459762745492517_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=s
+- [![Image 2: preachersdghterr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774925048_18135150175633235_3643601096264533263_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTcuYzIifQ&_nc_ht=scontent.cdnin
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/)
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/search)
+## 原始抓取內容
 
-# [Home](https://www.threads.com/?error=invalid_post)
+```text
+Title: Threads • Log in
 
-[![Image 1: wealthwestng's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/749846213_17977736685112250_4185693534944333951_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF1pLTg74bbsQnH8oPmBFHrlWJ-8dtsqaeVFpI9j80LuvRf0dxAq4X792lPymyVYcc&_nc_ohc=uEjygQ6PAKwQ7kNvwH_d1tL&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMlESSoZ95IdBL4mgOJpfVcjz_n71UbeCpTk3UVybXBEQ&oe=6AD8E335&_nc_sid=10d13b)](https://www.threads.com/@wealthwestng)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[wealthwestng](https://www.threads.com/@wealthwestng)
+Markdown Content:
+[![Image 1: malwaretech's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755870107_18386646970207344_2934952958756571633_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=AjesLSykENwQ7kNvwEAOUSR&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNPmYwZK1fWmM1Vh0EguXdJ-OZBIOB9Xt33Xb-TZGQlFg&oe=6ADA2522&_nc_sid=10d13b)](https://www.threads.com/@malwaretech)
 
-[17h](https://www.threads.com/@wealthwestng/post/DejdvlvEwVo)
+My thread about Tesla sucking and basically only still existing because BYD is banned in the US has been very fruitful in serving me extremely unintelligent Muskrats directly into my block list. I should do this more often.
 
-The kindness and care her teacher showed her will stay in her heart forever, especially when her own classmates were laughing at her. Sometimes, one person’s kindness can mean more than a hundred people’s laughter. ❤️
+1.7K
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.71878-15/851828914_1900578384240430_7933044142953377101_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwOTE3ODkwNjk3MjMyNTIyNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=UkC6f-w4Z5AQ7kNvwEl-esL&_nc_oc=AdqK3iM70eGIAdTmslkz3-qHoZHFh3_Trkvi7IH2eEZKD3mFXMkVy7DsI4msBDZOfyg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&_nc_ss=7a20f&oh=00_AQPaLHoNIcYfB3DnYax-fPCtLdMwLmQ69B0azok9EH3tiQ&oe=6AD8B6E9)
+70
 
-[Video 3](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQN8ugO9AYGA6Lkqwo9Ef6n4hsiyG-2dm52lZ8FGpWkOKXmqg05pRd1k7Sfzq7YYl4n94JPgwEvC3aDyzcyCka_Z48EkAqbJ42e2XXU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=jgTtNHdan14Q7kNvwFhfxad&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy41NDAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjoxNzk5MTk0NDM3OTExMjI1MCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTY0LCJkdXJhdGlvbl9zIjoxMiwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=aa4c95256e6dbd3&_nc_vs=HBksFQIYTGlnX2JhY2tmaWxsX3RpbWVsaW5lX3ZvZC8xNEY3REZENzMyMDg0Qjk0QjA0NTRENDBFQUUzQTM0RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE3MDEwOTA0N0E5QzRDRjNBRjNFRENDMjc0QTg3MDAzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb07MjY_-T1PxUCKAJDMywXQCjul41P3zsYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeieAQA&_nc_gid=ev1jBRyXcBAUzuVy4UGGYA&_nc_ss=7a20f&_nc_zt=28&oh=00_AQMZeZ3z65xsmVLihb0HZDJqzEVpfE
+45
+
+1
+
+[![Image 2: natalleycat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/417172350_7099238666786085_7729016378806969750_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=KYauFOqN8HMQ7kNvwHI7KRR&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNjNH14p9HBLeskaU5aeCKygas59fIsj_T9dQpdrNHT-A&oe=6ADA2E7D&_nc_sid=10d13b)](https://www.threads.com/@natalleycat)
+
+I also just want to hear "You are right, I DID hurt you, it WAS selfish of me and I understand that you feel pain now directly because of my actions. I am genuinely sorry and will regret doing that while I try to make better choices because I really do care about and love you. You didn't deserve any of it."
+
+1.3K
+
+50
+
+222
+
+31
+
+[![Image 3: mrflorida's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358343417_138664979212024_7002508085071257438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=rsbg7fJqAcgQ7kNvwHJo5dL&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPj7fyIs0vqZcpeRT0dxrx9YjqiKHzO-ZnTBtSmUAUQ9A&oe=6ADA1214&_nc_sid=10d13b)](https://www.threads.com/@mrflorida)
+
+Watching Arch Manning go winless vs the Gators in his career 👀🐊
+
+293
+
+11
+
+12
+
+22
+
+[![Image 4: free_danielle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713664884_17888489355552524_709064567094486969_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA4LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=iw6ncNup1_YQ7kNvwE7xsUe&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM__pDIBGSr0JUb5nJa68Y9NQb4yMxwqBxmAgBrjiDlrQ&oe=6ADA33E0&_nc_sid=10d13b)](https://www.thr
 ```

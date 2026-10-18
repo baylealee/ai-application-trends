@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：‘Betsy Floyd wanted to make it illegal to "
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-17T04:51:47+00:00"
+generated_at: "2026-10-18T04:58:03+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：‘Betsy Floyd wanted to make it illegal to 
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+‘Betsy Floyd wanted to make it illegal to put Thin Mints in the freezer. She says she’s all about freedom... but whose side is she *really* on?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,6 +61,29 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: authorkstarling's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/487429687_2150536565395814_7926318333372444284_n.jpg?stp
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Markdown Content:
+[![Image 1: mariposa_2672's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/706028765_17938419507239030_8374745721193372337_n.jpg?st
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -77,76 +101,61 @@ Activity
 
 Profile
 
-Ins
-- [Video 4](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOgSIhnTTTiZDcg4QDm0zWdrw_Pg61PcZk-E50btPKSqIHZqSI5xfFqqiemSDFjk97fztALpF3UqnFnMG15aC_oK24Uq-sp_HEBLxI.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=FmXNF-MPBVAQ7kNvwFO8-nJ&
-- ![Image 4](https://scontent.cdninstagram.com/v/t51.71878-15/851829646_1460151992630567_1972021684923775301_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=101&ig_cache_key=NDAwOTIzNzk0NzAzNjE2NzY3Mg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZ
-- ![Image 6](https://scontent.cdninstagram.com/v/t51.82787-15/849508656_18349388653252871_7756461338072954157_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAwOTIxMTA3MzEwNTM4NTk3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZH
-- [![Image 1: ginafortexas's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/434144555_771898331258964_5066981147616245377_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、CLI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
 Insights
 
-[Log in](http://www.threads.com/login?show_choice_screen=false)
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+[](https://www.threads.com/search)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: confidence.andabig.smile's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/795068462_18103697209998208_7625371649447822486_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEVR8HUm4nqX2GcI9tSDMtUbQVdV6sXHNS1xzwFz5qOxgDd4cu5eVttSiZI99ZY89M&_nc_ohc=xGNMM8HctoEQ7kNvwFjHgdF&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMh6BuF9GJ1f6C0YmIzLwYmO1T1mX5-rjZjlahYhLHLqw&oe=6AD8DCD4&_nc_sid=10d13b)](http://www.threads.com/@confidence.andabig.smile)
+[![Image 1: mariposa_2672's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/706028765_17938419507239030_8374745721193372337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=bNF4E8G1QoYQ7kNvwEGCXoD&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMLQNaRAoMjGluDepImTX28rAxRc856EcvY1X7MluaBUw&oe=6ADA1475&_nc_sid=10d13b)](https://www.threads.com/@mariposa_2672)
 
-[confidence.andabig.smile](http://www.threads.com/@confidence.andabig.smile)
+[mariposa_2672](https://www.threads.com/@mariposa_2672)
 
-[heated rivalry](http://www.threads.com/search?q=heated%20rivalry&serp_type=tags&tag_id=18485329438068310)
+[12h](https://www.threads.com/@mariposa_2672/post/DemlDoSgutB)
 
-[13h](http://www.threads.com/@confidence.andabig.smile/post/Dejz4cllmWa)
+If ATL win the championship Angel is gonna chest bump everyone into space.
 
-This look doesn’t get enough appreciation. Pausing mid run to immediately read it when a text from Shanebug comes in 🥰
-
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/848293294_18115657579998208_1464202838199927214_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=NDAwOTI3NTc2MjA3ODgxMTMwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ZrauN4MIrhwQ7kNvwErRuIg&_nc_oc=AdocuVlTA9vB2hSwT6rlEQLRveSHcHOI8teF_hdOEKbbNccm1rVH6TgXYtxPkplqPZ8&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&_nc_ss=7a22e&oh=00_AQMu2Tfxp_D289qBFz2wZ6FtDs3TDwLz1UL-3N6cHljpxw&oe=6AD8BBDF)
-
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/848832437_18115657603998208_6296982634454230006_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAwOTI3NTc4MjU4MDY0OTYwNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTE3OS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=9RnrRZbXRcEQ7kNvwEe2SFS&_nc_oc=AdpTWVP9g_IL9glcYZ1dYluIqGz4mNsxH6LA5deyPIR4EvbeKaIn9xWkKEqQkw4GuuY&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=1mfBwbfQW7FGn_-TY11dAw&_nc_ss=7a22e&oh=00_AQNiQXBJsyF_L_pwWF59FNE6hO0g80z54AtInzNATgXuXg&oe=6AD8DA8D)
-
-1.3K
+504
 
 16
 
-8
+19
+
+6
+
+[![Image 2: wavyredgirl28's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/746261094_17973561795118645_9207350279562799666_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=4LjqMi_uKyEQ7kNvwFqXXAF&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOjor1vuGUXHW_ut5xPHuL9qMes9YpnLjNCPzynv6kvJQ&oe=6ADA3EB7&_nc_sid=10d13b)](https://www.threads.com/@wavyredgirl28)
+
+[wavyredgirl28](https://www.threads.com/@wavyredgirl28)
+
+[13h](https://www.threads.com/@wavyredgirl28/post/DemeJqTEf1g)
+
+I think Karl will surprise y'all this series
+
+312
+
+14
+
+[![Image 3: realrclark's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358792119_282479604300932_8552940139930217151_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=nXgPIQ26ObcQ7kNvwHU0LMy&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNNMoBJoCH0sixsuc4jijdS-3I-8NCVsqxpuh1UhWI8JA&oe=6ADA1869&_nc_sid=10d13b)](https://www.threads.com/@realrclark)
+
+[realrclark](https://www.threads.com/@realrclark)
+
+[3h](https://www.threads.com/@realrclark/post/DeneVVZjS-l)
+
+BYU has been so innovative in the Red zone. Really impressive first half.
+
+71
+
+6
 
 1
 
-[![Image 4: cedric1nyc's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/244468642_1329699757487484_4076727038898405514_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEVR8HUm4nqX2GcI9tSDMtUbQVdV6sXHNS1xzwFz5qOxgDd4cu5e
+[![Image 4: justnukiee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792053288_17943923811335446_9085439233119893216_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2Z
 ```
