@@ -4,15 +4,14 @@ source_url: "https://www.threads.com/@notionhq/post/DYXi9DaEicv"
 source_author: "notionhq"
 post_id: "DYXi9DaEicv"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
-  - "MCP"
   - "Notion"
   - "GAS"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-18T04:58:03+00:00"
+generated_at: "2026-10-19T05:06:47+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -29,7 +28,7 @@ Title: Notion (@notionhq) on Threads
 
 ## 使用工具
 
-MCP、Notion、GAS
+Notion、GAS
 
 ## 原始工作流拆解
 
@@ -65,23 +64,15 @@ reply_summary_status: `partial`
 
 - Title: Notion (@notionhq) on Threads
 
-URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_584587685547827455
-- Title: Notion (@notionhq) on Threads
-
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
 [![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559
-- Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbG
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、MCP、Agent、agent、Notion、CLI、workflow
+- keyword_hits: AI、Agent、agent、Notion、CLI、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
@@ -123,7 +114,7 @@ More
 
 4.4K views
 
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=35PLnQzesIMQ7kNvwE6N6Lj&_nc_oc=AdqfHyaD1qvC38crB2Hy6MstJtHVN7n-oRTi583QwZMdOTovQlPnYJbapbsVOT8Ht7o&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQPlox_vav7DRDZgbFEwEzANEq6OC1U7OSkgwXfA-8QREw&oe=6ADA23B0)](https://www.threads.com/@notionhq)
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=35PLnQzesIMQ7kNvwEpr4K1&_nc_oc=AdpiGQe4Jgl-gEYBOom7J08tWC1Qyf7u6VuLApEOm4UozrkPCYw-ZEgfIOCrdyAl9bI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQMgNUjs_9u57MGZzL1JnpXjhZ6xqcfPyxdHo3IvjIDGGg&oe=6ADB7530)](https://www.threads.com/@notionhq)
 
 [notionhq](https://www.threads.com/@notionhq)
 
@@ -133,11 +124,9 @@ More
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7d98peN-pU0Q7kNvwFL3kFk&_nc_oc=Adr07urBDrOk2ET2LMoL2pzgP2t-T7lRJm-qzpikjrKmvDKA_omVIP0MOvVoeQXV-Js&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Ib-SFHSlYqa9lhtHI-9S9g&_nc_ss=7b289&oh=00_AQM4C-G3D4trMsBIWjnCPmiYE2BmDiVqqymRm60yRlievg&oe=6ADA1E7C)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=7d98peN-pU0Q7kNvwFwlGl5&_nc_oc=AdpSn7Aq-C0vXgiYXLlmLONFZ-dl_IjkcQfyz2WJuNM1TbERhCrSWK1ru8Z9_V6XcdI&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=TQfFgB4y4JrA6CR0BHuOZA&_nc_ss=7b289&oh=00_AQN3RQObMldCRYAZIJhkabiEHw3oN3vPu1BNRYnbsiYZqQ&oe=6ADB6FFC)
 
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAb6KULPrBmwpQYsBFYRA6Ua_fQ5gKEhbMQiDKZxcIDwNxtgik8hnFgyITUU-4sNMXJwRPz0gZ21sCYnwhc_0zfTODuJQRbYRQSHK7PSPk7elVcfRk)
+[Video 7](https://scontent-sea5-1.cdninstagram.com/o1/v/t2/f2/m367/AQNM5UKP8Rdh5mdEvHGGpDEjVsFDwoN-5Tm_9Pc41PHZk3xsVCsNa6l76B2zoLpvpv4XJl8gM7_ipf1M3Z4WM6nZrOxqMaERBspAhEeWgA.mp4?_nc_cat=110&_nc_sid=8bf8fe&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=I2Zk2oAh8McQ7kNvwG-_XXr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy4xMjgwLnByb2dyZXNzaXZlX2gyNjQtYmFzaWMtZ2VuMl83MjBwIiwieHB2X2Fzc2V0X2lkIjoxNzk2ODYyNDYzODEwMzAxMiwiYXNzZXRfYWdlX2RheXMiOjE1NiwidmlfdXNlY2FzZV9pZCI6MTAxNjQsImR1cmF0aW9uX3MiOjMyMywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_gid=TQfFgB4y4JrA6CR0BHuOZA&_nc_ss=7b289&_nc_zt=28&oh=00_AQP9ytiCWcLjBT71qlh1BaPigfsGmVfMULtgtYvM8Ew5XA&oe=6ADB73B4)
 
 52
 
@@ -147,13 +136,5 @@ Sorry, we're having trouble playing this video.
 
 4
 
-[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=35PLnQzesIMQ7kNvwE6N6Lj&_nc_oc=AdqfHyaD1qvC38crB2Hy6MstJtHVN7n-oRTi583QwZMdOTovQlPnYJbapbsVOT8Ht7o&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQPlox_vav7DRDZgbFEwEzANEq6OC1U7OSkgwXfA-8QREw&oe=6ADA23B0)](https://www.threads.com/@notionhq)
-
-[notionhq](https://www.threads.com/@notionhq)
-
-[05/15/26](https://www.threads.com/@notionhq/post/DYXjCQWkaH4)
-
-·Author
-
-Full story her
+[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=111&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ
 ```

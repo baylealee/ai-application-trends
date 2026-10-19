@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：‘Betsy Floyd wanted to make it illegal to "
+title: "govin999999 的 AI 工作流案例：Seeing the Sharks trust Ivar with the thir"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-18T04:58:03+00:00"
+generated_at: "2026-10-19T05:06:47+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：‘Betsy Floyd wanted to make it illegal to 
+# govin999999 的 AI 工作流案例：Seeing the Sharks trust Ivar with the thir
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-‘Betsy Floyd wanted to make it illegal to put Thin Mints in the freezer. She says she’s all about freedom... but whose side is she *really* on?
+Seeing the Sharks trust Ivar with the third shootout attempt makes me really happy, and also a little sad about McKenna
 
 ## 這篇在解決什麼問題
 
@@ -64,13 +64,11 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: authorkstarling's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/487429687_2150536565395814_7926318333372444284_n.jpg?stp
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: mariposa_2672's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/706028765_17938419507239030_8374745721193372337_n.jpg?st
+[![Image 1: withthesehands_goldenangelspev's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/580693701_17903336052296199_645060762861
+- Markdown Content:
+[![Image 1: withthesehands_goldenangelspev's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/580693701_17903336052296199_6450607628615431811_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4x
+- [![Image 4: susiewodarczyk's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358358311_956158175601006_8142538276896579769_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTkuYzIifQ&_nc_ht=scontent.cdninstagr
+- [![Image 5: martinldart's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540632917_17922991830108854_8222053031036539086_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
 
 ## 抓取品質
 
@@ -115,47 +113,45 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: mariposa_2672's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/706028765_17938419507239030_8374745721193372337_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=bNF4E8G1QoYQ7kNvwEGCXoD&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMLQNaRAoMjGluDepImTX28rAxRc856EcvY1X7MluaBUw&oe=6ADA1475&_nc_sid=10d13b)](https://www.threads.com/@mariposa_2672)
+[![Image 1: heauxno1currr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/682699964_18105781921732399_1242136952142720114_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=bMmpc4FVrXcQ7kNvwHHdRpo&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNaBX3D4SEPrQXYStGjtRWlZtegnoA4YKQ_AX7oI6i3Iw&oe=6ADB8335&_nc_sid=10d13b)](https://www.threads.com/@heauxno1currr)
 
-[mariposa_2672](https://www.threads.com/@mariposa_2672)
+[heauxno1currr](https://www.threads.com/@heauxno1currr)
 
-[12h](https://www.threads.com/@mariposa_2672/post/DemlDoSgutB)
+[10h](https://www.threads.com/@heauxno1currr/post/DepWoMyAeGS)
 
-If ATL win the championship Angel is gonna chest bump everyone into space.
+Did they teach ya’ll about the “Drinking Gourd” constellation growing up? Or how our ancestors utilised the constellations to aid them in navigation during the Underground Railroad?
 
-504
+777
 
-16
+77
 
-19
-
-6
-
-[![Image 2: wavyredgirl28's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/746261094_17973561795118645_9207350279562799666_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=4LjqMi_uKyEQ7kNvwFqXXAF&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOjor1vuGUXHW_ut5xPHuL9qMes9YpnLjNCPzynv6kvJQ&oe=6ADA3EB7&_nc_sid=10d13b)](https://www.threads.com/@wavyredgirl28)
-
-[wavyredgirl28](https://www.threads.com/@wavyredgirl28)
-
-[13h](https://www.threads.com/@wavyredgirl28/post/DemeJqTEf1g)
-
-I think Karl will surprise y'all this series
-
-312
-
-14
-
-[![Image 3: realrclark's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358792119_282479604300932_8552940139930217151_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gHmmd6mQWGbr95lPi_qdM-wqzIFW-Sz4-sx2-2zKXVEJ8b6-OjSC4mSQRIxPoRXN-w&_nc_ohc=nXgPIQ26ObcQ7kNvwHU0LMy&_nc_gid=iRryYSfn_spPqFQ13MnTtg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNNMoBJoCH0sixsuc4jijdS-3I-8NCVsqxpuh1UhWI8JA&oe=6ADA1869&_nc_sid=10d13b)](https://www.threads.com/@realrclark)
-
-[realrclark](https://www.threads.com/@realrclark)
-
-[3h](https://www.threads.com/@realrclark/post/DeneVVZjS-l)
-
-BYU has been so innovative in the Red zone. Really impressive first half.
-
-71
+49
 
 6
+
+[![Image 2: _tania_po_'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472998189_4481967325362957_8111418539981135620_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=TdgKB5O5zMsQ7kNvwFDH7Ap&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOYoK3_Q0GF_gFlYfssP1RzJC6gZShACkv2k2tVPLBU6w&oe=6ADB91FB&_nc_sid=10d13b)](https://www.threads.com/@_tania_po_)
+
+[_tania_po_](https://www.threads.com/@_tania_po_)
+
+[NHL Threads](https://www.threads.com/search?q=NHL%20Threads&serp_type=tags&tag_id=18387529207064637)
+
+[20h](https://www.threads.com/@_tania_po_/post/DeoQR4HDcFu)
+
+Seeing the Sharks trust Ivar with the third shootout attempt makes me really happy, and also a little sad about McKenna
+
+492
+
+21
 
 1
 
-[![Image 4: justnukiee's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/792053288_17943923811335446_9085439233119893216_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2Z
+9
+
+[![Image 3: mybffscloset_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583349800_17929561323120475_8628930734331157713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=IYufrXfxOo8Q7kNvwHqycFF&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMgkyOB29IFixTdqdarYzYJAp5JOdmr8RHzfLsrDaPFmQ&oe=6ADB8F42&_nc_sid=10d13b)](https://www.threads.com/@mybffscloset_)
+
+[mybffscloset_](https://www.threads.com/@mybffscloset_)
+
+[17h](https://www.threads.com/@mybffscloset_/post/DeomeZflK2f)
+
+Good MORNI
 ```

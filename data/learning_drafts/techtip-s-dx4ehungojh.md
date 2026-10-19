@@ -6,12 +6,10 @@ post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
-  - "GAS"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-18T04:58:03+00:00"
+generated_at: "2026-10-19T05:06:47+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -28,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-Make、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -62,6 +60,28 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: jolly_good_ginger's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/359050137_823232072731683_6235070600986214785_n.jpg?stp=
+- I do not believe that suggesting the guy who has done it before will do it again is a far-fetched idea… Nor do I feel like it is fear mongering.
+- Just out here liking all the pictures of the shi**ing dog online instead of those AI-generated videos and pictures.
+- Markdown Content:
+[![Image 1: jolly_good_ginger's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/359050137_823232072731683_6235070600986214785_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_
+- [![Image 2: jeremy.gonzalez_'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/427612500_406947018502469_7852655761192180921_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -79,68 +99,63 @@ Activity
 
 Profile
 
-Insig
-- Title: Threads • Log in
+Insights
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-Markdown Content:
-[![Image 1: indoor_mom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622068579_17850795051664582_8806459762745492517_n.jpg?stp=dst-
-- [![Image 4](https://scontent.cdninstagram.com/v/t39.30808-6/850069812_29314655531460576_4074843130932582540_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ig_cache_key=NDAxMDEzNTgzNzkwOTEzMjE4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- Markdown Content:
-[![Image 1: indoor_mom's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622068579_17850795051664582_8806459762745492517_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=s
-- [![Image 2: preachersdghterr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/774925048_18135150175633235_3643601096264533263_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NTcuYzIifQ&_nc_ht=scontent.cdnin
+More
 
-## 抓取品質
+[](https://www.threads.com/)
 
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](https://www.threads.com/)
 
-## 原始抓取內容
+[](https://www.threads.com/search)
 
-```text
-Title: Threads • Log in
+# [Home](https://www.threads.com/?error=invalid_post)
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[![Image 1: adambuckled's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730941457_17972605554114596_6714898474760209024_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEpMztcnoqY_TwSctAPIiJDAXQRuFdErAXG84c_-LuUFxi4blDR5SRnhbtKXp5-J-E&_nc_ohc=lunx2An4RFYQ7kNvwHYp32i&_nc_gid=V-d2eaVhfBdsg8BMrYf5Xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOKw0Y9d0LFasvnSDNvgGjc3UbBdlbDmlTT_P2J84UrHg&oe=6ADB654F&_nc_sid=10d13b)](https://www.threads.com/@adambuckled)
 
-Markdown Content:
-[![Image 1: malwaretech's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755870107_18386646970207344_2934952958756571633_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=AjesLSykENwQ7kNvwEAOUSR&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNPmYwZK1fWmM1Vh0EguXdJ-OZBIOB9Xt33Xb-TZGQlFg&oe=6ADA2522&_nc_sid=10d13b)](https://www.threads.com/@malwaretech)
+[adambuckled](https://www.threads.com/@adambuckled)
 
-My thread about Tesla sucking and basically only still existing because BYD is banned in the US has been very fruitful in serving me extremely unintelligent Muskrats directly into my block list. I should do this more often.
+[11h](https://www.threads.com/@adambuckled/post/DepOv7zlDg2)
 
-1.7K
+If you’re a new football fan and the first three NFL games you’ve ever watched have been Falcons-Packers, Bears-Packers, and Bears-Falcons, I’m just as confused as you are.
 
-70
-
-45
-
-1
-
-[![Image 2: natalleycat's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/417172350_7099238666786085_7729016378806969750_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=KYauFOqN8HMQ7kNvwHI7KRR&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNjNH14p9HBLeskaU5aeCKygas59fIsj_T9dQpdrNHT-A&oe=6ADA2E7D&_nc_sid=10d13b)](https://www.threads.com/@natalleycat)
-
-I also just want to hear "You are right, I DID hurt you, it WAS selfish of me and I understand that you feel pain now directly because of my actions. I am genuinely sorry and will regret doing that while I try to make better choices because I really do care about and love you. You didn't deserve any of it."
-
-1.3K
-
-50
-
-222
-
-31
-
-[![Image 3: mrflorida's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358343417_138664979212024_7002508085071257438_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=rsbg7fJqAcgQ7kNvwHJo5dL&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPj7fyIs0vqZcpeRT0dxrx9YjqiKHzO-ZnTBtSmUAUQ9A&oe=6ADA1214&_nc_sid=10d13b)](https://www.threads.com/@mrflorida)
-
-Watching Arch Manning go winless vs the Gators in his career 👀🐊
-
-293
+89
 
 11
 
-12
+1
+
+2
+
+[![Image 2: diasapienne's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/617702791_17908821495314881_1730105272374312779_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEpMztcnoqY_TwSctAPIiJDAXQRuFdErAXG84c_-LuUFxi4blDR5SRnhbtKXp5-J-E&_nc_ohc=2G025ej8PEMQ7kNvwHXUdDP&_nc_gid=V-d2eaVhfBdsg8BMrYf5Xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMmbA2QDlLGL2DI_NVi7PsDlBBc3gDruxd6X6Tu3AjCWQ&oe=6ADB843D&_nc_sid=10d13b)](https://www.threads.com/@diasapienne)
+
+[diasapienne](https://www.threads.com/@diasapienne)
+
+[12h](https://www.threads.com/@diasapienne/post/DepJDt1moez)
+
+I need to go stare at the ocean. Looking for a really quiet beach to go to not too far from LA/Malibu. Any recommendations?
 
 22
 
-[![Image 4: free_danielle's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/713664884_17888489355552524_709064567094486969_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDA4LmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFRVZTJIwm6xQBdCBuI7OL27cJ_pfY_dXIU7Vv9UVE1hIUQb6_4gGTql04Uf7XxwCI&_nc_ohc=iw6ncNup1_YQ7kNvwE7xsUe&_nc_gid=EtC_cplYUbvd35cU95fCpQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM__pDIBGSr0JUb5nJa68Y9NQb4yMxwqBxmAgBrjiDlrQ&oe=6ADA33E0&_nc_sid=10d13b)](https://www.thr
+26
+
+[![Image 3: datgurl_shannie's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/850575607_17988066669117840_4856015988614817439_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEpMztcnoqY_TwSctAPIiJDAXQRuFdErAXG84c_-LuUFxi4blDR5SRnhbtKXp5-J-E&_nc_ohc=oIVclfqJW4MQ7kNvwGtgZjI&_nc_gid=V-d2eaVhfBdsg8BMrYf5Xw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPc7Cj0APygZSpsSOPZoV4Sn3X8uFPzwJ_czKwG960Kww&oe=6ADB6B2E&_nc_sid=10d13b)](https://www.threads.com/@datgurl_shannie)
+
+[datgurl_shannie](https://www.threads.com/@datgurl_shannie)
+
+[14h](https://www.threads.com/@datgurl_shannie/post/Deo6mmcm3_K)
+
+Marry that stud. 💍❤️
+
+224
+
+15
+
+70
+
+27
+
+[![Image 4: cathy.ko's profile picture](https://scontent.cdninstagram.com/v/t51.288
 ```
