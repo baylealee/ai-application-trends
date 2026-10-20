@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0429
-generated_at: "2026-10-19T05:06:47+00:00"
+zh_ratio: 0.021
+generated_at: "2026-10-20T05:09:33+00:00"
 ---
 
 # kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我
@@ -34,9 +34,6 @@ Claude、Claude Code
 
 1. 乍看大家都有超棒團隊可以用，但實際上⋯ 它是已存的 subagent / skill 上編排；所以當你的基本功夫越好，workflow的效果也越好￼
 2. 底層機制（Anthropic 官方）： • Workflow = Claude 即時寫的 JS 腳本 • 同一句「audit API」,根據你的 codebase 寫出不同編排 • subagent 一律 acceptEdits + 繼承 allowlist • 同時 16 隻 / 單次 1000 隻上限
-3. [Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11422783865225561921?
-4. 用 Claude Code 的一個指令，就能同時啟動 30 個 AI agent。
-5. /batch 會把大型任務拆成彼此獨立的工作，先列出執行計畫給你看，接著讓 agent 平行執行 🤖
 
 ## 可以直接複製的做法
 
@@ -78,13 +75,16 @@ New thread
 Messages
 
 Activity
-- ![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBU
+- [![Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/11422783865225561921?url=https%3A%2F%2Fclaude-code.mintlify.app%2F_mintlify%2Fapi%2Fog%2Fv2%3Fdivision%3DAgents%2Band%2Bparall
+- Claude 高手必存！Claude 任務與工具對照表🤖💡 別再只把 Claude 當普通聊天機器人！掌握這 10 個核心指令與工具對照，直接解鎖最高效的 AI 工作流： 精煉想法 ➔ /brainstorming 建立新技能 ➔ /skill-creator 撰寫計畫 ➔ /writing-plans 執行任務 ➔ /executing-plans 設計 UI 元件 ➔ /ui-ux-pro-max 避免制式化 AI 設計 ➔ /frontend-design 查詢即時網路資訊 ➔ /Brave Search 取
+- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUBftWW48Q3YEUVb4hnp9ixIMxkNvh8eEQDrodnmbAAdgGfG4brK4KVxPzKmNbtp2eIoBwN7ssw9nk7q6i0WfCeeHwltbSSYczlPNFAUAJ7Nm754XoQ)
+- 目前只有 Pro、Max 能用，還在 beta、分批開放，[claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUBftWW48Q3YEUVb4hnp9ixIMxkNvh8eEQDrodnmbAAdgGfG4brK4KVxPzKmNbtp2eIoBwN7ssw9nk7q6i0WfCeeHwltbSSYczlPNFAUAJ7Nm754XoQ) 側欄沒看到 Projects 就是還沒輪到你。
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工作流、工具、設計、workflow
-- zh_ratio: `0.0429`
+- keyword_hits: AI、Claude、Agent、agent、workflow
+- zh_ratio: `0.021`
 - source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 ## 原始抓取內容
@@ -125,7 +125,7 @@ More
 
 1.8K views
 
-[![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=p4Tar1ptwyQQ7kNvwHCeHvs&_nc_oc=AdrO4cBOXtaN--jCFKvqMaGg44utJAJWV8QgCpoR1pw1Z7ugP1CgQXtuSMAOB6-cr88&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=gBxh4aZqeOWw8flxew3z_Q&_nc_ss=7b289&oh=00_AQO7SPXvr8bCmrt9Emd-0yqd_cInQ8jwB9dpCKxLCV2VyA&oe=6ADB5CF6)](https://www.threads.com/@kai_ch_chen)
+[![Image 2: kai_ch_chen's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=p4Tar1ptwyQQ7kNvwG1KiFz&_nc_oc=AdqK5xALpTbsqGRWPfIf00aCgPswHYQZvVcQk95T7SKcywY5y-IPd71CRRKCbGosbA4&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=hWfIa5DqNLu1X9KkEN6VZw&_nc_ss=7b289&oh=00_AQMJ32S0GVFzT7Wx2lO1bFpqgboMqJX70s0tLw56huQ4rw&oe=6ADCAE76)](https://www.threads.com/@kai_ch_chen)
 
 [kai_ch_chen](https://www.threads.com/@kai_ch_chen)
 
@@ -141,9 +141,9 @@ More
 
 #ClaudeCode #AIWorkflow #VibeCoding
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qQTh8phne88Q7kNvwHUMjJt&_nc_oc=AdqHIxFSxs8t1xt2JrlfXFToTTnJ7bDnfZs6V4a3sV-MdHg33zwS0QTJIUURFhqKg5o&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=D2Aj_7ocJTAwfhhzb_hrhQ&_nc_ss=7b289&oh=00_AQORjkT7DSv1zDsLrS_lM1XsactAUess7l8kqgCFO-oZCQ&oe=6ADB611C)
+![Image 3](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=qQTh8phne88Q7kNvwE1whos&_nc_oc=AdpiF_vj2bzKooHgAnuXob7wR8nd7iIrL0ggmTrzwWuEt4A5iq3AsWEfMMPHCjgSJjU&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=hWfIa5DqNLu1X9KkEN6VZw&_nc_ss=7b289&oh=00_AQNfFaiAeKR_gEOLScOJcjW_Up2EqB6icYOtNycNuBuLgA&oe=6ADCB29C)
 
-![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YMDOsSr6SpEQ7kNvwGBMp8J&_nc_oc=Adp-uKXx89b5oG7XytoUJdonPv1sVMBQlKm0khsaf5rAufqH5HfCObLQ240ZNL__6eE&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=D2Aj_7ocJTAwfhhzb_hrhQ&_nc_ss=7b289&oh=00_AQM54909Dh_PXPzNS3izWAqTftn6ABS1-sHL80l7BBUCWQ&oe=6ADB8F7E)
+![Image 4](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YMDOsSr6SpEQ7kNvwFVnKlf&_nc_oc=AdqCqszNXedMxwq2ke1F17IY65meB8F9tcGdyOy-X2u62gCX-OOPn07mJqka8nXlhAw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=hWfIa5DqNLu1X9KkEN6VZw&_nc_ss=7b289&oh=00_AQO2bHwd3btjaoLJhWIl81Y8irQX__5-3M3C8A_ouVjG_A&oe=6ADCE0FE)
 
-![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D
+![Image 5](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D
 ```

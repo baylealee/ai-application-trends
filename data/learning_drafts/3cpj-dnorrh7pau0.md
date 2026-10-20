@@ -4,7 +4,7 @@ source_url: "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0"
 source_author: "_3cpj_"
 post_id: "DNORrH7Pau0"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
@@ -12,8 +12,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0336
-generated_at: "2026-10-19T05:06:47+00:00"
+zh_ratio: 0.1015
+generated_at: "2026-10-20T05:09:33+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAk0wLczKte9_oxTkhuKZpFmJROX1h0WFwAgrVg8RNw5HPBz9ogQNmZGD5qRj1mUUOIG7H0YevWipukziXd_7VyDfAGeOJgCXYLzyYpzhEZHYuiXE0)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUB9d_NlOORuK_BToYpV_qocmOd0LUBglCNfQVTk2aUWZj9K2q7SQBGZnOX0m64NpKP2LJ5K1sxgmgRMahlN33UwWuEu4S8BZ-ZImVMulHz0VwPz3Hc)
 
 ## 可以直接複製的做法
 
@@ -65,6 +65,39 @@ reply_summary_status: `partial`
 
 - Title: Jun CP (@_3cpj_) on Threads
 
+URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profil
+- [![Image 13: Elon Musk’s proposed SpaceX stock giveaway would go into ‘Trump Accounts’](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/8450227014776622501?url=https%3A%2F%2Fplatform.theverge.com%2Fwp-content%2Fuploads%2Fsites%2F2%2F2026%2F04%2FSTK022_ELON_MUS
+- Who gives a shit if some billionaires move out of California? WTF difference does it make to them to pay more taxes?
+- [![Image 4: haifengkao's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- Quote of the day: "I'm not afraid of paying taxes. I'm just afraid of being poor." Jensen Huang, CEO of Nvidia.
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、CRM、GitHub
+- zh_ratio: `0.1015`
+- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+## 原始抓取內容
+
+```text
+Title: Jun CP (@_3cpj_) on Threads
+
 URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
@@ -82,58 +115,27 @@ Activity
 
 Profile
 
-I
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、知識庫、CRM、GitHub
-- zh_ratio: `0.0336`
-- source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-## 原始抓取內容
-
-```text
-Title: Jun CP (@_3cpj_) on Threads
-
-URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
 Insights
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+[Log in](http://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+# [Thread](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
 115K views
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=ExvrI41AzTsQ7kNvwGVpYqv&_nc_oc=AdqkOkH4kwH7_deEJAy2o40xLJF6hLF9tcl_lwGAGDXetsVwlHKm0XuHdmTAvTV9Oy0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQOuTU60droSU1hoeXBT74gMp8s1jQU2CsGEWTmOxPoAJA&oe=6ADB75F4)](https://www.threads.com/@_3cpj_)
+[![Image 1: _3cpj_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=2ZV14ciTW28Q7kNvwF_w2xz&_nc_oc=AdqiYBA4aUlBTA5fwGcRm0xs3PSDC8ekvrhw2WgR5XI3W6Y9x8tB50pUpHTAyOIxIQM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQPitJGqzmdSd2DCCrDf5ui_HlwY-DvaX7NTUUAVNE8e-Q&oe=6ADCC774)](http://www.threads.com/@_3cpj_)
 
-[_3cpj_](https://www.threads.com/@_3cpj_)
+[_3cpj_](http://www.threads.com/@_3cpj_)
 
-[08/11/25](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+[08/11/25](http://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
 最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
 
@@ -155,7 +157,7 @@ More
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?url=https%3A%2F%2Fopengraph.githubassets.com%2F1aa1bc860cca42149df85d9d9780576effac02915e49b4ca059862a499a0d800%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=yD2e--FrWFxOuO2Kv3uCow&_nc_zt=3&oh=06_Q3_EAfxY5GtCMp-AqFI3VgLbin3Kzde0xaoGIfb90jJrRMfF&oe=6AD79E26) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=yD2e--FrWFxOuO2Kv3uCow&_nc_zt=3&oh=06_Q3_EAQtZtNGFIsCwTUkr0QdBLMmGg071vFOoia0BinedeLvB&oe=6AD77AC7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAk0wLczKte9_oxTkhuKZpFmJROX1h0WFwAgrVg8RNw5HPBz9ogQNmZGD5qRj1mUUOIG7H0YevWipukziXd_7VyDfAGeOJgCXYLzyYpzhEZHYuiXE0)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?url=https%3A%2F%2Fopengraph.githubassets.com%2F1aa1bc860cca42149df85d9d9780576effac02915e49b4ca059862a499a0d800%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=8cfB9Y3v3dFS_yv8XeUvEA&_nc_zt=3&oh=06_Q3_EAext8tSeejjFqcOcSJaTePwuSXKZYhUPY6fWJhFEUdhO&oe=6AD8EFA6) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=8cfB9Y3v3dFS_yv8XeUvEA&_nc_zt=3&oh=06_Q3_EAapBcje5QLU3luo3WvzA8tbJOugkXwhDT0zHbLTvUIZb&oe=6AD8CC47) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUB9d_NlOORuK_BToYpV_qocmOd0LUBglCNfQVTk2aUWZj9K2q7SQBGZnOX0m64NpKP2LJ5K1sxgmgRMahlN33UwWuEu4S8BZ-ZImVMulHz0VwPz3Hc)
 
 1.9K
 
@@ -165,5 +167,8 @@ More
 
 2.1K
 
-[![Image 4: haifengkao's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
+
+* © 2026
+* [Threads Ter
 ```

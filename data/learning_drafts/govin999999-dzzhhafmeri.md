@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Seeing the Sharks trust Ivar with the thir"
+title: "govin999999 的 AI 工作流案例：Gracie, we need to know. Will this make se"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-19T05:06:47+00:00"
+generated_at: "2026-10-20T05:09:33+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Seeing the Sharks trust Ivar with the thir
+# govin999999 的 AI 工作流案例：Gracie, we need to know. Will this make se
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Seeing the Sharks trust Ivar with the third shootout attempt makes me really happy, and also a little sad about McKenna
+Gracie, we need to know. Will this make sense when Please comes out?
 
 ## 這篇在解決什麼問題
 
@@ -61,26 +61,11 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
-[![Image 1: withthesehands_goldenangelspev's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/580693701_17903336052296199_645060762861
-- Markdown Content:
-[![Image 1: withthesehands_goldenangelspev's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/580693701_17903336052296199_6450607628615431811_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4x
-- [![Image 4: susiewodarczyk's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358358311_956158175601006_8142538276896579769_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTkuYzIifQ&_nc_ht=scontent.cdninstagr
-- [![Image 5: martinldart's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/540632917_17922991830108854_8222053031036539086_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstag
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
+[![Image 1: mustafaalfredji's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/411520953_6877157752362415_7137089839288360279_n.jpg?st
+- Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -99,59 +84,63 @@ Activity
 
 Profile
 
-Insights
+Ins
+- [![Image 3: tanniespithair's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/851829423_18125367211789074_2788997163499270109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=sc
+- [![Image 2: ray4thebears's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/731344284_17970228636097010_6717567965322036949_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmV4cGVyaW1lbnRhbCJ9&_nc_ht=scon
+- [![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/857758327_17867074917692662_2717155228658743493_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=NDAxMTUxOTg3MjgwNjUxODgyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHB
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
+```text
+Title: Threads • Log in
 
-[](https://www.threads.com/search)
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Markdown Content:
+[![Image 1: senchrismurphy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/570566233_17847509361591502_2836687104386371720_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZUuoV_QSFdtRf9_CECQZPkmE8sB24vpI2ehe8U2uiYEjnfbDJP2q4d3hKAvdLPO4&_nc_ohc=Q7xhq0t7RX4Q7kNvwF9dMbp&_nc_gid=BBOa8ZilEG7WiV4afc_c0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOGS0x3nvTU9lHt8X_LbS6RkHmGusGKa6ArBaqiphIrYQ&oe=6ADCDEA1&_nc_sid=10d13b)](http://www.threads.com/@senchrismurphy)
 
-[![Image 1: heauxno1currr's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/682699964_18105781921732399_1242136952142720114_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=bMmpc4FVrXcQ7kNvwHHdRpo&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNaBX3D4SEPrQXYStGjtRWlZtegnoA4YKQ_AX7oI6i3Iw&oe=6ADB8335&_nc_sid=10d13b)](https://www.threads.com/@heauxno1currr)
+JD - I've got 15 free minutes before my son's hockey practice ends, so let me see how many of Trump's enrichment schemes you didn't see that I can remind you of.
 
-[heauxno1currr](https://www.threads.com/@heauxno1currr)
+1/ First one is easy: Trump has executed over 30,000 stock trades, many on inside information, netting him millions.
 
-[10h](https://www.threads.com/@heauxno1currr/post/DepWoMyAeGS)
+1.3K
 
-Did they teach ya’ll about the “Drinking Gourd” constellation growing up? Or how our ancestors utilised the constellations to aid them in navigation during the Underground Railroad?
+56
 
-777
+234
 
-77
+30
 
-49
+[![Image 2: kevonstage's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/508388784_18516696961040466_1327383453674141691_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGZUuoV_QSFdtRf9_CECQZPkmE8sB24vpI2ehe8U2uiYEjnfbDJP2q4d3hKAvdLPO4&_nc_ohc=hdpyPfEVyFQQ7kNvwG1r2PF&_nc_gid=BBOa8ZilEG7WiV4afc_c0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMvhInFM1SDvmGcADG3Ocx26jcljf-Tm4et9CuR4pkbPA&oe=6ADCCF41&_nc_sid=10d13b)](http://www.threads.com/@kevonstage)
 
-6
+Alright Dream. FOOT ON THEY NECKS. DONT LOSE FOCUS. DONT LET THEM BACK IN THE GAME.
 
-[![Image 2: _tania_po_'s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/472998189_4481967325362957_8111418539981135620_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=TdgKB5O5zMsQ7kNvwFDH7Ap&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOYoK3_Q0GF_gFlYfssP1RzJC6gZShACkv2k2tVPLBU6w&oe=6ADB91FB&_nc_sid=10d13b)](https://www.threads.com/@_tania_po_)
+758
 
-[_tania_po_](https://www.threads.com/@_tania_po_)
+3
 
-[NHL Threads](https://www.threads.com/search?q=NHL%20Threads&serp_type=tags&tag_id=18387529207064637)
+36
 
-[20h](https://www.threads.com/@_tania_po_/post/DeoQR4HDcFu)
+[![Image 3: lisamariehey_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/801962968_17987508087106337_2880123843053487182_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NjguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gGZUuoV_QSFdtRf9_CECQZPkmE8sB24vpI2ehe8U2uiYEjnfbDJP2q4d3hKAvdLPO4&_nc_ohc=jTWKmVwAil4Q7kNvwF6g4LB&_nc_gid=BBOa8ZilEG7WiV4afc_c0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNVVQUWfqeJfALB8JIdFdr23BF4FYBQ7kYz3DLSYbwi0A&oe=6ADCAE41&_nc_sid=10d13b)](http://www.threads.com/@lisamariehey_)
 
-Seeing the Sharks trust Ivar with the third shootout attempt makes me really happy, and also a little sad about McKenna
+Question: does ❤️ 🐻 mean “love bear”? Gracie, we need to know. Will this make sense when Please comes out?
 
-492
+63
 
-21
+7
 
 1
 
-9
+1
 
-[![Image 3: mybffscloset_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/583349800_17929561323120475_8628930734331157713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gF8N9gHBoridUaQBthCAQUdAK6ZLsp7H-AzF7_B0SjIUima1uVrSStsGHT1teUwGOg&_nc_ohc=IYufrXfxOo8Q7kNvwHqycFF&_nc_gid=vLFV3pdwmEvEM5YPE93kKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMgkyOB29IFixTdqdarYzYJAp5JOdmr8RHzfLsrDaPFmQ&oe=6ADB8F42&_nc_sid=10d13b)](https://www.threads.com/@mybffscloset_)
+[![Image 4: merrittk9's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/856467872_17982141962912268_5261793121723398915_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZUuoV_QSFdtRf9_CECQZPkmE8sB24vpI2ehe8U2uiYEjnfbDJP2q4d3hKAvdLPO4&_nc_ohc=H2zMhQLPAGoQ7kNvwH0ZRR3&_nc_gid=BBOa8ZilEG7WiV4afc_c0w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMGdrYUzvZ7dYKZJ8J-a1KjSg0JBApasjIaQhv3XWE_Mg&oe=6ADCB597&_nc_sid=10d13b)](http://www.threads.com/@merrittk9)
 
-[mybffscloset_](https://www.threads.com/@mybffscloset_)
-
-[17h](https://www.threads.com/@mybffscloset_/post/DeomeZflK2f)
-
-Good MORNI
+If Gandalf didn't want Frodo to put on the ring he shouldn't have called it "quite cool" when he gave it to 
 ```
