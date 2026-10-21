@@ -1,25 +1,27 @@
 ---
-title: "techtip_s 的 AI 工作流案例：He hasn't been campaigning so it makes sen"
+title: "techtip_s 的 AI 工作流案例：The choice of so many rich, fragile men to"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "Make"
+  - "ChatGPT"
+  - "GPT"
+  - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-20T05:09:33+00:00"
+generated_at: "2026-10-21T05:11:10+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：He hasn't been campaigning so it makes sen
+# techtip_s 的 AI 工作流案例：The choice of so many rich, fragile men to
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-He hasn't been campaigning so it makes sense
+The choice of so many rich, fragile men to become the villains when they could have been heroes is either a tragedy or history repeating itself yet again.
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +29,7 @@ He hasn't been campaigning so it makes sense
 
 ## 使用工具
 
-Make
+ChatGPT、GPT、RAG
 
 ## 原始工作流拆解
 
@@ -61,11 +63,31 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Markdown Content:
+[![Image 1: graceingves's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/484176123_658239460216840_2620360190943456549_n.jpg?stp=dst-jp
+- Title: Threads • Log in
+
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: teddyp904's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756780346_18610746955027236_6850652659277285803_n.jpg?stp=dst-
-- Title: Threads • Log in
+[![Image 1: swamp_watch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912656_17917294284338340_4756070813591132735_n.jpg?stp=ds
+- [![Image 3: yahoosports's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/817946482_17990388729100600_446887573009087286_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent.cdninstagra
+- [![Image 3: alixo_gg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719828068_17931728334292954_5990474300875016829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYyLmMyIn0&_nc_ht=scontent.cdninstagram
+- Can anyone explain to me a TECHNICAL! DANCE RELATED! REASON that my girl Tatyana is not getting 9s and 10s? Cause her number has been the best so far tn, and I can’t comprehend why it got 8s. MIND U IM NOT A NEW FAN IVE BEEN WATCHING THIS SHOW FOR YEARS so i k
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、ChatGPT、GPT、RAG
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -84,74 +106,57 @@ Activity
 
 Profile
 
-Insig
-- Markdown Content:
-[![Image 1: teddyp904's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/756780346_18610746955027236_6850652659277285803_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDIuYzIifQ&_nc_ht=sco
-- [![Image 2: dimples_i_smile's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/455143165_1617220692503876_8983844431332445374_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
-- [![Image 3: dimples_i_smile's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/455143165_1617220692503876_8983844431332445374_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninst
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
 Insights
 
-[Log in](http://www.threads.com/login?show_choice_screen=false)
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+[](https://www.threads.com/search)
 
-# [Home](http://www.threads.com/?error=invalid_post)
+# [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: rubin_allergy's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358797943_1000082504350776_552863208246649812_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gE88GeIRjBu3e1jc-wdIKb27NayWdqS_WCQ_ZV_9cfBDJ571RFh7BIwUoVPTe06Zks&_nc_ohc=Dv2y6rtMwZIQ7kNvwFVpTmm&_nc_gid=7HsS0wMTMOc6O3cyMh7eVA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNnPSyfJfq8Q6Fs-1RhOFxzZ2Ekg7JKdCRGzJh9T6FBlg&oe=6ADCC8CA&_nc_sid=10d13b)](http://www.threads.com/@rubin_allergy)
+[![Image 1: swamp_watch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912656_17917294284338340_4756070813591132735_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFguRcPyj5jRMqUpVxPNcyaSJUWZqNZ70EzihPcuVzRAYub43XbZhKBpOEV0SoLT74&_nc_ohc=2tWrc53365cQ7kNvwECxndd&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNuKh7gpjDPya1gh-f0iQzGLmHSF7YrGOEQqrZVcFH50g&oe=6ADE2665&_nc_sid=10d13b)](https://www.threads.com/@swamp_watch)
 
-[rubin_allergy](http://www.threads.com/@rubin_allergy)
+[swamp_watch](https://www.threads.com/@swamp_watch)
 
-[12h](http://www.threads.com/@rubin_allergy/post/Derv8PIDTb2)
+[13h](https://www.threads.com/@swamp_watch/post/DeuNqfdFgi9)
 
-Philadelphia Eagles QB Jalen Hurts Was Reportedly Told NOT to Sleep for 36 Hours?! #nfl #eagles #doctor
+NEW: Trump could write off an estimated $825 million by calling his golf club a nature habitat.
 
-![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/851177096_18116492696600867_7021910363845816968_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=1&ig_cache_key=NDAxMTUxMDc0MDY5OTM5NTgzMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTMyMC5zZHIudmlkZW9fZGVmYXVsdF9jb3Zlcl9mcmFtZS5DMyJ9&_nc_ohc=0ctOfwgH1zcQ7kNvwEHs50U&_nc_oc=AdoKocsiTRfcKGVf-S3JYvBV9Q6NOw4BPczVFPUCXK0IkjUFQb6_DA3uTMWkxKBZtgo&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=7HsS0wMTMOc6O3cyMh7eVA&_nc_ss=7a20f&oh=00_AQMm0GfBnlzFG3wd2akQC9Kj47WTFnXfC7xqdfD6jalusg&oe=6ADCB733)
+Paying members still play golf there.
 
-[Video 3](https://scontent.cdninstagram.com/o1/v/t2/f2/m86/AQO7jf5N344mzi4Ze-aP4vQp36JhgK43TFUrqFDBRJv4gVCCcRwh3gbO3hSkCRok10wQP1sHAXRnpHeQbHiFmOtwYjdJF5yym0nuGzc.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=qbOL8tpNu38Q7kNvwGnM9Cy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uRkVFRC5DMy43MjAuZGFzaF9iYXNlbGluZV8xX3YxIiwieHB2X2Fzc2V0X2lkIjozMDk0OTAzMzQ3NTQzOTE3LCJhc3NldF9hZ2VfZGF5cyI6MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjE0MywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=65a18b7a4c4e773&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82QjM3OTZFMUEwMjg0MEI1OUE3NEY1RUI4MzU1NkVGQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U1MDgxQ0Q1OEU5RjQyQUVCOUIxRDI4MDRFMDhBQjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACba_afqirP_ChUCKAJDMywXQGHlT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdeoHZeadAQA&_nc_gid=7HsS0wMTMOc6O3cyMh7eVA&_nc_ss=7a20f&_nc_zt=28&oh=00_AQNdvWLCashmf6EB22DfonVxqt7tyvTwDyh0VmN87QPyhw&oe=6AD8CEDB)
+[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/855485649_17927576721338340_2805451554418548819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMjIwNDQxMjYzMDMzNzcyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BoTvLJtA5jQQ7kNvwG9IGU2&_nc_oc=AdrFU8ER0ZMszjx3Z0sfXuQdY5J7NxbxA8P75-kLKdP5xI_VDa-WD_nNzV39LZe06OE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&_nc_ss=7a20f&oh=00_AQP8p0CZutJpo4Ymh6IFDZ87QqTDNOpbR9MFWgquNRmlzg&oe=6ADE322D)](https://www.threads.com/@swamp_watch/post/DeuNqfdFgi9/media)
 
-1.8K
+31
 
-61
+8
 
-175
+12
 
-270
+4
 
-[![Image 3: huhaheji9's profile picture](https://scontent-atl3-2.c
+[![Image 3: emily.cremi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/847729719_18126960985868187_3938140970745997428_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFguRcPyj5jRMqUpVxPNcyaSJUWZqNZ70EzihPcuVzRAYub43XbZhKBpOEV0SoLT74&_nc_ohc=ic1sQipPEcoQ7kNvwEVkpEp&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO0iqyKfsi44y3ZVLsfFRK-NJQ3N313ByMgMz-zOloiAg&oe=6ADE01AF&_nc_sid=10d13b)](https://www.threads.com/@emily.cremi)
+
+[emily.cremi](https://www.threads.com/@emily.cremi)
+
+[Dancing with the Stars](https://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
+
+[5h](https://www.threads.com/@emily.cremi/post/DevFHpSlOUs)
+
+“Val’s not with us” is diabolical
+
+2.1K
+
+37
+
+14
+
+22
+
+[![Image 4: alixo_gg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719828068_17931728334292954_5990474300875016829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=
 ```

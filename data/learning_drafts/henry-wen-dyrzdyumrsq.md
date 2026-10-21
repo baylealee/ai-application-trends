@@ -9,8 +9,8 @@ tools:
   - "Manus"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0675
-generated_at: "2026-10-20T05:09:33+00:00"
+zh_ratio: 0.0844
+generated_at: "2026-10-21T05:11:10+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -35,6 +35,7 @@ Manus
 2. Manus AI的知識變現分析，這不就是我現在在做的事嗎
 3. 2️⃣ 提升文案效率：提供初稿、優化語氣，甚至幫你生成不同風格的文案。
 4. 3️⃣ 分析社群數據：找出發文的最佳時間、最受歡迎的內容類型。
+5. 我以前也迷信過全 AI 自動化寫作，覺得這樣發文效率最高。
 
 ## 可以直接複製的做法
 
@@ -70,8 +71,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、工具、生成
-- zh_ratio: `0.0675`
+- keyword_hits: AI、自動化、工具、整理、生成
+- zh_ratio: `0.0844`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -112,7 +113,7 @@ More
 
 787 views
 
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=TC9lVAwd2j8Q7kNvwEZRGtC&_nc_oc=Adrp-_j-cneb-VU-tiDKy7_7L6UxT-YDadPUfd0dqQq-2BX6ixF6P-s-H8lxChnGV-4&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ARbkOCasBr7IZt3zvqcjig&_nc_ss=7b289&oh=00_AQMT9c_veUG911mgSB-dK3QdURJOjDOzbBpUt9TGfun5lA&oe=6ADCB6FA)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=TC9lVAwd2j8Q7kNvwFUTALO&_nc_oc=AdrVzTc8mVxz-Vrqa3cBe73IL4anRI5-Hgj02LMgWtIBALKb6nesoVJnFNoUKB9dD2E&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=-mfHVFy26awNgu9tA1_RvQ&_nc_ss=7b289&oh=00_AQPTLRht6wFl5q23QM8Wu-NbPwnQdOL2FryWbM6efR2LxA&oe=6ADE087A)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -124,7 +125,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 👇🏻用1分鐘看我的使用方式&成果
 
-![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=D_HyOplGSlkQ7kNvwGWAc-I&_nc_oc=AdpUpiJMR3-b0tBem6zIej2vGrvaNnv9A6xN_7SnqUl0MW9BgcAN0ZHoWd16uhRGAJk&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=KFAGZpmBtZa5AohF94i4iQ&_nc_ss=7b289&oh=00_AQMOctCHVFYEhRWmpnnoYIsa91Yg0IyUSI29bWXfDWUNxQ&oe=6ADCAE7D)
+![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=D_HyOplGSlkQ7kNvwE2_XTP&_nc_oc=Adrr98RhnXV1xiSfBClaMUfsyqYnSEoC9Tg_OKbcdGc5biPSFmqcK9a6bP_GGc70Z-8&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Io5r8nOskDF0NSMzwSzOkw&_nc_ss=7b289&oh=00_AQMhIkt0K7DgWzzQLmd_tZInVrY-QUu0imwmq_m_bimrlQ&oe=6ADDFFFD)
 
-[Video 3](https://scontent-ord5-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=iv0I_PulOksQ7kNvwE4fvCT&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjE0OSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWx
+[Video 3](https://scontent-ord5-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=iv0I_PulOksQ7kNvwHynkmM&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjE1MCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACbm6eT2yenmCxUCKAJDMywXQFGszMzMzM0YEmRhc2hfYmFzZWx
 ```
