@@ -1,27 +1,26 @@
 ---
-title: "techtip_s 的 AI 工作流案例：The choice of so many rich, fragile men to"
+title: "techtip_s 的 AI 工作流案例：Spare a thought for Amy Acton, who is havi"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "knowledge_base"
+category: "mcp"
 tools:
-  - "ChatGPT"
-  - "GPT"
+  - "MCP"
   - "RAG"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-21T05:11:10+00:00"
+generated_at: "2026-10-22T05:13:44+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：The choice of so many rich, fragile men to
+# techtip_s 的 AI 工作流案例：Spare a thought for Amy Acton, who is havi
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-The choice of so many rich, fragile men to become the villains when they could have been heroes is either a tragedy or history repeating itself yet again.
+Spare a thought for Amy Acton, who is having the most horrific thing that happened to her, starting when she was NINE years old — as well as its subsequent family fallout — dragged
 
 ## 這篇在解決什麼問題
 
@@ -29,7 +28,7 @@ The choice of so many rich, fragile men to become the villains when they could h
 
 ## 使用工具
 
-ChatGPT、GPT、RAG
+MCP、RAG
 
 ## 原始工作流拆解
 
@@ -63,32 +62,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: graceingves's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/484176123_658239460216840_2620360190943456549_n.jpg?stp=dst-jp
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[![Image 1: swamp_watch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912656_17917294284338340_4756070813591132735_n.jpg?stp=ds
-- [![Image 3: yahoosports's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/817946482_17990388729100600_446887573009087286_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent.cdninstagra
-- [![Image 3: alixo_gg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719828068_17931728334292954_5990474300875016829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDYyLmMyIn0&_nc_ht=scontent.cdninstagram
-- Can anyone explain to me a TECHNICAL! DANCE RELATED! REASON that my girl Tatyana is not getting 9s and 10s? Cause her number has been the best so far tn, and I can’t comprehend why it got 8s. MIND U IM NOT A NEW FAN IVE BEEN WATCHING THIS SHOW FOR YEARS so i k
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、ChatGPT、GPT、RAG
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -106,57 +79,31 @@ Activity
 
 Profile
 
-Insights
+Insig
+- [![Image 6](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/861167058_17961243969218030_9189311708456995050_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=101&ig_cache_key=NDAxMjkyNjc5Mjk5NDg5MzQ4MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6
+- ![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t15.5256-10/860114019_1448660114070242_8467007609353920265_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAxMjg1ODY4NDEzMjM5MDQ5MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQ
+- [![Image 7: flygirltiqua's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/848119420_18113014988031988_4150435930883329808_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-o
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `strong`
+- keyword_hits: AI、RAG、MCP、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
+```text
+Title: Threads • Log in
 
-[](https://www.threads.com/search)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Markdown Content:
+[![Image 1: angels's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/658409248_17955152091106526_4573999136390536552_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gEspYG0o9IavdKmhJf_kq8Ais4J-tEfkwn3CUsvAc1_NMn3wSjxZgXYC3QbOtJcBrY&_nc_ohc=ybHSRLSuO2IQ7kNvwHeQPlh&_nc_gid=ZJDPSf__k1smVRIb9B0TcA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMZz-3E7_6BHMKMX8eu8jC2vBkE2lLsaw_56SRS9SrxAw&oe=6ADF5480&_nc_sid=10d13b)](http://www.threads.com/@angels)
 
-[![Image 1: swamp_watch's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790912656_17917294284338340_4756070813591132735_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gFguRcPyj5jRMqUpVxPNcyaSJUWZqNZ70EzihPcuVzRAYub43XbZhKBpOEV0SoLT74&_nc_ohc=2tWrc53365cQ7kNvwECxndd&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNuKh7gpjDPya1gh-f0iQzGLmHSF7YrGOEQqrZVcFH50g&oe=6ADE2665&_nc_sid=10d13b)](https://www.threads.com/@swamp_watch)
+OFFICIAL: The Angels announced that the Club has declined the option in Kurt Suzuki’s contract and, in coordination with Kroenke Sports & Entertainment, will search for a new manager and coaching staff for the 2027 season.
 
-[swamp_watch](https://www.threads.com/@swamp_watch)
+![Image 2: Angels to Seek New Manager for 2027 Season. Kurt Suzuki Offered to Remain With Organization as Special Assistant. The Angels announced that the Club has declined the option in Kurt Suzuki’s contract and, in coordination with Kroenke Sports & Entertainment, will search for a new manager and coaching staff for the 2027 season.](https://scontent.cdninstagram.com/v/t51.82787-15/861221391_18639102199061994_98037913285410479_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ig_cache_key=NDAxMzAwNTEyMzI2NjA5NTYxMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTIwMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=MZGjC7KRSTAQ7kNvwFIsczZ&_nc_oc=Adq1EDeb1eJSSOhuVu6nQDe8DKqCvqCJBKlPk9vti58CAWZSW887TfK3vJxGlwnKXlk&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=ZJDPSf__k1smVRIb9B0TcA&_nc_ss=7a20f&oh=00_AQN6A8bN1S-o_YsAujFzIfUqgomPYWqwRVSmMMv2qMDfHA&oe=6ADF7C10)
 
-[13h](https://www.threads.com/@swamp_watch/post/DeuNqfdFgi9)
-
-NEW: Trump could write off an estimated $825 million by calling his golf club a nature habitat.
-
-Paying members still play golf there.
-
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/855485649_17927576721338340_2805451554418548819_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxMjIwNDQxMjYzMDMzNzcyNQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTI4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=BoTvLJtA5jQQ7kNvwG9IGU2&_nc_oc=AdrFU8ER0ZMszjx3Z0sfXuQdY5J7NxbxA8P75-kLKdP5xI_VDa-WD_nNzV39LZe06OE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&_nc_ss=7a20f&oh=00_AQP8p0CZutJpo4Ymh6IFDZ87QqTDNOpbR9MFWgquNRmlzg&oe=6ADE322D)](https://www.threads.com/@swamp_watch/post/DeuNqfdFgi9/media)
-
-31
-
-8
-
-12
-
-4
-
-[![Image 3: emily.cremi's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/847729719_18126960985868187_3938140970745997428_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFguRcPyj5jRMqUpVxPNcyaSJUWZqNZ70EzihPcuVzRAYub43XbZhKBpOEV0SoLT74&_nc_ohc=ic1sQipPEcoQ7kNvwEVkpEp&_nc_gid=S3Gek1OxXMm6nuNUic8vtQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO0iqyKfsi44y3ZVLsfFRK-NJQ3N313ByMgMz-zOloiAg&oe=6ADE01AF&_nc_sid=10d13b)](https://www.threads.com/@emily.cremi)
-
-[emily.cremi](https://www.threads.com/@emily.cremi)
-
-[Dancing with the Stars](https://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
-
-[5h](https://www.threads.com/@emily.cremi/post/DevFHpSlOUs)
-
-“Val’s not with us” is diabolical
-
-2.1K
-
-37
-
-14
-
-22
-
-[![Image 4: alixo_gg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/719828068_17931728334292954_5990474300875016829_n.jpg?stp=dst-jpg_s150x150_tt6&efg=
+![Image 3: Angels to Seek New Manager for 2027 Season. Kurt Suzuki Offered to Remain With Organization as Special Assistant. “As we look toward 2027 and beyond, I have had thoughtful conversations internally and with Kroenke Sports & Entertainment’s leadership about the future of Angels Baseball and the direction of our organization. Those conversations have shaped the decision to seek a new manager and coaching staff for the 2027 season. Kurt has earned tremendous respect in our clubhouse, and I’ve seen firsthand how much he cares about our players. I do not believe our record this year was a true reflection of his abilities as a manager. I’m pleased we were able to offer Kurt a role to stay on as a special assistant, where his knowledge of our players and his perspective would continue to be valuable to the organization. I would also like to thank the entire coaching staff for their professionalism and hard work throughout a very difficult season. We value their expertise and have offered some members of the staff positions within the organization.” John Mozeliak (Baseball Operations Consultant)](https://scontent.cdninstagram.com/v/t51.82787-15/861544540_1863910220806199
 ```
