@@ -12,8 +12,8 @@ tools:
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.079
-generated_at: "2026-10-22T05:13:44+00:00"
+zh_ratio: 0.0793
+generated_at: "2026-10-23T05:13:35+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -69,24 +69,24 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
 - Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、MCP、OpenClaw、Codex、Agent、agent、工作流、自動化、流程、prompt、提示詞、工具、GitHub、開源
-- zh_ratio: `0.079`
+- zh_ratio: `0.0793`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -94,16 +94,16 @@ this fails, fix it 2. "
 ```text
 Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[Home](https://www.threads.com/)
+[Home](http://www.threads.com/)
 
 New thread
 
-[Search](https://www.threads.com/search)
+[Search](http://www.threads.com/search)
 
 Messages
 
@@ -113,25 +113,25 @@ Profile
 
 Insights
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+[Log in](http://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/)
+[](http://www.threads.com/)
 
-[](https://www.threads.com/search)
+[](http://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread](http://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
 612 views
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=MJd2d6p1XxoQ7kNvwF8UrbP&_nc_oc=AdpFdP2NgZGMyy4DO93md_XnNHnlZovDARqI60ELeMpzqRmTi5Ti4V2Z8f-BQST3ZSs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=_JAlZrpA5lGACC8DO9H1Iw&_nc_ss=7b289&oh=00_AQPfEFycagokpVGmbSLTgguVFIb6hQC5NZfYQCGynLGL-w&oe=6ADF7B8B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Q8YQFjsJ1RUQ7kNvwEgjNaw&_nc_oc=Adox2Yl9GlMlaELqh8wJBb4HHPx97eGwX0EbTt_U8SrjK70NMp5ku2giIn0isOtjtq0&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=r31KRwHIxOHUNPW7mrn70w&_nc_ss=7b289&oh=00_AQMsSWi4nIifq6wbeIo16TMmGy7k3rlA21rcmkU9ajGZrA&oe=6AE0CD0B)](http://www.threads.com/@itszero)
 
-[itszero](https://www.threads.com/@itszero)
+[itszero](http://www.threads.com/@itszero)
 
-[05/09/26](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+[05/09/26](http://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 
@@ -141,21 +141,21 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Sf0ZlzFW2RoQ7kNvwGTTBcl&_nc_oc=AdqSIYpY2XW7Scn79eQeiHVhkjMff3E_SW7gxANwA9fObJQZEJRZAAKOpHMcHNNkLKI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=_JAlZrpA5lGACC8DO9H1Iw&_nc_ss=7b289&oh=00_AQPtQ6_Hz2l_qlUp_0FhQOTM7SMdL90AGBqxJ_4u_FphPw&oe=6ADF5A91)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Sf0ZlzFW2RoQ7kNvwFgEqA0&_nc_oc=Adq3kJ32inWdPabeDaEul0zrkVYS3UZeW97hz1GR06P3X9IUXUQd7XzGMPR2zFYddPA&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=r31KRwHIxOHUNPW7mrn70w&_nc_ss=7b289&oh=00_AQMdPJsOnJVlry0xrMg_d5iTx6TTyFNfg4neLGutMibmEA&oe=6AE0AC11)](http://www.threads.com/@ethanhuang13)
 
-[ethanhuang13](https://www.threads.com/@ethanhuang13)
+[ethanhuang13](http://www.threads.com/@ethanhuang13)
 
-[05/10/26](https://www.threads.com/@ethanhuang13/post/DYKDh9DlHlI)
+[05/10/26](http://www.threads.com/@ethanhuang13/post/DYKDh9DlHlI)
 
 大道至簡
 
 Related threads
 
-[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEDhsSf4FNgPS4VfrTRF77c4LWp9YarwG1K__-dpx1wS0HD7_0YwppKjw9XBckR3Pk&_nc_ohc=Kt8CA3kLKBgQ7kNvwEp9UNV&_nc_gid=_JAlZrpA5lGACC8DO9H1Iw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM_2ur71k6E9K7LX_yasPfsU22xq7iMKkY3Fr7Ltyc54A&oe=6ADF6A9A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
+[![Image 3: choihunghk's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFYtxKTm0Arzf3el1YaOI1E5FiXqVgnjQizxmIfSP4VUugmxestzjqze0yXEmR5Je0&_nc_ohc=Kt8CA3kLKBgQ7kNvwHSqDH1&_nc_gid=r31KRwHIxOHUNPW7mrn70w&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN9Sm9opGTIqexENJNNvMEaIeVTwquM2QrG159TYDnfNg&oe=6AE0BC1A&_nc_sid=10d13b)](http://www.threads.com/@choihunghk)
 
-[choihunghk](https://www.threads.com/@choihunghk)
+[choihunghk](http://www.threads.com/@choihunghk)
 
-[10/02/26](https://www.threads.com/@choihunghk/post/Dd_baVziXj4)
+[10/02/26](http://www.threads.com/@choihunghk/post/Dd_baVziXj4)
 
 好多話教AI 寫CODE ,但好多連基本既網頁都冇,叫人點信你🤨
 
@@ -165,5 +165,5 @@ Translate
 
 3
 
-[![Image 4: bochin.wang's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/427636768_375689711764849_5117321970882265063_n.jpg?stp
+[![Image 4: bochin.wang's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/427636768_375689711764849_5117321970882265063_n.jpg?stp=dst-jpg_s150x150_
 ```

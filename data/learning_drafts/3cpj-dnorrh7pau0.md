@@ -13,7 +13,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.101
-generated_at: "2026-10-22T05:13:44+00:00"
+generated_at: "2026-10-23T05:13:35+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUBTJZ8fNsmDO3FTNfmUGkJ5IhALkBBWBl257gOBArBFaWCKhEMII1cUoj-xsoAc12USb188YwbaCXFReQbb2z7BBl71-EzI34YM7iLEdahZka1F8dQ)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/2391113032721905384?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUA7y9Qd3Er_ktudRJ9auNpyFO5AEsNQjDGxPzSiY11uBShYdno2KD5H3gkQ3Re-V6BwtGlgyzYtTrTQLkRDuicK1bVsYh7lQi-cnKqkInjxme84l6s)
 
 ## 可以直接複製的做法
 
@@ -83,10 +83,10 @@ Activity
 Profile
 
 I
-- [![Image 8: tototal999's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/710307360_17968367730118461_6836976940656628950_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4x
-- [![Image 4: haifengkao's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
-- [![Image 16: tiffanyetaylor_sapphicauthor's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/405767854_1499306717279210_4889864840243972878_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_n
-- [![Image 13: diana_unleashed's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/829492204_17989385142103777_2245569685294553903_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
+- [![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?url=https%3A%2F%2Fopengraph.githubassets.com%2F1aa1bc860cca42149df85d9d9780576effac02915e49b4ca059862a499a0d800%2FLic
+- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUBbNYgYPhAP2mZFjyHkJXuI-XWcHh0-_1tqvj6C_Hoo0I7d1xgrnOUlddMHlLVlsqSmxjhVHMcNBplTSHa8FmnYiayQEe_aJZpKKLm-I0AXTUpAUm8)
+- [![Image 5: haifengkao's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- [![Image 14: Retro game emulator Delta looks great on the iPhone Duo - 9to5Mac](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/17598590206214848102?url=https%3A%2F%2F9to5mac.com%2Fwp-content%2Fuploads%2Fsites%2F6%2F2026%2F10%2Fiphone-duo-delta-game-emulator.j
 
 ## 抓取品質
 
@@ -133,7 +133,7 @@ More
 
 115K views
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=2ZV14ciTW28Q7kNvwH_LjwN&_nc_oc=AdqyQCho1CIelmyoe6ujwLOLbzhYElR7LURZQ3y9-ZsJWN32Y4DEUCkvKKlJCF2MOYw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQMluLQMjXXXrEuseo49Qo0WKvPNB_0GunL-v7CRUOF9kQ&oe=6ADF6A74)](https://www.threads.com/@_3cpj_)
+[![Image 1: _3cpj_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=21YtNNXeXSMQ7kNvwFUBR0q&_nc_oc=AdrLjbqgWM4sjwegQrCb8RNq2RhP-PU6_7jEThvsH_Q_nPyzdVgcR75akYh2zm68780&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQMWBYuGV1C9HwQOWF9PTavKzQXBbj8jBhHXakRGTrA_9A&oe=6AE0BBF4)](https://www.threads.com/@_3cpj_)
 
 [_3cpj_](https://www.threads.com/@_3cpj_)
 
@@ -159,7 +159,7 @@ More
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/2391113032721905384?url=https%3A%2F%2Fopengraph.githubassets.com%2F1aa1bc860cca42149df85d9d9780576effac02915e49b4ca059862a499a0d800%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=2ICNs8fOMF7ept9kg_fvvA&_nc_zt=3&oh=06_Q3_EAeFmFuhhDTSeA2ZKobqWto38qBWtafFLHzf57dDbzG-0&oe=6ADB92A6) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=2ICNs8fOMF7ept9kg_fvvA&_nc_zt=3&oh=06_Q3_EAWIyXLEfvB4H4RIRr4UJSTrn7kmZQMg3hEq_GZSB9ug-&oe=6ADB6F47) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUBTJZ8fNsmDO3FTNfmUGkJ5IhALkBBWBl257gOBArBFaWCKhEMII1cUoj-xsoAc12USb188YwbaCXFReQbb2z7BBl71-EzI34YM7iLEdahZka1F8dQ)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/2391113032721905384?url=https%3A%2F%2Fopengraph.githubassets.com%2F1aa1bc860cca42149df85d9d9780576effac02915e49b4ca059862a499a0d800%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=QfmHNCEUy-SeBVkao3UTRg&_nc_zt=3&oh=06_Q3_EAb7OUXZGrWG_CboP-VHKonsRvyjtAFROvnkOMgWNzqM7&oe=6ADCE426) ![Image 3](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=QfmHNCEUy-SeBVkao3UTRg&_nc_zt=3&oh=06_Q3_EAWhILBmfImC0aB7h3UIA1zXQR-a0HVxFoSQczxGFg2jL&oe=6ADCC0C7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUA7y9Qd3Er_ktudRJ9auNpyFO5AEsNQjDGxPzSiY11uBShYdno2KD5H3gkQ3Re-V6BwtGlgyzYtTrTQLkRDuicK1bVsYh7lQi-cnKqkInjxme84l6s)
 
 1.9K
 
