@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Trump held a rally in Gaston County, NC a "
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -10,16 +10,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-23T05:13:35+00:00"
+generated_at: "2026-10-24T04:56:30+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Trump held a rally in Gaston County, NC a 
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Trump held a rally in Gaston County, NC a few weeks ago. And now, that county has the largest increase in Black vote share of the early vote in the country. Not saying the two are 
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -61,26 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Content:
-Log in or sign up for Threads See what people are
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -98,49 +78,58 @@ Activity
 
 Profile
 
-Insights
+Ins
+- [![Image 22: itscameronchoate's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/767560469_17983288458106470_8755045815883270789_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
+- [![Image 10: onslowminiseung's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/848196502_17948841516317062_2533982418452295326_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42ODQuYzIifQ&_nc_ht=sconten
+- [![Image 13: nikkimarie.jpg's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/615244900_18419305372138214_4129103525394919292_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconten
+- [![Image 21: mizteefranklin's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/729684258_17976223278106273_3733054758142069414_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconten
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
+```text
+Title: Threads • Log in
 
-[](https://www.threads.com/search)
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-# [Home](https://www.threads.com/?error=invalid_post)
+Markdown Content:
+[![Image 1: jonkung's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/622330694_17939074689116447_2881872594599697426_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF_mL5AVvGnzarMaGFkBpla0Z7iaosQWB3kElyd5BZBQ3YjSu085pIk1G16mVFWJbk&_nc_ohc=FBZa3K_p4KYQ7kNvwFzJ8ys&_nc_gid=AxuS_UzUp5hEFof5zME2bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOTcSRGrpCVyJhFAZibbd3ySshEx9dQQApQoxoR9hs54g&oe=6AE215A0&_nc_sid=10d13b)](https://www.threads.com/@jonkung)
 
-[![Image 1: mojobrookzz's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/702245223_18593497036047936_1506083203011514677_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGKmWaDMrBg4uARDDzfXQWjVaPNkeB04ond7f4tBdKF9dW-TBUP1vqsApo4pt2OjsD738FRkKqv7-2prOhNmDxL&_nc_ohc=KS8Xns1wxhgQ7kNvwGXbqoM&_nc_gid=ZZNIijWBPXhVK-WZeZuLxw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQMuIMb5wMblnVUassvwngmjthPwco1pROAURefrIv6iXg&oe=6AE0B604&_nc_sid=68810c)](https://www.threads.com/@mojobrookzz)
+How do I inform my airline that I’m willing to pay a premium to be guaranteed a seat next to a dog?
 
-[mojobrookzz](https://www.threads.com/@mojobrookzz)
+368
 
-[7h](https://www.threads.com/@mojobrookzz/post/Dez9B_9mYo9)
+9
 
-Houston Atlanta & DC!!! Go to my website and sign up for the presale right nie 🫠
+6
 
-252
+9
 
-29
+[![Image 2: thewhitecoatinvestor's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/640973013_18438463441113335_5551483948773422090_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF_mL5AVvGnzarMaGFkBpla0Z7iaosQWB3kElyd5BZBQ3YjSu085pIk1G16mVFWJbk&_nc_ohc=70vHJGb_lqMQ7kNvwHkgc52&_nc_gid=AxuS_UzUp5hEFof5zME2bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNFQ9bmhR-tPUH1srmOLsjvkq6Yq812VEWwfmIoTrzD2Q&oe=6AE22135&_nc_sid=10d13b)](https://www.threads.com/@thewhitecoatinvestor)
 
-7
+Endocrinologists earn $284K and rank top 3 in marriage happiness. Radiologists earn $571K and rank third from the bottom. We compared physician marriage happiness to compensation across 25 specialties. The results are all over the place.
 
-29
+11
 
-[![Image 2: chokorivera1990's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/463052440_383913581481865_4253035423580848548_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMxIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGKmWaDMrBg4uARDDzfXQWjVaPNkeB04ond7f4tBdKF9dW-TBUP1vqsApo4pt2OjsD738FRkKqv7-2prOhNmDxL&_nc_ohc=crzbaTOb7akQ7kNvwFN-IxT&_nc_gid=ZZNIijWBPXhVK-WZeZuLxw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQNao_Sqg_vVGuIP9pE41wd210GDCwPAXphW3UU2pUQ9sw&oe=6AE0C65C&_nc_sid=68810c)](https://www.threads.com/@chokorivera1990)
+17
 
-[chokorivera1990](https://www.threads.com/@chokorivera1990)
+5
 
-[9h](https://www.threads.com/@chokorivera1990/post/DeztSgJlavh)
+[![Image 3: authoress_rosy_library's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/529584603_17953191171004221_2760691040100653394_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF_mL5AVvGnzarMaGFkBpla0Z7iaosQWB3kElyd5BZBQ3YjSu085pIk1G16mVFWJbk&_nc_ohc=DTj51Xb5n4wQ7kNvwHx_YXt&_nc_gid=AxuS_UzUp5hEFof5zME2bw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM9y5jUnJaBcGQU2LnAswmoCItJE5kY8yv65Z65sXFlkA&oe=6AE21A01&_nc_sid=10d13b)](https://www.threads.com/@authoress_rosy_library)
 
-If you know, you know… California behavior 😂☀️🌴
+A very interesting short story: WILL I BE THE A-HOLE for withdrawing financial support towards my friend & godson because her baby dad doesn’t want me around anymore.
 
-#CaliforniaLife #CaliLife #CaliforniaVibes #SoCal #SouthernCalifornia
+I (26F) have a friend, “Amy” (31F), who is a single mom to her 3-year-old son, “James.” His father, “Mark,” is inconsistent and rarely helps. I’m financially comfortable thanks to my well paying job, family wealth, and my husbands high six figure salary.
 
-![Image 3](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/857436770_17964559356234904_8264574032124768117_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&ig_cache_key=NDAxMzc1MDg3NjQ4MTM2NzAwOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=YCBDw8BXjaYQ7kNvwGWHfpw&_nc_oc=AdojVIqYhZp2yqEIyUaebofjDjkfEJBHJVhYgYmO6B459dfs3_COhexnk8m314W3zYz6oFb9xT6vfmpfPY5Xa1Xv&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=ZZNIijWBPXhVK-WZeZuLxw&_nc_ss=7a20f&oh=00_AQNLK2x4gI_pnVWs6qNPiHQhEaIuqNzNUNeSFNHSzBCYHA&oe=6AE0D9BB)
+59
 
-Sorry, we're having trouble playing this video.
+48
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUA_Wfwm5QQQzol-fwqaANfsdNcUe6SL43TruIrOM0EiOIgK5P-QWIAX8
+[![Image 4: amay.a100's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/410084549_326320367005558_3466435349114114857_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF_mL5AVvGnzarMaGFkBpla0Z7iaosQWB3kElyd5BZBQ3YjSu085pIk1G16mVFWJbk&_nc_ohc=
 ```
