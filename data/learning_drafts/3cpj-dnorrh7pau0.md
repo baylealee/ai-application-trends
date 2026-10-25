@@ -12,8 +12,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.1084
-generated_at: "2026-10-24T04:56:30+00:00"
+zh_ratio: 0.101
+generated_at: "2026-10-25T05:07:29+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/18268480930816508944?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAN3pylJLbMA2h_iF6UpmZJv7v73F29W4yuaEOZOczJmX85II-wLaFCCm-wsRr3bO6pHYxJWtuvQBbwGKbsJO6K4NlAloN14WIi667k7kYG_UsXHpo)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/18268480930816508944?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCYUEn8YAb7Rboh0cF67WRVMVAk0fPPWlzwvI7Bxb4EXvasdIpz2HbVKOgwuKyL-WB2N9lmP89z76v8bvkSROclFIKZZ1LR93rERjJI8DSTmiI5Zs4)
 
 ## 可以直接複製的做法
 
@@ -63,36 +63,17 @@ Claude、Claude Code、GPT、GitHub
 
 reply_summary_status: `partial`
 
-- Title: Jun CP (@_3cpj_) on Threads
-
-URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-I
-- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCdnuZ6G_S2EK6Dg80-zFaa0eu6Otjh5sFuLTTaIrblTPnl8RTG4QD2lw1_2zkhOk9TcFjm1K5oQgDV3wkNIvMcAfdZuY1iOUMwlWL3eaA5s5vqQmo)
-- [![Image 9: tototal999's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/710307360_17968367730118461_6836976940656628950_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4x
-- [![Image 6: cassie8flowceo's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/471500849_1286198612524418_6940334124233031739_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy
-- [![Image 5: haifengkao's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44Mzku
+- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDb6Cgdgz5Gw9gClR3PRoOo4tCfKqpVEHBtXyqnzNTS4DE_vy1ng6uY6e4zE2OvlqXxLENSbXq1WmH_tSrO0s2rt3rxYYTOc8d7SVrPLSKacdnwzuw)
+- [![Image 10: dailycopywriting's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/415961489_854952733041815_14554898839729377_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-se
+- [![Image 7: tototal999's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/710307360_17968367730118461_6836976940656628950_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=107&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4x
+- we’ve broken down how many weather references Taylor makes per album. here it is: 💚 Taylor Swift: 29% 💛 Fearless: 52% ⛈️ (The stormiest era!) 💜 Speak Now: 39% ❤️ Red: 14% ☀️ (The driest era!) 🩵 1989: 29% 🖤 Reputation: 33% 🩷 Lover: 50% 🩶 Folklore: 24% 🤎 Evermor
+- Bad copywriting: Our bags have plenty of storage. Great copywriting: Carry your whole day without the clutter.
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、GPT、工作流、prompt、工具、GitHub
-- zh_ratio: `0.1084`
+- zh_ratio: `0.101`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -105,13 +86,35 @@ URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 Markdown Content:
 [](https://www.threads.com/)
 
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread 115K views](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+# [Thread](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=21YtNNXeXSMQ7kNvwEphnw7&_nc_oc=AdqX1y6HZ2WMujiaqN1R2bFGmY-BOTnKko9OVTGqh5FP95H7Nd2t0FWDCZHBO6kbMWc&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQPKxazScgkiFNyLGW3zjMjM9nTlOOGWRQgJ7E9hxmMYCQ&oe=6AE20D74)](https://www.threads.com/@_3cpj_)
+115K views
+
+[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=21YtNNXeXSMQ7kNvwFk-MP5&_nc_oc=AdqGJWR_tkjazkszTMUX4jY6kVzvfNfRtVd6XEsBXR4OnlsetSrf5SMrDAQdcmQfb-s&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQO17mTZ7FJHDunlInNlEyW40yu3JKTyJUd1JnJ6LFnaDQ&oe=6AE35EF4)](https://www.threads.com/@_3cpj_)
 
 [_3cpj_](https://www.threads.com/@_3cpj_)
 
@@ -137,7 +140,7 @@ Markdown Content:
 
 我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/18268480930816508944?url=https%3A%2F%2Fopengraph.githubassets.com%2Fcbc853cc1e4bae35f07dd8d063e025d058b95e6d8d61a08278057121bb5d320c%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=CiQJc6b0XU0Z_97DUzAKYw&_nc_zt=3&oh=06_Q3_EAevYPQ_fQ_COndhPkrie2iE-ShP7IdwfCGk87K8wNNDN&oe=6ADE0575) ![Image 3](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-ord5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=CiQJc6b0XU0Z_97DUzAKYw&_nc_zt=3&oh=06_Q3_EAUHTF6HAAUWasYZw9IoQyVI3nyf4m_e1-e3eQaasAHTp&oe=6ADE1247) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAN3pylJLbMA2h_iF6UpmZJv7v73F29W4yuaEOZOczJmX85II-wLaFCCm-wsRr3bO6pHYxJWtuvQBbwGKbsJO6K4NlAloN14WIi667k7kYG_UsXHpo)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/18268480930816508944?url=https%3A%2F%2Fopengraph.githubassets.com%2Fcbc853cc1e4bae35f07dd8d063e025d058b95e6d8d61a08278057121bb5d320c%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=nqrAf-kVaWIqDkmGYo3yjQ&_nc_zt=3&oh=06_Q3_EAZY6Syc98rX5xUptjW0-EIPwTDWuH1WmSt21PNu28o-e&oe=6ADF56F5) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=nqrAf-kVaWIqDkmGYo3yjQ&_nc_zt=3&oh=06_Q3_EAfqVxZYPhgjVdZQwX_sPIkFi4EmzS6itKICoAOP2QEpQ&oe=6ADF63C7) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCYUEn8YAb7Rboh0cF67WRVMVAk0fPPWlzwvI7Bxb4EXvasdIpz2HbVKOgwuKyL-WB2N9lmP89z76v8bvkSROclFIKZZ1LR93rERjJI8DSTmiI5Zs4)
 
 1.9K
 
@@ -150,8 +153,5 @@ Markdown Content:
 Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 
 * © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
+
 ```
