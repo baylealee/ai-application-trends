@@ -6,10 +6,11 @@ post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "GPT"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-25T05:07:29+00:00"
+generated_at: "2026-10-26T05:10:56+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+GPT
 
 ## 原始工作流拆解
 
@@ -60,17 +61,21 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to a
-- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Content:
+Log in or sign up for Threads See what people are t
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+- Markdown Content:
+Log in or sign up for Threads See what people are talking about and join the conversation.
+- [Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、GPT
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -79,84 +84,50 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[](http://www.threads.com/)
+[![Image 1: beautiful_brimarie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/468606615_933847962198683_7009494468916644891_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=gNvpso28jpwQ7kNvwH4Teg0&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNwCtGJgo-WLBPOYprnqdMk8XGie1ZSbVY8sPynW84-yA&oe=6AE4CAF2&_nc_sid=10d13b)](https://www.threads.com/@beautiful_brimarie)
 
-[Home](http://www.threads.com/)
+Jackie should’ve made first team over Clark I don’t care 🤷🏽‍♀️ Jackie had the better season. I’m sick of them forcing her on us
 
-New thread
+752
 
-[Search](http://www.threads.com/search)
+236
 
-Messages
+35
 
-Activity
+1
 
-Profile
+[![Image 2: marissafitz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/520437092_17895051402259394_4080799611814676379_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=ya2UQXrP1mkQ7kNvwES-2x8&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM9GE0pMYMvS4XPWD6_8Qw0K45uRFjz-MoppjPq7NbXUA&oe=6AE4B434&_nc_sid=10d13b)](https://www.threads.com/@marissafitz)
 
-Insights
+I hate when people ask if my hospital bag is packed. How am I supposed to pack a bag when I only have 2 pairs of comfy pants and 3 shirts that fit and they are constantly in rotation? #38weeks
 
-[Log in](http://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/)
-
-[](http://www.threads.com/search)
-
-# [Home](http://www.threads.com/?error=invalid_post)
-
-[![Image 1: sentient_hotdog's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/628271140_17945705469102757_5036208770455200933_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNzYuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE7hGxxXL-yWn8zthRVwB3hTHFqacGmCMK20H2Q9pXsM8Mkj1PVBwuMpU_fgdsw_jk&_nc_ohc=bgbaq76e0lgQ7kNvwFVDT5s&_nc_gid=XMyswrI4YgF2MGo5ZIeYKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNBveSkxuvQVVatTDeCWIcQjgOBQfOUO_Qy7e86uSKEXw&oe=6AE366A2&_nc_sid=10d13b)](http://www.threads.com/@sentient_hotdog)
-
-[sentient_hotdog](http://www.threads.com/@sentient_hotdog)
-
-[21h](http://www.threads.com/@sentient_hotdog/post/De3pp3ell6p)
-
-Normal parents: Oh hell yes I think my kid is gifted
-
-Gifted parents: Oh fuck I think my kid is gifted, I’m so sorry kiddo
-
-1.7K
-
-46
-
-53
-
-242
-
-[![Image 2: dryllyrd's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789652354_17984972748115179_2790271673784028449_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gE7hGxxXL-yWn8zthRVwB3hTHFqacGmCMK20H2Q9pXsM8Mkj1PVBwuMpU_fgdsw_jk&_nc_ohc=w8VG7zFJXgwQ7kNvwF2V2lz&_nc_gid=XMyswrI4YgF2MGo5ZIeYKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM0snHn0R0AW7UiNcpvuI3nFEeUeZzRmref2MpuWlyX6g&oe=6AE3450C&_nc_sid=10d13b)](http://www.threads.com/@dryllyrd)
-
-[dryllyrd](http://www.threads.com/@dryllyrd)
-
-[13h](http://www.threads.com/@dryllyrd/post/De4cGs_Eayb)
-
-Puerto Rican girls will cut you. Literally and figuratively.
-
-270
-
-46
+881
 
 37
 
-8
+21
 
-[![Image 3: lettuce7000's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/771893423_17901826635513257_2369666950134604032_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gE7hGxxXL-yWn8zthRVwB3hTHFqacGmCMK20H2Q9pXsM8Mkj1PVBwuMpU_fgdsw_jk&_nc_ohc=Q-frjiVfuEEQ7kNvwGuRilp&_nc_gid=XMyswrI4YgF2MGo5ZIeYKQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNvYyBYBo2R9L72uf9xiCZ1uyrbm9GN01bfk8Y92kXCVw&oe=6AE373F6&_nc_sid=10d13b)](http://www.threads.com/@lettuce7000)
+16
 
-[lettuce7000](http://www.threads.com/@lettuce7000)
+[![Image 3: tjmannarino's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790058581_17985083991104437_3365415588903959432_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=sKWimvCUCWMQ7kNvwF72mQL&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNFw5KyXpjNDD2JOhI79nSXShbYnuezpEiq8nw2hatnfQ&oe=6AE4B019&_nc_sid=10d13b)](https://www.threads.com/@tjmannarino)
 
-[Traitors US](http://www.threads.com/search?q=Traitors%20US&serp_type=tags&tag_id=18322161175117981)
+Brewers have the four best mascots in sports. One is a human.
 
-[16h](http://www.threads.com/@lettuce7000/post/De4MirsDmzs)
+143
 
-Wait, who the hell is Wyatt??
+19
 
-80
+[![Image 4: flowzpam's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/526943403_18495809194068217_5012674765950440100_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=AE6aM84b6poQ7kNvwEmqUWZ&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM1sVz1UkPxZh_HwzZQMFkhjJi10Gv5OJt1Nw4AXlZ6DA&oe=6AE4C996&_nc_sid=10d13b)](https://www.threads.com/@flowzpam)
 
-12
+To the 1% who stopped to look, i drew this 💜
 
-[![Image 4: daniellek1an's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/485125337_96321312932689
+2.1K
+
+22
+
+16
+
+[![Image 5: nfl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357718685_624693292952724_63859520632565944
 ```

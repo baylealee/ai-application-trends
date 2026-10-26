@@ -1,24 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：A career year for Special Agent Zero 🤫"
+title: "govin999999 的 AI 工作流案例：🏳️‍🌈I wish I could just make genuine stud/"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
+  - "Make"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-25T05:07:29+00:00"
+generated_at: "2026-10-26T05:10:56+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：A career year for Special Agent Zero 🤫
+# govin999999 的 AI 工作流案例：🏳️‍🌈I wish I could just make genuine stud/
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-A career year for Special Agent Zero 🤫
+🏳️‍🌈I wish I could just make genuine stud/masc friends as a female ‼️Key word is genuine …
 
 ## 這篇在解決什麼問題
 
@@ -26,11 +28,13 @@ A career year for Special Agent Zero 🤫
 
 ## 使用工具
 
-待人工確認
+RAG、Make
 
 ## 原始工作流拆解
 
-1. A career year for Special Agent Zero 🤫
+1. 閱讀原文後，先確認它實際解決的工作情境。
+2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
+3. 再判斷是否能轉成自己的工作流範本。
 
 ## 可以直接複製的做法
 
@@ -58,12 +62,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Markdown Content:
-[![Image 1: dbiscorff's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358371331_879425116939882_294311025674821863_n.jpg?stp=dst-jp
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Markdown Content:
@@ -82,14 +80,11 @@ Activity
 Profile
 
 Insight
-- [Video 2](https://scontent.cdninstagram.com/o1/v/t16/f2/m84/AQOcIbdoK0fhbsj43Jf7VIKzlBb6ov3im16bPjxLDNfFxl57Dxr8l7rFgufia3gqDhHM4cmmBDwM8dag4ZAS6Hv1gMiYL4AVGItEafE.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent.cdninstagram.com&_nc_ohc=LEsr6kY-JzwQ7kNvwFEYrAy&
-- [![Image 14](https://scontent.cdninstagram.com/v/t51.82787-15/860018371_17995084068100600_2455386204292297049_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxNTM1MDQ0NDc2NjI5MjkwNA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueH
-- ![Image 5](https://scontent.cdninstagram.com/v/t51.82787-15/864655153_17993042157105614_2114299785811474553_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=109&ig_cache_key=NDAxNTI2MDM1OTg0NDM2MjUxMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Agent、agent
+- keyword_hits: RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -129,43 +124,21 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: dbiscorff's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358371331_879425116939882_294311025674821863_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4yMjUuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEvhx8NHsf_CE6WCXJ8dalqCxJsIfOAtvqgI2hKZA1f-F90XomaamSR8p9xKsijNLs&_nc_ohc=VaTPCoLpBdYQ7kNvwEGECLl&_nc_gid=i2vo5EqeTlJKIRhb9vHPew&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNDcX-BAui0ugkB_KRJBt2QcXq1FCV-T5KNuT3sVQGgMA&oe=6AE362B1&_nc_sid=10d13b)](https://www.threads.com/@dbiscorff)
+[![Image 1: stayville_stay's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/756535854_17900829915498985_8921000835043035333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjIuYzEifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHaC_wIKyRyW-e-wi7OlwFimg7XikQEnBm_37Rm20BQRrPVxwmOz_6LxTAHHJay3BUYQk0Ok8ABCjJM5JiMC1d7&_nc_ohc=KDjgxOyWs2sQ7kNvwFOcv2u&_nc_gid=wOE8EbwczcLjkWVRG1JW8g&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQPwQoRP3clTxjSXnr8j2IJBr0d4O5OX1S0DSa1vY6MHTQ&oe=6AE4A45F&_nc_sid=68810c)](https://www.threads.com/@stayville_stay)
 
-[dbiscorff](https://www.threads.com/@dbiscorff)
+[stayville_stay](https://www.threads.com/@stayville_stay)
 
-[Avatar Seven Havens](https://www.threads.com/search?q=Avatar%20Seven%20Havens&serp_type=tags&tag_id=18485539567063533)
+[Stray Kids STAY](https://www.threads.com/search?q=Stray%20Kids%20STAY&serp_type=tags&tag_id=18424498144036000)
 
-[13h](https://www.threads.com/@dbiscorff/post/De4dlvloNeF)
+[22h](https://www.threads.com/@stayville_stay/post/De6H5u4DUNU)
 
-Just a reminder that we are getting 4 episodes next week to close out Book 1 of Seven Havens
+🐰: The *maknae* was the first to wish me a happy birthday! And Chan-hyung bought me a phone! *looks at the staff* Why are you looking at me like that? Are you jealous? He bought me a brand-new iPhone 18 Pro—the one that just came out. Skijigi are looking at me like this: 😮
 
-[![Image 2](https://scontent.cdninstagram.com/v/t51.82787-15/862114832_17994056163112570_5190212302364945171_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAxNTA4OTIwNDg2NzQyMjA4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTE3MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=-unSxzmiwbEQ7kNvwGs7a_6&_nc_oc=AdoW6gWYo-tq4rLEa4utkj9WjZ_KdW0lhPXhn1gNHvy2x_5dBmo2srUFjS482lvtlT4&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=i2vo5EqeTlJKIRhb9vHPew&_nc_ss=7a20f&oh=00_AQNZOiHFsgN7mfVhE4ze8cEUVZz5AAXw3tW8fMLz0E7Sow&oe=6AE37AA6)](https://www.threads.com/@dbiscorff/post/De4dlvloNeF/media)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/865392737_1639522421001183_5049712965036265738_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAxNTU1NjMwMzM4MDEzOTA0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Iba2roDxrFUQ7kNvwGToTcH&_nc_oc=Adqrb3TnLrI-k3WmoRCM-Pcsc5Ec7_Nv22GWJ4ZaO1zFRbWRU6Nh1cafMxxuRagLQeYUxXBOVovlVS6em43yddBn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=wOE8EbwczcLjkWVRG1JW8g&_nc_ss=7a20f&oh=00_AQP1E3MIaJvmgs4AwLjWX0ynw27DS4fkFVOEFPiiArOhUw&oe=6AE4A567)
 
-637
+Sorry, we're having trouble playing this video.
 
-23
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUCD5Gswq548NT8vZpRL22kJUvPyiLRaoT9cNjWyR-zIreA_V2NhVBhl61PVUKtr9vf8N_TK4_wD5Z5izk2k7PrDdY_hJhS1e9dc1y8aSgPW6x1ODnY)
 
-36
-
-27
-
-[![Image 3: victoriastinsonn's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/741679124_18605099692002701_2051843990748314802_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43ODcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gEvhx8NHsf_CE6WCXJ8dalqCxJsIfOAtvqgI2hKZA1f-F90XomaamSR8p9xKsijNLs&_nc_ohc=rxZPRG56nJkQ7kNvwE6Fn_G&_nc_gid=i2vo5EqeTlJKIRhb9vHPew&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQN2jqGY8ffOHsJRiEWQyEKH4BPppQHgt5SHii7cGfFxfg&oe=6AE359EB&_nc_sid=10d13b)](https://www.threads.com/@victoriastinsonn)
-
-[victoriastinsonn](https://www.threads.com/@victoriastinsonn)
-
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
-
-[10h](https://www.threads.com/@victoriastinsonn/post/De4vhhmF_2D)
-
-woah that’s a ton of purple in that crowd??
-
-338
-
-12
-
-4
-
-1
-
-[![Image 4: listento_ekela's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/863535213_17914333065498985_7382823450339084830_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAxNTU1NjI0OTI0MjcyNjcwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzM2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=56eCdLBPvRYQ7kNvwGbZ4FE&_nc_oc=Ado11BU-Mb01eWH7JgYnlDLYh5pLbvvsJ1JbMBRiLA3RYHWjWTPslaqlW-i9CfBrDRV7AhHrk9XZP1QxJm5GbC3z&_nc_ad=z-m&_nc_cid=0&_n
 ```

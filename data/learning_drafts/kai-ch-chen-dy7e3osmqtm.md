@@ -12,7 +12,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.043
-generated_at: "2026-10-25T05:07:29+00:00"
+generated_at: "2026-10-26T05:10:56+00:00"
 ---
 
 # kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我
@@ -65,36 +65,6 @@ reply_summary_status: `partial`
 
 - Title: Kai Chen (@kai_ch_chen) on Threads
 
-URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Acti
-- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUC-uNUo6enghL7Zpis3ntLByn3DopWK2D4GhtMtgPWklI3a4_BnZcDTGW89tofY79G-qpc3IW79DWny6SlkndDUPZDgWyWnDAlTmYVgiipztxGl6yE)
-- 目前只有 Pro、Max 能用，還在 beta、分批開放，[claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUC-uNUo6enghL7Zpis3ntLByn3DopWK2D4GhtMtgPWklI3a4_BnZcDTGW89tofY79G-qpc3IW79DWny6SlkndDUPZDgWyWnDAlTmYVgiipztxGl6yE) 側欄沒看到 Projects 就是還沒輪到你。
-- [Claude AI](https://www.threads.com/search?q=Claude%20AI&serp_type=tags&tag_id=18315890602122863)
-
-## 抓取品質
-
-- content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、工作流、流程、工具、設計、workflow
-- zh_ratio: `0.043`
-- source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
-
-## 原始抓取內容
-
-```text
-Title: Kai Chen (@kai_ch_chen) on Threads
-
 URL Source: http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 Markdown Content:
@@ -109,30 +79,59 @@ New thread
 Messages
 
 Activity
+- ⚠️ v2.1.154+ research preview 📚 [code.claude.com/docs…](https://l.threads.com/?u=http%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fworkflows&e=AUDpDCHquOlGu6UvbCHaz6b8v80gwvIBwVraWk4a70eag-wtZ8d02mg70qaC4mbJ8iRHgaGUap25b_XbIunxQ640sZAGDJM86kIXDwCQl3VHJe5YFcY)
+- 目前只有 Pro、Max 能用，還在 beta、分批開放，[claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUDpDCHquOlGu6UvbCHaz6b8v80gwvIBwVraWk4a70eag-wtZ8d02mg70qaC4mbJ8iRHgaGUap25b_XbIunxQ640sZAGDJM86kIXDwCQl3VHJe5YFcY) 側欄沒看到 Projects 就是還沒輪到你。
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Claude、MCP、Agent、agent、工作流、流程、工具、設計、workflow
+- zh_ratio: `0.043`
+- source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
+
+## 原始抓取內容
+
+```text
+Title: Kai Chen (@kai_ch_chen) on Threads
+
+URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
 
 Profile
 
 Insights
 
-[Log in](http://www.threads.com/login?show_choice_screen=false)
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
 More
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/)
+[](https://www.threads.com/)
 
-[](http://www.threads.com/search)
+[](https://www.threads.com/search)
 
-# [Thread](http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
+# [Thread](https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
 
 1.8K views
 
-[![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mjHFjm0v3iAQ7kNvwEW1nRq&_nc_oc=AdomMgnmlQnUd2TlOPRC9IF-ojCSxmaE6_Yldi3nY7yGbVkuFaUe7y_MdB3N-lxPqr4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=kRh6lhCdfqYtgpwT-o933g&_nc_ss=7b289&oh=00_AQMHjzDt5cB2xHVPIvU-z4ACSpOK0m0DF-wsTYa0ZeKbvg&oe=6AE345F6)](http://www.threads.com/@kai_ch_chen)
+[![Image 1: kai_ch_chen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=mjHFjm0v3iAQ7kNvwH8JhJA&_nc_oc=AdrXwDEjCJhKQZoD5ak9oVSbbCiPhAN9Mfnyqz-vYlIoS_vcyGkqsgLuxEoLmQSYndo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=PouiqtJmhpU8f3uE-G3ETg&_nc_ss=7b289&oh=00_AQPxsjoYCS7RK3u-M8oN6kvgv9AdS5UTkxL6b0enLl41Tw&oe=6AE49776)](https://www.threads.com/@kai_ch_chen)
 
-[kai_ch_chen](http://www.threads.com/@kai_ch_chen)
+[kai_ch_chen](https://www.threads.com/@kai_ch_chen)
 
-[05/29/26](http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
+[05/29/26](https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm)
 
 今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我的一樣嗎？
 
@@ -144,9 +143,9 @@ More
 
 #ClaudeCode #AIWorkflow #VibeCoding
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ogX7jU6nEcYQ7kNvwGjhF6_&_nc_oc=AdqefdkhR9SVDk9Tg4ferBEPj1_-orA47kjXPHm0X0J95h2WBwtwojGFCxNgi6r--5U&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=iz6irTK3JCdh5agaNQTx-g&_nc_ss=7b289&oh=00_AQPioZ8lpN6Prhe33rIbuxcsvMwwd1VRBy3vPSCWQM9Gdw&oe=6AE34A1C)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=ogX7jU6nEcYQ7kNvwEs7xai&_nc_oc=AdqczarC7BiBPGPRSyD5bebJOLEIuwoJAXno5lyYjXSamreA24MBEnY0uH-XwKJpRJY&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=NopmBBghIPuhlXbpuk1uNg&_nc_ss=7b289&oh=00_AQPQY2ln3WfMpBHyZiGYXMyV3FvgkQscZYhY0z4cWAy58Q&oe=6AE49B9C)
 
-![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LzWZelXIFJkQ7kNvwGBxTjI&_nc_oc=AdomMRtncSv0hBibNosYlEJTJ9XrIXDzHb7iDRUdaMxKSbJZ97LOBI9ONWmVugoov5c&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=iz6irTK3JCdh5agaNQTx-g&_nc_ss=7b289&oh=00_AQNFfuQFZAIDmHph4jSWxCsg2zLUBuKOTAhqDxO4k9jihQ&oe=6AE3787E)
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LzWZelXIFJkQ7kNvwFAKUP9&_nc_oc=AdrJWdCWP38Iw0qwZAce3DnbFuhu35yWQbe-JRI6k8PX8EvAGbsP0tXI1h85pGZDrQg&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=NopmBBghIPuhlXbpuk1uNg&_nc_ss=7b289&oh=00_AQPlVVGSOYqkbxezovuUHUIpqP0SiNuHo6q7294MDk_LqQ&oe=6AE4C9FE)
 
-![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D.3-ccb7-5&cc
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/709266337_17967927027115625_4606066761855847356_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=MzkwNzczNzUxMDAzNDE2NDI4OA%3D%3D
 ```
