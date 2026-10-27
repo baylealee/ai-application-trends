@@ -1,26 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：🏳️‍🌈I wish I could just make genuine stud/"
+title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "automation"
 tools:
-  - "RAG"
   - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-26T05:10:56+00:00"
+generated_at: "2026-10-27T05:25:27+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：🏳️‍🌈I wish I could just make genuine stud/
+# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-🏳️‍🌈I wish I could just make genuine stud/masc friends as a female ‼️Key word is genuine …
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +27,7 @@ generated_at: "2026-10-26T05:10:56+00:00"
 
 ## 使用工具
 
-RAG、Make
+Make
 
 ## 原始工作流拆解
 
@@ -64,27 +63,17 @@ reply_summary_status: `partial`
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insight
+Log in or sign up for Threads See what people are
+- [Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
+- URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: RAG、Make
+- content_quality: `medium`
+- keyword_hits: Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -95,50 +84,11 @@ Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](https://www.threads.com/)
+Log in or sign up for Threads See what people are talking about and join the conversation.
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: stayville_stay's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/756535854_17900829915498985_8921000835043035333_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MjIuYzEifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHaC_wIKyRyW-e-wi7OlwFimg7XikQEnBm_37Rm20BQRrPVxwmOz_6LxTAHHJay3BUYQk0Ok8ABCjJM5JiMC1d7&_nc_ohc=KDjgxOyWs2sQ7kNvwFOcv2u&_nc_gid=wOE8EbwczcLjkWVRG1JW8g&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQPwQoRP3clTxjSXnr8j2IJBr0d4O5OX1S0DSa1vY6MHTQ&oe=6AE4A45F&_nc_sid=68810c)](https://www.threads.com/@stayville_stay)
-
-[stayville_stay](https://www.threads.com/@stayville_stay)
-
-[Stray Kids STAY](https://www.threads.com/search?q=Stray%20Kids%20STAY&serp_type=tags&tag_id=18424498144036000)
-
-[22h](https://www.threads.com/@stayville_stay/post/De6H5u4DUNU)
-
-🐰: The *maknae* was the first to wish me a happy birthday! And Chan-hyung bought me a phone! *looks at the staff* Why are you looking at me like that? Are you jealous? He bought me a brand-new iPhone 18 Pro—the one that just came out. Skijigi are looking at me like this: 😮
-
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/865392737_1639522421001183_5049712965036265738_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=111&ig_cache_key=NDAxNTU1NjMwMzM4MDEzOTA0NA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=Iba2roDxrFUQ7kNvwGToTcH&_nc_oc=Adqrb3TnLrI-k3WmoRCM-Pcsc5Ec7_Nv22GWJ4ZaO1zFRbWRU6Nh1cafMxxuRagLQeYUxXBOVovlVS6em43yddBn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=wOE8EbwczcLjkWVRG1JW8g&_nc_ss=7a20f&oh=00_AQP1E3MIaJvmgs4AwLjWX0ynw27DS4fkFVOEFPiiArOhUw&oe=6AE4A567)
-
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUCD5Gswq548NT8vZpRL22kJUvPyiLRaoT9cNjWyR-zIreA_V2NhVBhl61PVUKtr9vf8N_TK4_wD5Z5izk2k7PrDdY_hJhS1e9dc1y8aSgPW6x1ODnY)
-
-![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/863535213_17914333065498985_7382823450339084830_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ig_cache_key=NDAxNTU1NjI0OTI0MjcyNjcwMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzM2LnNkci5yZWd1bGFyX3Bob3RvLkMzIn0%3D&_nc_ohc=56eCdLBPvRYQ7kNvwGbZ4FE&_nc_oc=Ado11BU-Mb01eWH7JgYnlDLYh5pLbvvsJ1JbMBRiLA3RYHWjWTPslaqlW-i9CfBrDRV7AhHrk9XZP1QxJm5GbC3z&_nc_ad=z-m&_nc_cid=0&_n
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 ```

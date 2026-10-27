@@ -6,11 +6,10 @@ post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "GPT"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-26T05:10:56+00:00"
+generated_at: "2026-10-27T05:25:27+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -27,7 +26,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-GPT
+待人工確認
 
 ## 原始工作流拆解
 
@@ -68,14 +67,11 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 Markdown Content:
 Log in or sign up for Threads See what people are t
 - Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
-- [Log in with username instead](http://www.threads.com/login?show_choice_screen=false)
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、GPT
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -87,47 +83,69 @@ Title: Threads • Log in
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
-[![Image 1: beautiful_brimarie's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/468606615_933847962198683_7009494468916644891_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=gNvpso28jpwQ7kNvwH4Teg0&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNwCtGJgo-WLBPOYprnqdMk8XGie1ZSbVY8sPynW84-yA&oe=6AE4CAF2&_nc_sid=10d13b)](https://www.threads.com/@beautiful_brimarie)
+[](https://www.threads.com/)
 
-Jackie should’ve made first team over Clark I don’t care 🤷🏽‍♀️ Jackie had the better season. I’m sick of them forcing her on us
+[Home](https://www.threads.com/)
 
-752
+New thread
 
-236
+[Search](https://www.threads.com/search)
 
-35
+Messages
 
-1
+Activity
 
-[![Image 2: marissafitz's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/520437092_17895051402259394_4080799611814676379_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=ya2UQXrP1mkQ7kNvwES-2x8&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM9GE0pMYMvS4XPWD6_8Qw0K45uRFjz-MoppjPq7NbXUA&oe=6AE4B434&_nc_sid=10d13b)](https://www.threads.com/@marissafitz)
+Profile
 
-I hate when people ask if my hospital bag is packed. How am I supposed to pack a bag when I only have 2 pairs of comfy pants and 3 shirts that fit and they are constantly in rotation? #38weeks
+Insights
 
-881
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-37
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: jemelehill's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358008238_288616323707943_6279062257481159483_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=_5RTSCqMPaUQ7kNvwEBpogd&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMxUwLORtBbhle061ZqSltepsKQhGccPZBEwV3x5FJcSg&oe=6AE602E9&_nc_sid=10d13b)](https://www.threads.com/@jemelehill)
+
+[jemelehill](https://www.threads.com/@jemelehill)
+
+[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+
+[3h](https://www.threads.com/@jemelehill/post/De-teASm7t9)
+
+Kiah Stokes has been the best defender on the floor. She changed the whole complexion of this game.
+
+833
+
+40
+
+24
+
+[![Image 2: saraah.bjj's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/857105927_18118618078907652_4201490682456537257_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=DSUMmpI-OlIQ7kNvwHjBt_W&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMqLT0kcqu_DNNR37ofZ155W-B_3zURVWRvtuZjDDGP7g&oe=6AE5EE3E&_nc_sid=10d13b)](https://www.threads.com/@saraah.bjj)
+
+[saraah.bjj](https://www.threads.com/@saraah.bjj)
+
+[19h](https://www.threads.com/@saraah.bjj/post/De89GExCNRJ)
+
+be honest: gi or no-gi if you could only train one forever?
 
 21
 
-16
+2
 
-[![Image 3: tjmannarino's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/790058581_17985083991104437_3365415588903959432_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=sKWimvCUCWMQ7kNvwF72mQL&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQNFw5KyXpjNDD2JOhI79nSXShbYnuezpEiq8nw2hatnfQ&oe=6AE4B019&_nc_sid=10d13b)](https://www.threads.com/@tjmannarino)
+[![Image 3: kells01's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/370014542_824058712763259_3149838229282663491_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=hWZBbL7s_-oQ7kNvwEvhPYc&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOES2mPR-jBDddFiS4qNLoioblrnRvs_gUrRFxoiMSuVA&oe=6AE5FC38&_nc_sid=10d13b)](https://www.threads.com/@kells01)
 
-Brewers have the four best mascots in sports. One is a human.
+[kells01](https://www.threads.com/@kells01)
 
-143
+[New York City](https://www.threads.com/search?q=New%20York%20City&serp_type=tags&tag_id=18399378346012723)
 
-19
+[15h](https://www.threads.com/@kells01/post/De9aUa4oP3r)
 
-[![Image 4: flowzpam's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/526943403_18495809194068217_5012674765950440100_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGFz_qs-0NSxgBBIm7Va7Ap9FfZhg9YOwWCz71pG_viaT-G5bBN5O0Cn3gXsh11ZGQ&_nc_ohc=AE6aM84b6poQ7kNvwEmqUWZ&_nc_gid=_j4lBDfMIT5E_48LsoZpNw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQM1sVz1UkPxZh_HwzZQMFkhjJi10Gv5OJt1Nw4AXlZ6DA&oe=6AE4C996&_nc_sid=10d13b)](https://www.threads.com/@flowzpam)
-
-To the 1% who stopped to look, i drew this 💜
-
-2.1K
-
-22
-
-16
-
-[![Image 5: nfl's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357718685_624693292952724_63859520632565944
+This is the most beautiful October weather I can remember. The past week has been stunning in NY/NJ. Just wow
 ```

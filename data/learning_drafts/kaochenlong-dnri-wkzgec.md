@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0098
-generated_at: "2026-10-26T05:10:56+00:00"
+zh_ratio: 0.0102
+generated_at: "2026-10-27T05:25:27+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -61,22 +61,16 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
-
-Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- Title: 高見龍.agent (@kaochenlong) on Threads
-
 URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Agent、agent、工具
-- zh_ratio: `0.0098`
+- zh_ratio: `0.0102`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -89,35 +83,13 @@ URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 Markdown Content:
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+# [Thread 12.3K views](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
-12.3K views
-
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=Cq-aPqwRJ3QQ7kNvwH_nusl&_nc_oc=AdrdkSVtm2mHlUfn8lO21Z-uMTV0pPpqau2PiiV7GPihGqnFGHUljjujQiFZIdkn1Oo&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQMN79LDkVldNblMqFakuDqs8RPBBwefwp-XoTW0OmFqMw&oe=6AE4BC4B)](https://www.threads.com/@kaochenlong)
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=Cq-aPqwRJ3QQ7kNvwE9Hi31&_nc_oc=AdqGFwHw0ZprlwkhwmAvCOfKeXuDNw_AZep1kdPp03gQWlk5S_6ssnYzVd4Yl0-J5Fs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQMbspGxdNNr9YYjbTnQoHu3ICelp09vwCU4TuG59uOnEQ&oe=6AE60DCB)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
@@ -127,7 +99,7 @@ More
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D0-93P2UO-MQ7kNvwF76T3g&_nc_oc=AdqgF0S67AKw4jG6eA9l2oWscpKrXl-HOi6qONZD0_mJp5_dWCuuT3a3bTklMExNXFU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=kyyIEuNNOXYPi3_4wh9Ytw&_nc_ss=7b289&oh=00_AQN0viLSN0-o3ZkI47KinpiNmsfBcWM0Zq9_9X1uO-1MwQ&oe=6AE4B2E0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D0-93P2UO-MQ7kNvwHFifQk&_nc_oc=AdpfjNEMe_80CU3F5myT8HiBRDoUL1YksyMlI6WCxakXlt3-OI6HjWdN7LGZU6QGNBQ&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=lrdIam93_QfBU8sxmVdKig&_nc_ss=7b289&oh=00_AQOkBUTBkt1Kxx5Tkamootpsm9gGNPaWM47cWcHUSCaliw&oe=6AE60460)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -137,7 +109,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 16
 
-[![Image 3: ziyuang's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNTYuQzMifQ%3D%3D&_nc_ohc=CJfcHLYdyzwQ7kNvwHUGWpM&_nc_oc=AdpQH2Fj6c_5H0SXi5w6tqCyjCCZDcIyMLN_4t6oMWoj0I_oSP2r7O_4woSQfpj75R8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQPs4LYjnvJdby5CX5qBzd7C7nr8OPOku3N2FtnPexh53g&oe=6AE4B784)](https://www.threads.com/@ziyuang)
+[![Image 3: ziyuang's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/414679080_3190179754622797_6916218365768015547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=100&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4yNTYuQzMifQ%3D%3D&_nc_ohc=-E21Ldyfdn8Q7kNvwHgrB9H&_nc_oc=AdqdaI8o8o6rH2s7ZWsa-uq1AHoWacORdXbcbmYYj3j0HrGj5XrkGWyXjsmqkqRkjxU&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQNF2K-W0H0xaN1ik4axjVytqMt-1Uk_bI1QsCTslV3WLA&oe=6AE60904)](https://www.threads.com/@ziyuang)
 
 [ziyuang](https://www.threads.com/@ziyuang)
 
@@ -147,5 +119,5 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 1
 
-[![Image 4: edetroy8404's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BHVYKW7Vwo4Q7kNvwG0D_zt&_nc_oc
+[![Image 4: edetroy8404's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/802504003_17976764034121044_15580204589196165_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=102&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=BHVYKW7Vwo4Q7kNvwHf4kPL&_nc_oc=Adr2A58xSgm7cwpimJi2pf2hga-NLqOnkkbjGExOHW92BMyS30SP6GPGP_MHM7zVM4w&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=aofiXT55zLnNZ-A6G3y_9w&_nc_ss=7b289&oh=00_AQMrgpcWniAvkKe5kISnA_jLiPE-8RaQBhZ9SkYagJNFgw&oe=6AE6119B)](
 ```

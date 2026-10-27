@@ -7,14 +7,12 @@ language: "unknown"
 category: "coding"
 tools:
   - "Manus"
-  - "Dify"
   - "Notion"
-  - "GAS"
   - "Canva"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0663
-generated_at: "2026-10-26T05:10:56+00:00"
+generated_at: "2026-10-27T05:25:27+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -31,7 +29,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、Dify、Notion、GAS、Canva
+Manus、Notion、Canva
 
 ## 原始工作流拆解
 
@@ -67,30 +65,23 @@ reply_summary_status: `partial`
 
 - Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
 
-URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
-
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_179761797001096
-- [Ai工具](http://www.threads.com/search?q=Ai%E5%B7%A5%E5%85%B7&serp_type=tags&tag_id=18407635651042247)
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_179761797001096
+- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+
+URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_1797617970010967
+- Markdown Content:
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Z
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Dify、工具、整理、生成、Notion
+- keyword_hits: AI、工具、整理、生成、Notion
 - zh_ratio: `0.0663`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
@@ -132,7 +123,7 @@ More
 
 793 views
 
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=ovuT2yLNs_wQ7kNvwGL0sUg&_nc_oc=AdqVroC8KlkyIbqQHlPsiILAcoGgjiTKJVr_JVuGDqVXSpExX8L0Rbq2HnBymYc8EEY&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=oGVFfpqCvhvq3FbcuC31HQ&_nc_ss=7b289&oh=00_AQNLH-4gT0idH-6WxlMcAqQX1fo90sVDwFTlWwe_4rwhMQ&oe=6AE49FFA)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=105&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=ovuT2yLNs_wQ7kNvwHnyvB6&_nc_oc=Adq5iixyLtqwqBHl2bE4iA-NXRLsM5gsiuRtqCDimJ7LbRvCM0Fc62yLyLWjxkTEFrk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=kjlxniQl8Xa2jwTl3yBbng&_nc_ss=7b289&oh=00_AQOk-0fM-NN5bdf_7wvpa7VDg-3GtMCzGAdaGSpRQEAOMw&oe=6AE5F17A)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -144,11 +135,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 👇🏻用1分鐘看我的使用方式&成果
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=T9tVSzrI7CAQ7kNvwHaIL1r&_nc_oc=AdplXK5WhU8168TcBLgXkOBnZIEIC0jFbhNHDkGAQv3NmN4wSOckM2nDbgU_OWJVTsU&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=oGVFfpqCvhvq3FbcuC31HQ&_nc_ss=7b289&oh=00_AQPAXdiy0Wt5I8SODnAJLnIzag2T2DKnq9HCYaM3j5OXzA&oe=6AE4977D)
+![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=T9tVSzrI7CAQ7kNvwFIQsXq&_nc_oc=AdoYflVYNjGeUXrOXX826ofjXWc9DwSEv-J5OaNp-4-uEq7LjpIffDTllR0BOeNgkcY&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=kjlxniQl8Xa2jwTl3yBbng&_nc_ss=7b289&oh=00_AQPHiV5s5rk705PQDj6zdgo9y8hgd_Uk9DEl0H8JM2dafg&oe=6AE6213D)
 
 Sorry, we're having trouble playing this video.
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAZiegrPx4YOdnqqPasl7PsXgPm1VfCf7lDdf8_vWKMXBuN2UHLhQty4uJJnC5mWjrrwdD2woQU-K1gVNMNWHW8cgS4Tx6l4zRsTlAg-D-OfLF0ef8)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAIS_G7XhuztEo8jNWi3-BMdfIqYfEeKFRV1ETf9YGfSqMJfDGYp6vT5ltdWip1oWNeG2yFXJ_ZxwrWHZy1HXXTAlHm-t-9ETCfvqQmnK0RrfBJVuw)
 
 henry.wen
 
@@ -160,7 +151,7 @@ henry.wen
 
 Related threads
 
-[![Image 3: funaitools's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/626767431_17843508285690978_565507303593966992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHphQ9qgsOO-8FTp2shAyIOotrJf5AVhiK3juZSzt0TPHKkSSwjgka8MCG8NpcSOfo&_nc_ohc=xzzWx4rX0_MQ7kNvwEwa9tD&_nc_gid=fEM4huum4JWPDuuUpCoUNg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQO_NK2I6h9s0bcmGpdnhMKANKSXzVIlEuDqOgtJ8zt4eg&oe=6AE4B5BF&_nc_sid=10d13b)](https://www.threads.com/@funaitools)
+[![Image 3: funaitools's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/626767431_17843508285690978_565507303593966992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHQ75NwVQOOCJvMLBx8qA7XdeJEnSB9ut2jXKvPQJIEaa6irrjwC7tsKK_WeBprodE&_nc_ohc=YLyBnCc_6ecQ7kNvwF4h1HX&_nc_gid=YLTipkFPjc_3CWJlKYSojg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQPWx7Xgh9DNnnmmBWkyOONCK0CpEGgKC8Q0qJ52ZfDluA&oe=6AE6073F&_nc_sid=10d13b)](https://www.threads.com/@funaitools)
 
 [funaitools](https://www.threads.com
 ```
