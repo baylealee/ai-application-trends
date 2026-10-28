@@ -14,8 +14,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0494
-generated_at: "2026-10-27T05:25:27+00:00"
+zh_ratio: 0.049
+generated_at: "2026-10-28T06:04:06+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -82,8 +82,8 @@ New thread
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、Codex、Agent、agent、流程、prompt、提示詞、工具、整理、設計、小工具、CRM、Notion、GitHub、開源
-- zh_ratio: `0.0494`
+- keyword_hits: AI、Claude、RAG、Codex、Agent、agent、流程、prompt、提示詞、工具、整理、設計、小工具、Notion、GitHub、開源
+- zh_ratio: `0.049`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -124,7 +124,7 @@ More
 
 28K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=8SnHkRr2H3cQ7kNvwHyX0hn&_nc_oc=Adpca1LWL4cSl4a_Uep0uluZzg3pjqJU8KDLLBFdtwmFhQ4BI9H-LNS6ng-dsE1sGzE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=epkDTNIYrK0BZB2W2iWwHA&_nc_ss=7b289&oh=00_AQM3xiG0eu5AoEFQ1JL-_ZIdHePONNSYBoeqeYiI2WTU0A&oe=6AE5F1B0)](http://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bivuALB-IqoQ7kNvwHfSp82&_nc_oc=AdqLSnbbh4OPPrNNesW4gmORAEYLOHUCS3cayZriQE9PrOBJGL8d1na-nZjm08zFvso&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=_o3zd_8rGFOJpMNnLgsX5w&_nc_ss=7b289&oh=00_AQQkJfTZxqqXbNfg7Jn5cb5MGuSh22NiETu0VqBoSUSd-Q&oe=6AE77B70)](http://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](http://www.threads.com/@pmenance.manager)
 
@@ -148,7 +148,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=HhsWSHJL2TgQ7kNvwFxEQvp&_nc_oc=Adpnj_T5HQn_PXTDHijtgiy7PapBBXcYL9fKgWuw2kOuPyiM_IurM4t8-_rZiboueao&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=epkDTNIYrK0BZB2W2iWwHA&_nc_ss=7b289&oh=00_AQPv54O8u_e89ZnT6FJTheCyBwdptVLxnPPdIgXEUmF5qQ&oe=6AE61208)](http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Na7oHwqsymUQ7kNvwH10icS&_nc_oc=AdpdhtKnK3oTvdMEh4sCUYT8RFbrMm0XmjsiSYRMf2GZqldg9QgbzimDHgKwRWXS9BM&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=_o3zd_8rGFOJpMNnLgsX5w&_nc_ss=7b289&oh=00_AQTR8rQmZTKvqJIvl5-bVMdBa-dHM4t8yNCvdZLRhzzoTQ&oe=6AE76388)](http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 506
 
@@ -160,5 +160,5 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=8SnHkRr2H3cQ7kNvwHyX0hn&_nc_oc=Adpca1LWL4cSl4a_Uep0uluZzg3pjqJU8KDLLBFdtwmFhQ4BI9H-LNS6ng-dsE1sGzE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=epkDTNIYrK0BZB2W2iWwHA&_nc_ss=7b289&oh=00_AQM3xiG0eu5AoEFQ1JL-
+[![Image 3: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bivuALB-IqoQ7kNvwHfSp82&_nc_oc=AdqLSnbbh4OPPrNNesW4gmORAEYLOHUCS3cayZriQE9PrOBJGL8d1na-nZjm08zFvso&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=_o3zd_8rGFOJ
 ```

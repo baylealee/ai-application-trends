@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-27T05:25:27+00:00"
+generated_at: "2026-10-28T06:04:06+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -62,11 +62,23 @@ reply_summary_status: `partial`
 
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
 Markdown Content:
-Log in or sign up for Threads See what people are t
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+[](http://www.threads.com/)
+
+[Home](http://www.threads.com/)
+
+New thread
+
+[Search](http://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
 
 ## 抓取品質
 
@@ -111,41 +123,45 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: jemelehill's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358008238_288616323707943_6279062257481159483_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=_5RTSCqMPaUQ7kNvwEBpogd&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMxUwLORtBbhle061ZqSltepsKQhGccPZBEwV3x5FJcSg&oe=6AE602E9&_nc_sid=10d13b)](https://www.threads.com/@jemelehill)
+[![Image 1: katekingauthor's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/774149112_18099966365608642_1278651287661508158_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG1UsfL6JfLmcd-bYklyCIdP5BD1aFhXvjjFNCnFT-2f7bcxHJoxdu1-TYr8To_NXTDvRzHMdkV2WtkZdX-PwMw&_nc_ohc=DN52YcPOj68Q7kNvwFh0I27&_nc_gid=_ebQG1YVe48ejopNTBeZbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQS9jJKoDkGfrlewhF4FQ6k600CT7RuBZLL4tC9sdkHc2g&oe=6AE7777B&_nc_sid=68810c)](https://www.threads.com/@katekingauthor)
 
-[jemelehill](https://www.threads.com/@jemelehill)
+[katekingauthor](https://www.threads.com/@katekingauthor)
 
-[WNBA threads](https://www.threads.com/search?q=WNBA%20threads&serp_type=tags&tag_id=18372945619079218)
+[Dancing with the Stars](https://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
 
-[3h](https://www.threads.com/@jemelehill/post/De-teASm7t9)
+[5h](https://www.threads.com/@katekingauthor/post/DfBHdLIDTvc)
 
-Kiah Stokes has been the best defender on the floor. She changed the whole complexion of this game.
+10 minutes in and I’m already begging for Shirley Ballas to be a judge every week. We NEED this energy
 
-833
+459
 
-40
+14
 
-24
-
-[![Image 2: saraah.bjj's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/857105927_18118618078907652_4201490682456537257_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=DSUMmpI-OlIQ7kNvwHjBt_W&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQMqLT0kcqu_DNNR37ofZ155W-B_3zURVWRvtuZjDDGP7g&oe=6AE5EE3E&_nc_sid=10d13b)](https://www.threads.com/@saraah.bjj)
-
-[saraah.bjj](https://www.threads.com/@saraah.bjj)
-
-[19h](https://www.threads.com/@saraah.bjj/post/De89GExCNRJ)
-
-be honest: gi or no-gi if you could only train one forever?
-
-21
+20
 
 2
 
-[![Image 3: kells01's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/370014542_824058712763259_3149838229282663491_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHO4jFJTDyLI61YhbLfkhd6p5PzEmaPjfbWZoWlHagcVkom11ro7ygABhJ0F4MdEuU&_nc_ohc=hWZBbL7s_-oQ7kNvwEvhPYc&_nc_gid=3e_teNsqSPCQBlF8gt9G1g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQOES2mPR-jBDddFiS4qNLoioblrnRvs_gUrRFxoiMSuVA&oe=6AE5FC38&_nc_sid=10d13b)](https://www.threads.com/@kells01)
+[![Image 2: doctacurls's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/427269288_1089022335637874_4499274897828001614_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG1UsfL6JfLmcd-bYklyCIdP5BD1aFhXvjjFNCnFT-2f7bcxHJoxdu1-TYr8To_NXTDvRzHMdkV2WtkZdX-PwMw&_nc_ohc=X6P08BIjJ9cQ7kNvwE2Sbyw&_nc_gid=_ebQG1YVe48ejopNTBeZbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQStHfvUbSMMOVZkx-RaNvw0GeVXEQv5l31C5JkY1Dhwsw&oe=6AE7777C&_nc_sid=68810c)](https://www.threads.com/@doctacurls)
 
-[kells01](https://www.threads.com/@kells01)
+[doctacurls](https://www.threads.com/@doctacurls)
 
-[New York City](https://www.threads.com/search?q=New%20York%20City&serp_type=tags&tag_id=18399378346012723)
+[Mom threads](https://www.threads.com/search?q=Mom%20threads&serp_type=tags&tag_id=18277161040092233)
 
-[15h](https://www.threads.com/@kells01/post/De9aUa4oP3r)
+[13h](https://www.threads.com/@doctacurls/post/DfASk7QlvA5)
 
-This is the most beautiful October weather I can remember. The past week has been stunning in NY/NJ. Just wow
+Moms: Do you think you understood how absolutely constant motherhood is before having your first child?
+
+I did not but I’m wondering if that’s because is my upbringing or if, in general, it’s not something you can truly understand until you experience it.
+
+In enjoy being a mother but that part made me have my kids further apart (4.5 years) and stop at 2 because I am at capacity lol
+
+228
+
+77
+
+6
+
+8
+
+[![Image 3: filthyrockwell's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/466922924_1289867185766696_7765193272095033356_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG1UsfL6J
 ```
