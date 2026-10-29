@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：49ers announced they officially have acqui"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-28T06:04:06+00:00"
+generated_at: "2026-10-29T06:16:03+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：49ers announced they officially have acqui
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+49ers announced they officially have acquired DL DeForest Buckner from the Colts in exchange for the team’s 2027 fourth-round pick. In order to make room on the roster, the 49ers r
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,38 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Markdown Content:
-[](http://www.threads.com/)
-
-[Home](http://www.threads.com/)
-
-New thread
-
-[Search](http://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Markdown Content:
@@ -109,59 +78,70 @@ Activity
 
 Profile
 
-Insights
+Insig
+- [![Image 6](https://scontent.cdninstagram.com/v/t39.30808-6/863644817_10237659021598242_6007624870187111095_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxODEzMTE1NzU4OTY2NzEyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
+- Title: Threads • Log in
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-More
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-[](https://www.threads.com/)
+Markdown Content:
+Log in or sign up for Threads See what people are t
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-[](https://www.threads.com/)
+## 抓取品質
 
-[](https://www.threads.com/search)
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-# [Home](https://www.threads.com/?error=invalid_post)
+## 原始抓取內容
 
-[![Image 1: katekingauthor's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/774149112_18099966365608642_1278651287661508158_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI5LmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG1UsfL6JfLmcd-bYklyCIdP5BD1aFhXvjjFNCnFT-2f7bcxHJoxdu1-TYr8To_NXTDvRzHMdkV2WtkZdX-PwMw&_nc_ohc=DN52YcPOj68Q7kNvwFh0I27&_nc_gid=_ebQG1YVe48ejopNTBeZbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQS9jJKoDkGfrlewhF4FQ6k600CT7RuBZLL4tC9sdkHc2g&oe=6AE7777B&_nc_sid=68810c)](https://www.threads.com/@katekingauthor)
+```text
+Title: Threads • Log in
 
-[katekingauthor](https://www.threads.com/@katekingauthor)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[Dancing with the Stars](https://www.threads.com/search?q=Dancing%20with%20the%20Stars&serp_type=tags&tag_id=18319740388128605)
+Markdown Content:
+[![Image 1: kateboyd.co's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/519671797_18167739655359717_5004376064451110097_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=ieme4RTnaK8Q7kNvwFDUES_&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRNYzb3TEe7ZNkkV38Op7FA0p8vwjXWwhPjkc0mff5Kow&oe=6AE8BBF9&_nc_sid=10d13b)](https://www.threads.com/@kateboyd.co)
 
-[5h](https://www.threads.com/@katekingauthor/post/DfBHdLIDTvc)
+Everyone who read Revelation as a teenager during the Left Behind era, how are we REALLY doing?
 
-10 minutes in and I’m already begging for Shirley Ballas to be a judge every week. We NEED this energy
+GIFs only
 
-459
+86
+
+91
+
+4
+
+[![Image 2: samagrams9's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/839044626_18637878127047547_7015785819367285124_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=d1wGk4vlqpwQ7kNvwFsuWOr&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSIhDnRk4pD-vsf3y0ZzrLzI7hTxQOoCutmX7MOEArysQ&oe=6AE8A01B&_nc_sid=10d13b)](https://www.threads.com/@samagrams9)
+
+Everyone who sang “Waterfalls” by TLC in 1995 deserves retroactive credit for participating in a public health awareness campaign. We didn’t understand the curriculum, but our attendance was impeccable.
+
+741
 
 14
 
-20
+13
 
 2
 
-[![Image 2: doctacurls's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/427269288_1089022335637874_4499274897828001614_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG1UsfL6JfLmcd-bYklyCIdP5BD1aFhXvjjFNCnFT-2f7bcxHJoxdu1-TYr8To_NXTDvRzHMdkV2WtkZdX-PwMw&_nc_ohc=X6P08BIjJ9cQ7kNvwE2Sbyw&_nc_gid=_ebQG1YVe48ejopNTBeZbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQStHfvUbSMMOVZkx-RaNvw0GeVXEQv5l31C5JkY1Dhwsw&oe=6AE7777C&_nc_sid=68810c)](https://www.threads.com/@doctacurls)
+[![Image 3: adamschefter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832733_187865147331651_6878775976036134737_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=bjDYM8jX9W4Q7kNvwGYyqBp&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSjgkRpj7ommdbNF9QXcG-IeAT1c3YyT31qcC1Jqejnag&oe=6AE8A262&_nc_sid=10d13b)](https://www.threads.com/@adamschefter)
 
-[doctacurls](https://www.threads.com/@doctacurls)
+49ers announced they officially have acquired DL DeForest Buckner from the Colts in exchange for the team’s 2027 fourth-round pick. In order to make room on the roster, the 49ers released CB Jack Jones.
 
-[Mom threads](https://www.threads.com/search?q=Mom%20threads&serp_type=tags&tag_id=18277161040092233)
+249
 
-[13h](https://www.threads.com/@doctacurls/post/DfASk7QlvA5)
+2
 
-Moms: Do you think you understood how absolutely constant motherhood is before having your first child?
+4
 
-I did not but I’m wondering if that’s because is my upbringing or if, in general, it’s not something you can truly understand until you experience it.
+5
 
-In enjoy being a mother but that part made me have my kids further apart (4.5 years) and stop at 2 because I am at capacity lol
+[![Image 4: dogandphotog's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/809910421_17900387598603829_4674260840452293364_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=EXagt53YT6IQ7kNvwHGp0V6&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSZ_DDjGGO47Z1e302qQBscYAL0iEtnAXR3ZZWeDHlIHg&oe=6AE8B1D9&_nc_sid=10d13b)](https://www.threads.com/@dogandphotog)
 
-228
-
-77
-
-6
-
-8
-
-[![Image 3: filthyrockwell's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/466922924_1289867185766696_7765193272095033356_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gG1UsfL6J
+The phrase is now Au Contreras if you disagree with something, like a
 ```

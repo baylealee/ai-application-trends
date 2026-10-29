@@ -10,7 +10,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-27T05:25:27+00:00"
+generated_at: "2026-10-29T06:16:03+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA

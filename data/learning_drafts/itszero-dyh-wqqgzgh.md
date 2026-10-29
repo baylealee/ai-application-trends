@@ -14,8 +14,8 @@ tools:
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0594
-generated_at: "2026-10-28T06:04:06+00:00"
+zh_ratio: 0.0758
+generated_at: "2026-10-29T06:16:03+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -37,7 +37,7 @@ Claude、Claude Code、MCP、Codex、GitHub、OpenClaw
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
-2. [Image 6: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11685843191120930413?
+2. [Image 5: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/5694923027146681097?
 3. 我們都知道 AI agent是根據你的提示詞去執行工作。
 4. 「這做法我嚴重懷疑有問題，有優化空間。
 5. Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
@@ -71,18 +71,16 @@ reply_summary_status: `partial`
 URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_786826528712824
 - 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
 this fails, fix it 2. "
 " I need to run this, figure it out
-- Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2Zpb
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、MCP、OpenClaw、Codex、Agent、agent、工作流、自動化、流程、prompt、提示詞、工具、GitHub、開源
-- zh_ratio: `0.0594`
+- zh_ratio: `0.0758`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -123,7 +121,7 @@ More
 
 613 views
 
-[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=hfO_C7ZSlk4Q7kNvwHPEBZZ&_nc_oc=AdqMtDoysG4xVTSYTsqqI2mhy9X7wlfsy-vLev0rSHHtcvpxz8LEc2akW7WYjEzwfIA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=mUBoryRwf24wwUY8Tnvuxg&_nc_ss=7b289&oh=00_AQTAfhJukEBLsYsCc0Fcih7SFOVFwdx4F4-oH7JaPySCsQ&oe=6AE7648B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=fwvSNi4JIz4Q7kNvwGn8JPM&_nc_oc=AdpqHopRPOQiIY2So4tRzNyXEWFEf6nT77v_VVo1x_9oE2Flu0DkPzbB-bt3J7smeJU&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=nEWNOo9_bnyFzRnBs0JqrA&_nc_ss=7b289&oh=00_AQSqdRpUcKhH3MM8knubyiNaUOkm6j9DG5SOhIJFQminFA&oe=6AE8B60B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -137,7 +135,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IKB8MluGMfoQ7kNvwF0xJSi&_nc_oc=AdretjAGrN8TTwZ_4fCPwE0T06-U3s12Nr15EO3hRDZcgbMGFXgzXMyU1zUIWYT4Qxw&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=mUBoryRwf24wwUY8Tnvuxg&_nc_ss=7b289&oh=00_AQTIxaggYVVyjd-cFWRBBk8ospjiiHUQLnXQRlJgaB7glg&oe=6AE77BD1)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=IKB8MluGMfoQ7kNvwHpmqDS&_nc_oc=AdrSTMSS_tq9fm0xMujR1NQoWeer2EUSOZnRkEbXaQeNe4fz8AJgGWrD0jsJCPXmx9A&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=nEWNOo9_bnyFzRnBs0JqrA&_nc_ss=7b289&oh=00_AQR6XSQ25ILP__7lIkPPOU4i9F4x3YkRHiuKhctcSWKGPg&oe=6AE8CD51)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -147,7 +145,7 @@ it just works™
 
 Related threads
 
-[![Image 3: choihunghk's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFdbMbgP6WZ8l46uKyy1mF6-03u4YBY5ACeQw8fZEYutkQ5HberDIXJgeVO7ly7TGs&_nc_ohc=vU0wV0y3wswQ7kNvwGyg1ms&_nc_gid=mUBoryRwf24wwUY8Tnvuxg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSycl90prHd7Uxep_4sw8ElAHEzrCVsJv9cfkq8V5Xf_A&oe=6AE7539A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
+[![Image 3: choihunghk's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHKVFNQm-s2ejRhN84LZb7qgnqorykRHdXACCi53knS0-PnnmuiHluXRq9hC6Dm4Yo&_nc_ohc=vU0wV0y3wswQ7kNvwFFA-Np&_nc_gid=nEWNOo9_bnyFzRnBs0JqrA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTN9zTlLCuJZpBcTQFXoOq30UgAq3xiKk5hcCZgNigHAg&oe=6AE8A51A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
 
 [choihunghk](https://www.threads.com/@choihunghk)
 
@@ -161,5 +159,5 @@ Translate
 
 3
 
-[![Image 4: bochin.wang's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/427636768_375689711764849_5117321970882265063_n.jpg?stp
+[![Image 4: xtianowner's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/865789956_17904568023669334_1100043125691428728_n.jpg?s
 ```
