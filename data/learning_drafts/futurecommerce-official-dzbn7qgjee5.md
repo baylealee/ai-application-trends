@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0314
-generated_at: "2026-10-29T06:16:03+00:00"
+generated_at: "2026-10-30T06:15:24+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -64,18 +64,18 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/6
+[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/6
 - Title: 未來商務 (@futurecommerce_official) on Threads
 
-URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
+URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/60
+[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/6
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、CRM
+- keyword_hits: AI、Claude、MCP
 - zh_ratio: `0.0314`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
@@ -117,7 +117,7 @@ More
 
 138K views
 
-[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=1XC96KdSEq0Q7kNvwHlw2_y&_nc_oc=AdottyxPyZt-6NXN9Qybk6m5cir79k3jYRoV03fhQ0yuAPbG26ZrJAtQW9ONGhr4Vk4&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=l1K36sn2BHu1gxCNh8df5Q&_nc_ss=7b289&oh=00_AQQ9cwIIQ9xOOCLRFBinEcs6JP6LEXzqSv3_ZGBUEnym_g&oe=6AE8B5E8)](https://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=1XC96KdSEq0Q7kNvwELdxL2&_nc_oc=Adojz8NKz7a2eFw0ZLUPEDF61CjTFtDPeB0AE0iVfhtch_Q7XM754KdluYQbKSPetRU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=NMr0y6vaIiSM1yiSTnw6Jw&_nc_ss=7b289&oh=00_AQQ1vKyk7oM19hNweDDhRnqGZjbjxWAvZJF6ybAeWfwEGg&oe=6AEA0768)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -139,7 +139,7 @@ Twinkle Hub 把 6.4 萬份考卷、32 萬題的考選部資料整合進 MCP 端�
 
 2.4K
 
-[![Image 2: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=1XC96KdSEq0Q7kNvwHlw2_y&_nc_oc=AdottyxPyZt-6NXN9Qybk6m5cir79k3jYRoV03fhQ0yuAPbG26ZrJAtQW9ONGhr4Vk4&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=l1K36sn2BHu1gxCNh8df5Q&_nc_ss=7b289&oh=00_AQQ9cwIIQ9xOOCLRFBinEcs6JP6LEXzqSv3_ZGBUEnym_g&oe=6AE8B5E8)](https://www.threads.com/@futurecommerce_official)
+[![Image 2: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=1XC96KdSEq0Q7kNvwELdxL2&_nc_oc=Adojz8NKz7a2eFw0ZLUPEDF61CjTFtDPeB0AE0iVfhtch_Q7XM754KdluYQbKSPetRU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=NMr0y6vaIiSM1yiSTnw6Jw&_nc_ss=7b289&oh=00_AQQ1vKyk7oM19hNweDDhRnqGZjbjxWAvZJF6ybAeWfwEGg&oe=6AEA0768)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -147,7 +147,7 @@ Twinkle Hub 把 6.4 萬份考卷、32 萬題的考選部資料整合進 MCP 端�
 
 ·Author
 
-三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUBw4LovkK99pVZ-7RJbThwIMHanPKTXQB2x25V-jq5k3Wa_dAu93eJIT5nL1R-EELAZoJw9ebvhRAtqcirbPfWZhwFAvMhhHoAyY_CoPxeC81nt_NA)
+三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUDPZuVGKmc-GEyftwMOCoaOot44QGRQFgp0DUhfRXLzUXLQzldqxWdZMiEkJb1cuXpsEMozlaW85NrMs8kAe6-qSBGIdEkhLHLkqNnXW5pbpf2K3qw)
 
-[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26output%3Dwebp&utld=learnin.tw&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=l1K36sn2BH
+[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26output%3Dwebp&utld=learnin.tw&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=NMr0y6vaIi
 ```

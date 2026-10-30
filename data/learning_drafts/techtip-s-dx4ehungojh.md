@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：49ers announced they officially have acqui"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-29T06:16:03+00:00"
+generated_at: "2026-10-30T06:15:24+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：49ers announced they officially have acqui
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-49ers announced they officially have acquired DL DeForest Buckner from the Colts in exchange for the team’s 2027 fourth-round pick. In order to make room on the roster, the 49ers r
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ generated_at: "2026-10-29T06:16:03+00:00"
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -57,11 +56,23 @@ Make
 
 ## 回覆區重點
 
-reply_summary_status: `partial`
+reply_summary_status: `unavailable`
 
-- Title: Threads • Log in
+- 目前公開抓取結果沒有可可靠分離的回覆內容。
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
+URL Source: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -78,70 +89,55 @@ Activity
 
 Profile
 
-Insig
-- [![Image 6](https://scontent.cdninstagram.com/v/t39.30808-6/863644817_10237659021598242_6007624870187111095_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAxODEzMTE1NzU4OTY2NzEyOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBp
-- Title: Threads • Log in
+Insights
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+More
 
-Markdown Content:
-Log in or sign up for Threads See what people are t
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+[](https://www.threads.com/)
 
-## 抓取品質
+[](https://www.threads.com/)
 
-- content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[](https://www.threads.com/search)
 
-## 原始抓取內容
+# [Home](https://www.threads.com/?error=invalid_post)
 
-```text
-Title: Threads • Log in
+[![Image 1: kelz_slim's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789925838_17956557303212087_7972856709191561139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=bgfVDKmEJRwQ7kNvwGSN1La&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTT6jo9QLpJJielhR_bg48hfI4UnGppzI18SGaoMdi6vg&oe=6AEA0AE8&_nc_sid=10d13b)](https://www.threads.com/@kelz_slim)
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[kelz_slim](https://www.threads.com/@kelz_slim)
 
-Markdown Content:
-[![Image 1: kateboyd.co's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/519671797_18167739655359717_5004376064451110097_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MjIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=ieme4RTnaK8Q7kNvwFDUES_&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRNYzb3TEe7ZNkkV38Op7FA0p8vwjXWwhPjkc0mff5Kow&oe=6AE8BBF9&_nc_sid=10d13b)](https://www.threads.com/@kateboyd.co)
+[10h](https://www.threads.com/@kelz_slim/post/DfF0fg3ltOD)
 
-Everyone who read Revelation as a teenager during the Left Behind era, how are we REALLY doing?
+Dame Dash telling Jay Z not to call him for the Super Bowl is like me telling Beyonce don’t call me to come to her house. Neither one was ever going to happen 😂😂😂😂😂😂
 
-GIFs only
+964
 
-86
+46
 
-91
+63
 
-4
+10
 
-[![Image 2: samagrams9's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/839044626_18637878127047547_7015785819367285124_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=d1wGk4vlqpwQ7kNvwFsuWOr&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSIhDnRk4pD-vsf3y0ZzrLzI7hTxQOoCutmX7MOEArysQ&oe=6AE8A01B&_nc_sid=10d13b)](https://www.threads.com/@samagrams9)
+[![Image 2: junebugtraveler's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/838645597_17987523435113098_634206847621454049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=fLp7ZjLYA9AQ7kNvwEIkP5B&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSNoCjRqnIfT5gqbUNsOmxEvhKpV3U5MENOdJqhEhBnbA&oe=6AEA07BA&_nc_sid=10d13b)](https://www.threads.com/@junebugtraveler)
 
-Everyone who sang “Waterfalls” by TLC in 1995 deserves retroactive credit for participating in a public health awareness campaign. We didn’t understand the curriculum, but our attendance was impeccable.
+[junebugtraveler](https://www.threads.com/@junebugtraveler)
 
-741
+[5h](https://www.threads.com/@junebugtraveler/post/DfGTZugkR8z)
 
-14
+My dog is blending in with the leaves on the ground. Can you spot the flower amongst all the leaves?
 
-13
-
-2
-
-[![Image 3: adamschefter's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832733_187865147331651_6878775976036134737_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=bjDYM8jX9W4Q7kNvwGYyqBp&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSjgkRpj7ommdbNF9QXcG-IeAT1c3YyT31qcC1Jqejnag&oe=6AE8A262&_nc_sid=10d13b)](https://www.threads.com/@adamschefter)
-
-49ers announced they officially have acquired DL DeForest Buckner from the Colts in exchange for the team’s 2027 fourth-round pick. In order to make room on the roster, the 49ers released CB Jack Jones.
-
-249
-
-2
-
-4
+88
 
 5
 
-[![Image 4: dogandphotog's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/809910421_17900387598603829_4674260840452293364_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGk9JDfokOuy2aHh5Y3uVBK2LENKAO4_AVlJ67eN0_KTfchExZ8PzuQl-I9PPdgCsk&_nc_ohc=EXagt53YT6IQ7kNvwHGp0V6&_nc_gid=0JBr_qj3NsB7LbpWy8EgsA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSZ_DDjGGO47Z1e302qQBscYAL0iEtnAXR3ZZWeDHlIHg&oe=6AE8B1D9&_nc_sid=10d13b)](https://www.threads.com/@dogandphotog)
+[![Image 3: jaelamador's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671226807_17947785126138070_3850356245691568003_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=JXAMLabmW0AQ7kNvwG3abPq&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQR51M-gM1oxc5E_5F6gbe8OBb6BjHYIbYyu72xO6_KXgg&oe=6AEA232D&_nc_sid=10d13b)](https://www.threads.com/@jaelamador)
 
-The phrase is now Au Contreras if you disagree with something, like a
+[jaelamador](https://www.threads.com/@jaelamador)
+
+[Pride and Prejudice](https://www.threads.com/search?q=Pride%20and%20Prejudice&serp_type=tags&tag_id=18373497781073944)
+
+[10h](https://www.threads.com/@jaelamador/post/DfFvbVunTl-)
+
+My favorite part of Pride and Prejudice has been left o
 ```
