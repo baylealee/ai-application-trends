@@ -10,8 +10,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0945
-generated_at: "2026-10-30T06:15:24+00:00"
+zh_ratio: 0.0923
+generated_at: "2026-10-31T06:08:58+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -58,17 +58,26 @@ Notion、GitHub
 
 reply_summary_status: `partial`
 
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUDhiJALa9rQv875qvC_QIfyKuXBzhTHOY_d5EbOjChApLm8OQ8TFVWGsUu
-- [![Image 14: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 20: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 24: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 31: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
+
+URL Source: http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+
+Final URL: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](htt
+- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUAmrsDx6W3GCOEGZC1R4Nn0twA7yB5pTgTdpTpt3KScgHEd2vh27Ytd73y
+- [![Image 31: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 14: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- [![Image 20: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、流程、工具、Notion、GitHub
-- zh_ratio: `0.0945`
+- zh_ratio: `0.0923`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -109,7 +118,7 @@ More
 
 28K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=bivuALB-IqoQ7kNvwHug3Up&_nc_oc=Adojl4KXFOQNJqDWBPoZMAf7CtePfN-SvZ1zfTq2e0TO_tVuvjD2EeJYCYSGsAuWbC4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Bi8UfzMXD-15eonek6hptQ&_nc_ss=7b289&oh=00_AQTjxMqImoele1vPUUcJT2U_s9ufRY29H2v1HMLUfuatqg&oe=6AEA1E70)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=r8xEj4C0ex8Q7kNvwG7lTU5&_nc_oc=Ado847Ij6xmV7wnWEwHtHXQMOVCPwR0zLBE1XhVsFyUaFoiO3WxdSz_4DRaUmNKJxKs&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=oS6JMaxYOhg-n5r9sZID-Q&_nc_ss=7b289&oh=00_AQSbPPgUh_SD-vZUZ-W_Sm8qlxKSk9J4X8e-T-7LDoziqA&oe=6AEB6FF0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -133,7 +142,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
 
-[![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Na7oHwqsymUQ7kNvwGdSkGY&_nc_oc=AdoFfN48wBQF0du8XjMjzcoycArtIJdX_72FqwR7QuJD9F1L8vS60Ib-jz0FyVVUK20&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Bi8UfzMXD-15eonek6hptQ&_nc_ss=7b289&oh=00_AQRSLINfqiOK3Wrb8JTb3MDkE4zu6o2-mPDxizteKilAAg&oe=6AEA0688)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=D0gxD4GulOUQ7kNvwFhzU4C&_nc_oc=AdqEmOe05aGCWM7_IQrzDgDO4xo7c_t0x5FXxd3xqAfjPX-zCe0mkY8rC7WMxYHJupU&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=oS6JMaxYOhg-n5r9sZID-Q&_nc_ss=7b289&oh=00_AQRgmBUIU4ruJirr1tcIfy5Zv-D8GNQjoWvK4SWV3VCfXw&oe=6AEB5808)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 506
 
@@ -149,5 +158,5 @@ Log in or sign up for Threads See what people are talking about and join the con
 * [Threads Terms](https://help.instagram.com/769983657850450)
 * [Privacy Policy](https://help.instagram.com/515230437301944)
 * [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
+* Report
 ```

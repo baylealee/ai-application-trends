@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：[Image 2](https://scontent-atl3-1.cdninsta"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-10-30T06:15:24+00:00"
+generated_at: "2026-10-31T06:08:58+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：[Image 2](https://scontent-atl3-1.cdninsta
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/874884223_17993471139103607_8518501832941053087_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -56,9 +56,34 @@ Title: Threads • Log in
 
 ## 回覆區重點
 
-reply_summary_status: `unavailable`
+reply_summary_status: `partial`
 
-- 目前公開抓取結果沒有可可靠分離的回覆內容。
+- ![Image 3](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/880214308_17993471148103607_4875634788943220954_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxOTU1NTUwMjg1NzIyMDE1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBU
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Cont
+- [![Image 5](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/873923875_17992814934119874_8081352251864061494_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAxOTU2OTU0NjAyOTgyMDIwMA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZF
+- [![Image 8: chromaticbunnies's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/847458630_17976241284133791_1178328697270508205_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconte
 
 ## 抓取品質
 
@@ -70,74 +95,5 @@ reply_summary_status: `unavailable`
 ## 原始抓取內容
 
 ```text
-Title: Threads • Log in
-
-URL Source: https://www.threads.com/?error=invalid_post
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: kelz_slim's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/789925838_17956557303212087_7972856709191561139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=bgfVDKmEJRwQ7kNvwGSN1La&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTT6jo9QLpJJielhR_bg48hfI4UnGppzI18SGaoMdi6vg&oe=6AEA0AE8&_nc_sid=10d13b)](https://www.threads.com/@kelz_slim)
-
-[kelz_slim](https://www.threads.com/@kelz_slim)
-
-[10h](https://www.threads.com/@kelz_slim/post/DfF0fg3ltOD)
-
-Dame Dash telling Jay Z not to call him for the Super Bowl is like me telling Beyonce don’t call me to come to her house. Neither one was ever going to happen 😂😂😂😂😂😂
-
-964
-
-46
-
-63
-
-10
-
-[![Image 2: junebugtraveler's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/838645597_17987523435113098_634206847621454049_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=fLp7ZjLYA9AQ7kNvwEIkP5B&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSNoCjRqnIfT5gqbUNsOmxEvhKpV3U5MENOdJqhEhBnbA&oe=6AEA07BA&_nc_sid=10d13b)](https://www.threads.com/@junebugtraveler)
-
-[junebugtraveler](https://www.threads.com/@junebugtraveler)
-
-[5h](https://www.threads.com/@junebugtraveler/post/DfGTZugkR8z)
-
-My dog is blending in with the leaves on the ground. Can you spot the flower amongst all the leaves?
-
-88
-
-5
-
-[![Image 3: jaelamador's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/671226807_17947785126138070_3850356245691568003_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gG_ZLaFo52py-mgfkaY4zWi5pEUZ9hrg8nBX0YGiQhI64XKjJeqX1ArNHF4c9WNUh4&_nc_ohc=JXAMLabmW0AQ7kNvwG3abPq&_nc_gid=_fo-DQ6x4J3B2KojHIQaxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQR51M-gM1oxc5E_5F6gbe8OBb6BjHYIbYyu72xO6_KXgg&oe=6AEA232D&_nc_sid=10d13b)](https://www.threads.com/@jaelamador)
-
-[jaelamador](https://www.threads.com/@jaelamador)
-
-[Pride and Prejudice](https://www.threads.com/search?q=Pride%20and%20Prejudice&serp_type=tags&tag_id=18373497781073944)
-
-[10h](https://www.threads.com/@jaelamador/post/DfFvbVunTl-)
-
-My favorite part of Pride and Prejudice has been left o
+![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/874884223_17993471139103607_8518501832941053087_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ig_cache_key=NDAxOTU1NTUwMTE2MjcxNTY0Mw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTAyNC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=maifXIAPL-oQ7kNvwF0W4xU&_nc_oc=AdoI42qzjkm1Wnu0vo7jE3zUO2MSv8u3ozyXQufMgATwCst517SyOei6bmaZn9TseLDq88ytVgLFYI1KylYea1Qf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=DFoNgKxYM_PnxufVFauOJA&_nc_ss=7320f&oh=00_AQSqIYCJZoyu0FprPVtMq5zdULouZ-dXA4DGmgc_RxnRcw&oe=6AEB61F4)
 ```
