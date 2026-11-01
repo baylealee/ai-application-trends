@@ -8,17 +8,16 @@ category: "mcp"
 tools:
   - "Claude"
   - "Claude Code"
+  - "GPT"
   - "MCP"
-  - "RAG"
   - "Make"
   - "Slack"
-  - "GAS"
   - "Cursor"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-31T06:08:58+00:00"
+generated_at: "2026-11-01T06:39:12+00:00"
 ---
 
 # boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
@@ -35,12 +34,12 @@ I'm Boris and I created Claude Code. Lots of people have asked how I use Claude 
 
 ## 使用工具
 
-Claude、Claude Code、MCP、RAG、Make、Slack、GAS、Cursor、GitHub
+Claude、Claude Code、GPT、MCP、Make、Slack、Cursor、GitHub
 
 ## 原始工作流拆解
 
 1. 7/ I use slash commands for every inner loop workflow that I do many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUBZfPa8Dm_RWb9brobtyhCoRG81lTGrLU6ByMrh5nZ5OIDxyEqynF4O5rp6gPKXZTIVxvQj_4mjWfLmrmnW8T0XcZeoHnchGYH_KqqWds1LKfSHXzs)
+2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUDvvkCPz40EtFyXGrgt3L8TJURNVO_5WGEgpRtGJvE-YLMnVV13HRKlUmgyQ3PBfo5a-UOrLWq2xKwKOiWGMq9keWLskp2ZqmjBfD7gP_yAUW_Jc28)
 
 ## 可以直接複製的做法
 
@@ -80,14 +79,15 @@ New thread
 [Search](https://www.threads.com/search)
 
 Messages
-- [![Image 45: Overview - Claude Code Docs](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/14143010334063175344?url=https%3A%2F%2Fclaude-code.mintlify.app%2F_mintlify%2Fapi%2Fog%2Fv2%3Fdivision%3DGetting%2Bstarted%26title%3DOverview%26description%3DClaude%2BCod
-- [![Image 26: Claude Code](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/9428646713738360580?url=https%3A%2F%2Fclaude.ai%2Fimages%2Fcode%2FWeb-v2.png&utld=claude.ai&_nc_sid=1d65fc&_nc_ht=external-atl3-2.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=io5T3Bp4Cbt1u1
-- [![Image 48: GitHub - paralleldrive/aidd: The standard framework for AI Driven Development](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/630926289998291197?url=https%3A%2F%2Fopengraph.githubassets.com%2F6253c22dad4e34b6f351850b04aefda4a23f2329e195b3a55b3887
+- [![Image 45: Overview - Claude Code Docs](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/14143010334063175344?url=https%3A%2F%2Fclaude-code.mintlify.app%2F_mintlify%2Fapi%2Fog%2Fv2%3Fdivision%3DGetting%2Bstarted%26title%3DOverview%26description%3DClaude%2BCod
+- [![Image 26: Claude Code](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/9428646713738360580?url=https%3A%2F%2Fclaude.ai%2Fimages%2Fcode%2FWeb-v2.png&utld=claude.ai&_nc_sid=1d65fc&_nc_ht=external-ord5-2.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=ASTXBr2SpdCJz0
+- [![Image 48: GitHub - paralleldrive/aidd: The standard framework for AI Driven Development](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/630926289998291197?url=https%3A%2F%2Fopengraph.githubassets.com%2F6253c22dad4e34b6f351850b04aefda4a23f2329e195b3a55b3887
+- 2/ I also run 5-10 Claudes on [claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUBWUC-uDJ7efSDWZAQBoJpMle0xY8sOM462hHVJ1AWAcgDjoqRhPBh98r0yE1b3_uGtGVYU5k7lxjkjwfzZUwFAERfPTzwzWWWrwKgI0RaSLhiwANA), in parallel with my local Claudes. As 
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、RAG、MCP、Make、Cursor、Agent、agent、prompt、Slack、GitHub、CLI、workflow
+- keyword_hits: AI、Claude、GPT、MCP、Make、Cursor、Agent、agent、prompt、Slack、GitHub、CLI、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
@@ -131,7 +131,7 @@ More
 
 487K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=D9iDGCl6GVsQ7kNvwFXPtho&_nc_oc=Adrk5uCm1DDYiMfVPbuYCNhbS_VYViUQTK9gOY4BzobH1TvbbzMXcIckIbmSnzq6xzk&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQRObeqm79T_P60-JLnSQmcpWyThJTspkOEyd2mW1wQuyA&oe=6AEB6BE2)](https://www.threads.com/@boris_cherny)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=TY5yfkKr7wUQ7kNvwE96m1o&_nc_oc=Adp1C49Ycv0MkRbt7jJzIcvCLnjZacfH1DrKgIf1W8fGH-x-TCMjGEMEbg6guTYsKMA&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQR3vVpFZYFsVrER-HZ20bxVH53i4VNzbXJkD0YYndkC_g&oe=6AECBD62)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -151,7 +151,7 @@ So, here goes.
 
 3K
 
-[![Image 2: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=D9iDGCl6GVsQ7kNvwFXPtho&_nc_oc=Adrk5uCm1DDYiMfVPbuYCNhbS_VYViUQTK9gOY4BzobH1TvbbzMXcIckIbmSnzq6xzk&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQRObeqm79T_P60-JLnSQmcpWyThJTspkOEyd2mW1wQuyA&oe=6AEB6BE2)](https://www.threads.com/@boris_cherny)
+[![Image 2: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=108&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=TY5yfkKr7wUQ7kNvwE96m1o&_nc_oc=Adp1C49Ycv0MkRbt7jJzIcvCLnjZacfH1DrKgIf1W8fGH-x-TCMjGEMEbg6guTYsKMA&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQR3vVpFZYFsVrER-HZ20bxVH53i4VNzbXJkD0YYndkC_g&oe=6AECBD62)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -159,7 +159,7 @@ So, here goes.
 
 ·Author
 
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUBZfPa8Dm_RWb9brobtyhCoRG81lTGrLU6ByMrh5nZ5OIDxyEqynF4O5rp6gPKXZTIVxvQj_4mjWfLmrmnW8T0XcZeoHnchGYH_KqqWds1LKfSHXzs)
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUDvvkCPz40EtFyXGrgt3L8TJURNVO_5WGEgpRtGJvE-YLMnVV13HRKlUmgyQ3PBfo5a-UOrLWq2xKwKOiWGMq9keWLskp2ZqmjBfD7gP_yAUW_Jc28)
 
-[![Image 3](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_t
+[![Image 3](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/609400677_17936567643115682_3833661855290189126_n.jpg?stp=cp6_dst-jpg_e35_t
 ```

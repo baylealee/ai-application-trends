@@ -1,24 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[Image 4: dragonsblood.jpg's profile pictu"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
+  - "GAS"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-10-30T06:15:24+00:00"
+generated_at: "2026-11-01T06:39:12+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[Image 4: dragonsblood.jpg's profile pictu
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 4: dragonsblood.jpg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/830434365_18147224656563948_8600036451015135247_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG、GAS
 
 ## 原始工作流拆解
 
@@ -60,7 +62,9 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/?error=invalid_post
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -69,31 +73,24 @@ Markdown Content:
 
 New thread
 
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Lo
+[Search](https://w
+- BREAKING: WNBA Finals Game 6 which aired at 12:30pm on Thursday averaged 1.5 million viewers on USA Network, E!, SYFY and Peacock.
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/?error=invalid_post
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access th
-- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Final URL: https://www.threads.com/?error=invalid_post
+
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+
+Markdown C
+- Including the primetime encore on USA and CNBC, it averaged 1.7 million viewers. It is the 5th most watched WNBA Finals game on cable ever.
+- [![Image 5: howardbryantbooks's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/427871996_947418570280974_4699783015694329599_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -102,46 +99,42 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/?error=invalid_post
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: blackgirlnerds's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/474450666_2271208426580584_1009460401682148014_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEh6FA6F8Xsn4QQ8L31TXszIkJ4BA-XkvoSHSC6SOORu2g6iy7Yfi25Iz_QD6asbus&_nc_ohc=JzXC-OsdcFEQ7kNvwH5qZF_&_nc_gid=Ss6BboV31rWBsGhprKvOOQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRVDZ2t99oRGLcD4jTkkg5WORu2fcWHk7X8UsWrvCh0QA&oe=6AEA0F23&_nc_sid=10d13b)](https://www.threads.com/@blackgirlnerds)
+[![Image 1: mayagouliard.fantasyauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/459190700_313076535202352_1640976239879983563_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gGN2FI3SbNn2sgzQTfOTub0S-aVjnX9TNfymdDY_5wNqpJGIZvY279a9wCDJm_Pg8o&_nc_ohc=7YEPdZ94abkQ7kNvwGGgwld&_nc_gid=SHSIHw8EfpS2U2m89f77kQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQuf0ndkV_yCWk7pMloe4QmfLZFie0EyhZtuWVQUPTO6g&oe=6AECA508&_nc_sid=10d13b)](https://www.threads.com/@mayagouliard.fantasyauthor)
 
-Sir Patrick Stewart has passed away at 86
+How do I know I’m lucky? This happens way too often. Sewing all afternoon. This was my last stitch for the project.
 
-1.4K
+223
 
-252
+34
 
-282
+1
 
-57
+[![Image 2: tee_ell_see's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/486755439_508654862324563_2357677552062079477_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGN2FI3SbNn2sgzQTfOTub0S-aVjnX9TNfymdDY_5wNqpJGIZvY279a9wCDJm_Pg8o&_nc_ohc=kyIBmdjaiKwQ7kNvwFEJ1r7&_nc_gid=SHSIHw8EfpS2U2m89f77kQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQR1NXv1ZISK51mJs89ziSZKMg5gAsSpWrE0SyuUP0QGvQ&oe=6AECCD0E&_nc_sid=10d13b)](https://www.threads.com/@tee_ell_see)
 
-[![Image 2: mattjlangley's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/856880928_17987158371115164_7766719861034158983_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gEh6FA6F8Xsn4QQ8L31TXszIkJ4BA-XkvoSHSC6SOORu2g6iy7Yfi25Iz_QD6asbus&_nc_ohc=2S9I-z3QUzwQ7kNvwFgq_Av&_nc_gid=Ss6BboV31rWBsGhprKvOOQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQR52rUkWnUvjO1Y7z3Ss6kTc9PMGmOOJUBCha4gHIsVNw&oe=6AEA0C15&_nc_sid=10d13b)](https://www.threads.com/@mattjlangley)
+I don’t appreciate how they let Victor say “I’m a Faithful” before he was fully banished. Him saying that got Shane to sway and use his pardon, AFTER just voting to BANISH him! You should not be able to utter “Traitor or Faithful” on the circle unless Alan says “this time has come for you to reveal, are you a faithful or a traitor.”
 
-“Shane how was your eye appointment?” Shane was dreading telling Ilya the information he’s just received. “Appointment was fine. Ilya, please don’t overreact to this. Nothing is wrong but I have freckles in my eyes. One in each one.” “Shane!!! That is why your eyes are so pretty. Ah! I knew there was a reason for this, uh, phenomenon!” Shane stared at his ridiculous husband being so funny over this new news. He just grinned, shook his head and kissed Ilya.
+38
 
-960
+18
 
-10
+1
 
-8
+[![Image 3: laurabparkey's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/452977431_822128420043688_3071650559156331984_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGN2FI3SbNn2sgzQTfOTub0S-aVjnX9TNfymdDY_5wNqpJGIZvY279a9wCDJm_Pg8o&_nc_ohc=ego31cRw0jkQ7kNvwEPfzGt&_nc_gid=SHSIHw8EfpS2U2m89f77kQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQg5ih74BP_svTei48i5ukrjWn5D8SUen7vkqcVGJoR1g&oe=6AEC9719&_nc_sid=10d13b)](https://www.threads.com/@laurabparkey)
 
-2
+I need a new great book to read. I just finished Calamity Club and couldn’t put it down. I prefer fiction and all genres except sci fi! Thanks for your help!
 
-[![Image 3: wall2k4's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358240986_311884764505905_1275221114378404232_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEh6FA6F8Xsn4QQ8L31TXszIkJ4BA-XkvoSHSC6SOORu2g6iy7Yfi25Iz_QD6asbus&_nc_ohc=KTyZI_uXhqEQ7kNvwEPYzPx&_nc_gid=Ss6BboV31rWBsGhprKvOOQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTsLVJ_Inp_ro0jifH37guiMuaYSDD3-ULUSszWOHlKrg&oe=6AE9F593&_nc_sid=10d13b)](https://www.threads.com/@wall2k4)
+28
 
-40 or so minutes after tonight’s game 5, I was sitting on the front of my car, waiting for traffic to clear out. I was in no hurry, which afforded me an opportunity to do something I wish I did more often in life: listen. I just sat there quietly listening and soaking in the moment.
+38
 
-What I heard was the sound of pure chaotic joy. Fireworks going off in the distance. Horns beeping out of rhythm. Screaming “woos” from every direction. People offering strangers beers while they waited.
+1
 
-533
+1
 
-16
-
-8
-
-8
-
-[![Image 4: christena80's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/747111770_18609113392030968_6558639923233275718_n.jpg?stp=dst-jpg_s
+[![Image 4: dragonsblood.jpg's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/830434365_18147224656563948_8600036451015135247_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGN2FI3SbNn2sgzQTfOTub0S-aVjnX9TNfymdDY_5wNqpJGIZvY279a9wCDJm_Pg8o&_nc_ohc=_wN0L4dhrosQ7kNvwGD6dpF&_nc_gid=SHSIHw8EfpS2U2m89f77kQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_A
 ```
