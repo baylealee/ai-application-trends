@@ -4,20 +4,19 @@ source_url: "https://www.threads.com/@itszero/post/DYH_wqQGzgH"
 source_author: "itszero"
 post_id: "DYH_wqQGzgH"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
   - "Gemini"
-  - "RAG"
   - "Cursor"
   - "Codex"
   - "GitHub"
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0519
-generated_at: "2026-11-01T06:39:12+00:00"
+zh_ratio: 0.0585
+generated_at: "2026-11-02T06:38:28+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -34,15 +33,15 @@ generated_at: "2026-11-01T06:39:12+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、Gemini、RAG、Cursor、Codex、GitHub、OpenClaw
+Claude、Claude Code、Gemini、Cursor、Codex、GitHub、OpenClaw
 
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 2. [Image 5: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/11635473272184488368?
-3. 後來我才發現， 用 AI Coding，管理對話本身就是開發流程的一部分。
-4. 不是 Prompt 下完就坐著等。
-5. 可用於研究 AI 工作流、自動化工具鏈與實際導入情境。
+3. 這類工具的出現，對於同時使用多個 AI 輔助開發工具的使用者來說，確實能簡化帳號管理的流程。
+4. 後來我才發現， 用 AI Coding，管理對話本身就是開發流程的一部分。
+5. 不是 Prompt 下完就坐著等。
 
 ## 可以直接複製的做法
 
@@ -75,19 +74,19 @@ URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
 Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.
+- Title: 傑洛 Zero Cho (@itszero) on Threads
 
-[Home](https://www.threads.com/)
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
-New thread
-
-
+Markdown Content:
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Gemini、RAG、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、整理、GitHub、開源、CLI
-- zh_ratio: `0.0519`
+- keyword_hits: AI、Claude、Gemini、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、GitHub、開源、CLI
+- zh_ratio: `0.0585`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -128,7 +127,7 @@ More
 
 613 views
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=q3FTu4XbF9sQ7kNvwHHzdEH&_nc_oc=AdqFYvnvEN9uDjKLCrtcNuw0VzPOTb5vGsQ5T_1BG4VpfzkIJfAmxeggVv_9NJ5ir4I&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=35vkDw29uQVQZFZ0SlEAbQ&_nc_ss=7b289&oh=00_AQQ6PHh-rFXJQ5SDx-UZUHgBrq1g7sm3wnbtLbHxI7mPEQ&oe=6AECAA8B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=q3FTu4XbF9sQ7kNvwHooqKT&_nc_oc=AdpkSnbooFF2ZvtINbfvm5Adr8d1scBXFD_Fv8XRDr8jhJdzGAjAJyxbXzyMj7Emmsc&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&_nc_ss=7b289&oh=00_AQQelF1d5YfQ5eTtOL1tuTunM115v7QcjGVwIOTpTZFKSg&oe=6AEDFC0B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -142,7 +141,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=33pck7M7V18Q7kNvwFOJnvf&_nc_oc=AdrDcnHPXSdi8ZUZRWdTr75QkJmyz0L5spURgn5UT0w_eY5Qhu2iz2Csa3a087hia5A&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=35vkDw29uQVQZFZ0SlEAbQ&_nc_ss=7b289&oh=00_AQQ5J_eJSBsIMIa9yRRmVkfMXqMgMgqJBOYwfOKgAi7dOg&oe=6AECC1D1)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WrKZeUmISoMQ7kNvwGy7Nr5&_nc_oc=AdrB3tgs3npHAEbMzoGa9j8vy-02svKKFyRp5J1SPV68nH8viVlXh0CLzED5K0sjh8I&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&_nc_ss=7b289&oh=00_AQT0WGtEN1td3puT6K-qHqAjH7qVULT6P0F-iFqGFwBBgQ&oe=6AEE1351)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -152,7 +151,7 @@ it just works™
 
 Related threads
 
-[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEMLFm3yHWG-CliGaFJZy4WsW_K31ULkw40sYmreouK91UKW3G9YMHiYyUHb-xtHYI&_nc_ohc=3UmUG7tJAIcQ7kNvwHTCCF0&_nc_gid=35vkDw29uQVQZFZ0SlEAbQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSjJkwTfSWiKSXJymL4zs3KPDsM-sI8SEjBd6kop0Hq2Q&oe=6AEC999A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
+[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHSKPAJcaBwJSLZ59u-BExKozoF1adhjDa7sM2ggiqSWBdH8OFv9zqORh93dMvXi7M&_nc_ohc=3UmUG7tJAIcQ7kNvwHDkAbq&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQrzVYTkdl-d-zMoEp5q0pqQ_MS8J54-X0e0gp5NEJ86Q&oe=6AEDEB1A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
 
 [choihunghk](https://www.threads.com/@choihunghk)
 
