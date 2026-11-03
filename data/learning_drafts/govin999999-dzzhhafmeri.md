@@ -1,24 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Josh Allen makes his Executive Producer de"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-02T06:38:28+00:00"
+generated_at: "2026-11-03T07:08:32+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Josh Allen makes his Executive Producer de
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Josh Allen makes his Executive Producer debut in “The Buffalo Miracle”
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -58,35 +60,22 @@ Title: Threads • Log in
 
 reply_summary_status: `partial`
 
+- [![Image 3: blairsocci's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/571841770_18535314766032942_7276518733927195700_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://ww
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe re
+- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown C
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -128,37 +117,27 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: jadealexismorter's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/727641919_17900962563452919_5810655805912325357_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gEFn7VWm_yGp3MkgzMmz7T61TBQh46LFIluBhT95-HDOzy1uwB44ZPQD0xkVFiNuZThX-NpmmafNxGwTu1IczVp&_nc_ohc=uQuSSCtRhAAQ7kNvwGba5Mc&_nc_gid=keECGIwqKHi5EjwcU29GWg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQSD-M8r2ibWhp2Dn5NNeKjWs42jrPR8TnKohNiupZVQLw&oe=6AEDFF80&_nc_sid=68810c)](https://www.threads.com/@jadealexismorter)
+[![Image 1: cedrazy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755246614_18610382968048756_5271745736649468373_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH2QZRmO49hfVEVNqUOPFxaKaXv2BD832ALoL8Ks8evDzlZCM2P5zj-U87p0agbsMM&_nc_ohc=ihLX066g92AQ7kNvwEWY4h6&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRgTohV4sa2ePEciUTExmwBs8LakquM0z1XaZOYa-5a1g&oe=6AEF5C54&_nc_sid=10d13b)](https://www.threads.com/@cedrazy)
 
-[jadealexismorter](https://www.threads.com/@jadealexismorter)
+[cedrazy](https://www.threads.com/@cedrazy)
 
-[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719769928_18594179932012096_1251931180612639576_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQRz_fSXxNPEo0s5Lzt6d6-49rdWSeJFNPzcvJoh77ling&oe=6B0F9F93) Parenting Threads](https://www.threads.com/search?q=parentingthreads&serp_type=tags&tag_id=18407814328049640)
+12h
 
-[13h](https://www.threads.com/@jadealexismorter/post/DfNP5paGMro)
+This content is unavailable
 
-How the actual hell do working parents survive toddlers getting sick every two weeks from daycare?
+[![Image 2: builtinbuffalo_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/703906796_18363341308225177_1532145014743717626_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH2QZRmO49hfVEVNqUOPFxaKaXv2BD832ALoL8Ks8evDzlZCM2P5zj-U87p0agbsMM&_nc_ohc=a1j8XGxbh3YQ7kNvwH12N6M&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQOh1D_a5BClGWSRRJ98-_bXlOw8vTH7oKXOB9lQIZdqg&oe=6AEF6D7F&_nc_sid=10d13b)](https://www.threads.com/@builtinbuffalo_)
 
-I’m sending her so I can work more, not so I can be sick half the month and work less 😫
+[builtinbuffalo_](https://www.threads.com/@builtinbuffalo_)
 
-152
+[9h](https://www.threads.com/@builtinbuffalo_/post/DfQSSaCkp9Z)
 
-52
+Josh Allen makes his Executive Producer debut in “The Buffalo Miracle”
 
-2
+November 24th on HBO Max
 
-8
+#BuffaloBills #BillsMafia #GoBills #Buffalo #JoshAllen
 
-[![Image 3: ginohard_'s profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/541863227_17893656939301005_1453450498067705981_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEFn7VWm_yGp3MkgzMmz7T61TBQh46LFIluBhT95-HDOzy1uwB44ZPQD0xkVFiNuZThX-NpmmafNxGwTu1IczVp&_nc_ohc=zs6wm65VF1YQ7kNvwF2dZtm&_nc_gid=keECGIwqKHi5EjwcU29GWg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQG_RkdL2uyxdVfaptKuzkOX1bNHk8B2zmGe39_sf8ISw&oe=6AEDFA12&_nc_sid=68810c)](https://www.threads.com/@ginohard_)
+![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/884829106_18389415925225177_103166840052660124_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAyMTc5NDg2NjU2NDU4MDE0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fSZRhhOdvxsQ7kNvwHdFdpB&_nc_oc=AdrDz2FpHD2Iq4YJhx8LnrG_MJy63ZgFI-T9RM8K8cKFH3QnRcc2Y6pCpO5eveJCe8w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&_nc_ss=7320f&oh=00_AQRcl-6MiwUr29e1qiB4El4HK3e9dafpj1GwCDXydz70_g&oe=6AEF72A8)
 
-[ginohard_](https://www.threads.com/@ginohard_)
-
-[mnwild](https://www.threads.com/search?q=mnwild&serp_type=tags&tag_id=18276965875089020)
-
-[6h](https://www.threads.com/@ginohard_/post/DfN-lOxHErd)
-
-The Minnesota Wild have reportedly tendered a MAX AAV offer ($20.8M) to Quinn Hughes and told him to pick whatever term length he wants to sign for, per Elliotte Friedman 😳
-
-To this point, however, Quinn still hasn't given the Wild an answer, and all they can do is wait, since the belief is that Bill Guerin does NOT want to trade the pending UFA superstar defenseman.
-
-[!
+![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/888177582_18389415973225177_1164468151855228539_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAyMTc5NDg2NjY5MDQ1MjcyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x2bO3Rs2AeEQ7kNvwFGKvLs&_nc_oc=AdoV9WQkSE8DfT
 ```

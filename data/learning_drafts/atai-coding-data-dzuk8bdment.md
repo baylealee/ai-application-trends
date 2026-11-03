@@ -7,12 +7,12 @@ language: "unknown"
 category: "mcp"
 tools:
   - "Claude"
+  - "GPT"
   - "MCP"
-  - "GAS"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0353
-generated_at: "2026-11-02T06:38:28+00:00"
+zh_ratio: 0.0369
+generated_at: "2026-11-03T07:08:32+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
@@ -29,7 +29,7 @@ generated_at: "2026-11-02T06:38:28+00:00"
 
 ## 使用工具
 
-Claude、MCP、GAS
+Claude、GPT、MCP
 
 ## 原始工作流拆解
 
@@ -70,13 +70,23 @@ URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 Final URL: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile pi
+[](https://www.threads.com/)
+
+[Home](http
+- Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
+
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/7584691
+- Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=101&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQ
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、工作流、自動化、流程、工具、會議、整理、生成
-- zh_ratio: `0.0353`
+- keyword_hits: AI、Claude、GPT、MCP、Agent、agent、工作流、自動化、流程、工具、會議、整理、生成
+- zh_ratio: `0.0369`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -117,7 +127,7 @@ More
 
 11.6K views
 
-[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGQt22rsYZKJpluC1WhmcPhWdctks2NRFMwgTWlzGfxuIrIBi4gx93wMXNbnBfqsa0&_nc_ohc=wW-RTmovXnUQ7kNvwEMaggd&_nc_gid=iKOTI_MBh7NauouBwCFKJg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRzpOjTUAPfnKnPviEssmMxYZj-8-sqpHLcf0fCsGkYaQ&oe=6AEE1C15&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gERXmXgZ8q2gmu-KQePBMxyj3hAG-9bSMlF3kh36XUUd_ujqI-D6-P5z9cDQWA0_SU&_nc_ohc=wW-RTmovXnUQ7kNvwFwDfAf&_nc_gid=nx98sUGe_d7SNfeDwXwVGQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRnv0HDDbhzOXw9SbqrZZcOYRGo9-_WPtOEspVxhD6zIA&oe=6AEF6D95&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 [atai_coding_data](https://www.threads.com/@atai_coding_data)
 
@@ -137,7 +147,7 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XRU00CcT4_MQ7kNvwEhuR1E&_nc_oc=AdpFnM1xxgqOgH6J20xZl_SvnJ3vFkqwo-GV8ObJ5HyPK6p0c0EwqX15SHpJ5D1tAes&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=T5VChd08PbP6-Q0R_ufbzg&_nc_ss=7b289&oh=00_AQT9Mqb_txDnmU0bFAy8tIH1DyTcjnib8wrSvCYBMIBd7A&oe=6AEE10A6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=LYvGHmU_iIYQ7kNvwG3oiK7&_nc_oc=AdqG2HVrqmxuLAKWpgcXpvLzSfK4Yzu3Yr_UVNIYHmfdzU2KuKeNPYNlKLN5yrZKkts&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=1954TJlz1mhUpjg8qmR6PQ&_nc_ss=7b289&oh=00_AQRx3wk2zGDv51bq5YEaFrv-5qAarMQCaURBVUVYGDpmzg&oe=6AEF6226)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 150
 
@@ -147,7 +157,7 @@ MCP x META 廣告數據串接教學
 
 96
 
-[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gGQt22rsYZKJpluC1WhmcPhWdctks2NRFMwgTWlzGfxuIrIBi4gx93wMXNbnBfqsa0&_nc_ohc=wW-RTmovXnUQ7kNvwEMaggd&_nc_gid=iKOTI_MBh7NauouBwCFKJg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRzpOjTUAPfnKnPviEssmMxYZj-8-sqpHLcf0fCsGkYaQ&oe=6AEE1C15&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
+[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gERXmXgZ8q2gmu-KQePBMxyj3hAG-9bSMlF3kh36XUUd_ujqI-D6-P5z9cDQWA0_SU&_nc_ohc=wW-RTmovXnUQ7kNvwFwDfAf&_nc_gid=nx98sUGe_d7SNfeDwXwVGQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRnv0HDDbhzOXw9SbqrZZcOYRGo9-_WPtOEspVxhD6zIA&oe=6AEF6D95&_nc_sid=10d13b)](https://www.threads.com/@atai_coding_data)
 
 [atai_coding_data](https://www.threads.com/@atai_coding_data)
 

@@ -15,8 +15,8 @@ tools:
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0585
-generated_at: "2026-11-02T06:38:28+00:00"
+zh_ratio: 0.0591
+generated_at: "2026-11-03T07:08:32+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -75,18 +75,15 @@ Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
 [![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.
-- Title: 傑洛 Zero Cho (@itszero) on Threads
-
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+- 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
+this fails, fix it 2. "
+" I need to run this, figure it out
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Gemini、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、GitHub、開源、CLI
-- zh_ratio: `0.0585`
+- zh_ratio: `0.0591`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -99,35 +96,13 @@ URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 Markdown Content:
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread 613 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-613 views
-
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=106&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=q3FTu4XbF9sQ7kNvwHooqKT&_nc_oc=AdpkSnbooFF2ZvtINbfvm5Adr8d1scBXFD_Fv8XRDr8jhJdzGAjAJyxbXzyMj7Emmsc&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&_nc_ss=7b289&oh=00_AQQelF1d5YfQ5eTtOL1tuTunM115v7QcjGVwIOTpTZFKSg&oe=6AEDFC0B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=106&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=q3FTu4XbF9sQ7kNvwF2ZSFg&_nc_oc=Adrh9k_UT8pIvnR7DptWAP7ChxnVQLkF3_rA4SW4hjaDaO-P9YWUe7VdkmTsbyCZ6FU&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=L3znAkklohhDmx9XJ8PoDw&_nc_ss=7b289&oh=00_AQSwehCI2rU0vQ5P8tp9KXlTfZiLXFfS5cduTAvRairbiw&oe=6AEF4D8B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -141,7 +116,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s206x206_tt6&_nc_cat=101&ccb=7-5&_nc_sid=30ff31&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WrKZeUmISoMQ7kNvwGy7Nr5&_nc_oc=AdrB3tgs3npHAEbMzoGa9j8vy-02svKKFyRp5J1SPV68nH8viVlXh0CLzED5K0sjh8I&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&_nc_ss=7b289&oh=00_AQT0WGtEN1td3puT6K-qHqAjH7qVULT6P0F-iFqGFwBBgQ&oe=6AEE1351)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=101&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WrKZeUmISoMQ7kNvwFfNuco&_nc_oc=AdramCS2BB7fNi4XERTRDb0nHy_TtHaRjKKKi1xmc7QPsFg08bsASqur4Xo_-3SEOzE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=L3znAkklohhDmx9XJ8PoDw&_nc_ss=7b289&oh=00_AQRLLWaaLi1GhJSLU7KLPpeVUuVDlNGXGoOEPhgOJ32UbA&oe=6AEF64D1)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -151,7 +126,7 @@ it just works™
 
 Related threads
 
-[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHSKPAJcaBwJSLZ59u-BExKozoF1adhjDa7sM2ggiqSWBdH8OFv9zqORh93dMvXi7M&_nc_ohc=3UmUG7tJAIcQ7kNvwHDkAbq&_nc_gid=QTc-dR5irZmbkaAl_Lxg3g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQrzVYTkdl-d-zMoEp5q0pqQ_MS8J54-X0e0gp5NEJ86Q&oe=6AEDEB1A&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
+[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF-EFuOZqAgozh32K1Jf1KlTKNx8F4NuRszK2p1XCUodQJ6kWdzwSBast9X_dKQGUk&_nc_ohc=umYo6vcf2P0Q7kNvwHoh40-&_nc_gid=L3znAkklohhDmx9XJ8PoDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSb78dVUP4wOIB6GZ_ny6Xsq1ABbncxxf2S4zIH4g_Pjw&oe=6AEF74DA&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
 
 [choihunghk](https://www.threads.com/@choihunghk)
 
@@ -165,5 +140,5 @@ Translate
 
 3
 
-[![Image 4: xtianowner's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/865789956_17904568023669334_1100043125691428728_n.jpg?s
+[![Image 4: xtianowner's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/865789956_17904568023669334_1100043125691428728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjAuYzIifQ&_nc_ht=sconte
 ```

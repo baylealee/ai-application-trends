@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-02T06:38:28+00:00"
+generated_at: "2026-11-03T07:08:32+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -60,6 +60,15 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Con
+- Title: Threads • Log in
+
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -68,14 +77,6 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 Markdown Cont
 - Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- [13h](https://www.threads.com/@nextforai/post/DfNPM0UDb7Q)
-- * © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem
-- Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
 
 ## 抓取品質
 
@@ -94,53 +95,65 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: peacebethecreative's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/760367755_18076394429371503_880302476475547561_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG1TTllUsrsrfjcAHFpcrlHMEVQKYFgznJHCdmwSzblEPTvTSayW2Z5LXUQJ9FowKM&_nc_ohc=WSaCNtahsbwQ7kNvwH0LlLi&_nc_gid=42ROdFKyFKsrkuDN0khkhg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSZgpzcaD7AJrfGYsnyKb7TPHifG9hZ0B_Kjc7SmXaERw&oe=6AEDF403&_nc_sid=10d13b)](https://www.threads.com/@peacebethecreative)
+[](https://www.threads.com/)
 
-Vixen by Miguel is the most perfect R&B song.
+[Home](https://www.threads.com/)
 
-409
+New thread
 
-15
+[Search](https://www.threads.com/search)
 
-90
+Messages
 
-4
+Activity
 
-[![Image 2: colorblue1233's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/543630136_17852967963536174_8252035720849746125_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gG1TTllUsrsrfjcAHFpcrlHMEVQKYFgznJHCdmwSzblEPTvTSayW2Z5LXUQJ9FowKM&_nc_ohc=ILf43fXt4wEQ7kNvwG7jGWY&_nc_gid=42ROdFKyFKsrkuDN0khkhg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQ83Q6-TIv2hfSkxbwOd69Xnh4Un_FKbDVoDS4B3vfncQ&oe=6AEDF2D4&_nc_sid=10d13b)](https://www.threads.com/@colorblue1233)
+Profile
 
-What if Doctor Doom, lifts mjonir in doomsday?
+Insights
 
-160
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-19
+More
 
-2
+[](https://www.threads.com/)
 
-[![Image 3: nextforai's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/642499424_18053861627480117_8589508401789605862_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gG1TTllUsrsrfjcAHFpcrlHMEVQKYFgznJHCdmwSzblEPTvTSayW2Z5LXUQJ9FowKM&_nc_ohc=pYYt9bJO3IEQ7kNvwEa7IAB&_nc_gid=42ROdFKyFKsrkuDN0khkhg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQubldw3ZR834eaL6tGsgHTOb-MZZapvMcbnAso8Lbiog&oe=6AEE0360&_nc_sid=10d13b)](https://www.threads.com/@nextforai)
+[](https://www.threads.com/)
 
-The paramedics couldn't unlock my dad's Samsung. They didn't need to.
+[](https://www.threads.com/search)
 
-It showed his medications, his allergies and my phone number, right on the lock screen.
+# [Home](https://www.threads.com/?error=invalid_post)
 
-It's already on your phone. Here's how to switch it on:
+[![Image 1: nixiefabros's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/469508498_453784317480000_4718242836574136587_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=5RMy1quB9TkQ7kNvwF9WV8v&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQS9QAT-PM-lP_atQx3vlu8IgyfdBP-Xi4j8YaBTjEqQ4A&oe=6AEF5AFA&_nc_sid=68810c)](https://www.threads.com/@nixiefabros)
 
-24
+[nixiefabros](https://www.threads.com/@nixiefabros)
 
-5
+[12h](https://www.threads.com/@nixiefabros/post/DfP82i4kjWv)
+
+Aries ladies, is it just me or are we all feeling drained right now 🫩😭😑
+
+728
+
+108
+
+49
 
 3
 
-27
+[![Image 2: t5poon's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/685985604_17963539272107653_3410249252615556188_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=TEhim73u6i4Q7kNvwFcizQN&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQTAQ0tIGFTFf6k5qy_TTrcy4Tj1bp-D2QJOScSBzakrAw&oe=6AEF49DF&_nc_sid=68810c)](https://www.threads.com/@t5poon)
 
-[![Image 4: mattlombardonfl's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/847907928_18385659592230128_6548011028264831918_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gG1TTllUsrsrfjcAHFpcrlHMEVQKYFgznJHCdmwSzblEPTvTSayW2Z5LXUQJ9FowKM&_nc_ohc=qUrLw6p8tYcQ7kNvwF0XsxT&_nc_gid=42ROdFKyFKsrkuDN0khkhg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTECFzaUnH-aKK3Ree-DTKlneGDttd2IKptMf8hV9RE0g&oe=6AEE19DB&_nc_sid=10d13b)](https://www.threads.com/@mattlombardonfl)
+[t5poon](https://www.threads.com/@t5poon)
 
-Aaron Rodgers just sacked himself.
+[9h](https://www.threads.com/@t5poon/post/DfQQmLHm8y_)
 
-282
+College ball need to hurry up and start now
 
-24
+465
 
-2
+28
 
-1
+[![Image 3: megan_boca's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/733328381_17965998741104851_9007851245594175106_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=IblTmSAoZsQQ7kNvwEbFlmf&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQT4xRJsSa4XUddUrmIBCxP_Jlx_3hAfJSt_YumbVMGFlw&oe=6AEF557E&_nc_sid=68810c)](https://www.threads.com/@megan_boca)
+
+[megan_boca](https://www.threads.com/@megan_boca)
+
+[![Image 4](https://scontent.xx.fbcdn.net/v/t1.6435-9/721665976_18595614733020677_5393756739370933125_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQQERBU5RZqYFj_tKUxCb0B2mISMi5xsFf-loQ1NszWk9A&oe=6B10E868) WNBA Threads](https://www.t
 ```
