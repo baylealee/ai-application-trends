@@ -4,19 +4,20 @@ source_url: "https://www.threads.com/@itszero/post/DYH_wqQGzgH"
 source_author: "itszero"
 post_id: "DYH_wqQGzgH"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
   - "Claude"
   - "Claude Code"
   - "Gemini"
+  - "RAG"
   - "Cursor"
   - "Codex"
   - "GitHub"
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0591
-generated_at: "2026-11-03T07:08:32+00:00"
+zh_ratio: 0.0573
+generated_at: "2026-11-04T06:53:41+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -33,12 +34,12 @@ generated_at: "2026-11-03T07:08:32+00:00"
 
 ## 使用工具
 
-Claude、Claude Code、Gemini、Cursor、Codex、GitHub、OpenClaw
+Claude、Claude Code、Gemini、RAG、Cursor、Codex、GitHub、OpenClaw
 
 ## 原始工作流拆解
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
-2. [Image 5: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-ord5-1.xx.fbcdn.net/emg1/v/t13/11635473272184488368?
+2. [Image 4: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/1253359966463134805?
 3. 這類工具的出現，對於同時使用多個 AI 輔助開發工具的使用者來說，確實能簡化帳號管理的流程。
 4. 後來我才發現， 用 AI Coding，管理對話本身就是開發流程的一部分。
 5. 不是 Prompt 下完就坐著等。
@@ -69,21 +70,29 @@ reply_summary_status: `partial`
 
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.
-- 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1.
-this fails, fix it 2. "
-" I need to run this, figure it out
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+- [![Image 4: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/1253359966463134805?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe53cdb321a76856ef
+- [![Image 15: T3 Code 是什麼？Stable 0.1.1 號稱超過 1,400 項變更，更新前先看哪幾件事](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/5612186551175917954?url=https%3A%2F%2Fstorage.ghost.io%2Fc%2F5e%2F61%2F5e6189f0-c5e0-49a0-97b4-5eddd3f43c77%2Fcontent%2Fimages%2F2026%2F10%2Ft3-code
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Gemini、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、GitHub、開源、CLI
-- zh_ratio: `0.0591`
+- keyword_hits: AI、Claude、Gemini、RAG、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、整理、GitHub、開源、CLI
+- zh_ratio: `0.0573`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -91,18 +100,42 @@ this fails, fix it 2. "
 ```text
 Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+
+Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread 613 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=106&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=q3FTu4XbF9sQ7kNvwF2ZSFg&_nc_oc=Adrh9k_UT8pIvnR7DptWAP7ChxnVQLkF3_rA4SW4hjaDaO-P9YWUe7VdkmTsbyCZ6FU&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=L3znAkklohhDmx9XJ8PoDw&_nc_ss=7b289&oh=00_AQSwehCI2rU0vQ5P8tp9KXlTfZiLXFfS5cduTAvRairbiw&oe=6AEF4D8B)](https://www.threads.com/@itszero)
+613 views
+
+[![Image 1: itszero's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=106&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ZsoIn7Y5iMgQ7kNvwF2jSRD&_nc_oc=Adr_e0NrUrTRdHA-zkJ-yUvX3behsiPtRm8rmQYRURE7JdJc35piFOo_Wr4XC3RB6XY&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=XolSIRjJQxYq4JBeqJFFvQ&_nc_ss=7b289&oh=00_AQT10z-1FEPNN-exTOVsPuyAg1KMp1Ql20KCpyh_bxfGiA&oe=6AF09F0B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -116,7 +149,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=101&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WrKZeUmISoMQ7kNvwFfNuco&_nc_oc=AdramCS2BB7fNi4XERTRDb0nHy_TtHaRjKKKi1xmc7QPsFg08bsASqur4Xo_-3SEOzE&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=L3znAkklohhDmx9XJ8PoDw&_nc_ss=7b289&oh=00_AQRLLWaaLi1GhJSLU7KLPpeVUuVDlNGXGoOEPhgOJ32UbA&oe=6AEF64D1)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s240x240_tt6&_nc_cat=101&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=WrKZeUmISoMQ7kNvwFebu89&_nc_oc=AdoBZDSztSmaGdpCGjSVEjghwMSmrfzuxsYDP33d9dVX9wDQsGOPwpeDxivE-eJYIBQ&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=XolSIRjJQxYq4JBeqJFFvQ&_nc_ss=7b289&oh=00_AQSDHUxVFye-B3tWiG7DIhiCI3dr1bm2CE0AAI5lKMOkFw&oe=6AF0B651)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -126,19 +159,9 @@ it just works™
 
 Related threads
 
-[![Image 3: choihunghk's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/358166022_6482958051798822_6852082441276271991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zNjIuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gF-EFuOZqAgozh32K1Jf1KlTKNx8F4NuRszK2p1XCUodQJ6kWdzwSBast9X_dKQGUk&_nc_ohc=umYo6vcf2P0Q7kNvwHoh40-&_nc_gid=L3znAkklohhDmx9XJ8PoDw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSb78dVUP4wOIB6GZ_ny6Xsq1ABbncxxf2S4zIH4g_Pjw&oe=6AEF74DA&_nc_sid=10d13b)](https://www.threads.com/@choihunghk)
+[![Image 3: xtianowner's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/865789956_17904568023669334_1100043125691428728_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GATomjNWWugYHJw-AHivcgBlI0QPbmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=EimJehWzV-8Q7kNvwGJTyK5&_nc_oc=AdpW3acC2FvfBUWV90-Bw5CZZ8vLdbgU1s0ChQZnWz5psGgcQzk12qNUZEyUCQi-11U&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=XolSIRjJQxYq4JBeqJFFvQ&_nc_ss=7b289&oh=00_AQQBtaFxj8sfrhx2kO6TZqVdqhc6M5yGf5dfOFDJaKlYgw&oe=6AF0BF2C)](https://www.threads.com/@xtianowner)
 
-[choihunghk](https://www.threads.com/@choihunghk)
+[xtianowner](https://www.threads.com/@xtianowner)
 
-[10/02/26](https://www.threads.com/@choihunghk/post/Dd_baVziXj4)
-
-好多話教AI 寫CODE ,但好多連基本既網頁都冇,叫人點信你🤨
-
-Translate
-
-3
-
-3
-
-[![Image 4: xtianowner's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/865789956_17904568023669334_1100043125691428728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NjAuYzIifQ&_nc_ht=sconte
+[10/26/2
 ```

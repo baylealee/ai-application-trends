@@ -1,24 +1,25 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "automation"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-03T07:08:32+00:00"
+generated_at: "2026-11-04T06:53:41+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,15 +61,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Con
-- Title: Threads • Log in
-
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -76,12 +68,12 @@ Final URL: https://www.threads.com/?error=invalid_post
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Cont
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+- URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 ## 抓取品質
 
 - content_quality: `medium`
-- keyword_hits: AI
+- keyword_hits: Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -94,66 +86,11 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](https://www.threads.com/)
+Log in or sign up for Threads See what people are talking about and join the conversation.
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: nixiefabros's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/469508498_453784317480000_4718242836574136587_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NzMuYzIifQ&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=5RMy1quB9TkQ7kNvwF9WV8v&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQS9QAT-PM-lP_atQx3vlu8IgyfdBP-Xi4j8YaBTjEqQ4A&oe=6AEF5AFA&_nc_sid=68810c)](https://www.threads.com/@nixiefabros)
-
-[nixiefabros](https://www.threads.com/@nixiefabros)
-
-[12h](https://www.threads.com/@nixiefabros/post/DfP82i4kjWv)
-
-Aries ladies, is it just me or are we all feeling drained right now 🫩😭😑
-
-728
-
-108
-
-49
-
-3
-
-[![Image 2: t5poon's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/685985604_17963539272107653_3410249252615556188_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=TEhim73u6i4Q7kNvwFcizQN&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQTAQ0tIGFTFf6k5qy_TTrcy4Tj1bp-D2QJOScSBzakrAw&oe=6AEF49DF&_nc_sid=68810c)](https://www.threads.com/@t5poon)
-
-[t5poon](https://www.threads.com/@t5poon)
-
-[9h](https://www.threads.com/@t5poon/post/DfQQmLHm8y_)
-
-College ball need to hurry up and start now
-
-465
-
-28
-
-[![Image 3: megan_boca's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/733328381_17965998741104851_9007851245594175106_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE27hzHmjwNzuP6-8MRKlvpOu184B6fBy-GV8_lboY6qMkFDzEU85RB1d8vpw-ekOL6CvNlk2VXIkAqkhEDMDwy&_nc_ohc=IblTmSAoZsQQ7kNvwEbFlmf&_nc_gid=w59Z6Wx6RfGVgZv-mf60cg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQT4xRJsSa4XUddUrmIBCxP_Jlx_3hAfJSt_YumbVMGFlw&oe=6AEF557E&_nc_sid=68810c)](https://www.threads.com/@megan_boca)
-
-[megan_boca](https://www.threads.com/@megan_boca)
-
-[![Image 4](https://scontent.xx.fbcdn.net/v/t1.6435-9/721665976_18595614733020677_5393756739370933125_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQQERBU5RZqYFj_tKUxCb0B2mISMi5xsFf-loQ1NszWk9A&oe=6B10E868) WNBA Threads](https://www.t
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 ```

@@ -1,26 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：Josh Allen makes his Executive Producer de"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-03T07:08:32+00:00"
+generated_at: "2026-11-04T06:53:41+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Josh Allen makes his Executive Producer de
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Josh Allen makes his Executive Producer debut in “The Buffalo Miracle”
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ Josh Allen makes his Executive Producer debut in “The Buffalo Miracle”
 
 ## 使用工具
 
-RAG、Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -60,7 +58,6 @@ RAG、Make
 
 reply_summary_status: `partial`
 
-- [![Image 3: blairsocci's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/571841770_18535314766032942_7276518733927195700_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagr
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
@@ -69,13 +66,23 @@ Final URL: https://www.threads.com/?error=invalid_post
 
 Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe re
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown C
 - Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -117,27 +124,51 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: cedrazy's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/755246614_18610382968048756_5271745736649468373_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gH2QZRmO49hfVEVNqUOPFxaKaXv2BD832ALoL8Ks8evDzlZCM2P5zj-U87p0agbsMM&_nc_ohc=ihLX066g92AQ7kNvwEWY4h6&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRgTohV4sa2ePEciUTExmwBs8LakquM0z1XaZOYa-5a1g&oe=6AEF5C54&_nc_sid=10d13b)](https://www.threads.com/@cedrazy)
+[![Image 1: simplykanah's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/856375304_17971184835172935_3420978531243406777_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MDguYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG50HCYm9rrwqi-mauCWYhTj0uPFB3s8hmReAYAgveb4JWjpuL_QH2H-9txYDCYW2wcVkCSV_dgkaCPAcaiIEI9&_nc_ohc=PDin75tp7kMQ7kNvwFINz2O&_nc_gid=A_SdSUWrVh9-C36Qq80tbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQRyW_k5ltqY4mrEjLtGpG6DlO-jY0eDrhwrBv4k7jk0RQ&oe=6AF0AE29&_nc_sid=68810c)](https://www.threads.com/@simplykanah)
 
-[cedrazy](https://www.threads.com/@cedrazy)
+[simplykanah](https://www.threads.com/@simplykanah)
 
-12h
+[7h](https://www.threads.com/@simplykanah/post/DfTEA-hmdRl)
 
-This content is unavailable
+I'm surprised Martin Luther king only has 1 grandchild ?!?!!! Wow
 
-[![Image 2: builtinbuffalo_'s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/703906796_18363341308225177_1532145014743717626_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gH2QZRmO49hfVEVNqUOPFxaKaXv2BD832ALoL8Ks8evDzlZCM2P5zj-U87p0agbsMM&_nc_ohc=a1j8XGxbh3YQ7kNvwH12N6M&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQOh1D_a5BClGWSRRJ98-_bXlOw8vTH7oKXOB9lQIZdqg&oe=6AEF6D7F&_nc_sid=10d13b)](https://www.threads.com/@builtinbuffalo_)
+694
 
-[builtinbuffalo_](https://www.threads.com/@builtinbuffalo_)
+59
 
-[9h](https://www.threads.com/@builtinbuffalo_/post/DfQSSaCkp9Z)
+15
 
-Josh Allen makes his Executive Producer debut in “The Buffalo Miracle”
+5
 
-November 24th on HBO Max
+[![Image 2: ksquared09's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/780268058_17985021297104247_7594461862709692178_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gG50HCYm9rrwqi-mauCWYhTj0uPFB3s8hmReAYAgveb4JWjpuL_QH2H-9txYDCYW2wcVkCSV_dgkaCPAcaiIEI9&_nc_ohc=ormlRerfgnwQ7kNvwHeLJTj&_nc_gid=A_SdSUWrVh9-C36Qq80tbw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQR9-YvbeKjK9QyukZGrFMVuTnOYUUvQQJTtwZ0ODKAZrg&oe=6AF0BD62&_nc_sid=68810c)](https://www.threads.com/@ksquared09)
 
-#BuffaloBills #BillsMafia #GoBills #Buffalo #JoshAllen
+[ksquared09](https://www.threads.com/@ksquared09)
 
-![Image 3](https://scontent.cdninstagram.com/v/t51.82787-15/884829106_18389415925225177_103166840052660124_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ig_cache_key=NDAyMTc5NDg2NjU2NDU4MDE0Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTI4My5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=fSZRhhOdvxsQ7kNvwHdFdpB&_nc_oc=AdrDz2FpHD2Iq4YJhx8LnrG_MJy63ZgFI-T9RM8K8cKFH3QnRcc2Y6pCpO5eveJCe8w&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=Pj3uO4FkH-TbiQuxilTs9g&_nc_ss=7320f&oh=00_AQRcl-6MiwUr29e1qiB4El4HK3e9dafpj1GwCDXydz70_g&oe=6AEF72A8)
+[![Image 3](https://scontent.xx.fbcdn.net/v/t1.6435-9/724612297_18588809257062415_4344136464790011591_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQTRG3RJlotKeD5PuiAqUNsAn1v16vLum2ZNKqT7Zihrew&oe=6B1262C9) Heated Rivalry](https://www.threads.com/search?q=heatedrivalry&serp_type=tags&tag_id=18485329438068310)
 
-![Image 4](https://scontent.cdninstagram.com/v/t51.82787-15/888177582_18389415973225177_1164468151855228539_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ig_cache_key=NDAyMTc5NDg2NjY5MDQ1MjcyMw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTYzMC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=x2bO3Rs2AeEQ7kNvwFGKvLs&_nc_oc=AdoV9WQkSE8DfT
+[8h](https://www.threads.com/@ksquared09/post/DfS_es0lGgX)
+
+"Shane?"
+
+He hears Ilya calling his name from a distance, as if he's in a deep hole, one dug of his own making and the workings of his mind.
+
+He is not, in fact, in a hole, even though it feels like it.
+
+He's standing in their shared closet staring at his clothes.
+
+"Shane? Malysh, you are ok?"
+
+He keeps trying to pull himself out, find the familiar footholds he can use to get out but it's not working.
+
+He's still there, frozen, his hands clenched into fists at his side, when Ilya finds him.
+
+1K
+
+18
+
+5
+
+14
+
+[![Image 4: isaiahrmartin's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19
 ```
