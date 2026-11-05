@@ -4,18 +4,15 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "mcp"
+category: "knowledge_base"
 tools:
-  - "Claude"
   - "GPT"
-  - "MCP"
-  - "RAG"
   - "Notion"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0395
-generated_at: "2026-11-04T06:53:41+00:00"
+zh_ratio: 0.0419
+generated_at: "2026-11-05T07:12:15+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -32,7 +29,7 @@ generated_at: "2026-11-04T06:53:41+00:00"
 
 ## 使用工具
 
-Claude、GPT、MCP、RAG、Notion、GitHub
+GPT、Notion、GitHub
 
 ## 原始工作流拆解
 
@@ -64,15 +61,24 @@ Claude、GPT、MCP、RAG、Notion、GitHub
 
 ## 回覆區重點
 
-reply_summary_status: `unavailable`
+reply_summary_status: `partial`
 
-- 目前公開抓取結果沒有可可靠分離的回覆內容。
+- Title: Penance Manager 專案經理 (@pmenance.manager) on Threads
+
+URL Source: http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+
+Final URL: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](htt
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、RAG、MCP、Agent、agent、流程、工具、整理、小工具、Notion、GitHub
-- zh_ratio: `0.0395`
+- keyword_hits: AI、GPT、Agent、agent、流程、工具、整理、小工具、CRM、Notion、GitHub
+- zh_ratio: `0.0419`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -113,7 +119,7 @@ More
 
 28K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DEgsWQClUV0Q7kNvwHmW7oK&_nc_oc=Adp6dAWijTQnvaf-E4_GUxqBEJ3hZWqUIbhzkL2bMNexUJ3iFuGM-bi-VOlICPHoySg&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=bjS56lCV34HYYug4VeOqyg&_nc_ss=7b289&oh=00_AQRCnDpysQH7xzv_R5xpOVwlAbjAJyOQ2fqrMlST21O-pQ&oe=6AF0B5F0)](https://www.threads.com/@pmenance.manager)
+[![Image 1: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DEgsWQClUV0Q7kNvwGHeq8A&_nc_oc=Adr-QkDjbiE0UMIARXsbLJriB7G15yI3Vj3YhiICTalQbe957KROGi3L1GM0psqeEjU&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=W2x9y1Rpt3Gi_ADmS5FxqQ&_nc_ss=7b289&oh=00_AQRquooLjn5PTGs6SGc7VpatnVnZUJDJnDmtb1KUVSrA3w&oe=6AF20770)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -139,7 +145,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Xx16K0-BTroQ7kNvwGI6pLV&_nc_oc=AdosqnwshzBShlXY_G_1r_8aXrmc5_gsfHTkwsUX8VU3rNCEoqSc_Spqs35tAXQIy2A&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=J7Uf44-64D0mHAv-rFrtyA&_nc_ss=7b289&oh=00_AQQIF69LYAfCQ_GbZhbvRsc-bQ7uzW2lRzsH8UazoaxNlg&oe=6AF09E08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=XyBfC4WgGX8Q7kNvwFsiVQl&_nc_oc=AdpxYqV9Iw-CX5kcLsii-LVrYvJPIYYQeWXUatxXgopO4RC3Ll19vgraxEutGg4uYE8&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=W2x9y1Rpt3Gi_ADmS5FxqQ&_nc_ss=7b289&oh=00_AQSPrArlnc1tgCkcnmfpFU32q6VVoUp1rw0XXNO3xs0tVw&oe=6AF1EF88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -151,5 +157,5 @@ Translate
 
 Pinned
 
-[![Image 3: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DEgsWQClUV0Q7k
+[![Image 3: A Threads user's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB2402400j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=DEgsWQClUV0Q7k
 ```
