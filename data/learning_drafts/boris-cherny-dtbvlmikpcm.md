@@ -8,14 +8,17 @@ category: "mcp"
 tools:
   - "Claude"
   - "Claude Code"
+  - "GPT"
   - "MCP"
+  - "RAG"
   - "Make"
   - "Slack"
+  - "Cursor"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-06T07:12:19+00:00"
+generated_at: "2026-11-07T06:25:18+00:00"
 ---
 
 # boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
@@ -32,12 +35,12 @@ I'm Boris and I created Claude Code. Lots of people have asked how I use Claude 
 
 ## 使用工具
 
-Claude、Claude Code、MCP、Make、Slack、GitHub
+Claude、Claude Code、GPT、MCP、RAG、Make、Slack、Cursor、GitHub
 
 ## 原始工作流拆解
 
 1. 7/ I use slash commands for every inner loop workflow that I do many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUBaNKjTPTt9dM7OkXBPb_HvJMMg_ar_RvO42oQvXhGtozGvjp1MhgyngFfupE39ujgKPABgAuNYqhcMUnzN-aM2xNVVAgtq1k0MMZeNOLHRD4LvuD4)
+2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUCP4Xuw3qr4oIjxhBhMD6v5SGwMiJnKb8nk_5J7xMkgD4OelrsxRjoh4WI1d-JYD_YWoyejkXtXuSpaqwRF7dgoGA9ssxInVTmOIfZv8aUMSRkb_Pk)
 
 ## 可以直接複製的做法
 
@@ -65,23 +68,23 @@ reply_summary_status: `partial`
 
 - Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Markdown Content:
-[![Image 1: boris_cherny's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
-- Title: Boris Cherny (@boris_cherny) on Threads
-
 URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Final URL: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
 [![Image 1: boris_cherny's profile picture](https://scontent
+- Title: Boris Cherny (@boris_cherny) on Threads
+
+URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
+
+Markdown Content:
+[![Image 1: boris_cherny's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Make、Agent、agent、prompt、CRM、Slack、GitHub、CLI、workflow
+- keyword_hits: AI、Claude、GPT、RAG、MCP、Make、Cursor、Agent、agent、prompt、Slack、GitHub、CLI、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
@@ -123,7 +126,7 @@ More
 
 487K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=SEzRDwkbl_IQ7kNvwHtSVOC&_nc_oc=Adr9sUsvN8cZtKfPHmrpnVtNHxOWSG8QCJzlTtbpV1lAMHwb99-jwcNLWtCS1_IwhVE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQTSSRFfUN6lXCL-hN5HYNlrSsGNEt-pmNZDEGFyyIRyaQ&oe=6AF354E2)](https://www.threads.com/@boris_cherny)
+[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=KQNPtaV7N-QQ7kNvwEg0XRU&_nc_oc=AdoB6epaOSxxdVUH9zVoPfjRyz4J6bcysT3UyVPnVrNY5RRJBZi9T6tHGAK6f-IzeW4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQSHVxyumZjvoYc2p_rWTThLRzjufqHe-45k4q5_dq9Wqw&oe=6AF4A662)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -143,7 +146,7 @@ So, here goes.
 
 3K
 
-[![Image 2: A Threads user's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=SEzRDwkbl_IQ7kNvwHtSVOC&_nc_oc=Adr9sUsvN8cZtKfPHmrpnVtNHxOWSG8QCJzlTtbpV1lAMHwb99-jwcNLWtCS1_IwhVE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQTSSRFfUN6lXCL-hN5HYNlrSsGNEt-pmNZDEGFyyIRyaQ&oe=6AF354E2)](https://www.threads.com/@boris_cherny)
+[![Image 2: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=KQNPtaV7N-QQ7kNvwEg0XRU&_nc_oc=AdoB6epaOSxxdVUH9zVoPfjRyz4J6bcysT3UyVPnVrNY5RRJBZi9T6tHGAK6f-IzeW4&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQSHVxyumZjvoYc2p_rWTThLRzjufqHe-45k4q5_dq9Wqw&oe=6AF4A662)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -151,7 +154,7 @@ So, here goes.
 
 ·Author
 
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUBaNKjTPTt9dM7OkXBPb_HvJMMg_ar_RvO42oQvXhGtozGvjp1MhgyngFfupE39ujgKPABgAuNYqhcMUnzN-aM2xNVVAgtq1k0MMZeNOLHRD4LvuD4)
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUCP4Xuw3qr4oIjxhBhMD6v5SGwMiJnKb8nk_5J7xMkgD4OelrsxRjoh4WI1d-JYD_YWoyejkXtXuSpaqwRF7dgoGA9ssxInVTmOIfZv8aUMSRkb_Pk)
 
-[![Image 3](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/609400677_1
+[![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/609400677_1
 ```

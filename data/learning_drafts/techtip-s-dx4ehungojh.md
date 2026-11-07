@@ -10,7 +10,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-06T07:12:19+00:00"
+generated_at: "2026-11-07T06:25:18+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA

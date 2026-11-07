@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
 category: "coding"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-06T07:12:19+00:00"
+generated_at: "2026-11-07T06:25:18+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,22 +61,36 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: motherjonesmag's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/3
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://w
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown C
 - Markdown Content:
-[![Image 1: motherjonesmag's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357847999_6393820337364075_6605065117912979791_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=
-- [![Image 3: fullcourtpumps's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/885832349_17995417395115480_4308472622371270303_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdnins
-- [![Image 5: heatedreveler's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/718538540_18078752333398648_6696789883788404744_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41NDEuYzIifQ&_nc_ht=scontent.cdninsta
-- [![Image 2: thisone0verhere's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/170089772_457767508764605_5232143763012006841_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTguYzIifQ&_nc_ht=scontent.cdninstag
+Log in or sign up for Threads See what people are talking about and join the conversation.
+- [Log in](https://www.threads.com/login?show_choice_screen=false)
+- URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 ## 抓取品質
 
 - content_quality: `medium`
-- keyword_hits: AI
+- keyword_hits: Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -84,50 +99,30 @@ Markdown Content:
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[![Image 1: j.nyshell's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/695786207_17960796945118705_3202783162563951150_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gEbd2j37I37dJc_Ee-ysFOHC2Y-UDw-sY9EtU7Z70NM6OEs3KDN8BVQQHapH1OmXgI&_nc_ohc=mdESmuqagMsQ7kNvwFOtVkI&_nc_gid=2_EjjtxB6vXN34JXoVPffw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRKTKNbwGd0hqYC0WibAxfBh_qk5yH1jA0lGXJLjwFeUQ&oe=6AF343AB&_nc_sid=10d13b)](https://www.threads.com/@j.nyshell)
+[](https://www.threads.com/)
 
-Me rn reading Charlotte threads tea that got nothing to do with me 🙃
+[](https://www.threads.com/)
 
-[![Image 2: Pop Corn GIF by FirstAndMonday](https://media2.giphy.com/media/v1.Y2lkPTA1NzQyMTNjMm93dzBxNDk3dDM3bDF5MDFjYWg3dGxzYWFjY3Nrd3ZyM29zaDl0ciZlcD12MV9naWZzX2dpZklkJmN0PWc/5xtDarm27LJsTNrwHBe/200.gif)](https://www.threads.com/@j.nyshell/post/DfXjLa3mtcw/media)
+[](https://www.threads.com/search)
 
-283
+# [Home](https://www.threads.com/?error=invalid_post)
 
-58
+Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 
-18
+* © 2026
+* [Threads Terms](https://help.instagram.com/769983657850450)
+* [Privacy Policy](https://help.instagram.com/515230437301944)
+* [Cookies Policy](https://help.instagram.com/1896641480634370/)
+* Report a problem 
 
-5
+Say more with Threads
 
-[![Image 3: itsjustleea's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/655602331_17953465296108178_6367596474136521304_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEbd2j37I37dJc_Ee-ysFOHC2Y-UDw-sY9EtU7Z70NM6OEs3KDN8BVQQHapH1OmXgI&_nc_ohc=cjZ-SwDFb1EQ7kNvwHcr02M&_nc_gid=2_EjjtxB6vXN34JXoVPffw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRne-FoGjTBlUgmoghHwdCy0nV5tT9ABp97ObgO3UAIow&oe=6AF355E0&_nc_sid=10d13b)](https://www.threads.com/@itsjustleea)
-
-To my Charlotte girlies, any black women therapist recommendations ??
-
-83
-
-59
-
-4
-
-9
-
-[![Image 4: stpete.steph's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358513183_677997460825990_4665524745031802486_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEbd2j37I37dJc_Ee-ysFOHC2Y-UDw-sY9EtU7Z70NM6OEs3KDN8BVQQHapH1OmXgI&_nc_ohc=Xj-Nu1pNYtkQ7kNvwFS5N9c&_nc_gid=2_EjjtxB6vXN34JXoVPffw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQ68LF6dlh64dLvqTmetv5mk_hr1gpQ_VIuda3XX1GRaA&oe=6AF36265&_nc_sid=10d13b)](https://www.threads.com/@stpete.steph)
-
-I don’t know what the hell is going on in downtown St Pete right now, but there have been helicopters flying around for the last hour or so.
-
-Anybody else hear them?
-
-Is it a training exercise or something?
-
-16
-
-35
-
-2
-
-[![Image 5: amberforiowa's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/716490375_18412657060199740_4886684077578287978_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NjMuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gEbd2j37I37dJc_Ee-ysFOHC2Y-UDw-sY9EtU7Z70NM6OEs3KDN8BVQQHapH1OmXgI&_nc_ohc=I9zEa4kWkMQQ7kNvwHvEw-b&_nc_gid=2_EjjtxB6vXN34JXoVPffw&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRBblBAedezSg-7vap9Fgl7u
+Join Threads to share thoughts, find out what's going on, follow your people and more.
 ```
