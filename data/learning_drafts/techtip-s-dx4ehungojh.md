@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "automation"
+category: "coding"
 tools:
-  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-07T06:25:18+00:00"
+generated_at: "2026-11-08T06:32:26+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -65,15 +64,26 @@ URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Markdown Content:
+[](https://www.threads.com/)
 
-Markdown Cont
-- URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.
+- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+- * © 2026
+* [Threads Terms](https://help.instagram.com/769983657850450)
+* [Privacy Policy](https://help.instagram.com/515230437301944)
+* [Cookies Policy](https://help.instagram.com/1896641480634370/)
+* Report a problem
+- [Log in](https://www.threads.com/login?show_choice_screen=false)
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: Make
+- content_quality: `strong`
+- keyword_hits: AI、CRM、CLI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -86,11 +96,44 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
 Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
+[![Image 1: chaddarnell's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/629998474_17941128255116352_1751740729650969747_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gHU_5EFDSFZRKl9DdOwBdRe1qpXH3T1ZfMzRWxnzS4n7FUmRiSzlVey41E8DdhS8ZI&_nc_ohc=JTUP6l6T8KEQ7kNvwFkjqiz&_nc_gid=p8cS9dTCifcRmZCVohGV9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQRzbAZUw-QMVrdTV9xFL_-upb6iQvs6GtTn7idyBcjw1g&oe=6AF5D974&_nc_sid=10d13b)](https://www.threads.com/@chaddarnell)
 
-[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+I’m waiting on a third Dana White to reveal themselves.
+
+352
+
+23
+
+6
+
+7
+
+[![Image 2: snarkandlemons's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/483383348_609232511980081_2834374753439814972_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHU_5EFDSFZRKl9DdOwBdRe1qpXH3T1ZfMzRWxnzS4n7FUmRiSzlVey41E8DdhS8ZI&_nc_ohc=qlZg5Xns5YAQ7kNvwGaCoI8&_nc_gid=p8cS9dTCifcRmZCVohGV9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSadJmHozOqIhz1b64o8xM084jmHiJvPIWVFVMlZxVfig&oe=6AF5D0E0&_nc_sid=10d13b)](https://www.threads.com/@snarkandlemons)
+
+I really need to hear from someone with a 7 and 4 year old because I need to know that getting zero alone time is just a phase. I’m losing my mind.
+
+152
+
+87
+
+3
+
+[![Image 3: karoline.withak's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/783857651_17979018747120191_5115543379265019412_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHU_5EFDSFZRKl9DdOwBdRe1qpXH3T1ZfMzRWxnzS4n7FUmRiSzlVey41E8DdhS8ZI&_nc_ohc=mMMHQ-o0FKYQ7kNvwFVJh4M&_nc_gid=p8cS9dTCifcRmZCVohGV9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQaxCTnKhBad21JMRkeejaSvMwXKxN0CjjL924Gfxik3Q&oe=6AF5FA09&_nc_sid=10d13b)](https://www.threads.com/@karoline.withak)
+
+What’s a home decor trend that you’re embarassed fo admit you actually like?
+
+1
+
+4
+
+[![Image 4: jacey6221's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/670916507_17881501770549553_1892505177103287989_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHU_5EFDSFZRKl9DdOwBdRe1qpXH3T1ZfMzRWxnzS4n7FUmRiSzlVey41E8DdhS8ZI&_nc_ohc=IeedlLi8b3oQ7kNvwFU-cPS&_nc_gid=p8cS9dTCifcRmZCVohGV9g&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQq7XjftXB1uKXwLZDAVPKTypL_F-SMpFzcR0YHA8Amtg&oe=6AF5E712&_nc_sid=10d13b)](https://www.threads.com/@jacey6221)
+
+Ok I see what you guys mean about chiffon slipping all day. I’m also going to order a jersey one when I order my abaya. I’ll definitely be giving Olena then!
+
+263
+
+8
+
+[![Image 5: ashystudiosx's profile picture](https://scontent.cdninstagram.c
 ```

@@ -9,10 +9,11 @@ tools:
   - "Claude"
   - "MCP"
   - "RAG"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0263
-generated_at: "2026-11-07T06:25:18+00:00"
+zh_ratio: 0.0295
+generated_at: "2026-11-08T06:32:26+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -29,7 +30,7 @@ generated_at: "2026-11-07T06:25:18+00:00"
 
 ## 使用工具
 
-Claude、MCP、RAG
+Claude、MCP、RAG、GAS
 
 ## 原始工作流拆解
 
@@ -62,28 +63,24 @@ reply_summary_status: `partial`
 
 - Title: 未來商務 (@futurecommerce_official) on Threads
 
-URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
-
-Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/6
-- Title: 未來商務 (@futurecommerce_official) on Threads
-
 URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Final URL: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
-[![Image 1: futurecommerce_official
-- Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEc
-- Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEc
+[](https://www.threads.com/)
+
+[Home
+- [![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-sea5-2.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4ke1-1779781621.png%3Fw%3D1600%26outp
+- [![Image 13: j84ching_le's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/475252726_914310454201076_4767500695835099022_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GPbHUxz0StZ9jz8DAI6-raGfkClCbkULAAAB1501500j-ccb7-5&ccb=7-5
+- [![Image 26](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/876613925_17955816096272027_2063972575993612216_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ig_cache_key=NDAyMTEzMDQ4MTc4MTQyNDU2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZ
+- [![Image 10: sda.tw's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/844252727_17904850518604119_5128690740270787324_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GDdGUjJX_ereXZw-APzqrCgOxSxHbmNDAQAB1501500j-ccb7-5&ccb=7-5&_
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、RAG、MCP
-- zh_ratio: `0.0263`
+- zh_ratio: `0.0295`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 ## 原始抓取內容
@@ -124,7 +121,7 @@ More
 
 138K views
 
-[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=dROyLsv2L2sQ7kNvwEPQeV0&_nc_oc=AdoPGjBZ5DotDtLkNUNZA5uqRR8c0l6jjJXMkIt7QHVX3_NfsKfiQKapalq7uyTQeFc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=14WpUiiUuHTFKfLQCGfeXg&_nc_ss=7b289&oh=00_AQSag_X8-luUzZVpM28gVNo129KM9su5ao3FLGP4padSDA&oe=6AF49368)](https://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=dROyLsv2L2sQ7kNvwEJbHAZ&_nc_oc=Adqthh7syOu3dO7lp37VD1tPLwNKhm7tf9zpagNCdkSa7AMYLaTTJ9i3WFxMqCzoWy0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=m-IQU71cvgckv0PStABlxw&_nc_ss=7b289&oh=00_AQTjdizcFnWxi1lf0AlUIphhI_2GNp5r93-I87ctEbVKkA&oe=6AF5E4E8)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -148,7 +145,7 @@ Translate
 
 2.4K
 
-[![Image 2: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=dROyLsv2L2sQ7kNvwEPQeV0&_nc_oc=AdoPGjBZ5DotDtLkNUNZA5uqRR8c0l6jjJXMkIt7QHVX3_NfsKfiQKapalq7uyTQeFc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=14WpUiiUuHTFKfLQCGfeXg&_nc_ss=7b289&oh=00_AQSag_X8-luUzZVpM28gVNo129KM9su5ao3FLGP4padSDA&oe=6AF49368)](https://www.threads.com/@futurecommerce_official)
+[![Image 2: futurecommerce_official's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=dROyLsv2L2sQ7kNvwEJbHAZ&_nc_oc=Adqthh7syOu3dO7lp37VD1tPLwNKhm7tf9zpagNCdkSa7AMYLaTTJ9i3WFxMqCzoWy0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=m-IQU71cvgckv0PStABlxw&_nc_ss=7b289&oh=00_AQTjdizcFnWxi1lf0AlUIphhI_2GNp5r93-I87ctEbVKkA&oe=6AF5E4E8)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -156,9 +153,9 @@ Translate
 
 ·Author
 
-三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUB6u0wKrsPx_jP2CbMC_P3lCTgFKTri_X3I-s6hTzqN1qqS1slU3QXY3bPjjf2XD1llEPIexCNXQvrS5GGALr4lHGIy_1Tfvd-1_Jwznq3S6WFxzNA)
+三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUAeK3TYbO2Vj4FIdsPvDOGzJ0FTqg6wZQ56jvkKKvsQaQ9Psb4_-ePiPfNZhnLYrseK-Y1SOBZwdMHX3bsayAJCmJ-s-181FYMaP_tvArQ01FrXd74)
 
 Translate
 
-[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-sea5-2.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4
+[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/874438905238789309?url=https%3A%2F%2Fimage-cdn.learnin.tw%2Fbnextmedia%2Fimage%2Falbum%2F2026-05%2F4
 ```

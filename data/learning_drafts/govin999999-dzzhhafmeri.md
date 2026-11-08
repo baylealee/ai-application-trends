@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "govin999999 的 AI 工作流案例：Blocked everybody i dealt w this year. Got"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -8,18 +8,18 @@ category: "coding"
 tools:
   - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-07T06:25:18+00:00"
+generated_at: "2026-11-08T06:32:26+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# govin999999 的 AI 工作流案例：Blocked everybody i dealt w this year. Got
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Blocked everybody i dealt w this year. Gotta make room. I want love.
 
 ## 這篇在解決什麼問題
 
@@ -61,6 +61,31 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://ww
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、Make
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -72,40 +97,20 @@ Markdown Content:
 
 New thread
 
-[Search](https://w
-- Title: Threads • Log in
+[Search](https://www.threads.com/search)
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+Messages
 
-Final URL: https://www.threads.com/?error=invalid_post
+Activity
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Profile
 
-Markdown C
-- Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
-- [Log in](https://www.threads.com/login?show_choice_screen=false)
-- URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `medium`
-- keyword_hits: Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+More
 
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Content:
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
@@ -114,15 +119,45 @@ Markdown Content:
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+[![Image 1: studioserenpatterns's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/454640664_4053230678238881_8643159308236026507_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gHB5HQWD1z0AQDYH_V7ntLaofxZ6i6bN8skWfblHI52UBy-N_WIhLtW-FZQTYVESjs&_nc_ohc=NT2FZEMk6TkQ7kNvwFYSHLC&_nc_gid=sQ8dZPT9B90wSBbjbh8Tvg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTuNGH8H7crE7EqaR81U0w4Yd8gmY0WP5zzfxnG_J2Lng&oe=6AF5F386&_nc_sid=10d13b)](https://www.threads.com/@studioserenpatterns)
 
-* © 2026
-* [Threads Terms](https://help.instagram.com/769983657850450)
-* [Privacy Policy](https://help.instagram.com/515230437301944)
-* [Cookies Policy](https://help.instagram.com/1896641480634370/)
-* Report a problem 
+[studioserenpatterns](https://www.threads.com/@studioserenpatterns)
 
-Say more with Threads
+[Sewing Threads](https://www.threads.com/search?q=Sewing%20Threads&serp_type=tags&tag_id=18414329341008235)
 
-Join Threads to share thoughts, find out what's going on, follow your people and more.
+[14h](https://www.threads.com/@studioserenpatterns/post/DfciPagDmCm)
+
+My toxic trait is buying fabric like I've got another 200 years of sewing ahead of me😂🧵
+
+993
+
+105
+
+16
+
+21
+
+[![Image 2: matthew.aldrich's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/384981377_1490059538462308_4045017272146331338_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NzEuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gHB5HQWD1z0AQDYH_V7ntLaofxZ6i6bN8skWfblHI52UBy-N_WIhLtW-FZQTYVESjs&_nc_ohc=JF07g5TwjuAQ7kNvwG6epMT&_nc_gid=sQ8dZPT9B90wSBbjbh8Tvg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQQRs8YmQ_qXkbQ3RqJRkyZiLSZBMkAKD0Z5Q7fJsJxxig&oe=6AF5FE59&_nc_sid=10d13b)](https://www.threads.com/@matthew.aldrich)
+
+[matthew.aldrich](https://www.threads.com/@matthew.aldrich)
+
+[14h](https://www.threads.com/@matthew.aldrich/post/Dfcl2esmmgY)
+
+You guys, my high school drama teacher showed up to my book signing, and I got to thank her for sending me on this bizarre journey.
+
+Pour one out for the teachers today.
+
+975
+
+8
+
+12
+
+1
+
+[![Image 3: thatsminah's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/409332392_845922540612214_3598743084299410161_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gHB5HQWD1z0AQDYH_V7ntLaofxZ6i6bN8skWfblHI52UBy-N_WIhLtW-FZQTYVESjs&_nc_ohc=dw_sZ88qtCcQ7kNvwENPseO&_nc_gid=sQ8dZPT9B90wSBbjbh8Tvg&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSlmPWfUf5neH8VCLtPaVxkqLerH7ogKPzzViJYXSAH-A&oe=6AF5EAA6&_nc_sid=10d13b)](https://www.threads.com/@thatsminah)
+
+[thatsminah](https://www.threads.com/@thatsminah)
+
+[14h](https://www
 ```

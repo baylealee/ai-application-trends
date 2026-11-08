@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-07T06:25:18+00:00"
+generated_at: "2026-11-08T06:32:26+00:00"
 ---
 
 # notionhq 的 AI 工作流案例：Title: Notion (@notionhq) on Threads
@@ -64,23 +64,25 @@ reply_summary_status: `partial`
 
 - Title: Notion (@notionhq) on Threads
 
-URL Source: https://www.threads.com/@notionhq/post/DYXi9DaEicv
-
-Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_584587685547827455
-- Title: Notion (@notionhq) on Threads
-
 URL Source: http://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Final URL: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
 Markdown Content:
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.c
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[S
+- So we partnered with [monday.com](https://l.threads.com/?u=http%3A%2F%2Fmonday.com%2F&e=AUCyr5jcjCCL-vfJXeSNiR7eji58Zz4X-loKcVMvWnnQY4I-p6KmcKvWyxJjbKtcm1cIR-YErCNWXAIGcccgbxDyHIgnGmWmwzvyDz-KMVly1XMK19U). dacticai reads your existing files, then interviews yo
+- [Video 10](https://scontent-sea5-1.cdninstagram.com/o1/v/t16/f2/m84/AQPUllqw7c4U0zNKcMM6EBIzDSkQpFJrhUKq9npftruwoByUlapnuFVyAvt6RDpRSagYgBDuVg9rgZqBNS4-r4DC_HMHOa6n7WNq6kY.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ohc=E9lzdXjHs
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make、Agent、agent、Notion、workflow
+- keyword_hits: AI、Make、Agent、agent、CRM、Notion、workflow
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@notionhq/post/DYXi9DaEicv
 
@@ -122,7 +124,7 @@ More
 
 4.4K views
 
-[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GHGTjBuAXWZwcZ0FAP-JdfsGuiBRbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=dzRF28Tn4jIQ7kNvwF0SXYr&_nc_oc=AdrjF5ilyGF5YPwEpgzUqlQCi7wlaOtEl1FSGSUQHn_lVs0mjEctqowzqsCAuMVhUKI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQTOC8xKULSk27MZaRF0xWTZOvPxwsu9fFhvMRV7xKjlCw&oe=6AF481B0)](https://www.threads.com/@notionhq)
+[![Image 1: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GHGTjBuAXWZwcZ0FAP-JdfsGuiBRbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=O1CkgG5OnlMQ7kNvwHZs1zs&_nc_oc=Adqvrtb6ApZ5jiTnn9UO91MEu641z3EVJm8pQ9PCxMn56_q7CanAJqvi48WiDKCNxUA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQQbtd6o5XBmNQhSifOPE_7NsPb-omYHsVgOugaMoajS5w&oe=6AF5D330)](https://www.threads.com/@notionhq)
 
 [notionhq](https://www.threads.com/@notionhq)
 
@@ -132,11 +134,11 @@ More
 
 So, Brainlabs used Custom Agents in Notion to handle the 70%. And now, the real work gets 100% of the team’s attention 🫡
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=s4WO_xePpnMQ7kNvwEOnY3s&_nc_oc=AdpoUBiKCuKhNAeG3U1hW4NsDVvl3P52ww0pifL26zE5xU4wgJdUfOV8Sl5dDEhQQ4c&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=r_ZDqxUfj_poXq2-zYC9Pw&_nc_ss=7b289&oh=00_AQQuAC2UU4Ps_0NTrjNMxolrzOoLFiMnZkLPW7JBMDyJNw&oe=6AF47C7C)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.71878-15/700361208_2151090722402922_737535006898628711_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&ig_cache_key=Mzg5NzczNzczMTY0MDUzNDgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuNjQwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=s4WO_xePpnMQ7kNvwGekJgx&_nc_oc=AdoM_O27SkCyqj8MwnheZb6vjwhGoCH1Q-byVEz0XM0CVUgpiYX6I2Jj7F8pACTHdoc&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=QDzqS3BZoH22YqztEcBe3w&_nc_ss=7b289&oh=00_AQTZGkIWV1qvoaxUXWqmZs6dfhb02yOvERq_-9dGKyFyYA&oe=6AF5CDFC)
 
 Sorry, we're having trouble playing this video.
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAceUZsq3M84e8WnhfgxrvIFxisUt35ni136AmgRfJYrg-HVIcopX7aNDGJOfpitrlWLYvSvp2WbIyCowLBGagtJtYWXKCYe1QpJO2MzUU1dNjZBM8)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBtjvCcbkHBzOS-J4fQBxAN4H9Mna0CD5an8Aedsx6OXe1CCW7dYBLkNDN9uhkHYKar0kUXlex9zKeBQpCoc0m36BBOeMs_knFYmvx0hN0PJgMaDIE)
 
 52
 
@@ -146,7 +148,7 @@ Sorry, we're having trouble playing this video.
 
 4
 
-[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GHGTjBuAXWZwcZ0FAP-JdfsGuiBRbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=dzRF28Tn4jIQ7kNvwF0SXYr&_nc_oc=AdrjF5ilyGF5YPwEpgzUqlQCi7wlaOtEl1FSGSUQHn_lVs0mjEctqowzqsCAuMVhUKI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQTOC8xKULSk27MZaRF0xWTZOvPxwsu9fFhvMRV7xKjlCw&oe=6AF481B0)](https://www.threads.com/@notionhq)
+[![Image 3: notionhq's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/462197617_1580485426175360_5845876855478274559_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ig_cache_key=GHGTjBuAXWZwcZ0FAP-JdfsGuiBRbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44MDAuQzMifQ%3D%3D&_nc_ohc=O1CkgG5OnlMQ7kNvwHZs1zs&_nc_oc=Adqvrtb6ApZ5jiTnn9UO91MEu641z3EVJm8pQ9PCxMn56_q7CanAJqvi48WiDKCNxUA&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQQbtd6o5XBmNQhSifOPE_7NsPb-omYHsVgOugaMoajS5w&oe=6AF5D330)](https://www.threads.com/@notionhq)
 
 [not
 ```
