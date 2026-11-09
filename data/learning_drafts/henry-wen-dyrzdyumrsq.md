@@ -6,14 +6,15 @@ post_id: "DYrzDyumRsq"
 language: "unknown"
 category: "coding"
 tools:
+  - "GPT"
   - "Manus"
   - "Notion"
   - "GAS"
   - "Canva"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0696
-generated_at: "2026-11-08T06:32:26+00:00"
+zh_ratio: 0.0658
+generated_at: "2026-11-09T07:03:14+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -30,7 +31,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、Notion、GAS、Canva
+GPT、Manus、Notion、GAS、Canva
 
 ## 原始工作流拆解
 
@@ -64,34 +65,26 @@ Manus、Notion、GAS、Canva
 
 reply_summary_status: `partial`
 
-- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
-
-URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_179761797001096
-- Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+- Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-s
-- Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GC3xFStvkXF9Pd0-AJ8Ce2GP-oJBbmNDAQAB15015
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-1.c
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、工具、整理、生成、Notion
-- zh_ratio: `0.0696`
+- keyword_hits: AI、GPT、工具、整理、生成、Notion
+- zh_ratio: `0.0658`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
 
 ```text
-Title: 亨利溫 Henry Wen｜個人品牌商業教練 (@henry.wen) on Threads
+Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
@@ -124,9 +117,9 @@ More
 
 # [Thread](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
-796 views
+797 views
 
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/722858285_17976179700109679_4720615251206931103_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=105&ig_cache_key=GC3xFStvkXF9Pd0-AJ8Ce2GP-oJBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=kqsO8r_d4ZUQ7kNvwF8sa9M&_nc_oc=Ado2CjWJCPlR64lJ6WwjvaHIYxPfgVXQK7zhHKkF4c0YWbSkFQZDcEUpBs7x838FQ_I&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vaKk9eNkjB31NmmyePbCXw&_nc_ss=7b289&oh=00_AQQfbf4vfGlzGyFuqxkQYXxF5Yic3UGEtH_-ASwBkIAe8g&oe=6AF5FBBA)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=YPOJMsqHfr8Q7kNvwEe8p9q&_nc_oc=AdolNUMsJffTDjyrlqB5XJ0xDLAFKdX2ZlygNNnRN437k_xzPkDQyvVlpWGyx9FYcjI&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Sc27DAAtejxi4iZJ5RiTjg&_nc_ss=7b289&oh=00_AQTplo9oMdfyX7jRS5re7kEtYRbO_CCA6IQ6uxm8iv-8Mg&oe=6AF73B05)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -140,19 +133,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=b0hHy3uTvYgQ7kNvwHjy8hB&_nc_oc=AdoraAcmEKqDLc4PJLdRZWPJyEyl-I2aEfKlbmACABF-Dgq4GNzAje7wuYyScefRRG0&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=9aTIRuJ__K3qcXo1B4nTXw&_nc_ss=7b289&oh=00_AQSHIQKF52v3D9sJdLQ-txFQza2a9FDA2KAGmxcDrh4xtA&oe=6AF5F33D)
+![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=-LOdqNNhFaQQ7kNvwEW9-PX&_nc_oc=Ado0yMPbb9cvFFQ0V2zyr2oFpfgnsGrESluHt5ZNxBbyw3iZL2IuWmLos4L_fMPoRFs&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=6SUpQ6lZpPIjfV15PNTO1A&_nc_ss=7b289&oh=00_AQQpdLFr0JuVpu_whRU7WjcfSNtc9xtHJw3VJ4TEQLXVyA&oe=6AF744BD)
 
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBfRG1VsPKFEmNBCxvD75b8hdJWsMJuPGEouvzg9zUN7mzzoKcRega-VXLnUaEgym4e3jkoKU_izFLgiPWiwuWH-F29ZG53xs0Fhtl9sCQ-canU57s)
-
-henry.wen
-
-13
-
-1
-
-9
-
-[![Image 3: nosugar_greentea's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=LLyFMcN8QRsQ7kNvwG7LIeD&_nc_oc=Adr6ECMsVYXXErRcpmsOQG3d9h6QDtVuRI4EJlqP2nhgmSHRBJFTYLpt9OO3CYMqLCg&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=vaKk9eNkjB31NmmyePbCXw&_nc_ss=7b289&oh=00_A
+[Video 2](https://scontent-ord5-1.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_ohc=lrgyOSdwiMcQ7kNvwHgU-c2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjE2OSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b8d8321596ac9270&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQzQ2OEMxOTlCNkE0M0Y5MkFDRUZBOThCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2
 ```
