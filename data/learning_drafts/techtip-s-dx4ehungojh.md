@@ -1,26 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：what’s one hyper-popular \"quiet luxury\" st"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "Make"
-  - "GAS"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-09T07:03:14+00:00"
+generated_at: "2026-11-10T07:39:15+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：what’s one hyper-popular "quiet luxury" st
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-what’s one hyper-popular "quiet luxury" staple that you secretly think makes 90% of women look utterly ridiculous in real life?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ what’s one hyper-popular "quiet luxury" staple that you secretly think makes 9
 
 ## 使用工具
 
-Make、GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -66,15 +64,14 @@ URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requ
-- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Cont
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、Make、CRM
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -90,53 +87,57 @@ Final URL: https://www.threads.com/?error=invalid_post
 Markdown Content:
 [](https://www.threads.com/)
 
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: cosmicboyhan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/898924849_17912333487561996_6975574369151148538_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45MzAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZ44FgR5-FVil7o6GgaNuH3jxMDs3Szr71WB_YEuFIrO8hL24H9HauwCW6SzydpLw&_nc_ohc=Swp9jBbCdX4Q7kNvwFIKt3_&_nc_gid=008Lq8YBcIq-9Ql28G9PKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQT83AZ2fVU5jHvNq8t3xsHMAaMijscoQvbkhE1Yokb03Q&oe=6AF74C58&_nc_sid=10d13b)](https://www.threads.com/@cosmicboyhan)
+[![Image 1: killinitsmalls's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/540687526_17844635622561643_4054080803831768162_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=cIxx_4buh3MQ7kNvwEkkKQm&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQRePmPKuNYyxWAOMdWR3jKgAZZSQMpaMJ5N5UytsgSUqw&oe=6AF8808E&_nc_sid=68810c)](https://www.threads.com/@killinitsmalls)
 
-[cosmicboyhan](https://www.threads.com/@cosmicboyhan)
+[killinitsmalls](https://www.threads.com/@killinitsmalls)
 
-[Stray Kids STAY](https://www.threads.com/search?q=Stray%20Kids%20STAY&serp_type=tags&tag_id=18424498144036000)
+[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719350972_18563013931070377_1311846397797993530_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQTl5GHUpu56YuMloi53zcuSZ19RAJBP--pZqsbxwGTA3Q&oe=6B1A3B74) Music Threads](https://www.threads.com/search?q=musicthreads&serp_type=tags&tag_id=18314965846116669)
 
-[7h](https://www.threads.com/@cosmicboyhan/post/Dff8IvgFBOO)
+10h
 
-DETROIT & CHICAGO STAYS, YALL SEE ANYTHING AT ANY VENUES????
+This content is unavailable
 
-213
+[![Image 3: ansapphire.ap's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/503295453_17910943356114205_7660021845957309093_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=NbdnMrcgYAMQ7kNvwGVcKF2&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQSzIsXXqpt3OaU9kfkIkbakqdm19TZSB81tZ2ne7W5SxA&oe=6AF8930C&_nc_sid=68810c)](https://www.threads.com/@ansapphire.ap)
 
-22
+[ansapphire.ap](https://www.threads.com/@ansapphire.ap)
 
-4
+[14h](https://www.threads.com/@ansapphire.ap/post/DfhyfMHoEIh)
 
-6
+Sarah Huckabee Sanders is still a piece of work.
 
-[![Image 2: sankofaimpactcollective's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/776586396_18086911187310770_1149400653099982787_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGZ44FgR5-FVil7o6GgaNuH3jxMDs3Szr71WB_YEuFIrO8hL24H9HauwCW6SzydpLw&_nc_ohc=BW4lrOBjx2wQ7kNvwHwlStM&_nc_gid=008Lq8YBcIq-9Ql28G9PKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQSQKZBjSJmg6NBsZxL3uk5t4yekTrM8szXHGARWYgq-iA&oe=6AF75631&_nc_sid=10d13b)](https://www.threads.com/@sankofaimpactcollective)
+729
 
-[sankofaimpactcollective](https://www.threads.com/@sankofaimpactcollective)
+85
 
-[14h](https://www.threads.com/@sankofaimpactcollective/post/DffJEcnFrBk)
+12
 
-Hi, we’re a nonprofit by Black women for Black women navigating layoffs, building businesses, and figuring out what’s next without having to do it alone 🤎
+[![Image 4: msrachelforlittles's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/520229498_17914065027117486_5649466842022832792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDkuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=32mg3EveqxkQ7kNvwF62_8Z&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQd0FAt_0a3AvjfSlr3mmZXSL7BdJg4ei95Yjzq5BX7kA&oe=6AF8892D&_nc_sid=68810c)](https://www.threads.com/@msrachelforlittles)
 
-310
-
-8
-
-26
-
-11
-
-[![Image 3: mo.nyque987's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/769008293_18077954672388456_4113630981859809139_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGZ44FgR5-FVil7o6GgaNuH3jxMDs3Szr71WB_YEuFIrO8hL24H9HauwCW6SzydpLw&_nc_ohc=l3Kf5iYXnVYQ7kNvwHNpglR&_nc_gid=008Lq8YBcIq-9Ql28G9PKA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQTRHjxlktSxq5gjq6fYOhGVAVyODmlHD_sCC9N65bgSiA&oe=6AF757EA&_nc_sid=10d13b)](https://www.threads.com/@mo.nyque987)
-
-[mo.nyque987](https://www.threads.com/@mo.nyque987)
-
-[Boston Threads](https://www.threads.com/search?q=Boston%20Threads&serp_type=tags&tag_id=18305131009082983)
-
-[17h](https://www.threads.com/@mo.nyque987/post/Dfe6ZvAlt1d)
-
-Are there any black girl Pilates studios in Boston?? Absolutely love my instructor at my current studio
+[msrachelforlittles](
 ```
