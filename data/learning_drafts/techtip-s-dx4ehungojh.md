@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：[Image 2: believenbritney's profile pictur"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-10T07:39:15+00:00"
+generated_at: "2026-11-11T06:58:04+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：[Image 2: believenbritney's profile pictur
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 2: believenbritney's profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/686199412_17964300510103176_438570868661654872_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -60,26 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Cont
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
-
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -91,53 +71,29 @@ Markdown Content:
 
 New thread
 
-[Search](https://www.threads.com/search)
+[Search](https://www
+- Title: Threads • Log in
 
-Messages
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-Activity
+Final URL: https://www.threads.com/?error=invalid_post
 
-Profile
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-Insights
+Markdown Cont
+- [![Image 4](https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-15/902591837_17998163226100600_6706395825853729775_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ig_cache_key=NDAyNzU1MzAxMDk1NTU3NjQxOQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZF
+- [![Image 1: amirvdrissi's profile picture](https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/769703374_17955559767196582_2530106267431425069_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-df
+- [![Image 3: yahoosports's profile picture](https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/817946482_17990388729100600_446887573009087286_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43OTguYzIifQ&_nc_ht=scontent-dfw5
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+## 抓取品質
 
-More
+- content_quality: `medium`
+- keyword_hits: CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[](https://www.threads.com/)
+## 原始抓取內容
 
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: killinitsmalls's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/540687526_17844635622561643_4054080803831768162_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=cIxx_4buh3MQ7kNvwEkkKQm&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQRePmPKuNYyxWAOMdWR3jKgAZZSQMpaMJ5N5UytsgSUqw&oe=6AF8808E&_nc_sid=68810c)](https://www.threads.com/@killinitsmalls)
-
-[killinitsmalls](https://www.threads.com/@killinitsmalls)
-
-[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719350972_18563013931070377_1311846397797993530_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQTl5GHUpu56YuMloi53zcuSZ19RAJBP--pZqsbxwGTA3Q&oe=6B1A3B74) Music Threads](https://www.threads.com/search?q=musicthreads&serp_type=tags&tag_id=18314965846116669)
-
-10h
-
-This content is unavailable
-
-[![Image 3: ansapphire.ap's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/503295453_17910943356114205_7660021845957309093_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43MTQuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=NbdnMrcgYAMQ7kNvwGVcKF2&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQSzIsXXqpt3OaU9kfkIkbakqdm19TZSB81tZ2ne7W5SxA&oe=6AF8930C&_nc_sid=68810c)](https://www.threads.com/@ansapphire.ap)
-
-[ansapphire.ap](https://www.threads.com/@ansapphire.ap)
-
-[14h](https://www.threads.com/@ansapphire.ap/post/DfhyfMHoEIh)
-
-Sarah Huckabee Sanders is still a piece of work.
-
-729
-
-85
-
-12
-
-[![Image 4: msrachelforlittles's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/520229498_17914065027117486_5649466842022832792_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MDkuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHPK9XyWs410yqxeaz4S-it9Sdp9Q4WMGFmzsBAa1pFmcenG3utEL6yhjaSzeeNFuNIO-HU4GnNCNr3setgiNqa&_nc_ohc=32mg3EveqxkQ7kNvwF62_8Z&_nc_gid=VllOT9LEq3ca7Vwbbb_2UQ&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQd0FAt_0a3AvjfSlr3mmZXSL7BdJg4ei95Yjzq5BX7kA&oe=6AF8892D&_nc_sid=68810c)](https://www.threads.com/@msrachelforlittles)
-
-[msrachelforlittles](
+```text
+[![Image 2: believenbritney's profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/686199412_17964300510103176_438570868661654872_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDI0LmMyIn0&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH3gU-BSf-B8mCBl3aHnSfUU4glcf9PPlkoqgN2_VeZ_Ne1OW7p6_d8Fs-OaR06g9sA6uQr0I79m0Cgh4jFmndV&_nc_ohc=TjSOsA61clIQ7kNvwFOa7EL&_nc_gid=Rh9_M_MdD5QJdjuJj87Myw&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQSGlv0AX_zrTLGJj2u6uBL3CPL5gjajUXvn0TvlmiKTmQ&oe=6AF9CBAC&_nc_sid=68810c)](https://www.threads.com/@believenbritney)
 ```

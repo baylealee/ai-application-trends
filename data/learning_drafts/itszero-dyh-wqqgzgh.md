@@ -15,8 +15,8 @@ tools:
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0688
-generated_at: "2026-11-10T07:39:15+00:00"
+zh_ratio: 0.0758
+generated_at: "2026-11-11T06:58:04+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -72,30 +72,21 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
+[![Image 1: itszero's profile picture](https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+
+Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-dfw5-1.cdninstagram.
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Gemini、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、記憶、GitHub、開源、CLI
-- zh_ratio: `0.0688`
+- zh_ratio: `0.0758`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -103,42 +94,18 @@ Markdown Content:
 ```text
 Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
+# [Thread 615 views](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-615 views
-
-[![Image 1: itszero's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oABW5GhFf54Q7kNvwFCleIT&_nc_oc=Adq-xdhD_l3DTxvnlyHnjeWP_40buLyMqpakBnWqZ_URPMSCokvjU46a8ywaQWSkXK4&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=7nX5MTd9MZeCI4b0Dm1K7Q&_nc_ss=7b289&oh=00_AQSax1BHAqWl9xDD97zfDcLCZDCH-GJ96LAUEi5lk_4VQw&oe=6AF8880B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-dfw5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oABW5GhFf54Q7kNvwF8_8zr&_nc_oc=AdoazxoWO2GBvQHHZuZpntQ71Bv0TfpOW_SP3pd2Pu4pClv-vy5XGy8vT2qK7wRo_Lg&_nc_zt=24&_nc_ht=scontent-dfw5-1.cdninstagram.com&_nc_gid=llBpSRzgpMwArcZj9EpYLA&_nc_ss=7b289&oh=00_AQSPCI1uHuS_EttWX0ge4g2lsF9mvdAoIdfgfBxtG75g7A&oe=6AF9D98B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -152,7 +119,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=x7EKcVEZB0EQ7kNvwHCIW0L&_nc_oc=AdruL_spw_j_7CrzunAFXF3yUOtaKf0V1s0NX1f3vOnL-aqGH2xB_zRyq8l6tHygKOU&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=7nX5MTd9MZeCI4b0Dm1K7Q&_nc_ss=7b289&oh=00_AQToDGN-zH0F5810piWCKBCyD2P3NT2BFUGLu1Jq-6q_lA&oe=6AF89F51)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-dfw6-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V5u2pAL9V4UQ7kNvwHHKle5&_nc_oc=AdoQ3xFi52N21MoYadPUSSDKnRMhUiONFrRUTRZHprMjrI7OLLnRHY58gz0diGCaEdE&_nc_zt=24&_nc_ht=scontent-dfw6-1.cdninstagram.com&_nc_gid=llBpSRzgpMwArcZj9EpYLA&_nc_ss=7b289&oh=00_AQRfPK0cWZUjq5oWpscDXtpvnvqnkwILwVvOSPOfXDXncw&oe=6AF9F0D1)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -162,9 +129,13 @@ it just works™
 
 Related threads
 
-[![Image 3: terry42hk's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/691674209_17962559976099043_6511145092408601753_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&ig_cache_key=GGEcOinjzKFm2tA-AJnsCsr2O1xabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=lvMBePS9QLUQ7kNvwFAR6sj&_nc_oc=Adofxmk2ZQomBW8SR-EXYGaRvnOiFqo8UIAZNX3xDLxW5V3Qtl2nu2GgeeQu_GSAO3s&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=7nX5MTd9MZeCI4b0Dm1K7Q&_nc_ss=7b289&oh=00_AQRJ3bCw4coO05w0gtCYQpfzmuKH_-5-WlbdhawjakY8QA&oe=6AF8807B)](https://www.threads.com/@terry42hk)
+[![Image 3: terry42hk's profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/691674209_17962559976099043_6511145092408601753_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMzIuYzIifQ&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHpPV8OvR-P6KN26CQUy9pKraDa9AGbFVpD1p_mOmMgcxS0D-aL7JrDHHcWb3RlcPk&_nc_ohc=MbRJpfc5b9UQ7kNvwHvMVYh&_nc_gid=llBpSRzgpMwArcZj9EpYLA&edm=APs17CUBAAAA&ccb=7-5&oh=00_AQT6E0GVbKRSdhKS1-jMif753U4kziIUWFFxzWaS9ljitw&oe=6AF9D1FB&_nc_sid=10d13b)](https://www.threads.com/@terry42hk)
 
 [terry42hk](https://www.threads.com/@terry42hk)
 
-[![Image 4](ht
+[AI Threads](https://www.threads.com/search?q=AI%20Threads&serp_type=tags&tag_id=18406834975056806)
+
+[5d](https://www.threads.com/@terry42hk/post/DfXbZS9n3hK)
+
+2026年最尾兩個月，如果仲有心學AI，有少少建議： - 開始試用Agentic AI，感受佢可以自己調用工具、改文件、跑流程，甚至好似GrokBOT咁有Routing Layer統整session分派任務，唔係Session Based only - 有能力有錢就嘗試玩Set Claude Code/Codex；有錢嫌麻煩就用GrokBOT + Cursor；沒錢有想法，豆包都照殺，其實都體驗到 - 開始建立Vault
 ```
