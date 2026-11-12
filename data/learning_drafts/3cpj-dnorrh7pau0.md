@@ -4,7 +4,7 @@ source_url: "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0"
 source_author: "_3cpj_"
 post_id: "DNORrH7Pau0"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
   - "Claude"
   - "Claude Code"
@@ -12,8 +12,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0986
-generated_at: "2026-11-11T06:58:04+00:00"
+zh_ratio: 0.0307
+generated_at: "2026-11-12T07:33:45+00:00"
 ---
 
 # _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
@@ -36,8 +36,8 @@ Claude、Claude Code、GPT、GitHub
 
 1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
 2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
-3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-dfw5-1.xx.fbcdn.net/emg1/v/t13/11250160252472770247?
-4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCoWbktgBJ4aJESiYu3S8MCru0MHpHsCczTN69ZmWVYwaI5MfNCOPc7DH7veiAxqIAmSJNKmCfmE88H3R7pyvci75lRS0ngUc9KROf67Yvx1lw-aT4)
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11250160252472770247?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAcKYwTaYAJbB1aF4UOU-Qrr9XuuoIc-piyyNqk6pUsNPs6RHfJJurEuPfjTAor4kyQH4XTiPsNKx4D3VwxdjCrUQt65394EKWd1hGF6ulF8wnwbOU)
 
 ## 可以直接複製的做法
 
@@ -65,9 +65,7 @@ reply_summary_status: `partial`
 
 - Title: Jun CP (@_3cpj_) on Threads
 
-URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-
-Final URL: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -76,17 +74,20 @@ Markdown Content:
 
 New thread
 
-[Search]
-- link [github.com/LichA…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUA8v2Ww0RNMVisrmbYiV4QVox1FJO5p1n9s4fdHYhVzUcf1O-A5SaNQoTiOuSoEsk0mEYLfthZDk5v2Em1cKX7Y5x2lGEVKzV_uEdZYUfQZAmJp4UY)
-- [![Image 8: arvin1009's profile picture](https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-19/566554405_17924561136153791_5499290254920158014_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&ig_cache_key=GCXvxCG-dEYbS64-AD6LSLFZZ1FMbmNDAQAB1501500j-ccb7-5&ccb=7-5
-- [![Image 5: haifengkao's profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/408759088_355505033835822_360758826495991945_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GDArXRgu9UF3VEMBAIlg4cY9rAEFbkULAAAB1501500j-ccb7-5&ccb=7-5&_n
-- [![Image 7: tototal999's profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.82787-19/710307360_17968367730118461_6836976940656628950_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=107&ig_cache_key=GCBuVio9T7_fItY-ANYUYL1N0uFebmNDAQAB1501500j-ccb7-5&ccb=7-
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profil
+- [![Image 14: nikkeiasia's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.2885-19/358049232_1010770010112042_2859196166669424959_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GNBlVxUqAGc7SpcDAD9ZfdHD560nbkULA
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、GitHub
-- zh_ratio: `0.0986`
+- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、知識庫、GitHub、CLI
+- zh_ratio: `0.0307`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -94,7 +95,9 @@ New thread
 ```text
 Title: Jun CP (@_3cpj_) on Threads
 
-URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Final URL: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -127,7 +130,7 @@ More
 
 115K views
 
-[![Image 1: _3cpj_'s profile picture](https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&ig_cache_key=GGU6xRzkIanCT0YCAJwsWw0Ja8JFbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=hOAsNu0wQhkQ7kNvwGUQsK2&_nc_oc=Adqnyx8glry2dSznDa3lBtZUxKzlUqXS_UN7TPUEEt9y0pNWGykZpmYdY8N-Rv2QXHg&_nc_zt=24&_nc_ht=scontent-dfw5-2.cdninstagram.com&_nc_ss=7b289&oh=00_AQSrZsiZwjBd3kkMN9dROX-NF2Ub1mAerIvPV_BWVYubkA&oe=6AF9C874)](https://www.threads.com/@_3cpj_)
+[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GGU6xRzkIanCT0YCAJwsWw0Ja8JFbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=hOAsNu0wQhkQ7kNvwGt7Dms&_nc_oc=Adohx3eHhOslAq5QqtG385p_Sw80Vvqt3JdPY6NkONbNpam-FyPp-vKtuIgqxd-e6jU&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&oh=00_AQRjjAJvOood8aju3BYYcWJbveMpn4a8bM0xE2EEtcPf1Q&oe=6AFB5234)](https://www.threads.com/@_3cpj_)
 
 [_3cpj_](https://www.threads.com/@_3cpj_)
 
@@ -155,15 +158,6 @@ More
 
 Translate
 
-[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-dfw5-1.xx.fbcdn.net/emg1/v/t13/11250160252472770247?url=https%3A%2F%2Fopengraph.githubassets.com%2F4914550fdf2700d98b8e11defeb61ea59b414c51102bccefcd1aed29179035cd%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-dfw5-1.xx.fbcdn.net&stp=dst-src&ccb=18-1&_nc_gid=hH60SShrdA_kFDuFpa2W9Q&_nc_zt=3&oh=06_Q3_FAWI2scquybbxIdbpo_gUjoR5R8f36eZE_ccXs0pKjx5M&oe=6AF5F237) ![Image 3](https://external-dfw5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-dfw5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=hH60SShrdA_kFDuFpa2W9Q&_nc_zt=3&oh=06_Q3_FAV_7yzTZPdaTi9vFRdIv_EbUrypAjJ-AYqdygUTw4tdx&oe=6AF60587) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUCoWbktgBJ4aJESiYu3S8MCru0MHpHsCczTN69ZmWVYwaI5MfNCOPc7DH7veiAxqIAmSJNKmCfmE88H3R7pyvci75lRS0ngUc9KROf67Yvx1lw-aT4)
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/11250160252472770247?url=https%3A%2F%2Fopengraph.githubassets.com%2F4914550fdf2700d98b8e11defeb61ea59b414c51102bccefcd1aed29179035cd%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=fr&ccb=18-1&_nc_gid=L0Oz2jlHluNE43Hi8IPsYg&_nc_map=urlgen_bucketless&_nc_zt=3&oh=06_Q3_FAQq90LBjWQOVpC-PHizwzxN3LNzrGPbq9TKQmpMSkUkD&oe=6AF743B7) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=L0Oz2jlHluNE43Hi8IPsYg&_nc_map=urlgen_bucketless&_nc_zt=3&oh=06_Q3_FAULlcxOjckZsgEpps5SqW6_eNUyN2daE5d9wCUum-pFG&oe=6AF75707) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUAcKYwTaYAJbB1aF4UOU-Qrr9XuuoIc-piyyNqk6pUsNPs6RHfJJurEuPfjTAor4kyQH4XTiPsNKx4D3VwxdjCrUQt65394EKWd1hGF6ulF8wnwbOU)
 
-1.9K
-
-54
-
-368
-
-2.1K
-
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username
 ```

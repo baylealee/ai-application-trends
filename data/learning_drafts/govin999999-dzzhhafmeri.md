@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[Image 3: trailblazers's profile picture]("
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-10T07:39:15+00:00"
+generated_at: "2026-11-12T07:33:45+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[Image 3: trailblazers's profile picture](
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 3: trailblazers's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/829363303_17990462838099838_2942285211948151024_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -60,6 +60,20 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://w
+- Title: Threads • Log in
+
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -72,19 +86,9 @@ Markdown Content:
 New thread
 
 [Search](https://ww
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown C
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
-- Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
+- [![Image 7](https://scontent.xx.fbcdn.net/v/t1.6435-9/722635384_18590137618044171_7444848202374067606_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQRGpxyU5AttyumwECp4mlPgsciuyVZ1htKf6C4EKpP9HA&oe=6B1CE31D) AI Threads](https://www.threads.c
+- So to recap: •84% of Dems support Medicare for All—Schumer & Jeffries oppose •73% of Dems want to abolish ICE—Schumer & Jeffries support ICE •72% of Dems want to end or decrease aid to Israel—Schumer & Jeffries support more aid
+- [![Image 5](https://scontent-sea5-2.cdninstagram.com/v/t39.30808-6/902044257_10165912044156913_3925520567946831787_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAyODEzNzEzNzEwMjQ3NzA3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&e
 
 ## 抓取品質
 
@@ -96,78 +100,5 @@ Log in or sign up for Threads See what people are talking about and join the con
 ## 原始抓取內容
 
 ```text
-Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: lashawnwiltz's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/318022812_503035348556972_4935309490400917486_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gFyUSrGiCzaU4utbe1WYFe-C0_x7K7UxwpcdGPAqkcJuquTtP4PwMEaADVLbnu32Uu1qkoRUNd8xZ1lqKAX8A9O&_nc_ohc=bnkM-zYOZUcQ7kNvwG8hfGw&_nc_gid=tz2iN_kto-C-NwxYmhVSlg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQcoOORo5a6P8BvVUPT7RnHPu-IzJ1S3nxgXxWuWjg3KA&oe=6AF88F05&_nc_sid=68810c)](https://www.threads.com/@lashawnwiltz)
-
-[lashawnwiltz](https://www.threads.com/@lashawnwiltz)
-
-[12h](https://www.threads.com/@lashawnwiltz/post/DfiC2b-oMKR)
-
-Pete about to lose his job.
-
-929
-
-38
-
-14
-
-[![Image 2: laurenmjconnelly's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/472615302_1671363587140638_577814453088834321_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NDkuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gFyUSrGiCzaU4utbe1WYFe-C0_x7K7UxwpcdGPAqkcJuquTtP4PwMEaADVLbnu32Uu1qkoRUNd8xZ1lqKAX8A9O&_nc_ohc=O2s6W7VkQz8Q7kNvwHWCI6W&_nc_gid=tz2iN_kto-C-NwxYmhVSlg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQuSx-N4VAjj47mW2aSldB6Xd1R1vD2uhvgyclSt08cRA&oe=6AF8977D&_nc_sid=68810c)](https://www.threads.com/@laurenmjconnelly)
-
-[laurenmjconnelly](https://www.threads.com/@laurenmjconnelly)
-
-[Pete Hegseth](https://www.threads.com/search?q=Pete%20Hegseth&serp_type=tags&tag_id=18470105707037480)
-
-[16h](https://www.threads.com/@laurenmjconnelly/post/Dfhq-keG1z_)
-
-May psycho killer Pete never have a day of peace for the rest of his sad life.
-
-2K
-
-3
-
-63
-
-1
-
-[![Image 3: brandi.kieraa_'s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/687817129_17958839109110908_7067992541511397656_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDUyLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFyUSrGiCzaU4utbe1WYFe-C0_x7K7UxwpcdGPAqkcJuquTtP4PwMEaADVLbnu32Uu1qkoRUNd8xZ1lqKAX8A9O&_nc_ohc=E6PVgCEaK3oQ7kNvwHfnuOm&_nc_gid=tz2iN_kto-C-NwxYmhVSlg&edm=ACM2rXoBAAAA&ccb=7-5&oh=00_AQQsTviaMnUuWY5AWqOW_Lz2NbDNYUCjXYxq3EMXPi87KA&oe=6AF89C08&_nc_sid=68810c)](https://www.threads.com/@brandi.kieraa_)
-
-[brandi.kieraa_](https://www.threads.com/@brandi.kieraa_)
-
-[22h](https://www.threads.com/@brandi.kieraa_/post/DfhAl5tG-3L)
-
-Finding out a man I l
+[![Image 3: trailblazers's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/829363303_17990462838099838_2942285211948151024_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF2aaP70zEVQ5BzTg0ttCnAFlxJG2NuQ_S7tc2e8SYimV1JNYnjSHIO8quMNd89vYTEbm_6QBXhCMdWFlF37Wyu&_nc_ohc=WqnVoVSuzUgQ7kNvwGT-PFP&_nc_gid=r0uUYZSj9YH6gvnfwfJAsA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTahzsE7tYF1HR4UqaKft8uX9No16nhBOKpe8S1ICpSRA&oe=6AFB56B1&_nc_sid=68810c)](https://www.threads.com/@trailblazers)
 ```
