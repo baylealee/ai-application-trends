@@ -15,8 +15,8 @@ tools:
   - "OpenClaw"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0621
-generated_at: "2026-11-12T07:33:45+00:00"
+zh_ratio: 0.0616
+generated_at: "2026-11-13T07:05:06+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -72,30 +72,21 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
+[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
 - Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
+
+Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
-[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_78682652871282
+[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、Gemini、OpenClaw、Cursor、Codex、Agent、agent、工作流、自動化、流程、prompt、工具、記憶、GitHub、開源、CLI
-- zh_ratio: `0.0621`
+- zh_ratio: `0.0616`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -103,9 +94,7 @@ Markdown Content:
 ```text
 Title: 傑洛 Zero Cho (@itszero) on Threads
 
-URL Source: http://www.threads.com/@itszero/post/DYH_wqQGzgH
-
-Final URL: https://www.threads.com/@itszero/post/DYH_wqQGzgH
+URL Source: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -136,9 +125,9 @@ More
 
 # [Thread](https://www.threads.com/@itszero/post/DYH_wqQGzgH)
 
-615 views
+616 views
 
-[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=oABW5GhFf54Q7kNvwG01UeU&_nc_oc=Adpj0OjQvV97gSUrzsKRxv_ziGLVPdVvrr8sT2YHKKtu4fIZl4krmJcpWBcxUao73h0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=92v8oIhrPfyLHTpZRt_88A&_nc_ss=7b289&oh=00_AQT_kKlgkrfzsb6Y0U9oS1IVbjqbh_cAzqireJYJbOd0dw&oe=6AFB2B0B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMyIn0%3D&_nc_ohc=Ueqf6vT8VQ0Q7kNvwGSv7i3&_nc_oc=AdohDhtNqYfruv5JGP1hHB__uR0FG8VPZlviYmbG6TLfJ1Yw-ASCx7lPbl7nkACpf28&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=hljAZSP7RlN84PA0TIbtMQ&_nc_ss=7b289&_nc_ct=RQgsPBUCFQIAAAA&oh=00_AQSVILVdX8w3Kqqndr8_wx0sTeUnmUn2jxwXCquCsbb-fA&oe=6AFC7C8B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -152,7 +141,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=V5u2pAL9V4UQ7kNvwESnilW&_nc_oc=AdpD8s0lOek7Sb_Hh3LWmkcAjipFUP9D7x66aI2LYXXeZqMVB4pikh_akkJyRh5xKpQ&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=92v8oIhrPfyLHTpZRt_88A&_nc_ss=7b289&oh=00_AQSO1371mg_gtcft_25pANL66YaJrurMsblwkQl_VHxgng&oe=6AFB4251)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMyIn0%3D&_nc_ohc=V5u2pAL9V4UQ7kNvwERZ03C&_nc_oc=Adr1LgdPmyokLlBlALFtEmEHRHtA4vsBkVb8RmGG35TPpQFpocNG6C5-lq0MZu9FFpI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=hljAZSP7RlN84PA0TIbtMQ&_nc_ss=7b289&_nc_ct=RQgsPBUCFQIAAAA&oh=00_AQSfIu-Wss0x_5GfGqKUF-qDRPMRy6rybKmRmfFa6PHYNQ&oe=6AFC93D1)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -162,5 +151,5 @@ it just works™
 
 Related threads
 
-[![Image 3: terry42hk's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/691674209_17962559976099043_6511145092408601753_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GGEcOinjzKFm2tA-AJnsCsr2O1xabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=vfAEoWZTgFEQ7kNvwG88oNn&_nc_oc=AdqvsVjY2HLUiO3S5amR6ffAYcXpqy9mKvAZQzg3qbcGblpJ2HgeUphA5_Co__BUvSQ&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=92v8oIhrPfyLHTpZRt_88A&_nc_ss=7b289&oh=00_AQQPUwBzzhjzcI0Az3Stc8JgSJ-SPczvacFi4D_0YKNOIA&oe=6AFB237B)](https://www.threads.co
+[![Image 3: terry42hk's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/691674209_17962559976099043_6511145092408601753_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GGEcOinjzKFm2tA-AJnsCsr2O1xabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMyIn0%3D&_nc_ohc=vfAEoWZTgFEQ7kNvwGL7P-C&_nc_oc=AdpJni9N0vixOKGrq6I-cQaIMNeRrf5tKF_xQyhHRDzK9QgyFPn2v7Ib5X4rLW0riRE&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=hljAZSP7RlN84PA0TIbtMQ&_nc_ss=7b289&_nc_ct=RQgsPBUCFQIAAAA&oh=00_AQT7pCiaDxjNv812yiuoyL9hSWIAAO1CuZ1zqimEbmsIKg&oe=6AFC74FB)](https://www.th
 ```

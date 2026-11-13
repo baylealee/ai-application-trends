@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：[Image 3: trailblazers's profile picture]("
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-12T07:33:45+00:00"
+generated_at: "2026-11-13T07:05:06+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：[Image 3: trailblazers's profile picture](
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 3: trailblazers's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/829363303_17990462838099838_2942285211948151024_n.jpg?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -72,7 +72,22 @@ Markdown Content:
 New thread
 
 [Search](https://w
-- Title: Threads • Log in
+- [![Image 2: thehouseofforgottenvoices's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/844230875_18150554017489361_311469834304832978_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_h
+- [![Image 4: ocean_of_cinnamon's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/652806353_17953099116096571_4745244426823572782_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
+- [![Image 5: annabgoodenough's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/357817618_812161487185394_6047886762917604222_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDkuYzIifQ&_nc_ht=scontent-se
+- [![Image 3: __lilmissxo's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/619911065_17844432732674411_3717955649669872577_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-se
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -85,20 +100,59 @@ Markdown Content:
 
 New thread
 
-[Search](https://ww
-- [![Image 7](https://scontent.xx.fbcdn.net/v/t1.6435-9/722635384_18590137618044171_7444848202374067606_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQRGpxyU5AttyumwECp4mlPgsciuyVZ1htKf6C4EKpP9HA&oe=6B1CE31D) AI Threads](https://www.threads.c
-- So to recap: •84% of Dems support Medicare for All—Schumer & Jeffries oppose •73% of Dems want to abolish ICE—Schumer & Jeffries support ICE •72% of Dems want to end or decrease aid to Israel—Schumer & Jeffries support more aid
-- [![Image 5](https://scontent-sea5-2.cdninstagram.com/v/t39.30808-6/902044257_10165912044156913_3925520567946831787_n.jpg?stp=dst-jpegr_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAyODEzNzEzNzEwMjQ3NzA3OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&e
+[Search](https://www.threads.com/search)
 
-## 抓取品質
+Messages
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+Activity
 
-## 原始抓取內容
+Profile
 
-```text
-[![Image 3: trailblazers's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/829363303_17990462838099838_2942285211948151024_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gF2aaP70zEVQ5BzTg0ttCnAFlxJG2NuQ_S7tc2e8SYimV1JNYnjSHIO8quMNd89vYTEbm_6QBXhCMdWFlF37Wyu&_nc_ohc=WqnVoVSuzUgQ7kNvwGT-PFP&_nc_gid=r0uUYZSj9YH6gvnfwfJAsA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTahzsE7tYF1HR4UqaKft8uX9No16nhBOKpe8S1ICpSRA&oe=6AFB56B1&_nc_sid=68810c)](https://www.threads.com/@trailblazers)
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: thedawnmarie70's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358023605_3595605980712207_5288898670441045784_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=B5SeL7yLgqMQ7kNvwHIDdFk&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQpwdO9tVxJssPfUjmHeBL-vesMSiRKvmw59bx55ldJ0Q&oe=6AFC8E4F&_nc_sid=10d13b)](https://www.threads.com/@thedawnmarie70)
+
+[thedawnmarie70](https://www.threads.com/@thedawnmarie70)
+
+[Washington DC](https://www.threads.com/search?q=Washington%20DC&serp_type=tags&tag_id=18276734077080485)
+
+[7h](https://www.threads.com/@thedawnmarie70/post/DfqRmAWnz4m)
+
+Can someone explain to me why the AP still hasn't called Boeberts race yet? 98%. Up by over 3,000 votes. I'm so confused.
+
+53
+
+14
+
+[![Image 2: deemo.64's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649235941_17952472062100187_6425406650783194010_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=t_dFUNpxrNgQ7kNvwEiumEG&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQGHYXqUT35qUXvfkIzfaQoFcmaVpoWoUQfRkp-28FGcg&oe=6AFC9810&_nc_sid=10d13b)](https://www.threads.com/@deemo.64)
+
+[deemo.64](https://www.threads.com/@deemo.64)
+
+[11h](https://www.threads.com/@deemo.64/post/DfpzZ2gGH2n)
+
+Does Georgia really need 159 counties? Seems a little excessive
+
+129
+
+54
+
+3
+
+[![Image 3: savedbydave's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/527377700_17920234632103951_675174059241423258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=xruQAPbXojEQ7kNvwFTrS1B&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQqevdSyvZ6pr6xG1ygDrZN65h552wlUztd5rK4MdNcZA&oe=6AFC93E4&_nc_sid=10d13b)](https://www.threads.com/@savedbydave)
+
+[savedbydave](https://www.threads.com/@savedbydave)
+
+[Microsoft Outage](https://www.threads.com/search?q=Microsoft%20Outage&serp_type=tags&ta
 ```

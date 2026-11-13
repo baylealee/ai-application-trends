@@ -4,16 +4,18 @@ source_url: "https://www.threads.com/@henry.wen/post/DYrzDyumRsq"
 source_author: "henry.wen"
 post_id: "DYrzDyumRsq"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "GPT"
   - "Manus"
+  - "RAG"
   - "Notion"
   - "GAS"
   - "Canva"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0673
-generated_at: "2026-11-12T07:33:45+00:00"
+zh_ratio: 0.0666
+generated_at: "2026-11-13T07:05:06+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -30,7 +32,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、Notion、GAS、Canva
+GPT、Manus、RAG、Notion、GAS、Canva
 
 ## 原始工作流拆解
 
@@ -82,8 +84,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、工具、整理、生成、Notion
-- zh_ratio: `0.0673`
+- keyword_hits: AI、GPT、RAG、工具、整理、生成、Notion
+- zh_ratio: `0.0666`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -124,7 +126,7 @@ More
 
 799 views
 
-[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=6320BPCNVgsQ7kNvwEHJnHo&_nc_oc=AdpHI8VsfdGnfbL0-6jRdJs8gCoCiLHGFrYoc36iD0FtEwLGZwI3VDWu2BvsTRRrnQM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=_xZGqMeKdLuv5K-jnIvtxg&_nc_ss=7b289&oh=00_AQSeGnDBGSuYYIGAsi5eJ-5xOXJBpznWsKAF1ymZdn_yhw&oe=6AFB2F85)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=6320BPCNVgsQ7kNvwG42uyr&_nc_oc=AdrD4TXeEk-Iu_LZi9wKkVM-ukdmWlg7YlsyhYx2VwLKR6Ou0J7K9hc-VPcRL56Pw7M&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=-mHVqXQHUCXbyXrqm4fZTg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQbyPO4UDFeUvaGYZ0fk8jQYDllX6g8Xjxzo5zigzeYTQ&oe=6AFC8105)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -138,11 +140,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ajyrhfDK234Q7kNvwHucQBj&_nc_oc=Adp_p4w5luanr6YOUh7GjwJ0gsFDJKB2-Axw3VUn-KP2BjMcUDzjf1PHbSVyTpdc-sw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=czijVtKDSSF9IGtntIhhow&_nc_ss=7b289&oh=00_AQRAvj1e3G0bz6uMqDRfVOU3imlRs6tTaJ_dZ03UpMDCzg&oe=6AFB393D)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ajyrhfDK234Q7kNvwFABGXv&_nc_oc=AdrUbDhBM1F3qh3rAXu2Wyr1J0Asai7mol539sr6feBo5ZSWCzx_zZ6Q2pysjS6x0Kw&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=nzPULHc4O5PVYe_DUAm-pg&_nc_ss=7b289&oh=00_AQQsFpv3YLdrq-EDza7AUQEImYTb05KWfwTOXqc-e3ybnQ&oe=6AFC8ABD)
 
 Sorry, we're having trouble playing this video.
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAHP6xtPDuQ4lkty-EcmsLQeUn3h7yhhYIdjYnJIWwylaYf560XzOl2RI9bzCk69sJJe1gGXgeVe3-cQzeiB_rHU12cW-J9q9snvzHYFQIlTTOEJvQ)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBPCsiSy33RR67FBt795MLYlP2QzxCUrbwnOawMayop7pq67WgPHzszS2wg9k43NOTiBenJmoBr1DmRbbh1qAYQpZSX4MLTcC8gxl3YD6gxYJUPUV4)
 
 henry.wen
 
@@ -152,5 +154,5 @@ henry.wen
 
 9
 
-[![Image 3: nosugar_greentea's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=d9-y2Ms94e8Q7kNvwEySndT&_nc_oc=AdpNBzqSDuWPseDOoul8TBPejiyaBp9KqT127pL--P1XF6T3kcZD--DxgtFaBG7kLTE&_nc_zt=24&_nc_ht=scontent-sea5
+[![Image 3: nosugar_greentea's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=d9-y2Ms94e8Q7kNvwGoOlyD&_nc_oc=AdosZ29Ij9ZfbBkB7cc1Zt1nl3_Hn4C36NzuDcC_DzXm0UCzQ_8JG6I8FhZ2W9UMuvw&_nc_zt=
 ```
