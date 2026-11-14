@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "automation"
+category: "coding"
 tools:
-  - "Make"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-13T07:05:06+00:00"
+generated_at: "2026-11-14T06:55:17+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -66,22 +65,25 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: elizpagelhoganauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885
+- Title: Threads • Log in
 
-[Home](https://www.threads.com/)
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-New thread
+Final URL: https://www.threads.com/?error=invalid_post
 
-[Search](https://www
-- [![Image 3: thebaronessshelby's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/618289220_17843860191673728_8175572158794893561_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40OTkuYzIifQ&_nc_ht=sconte
-- [![Image 1: kd_california's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/657855946_17954245839117386_2091559347243812968_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-
-- [![Image 5: thedawnmarie70's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358023605_3595605980712207_5288898670441045784_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-s
-- I’ve been up since 4:30, 11/11 portal and Mercury Retro-ending energy making my brain whirl like a top. Witches, is something happening?
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe req
+- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+- I thought the opening theme song of China Beach was Paint it Black but I just learned it’s Reflections. So what show would I have seen as a teen that had Paint it Black?
+- Markdown Content:
+[![Image 1: elizpagelhoganauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358023599_186505754152515_2132545241224616758_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjIuYzIifQ&_n
 
 ## 抓取品質
 
 - content_quality: `medium`
-- keyword_hits: Make
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -94,11 +96,44 @@ URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
 Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
+[![Image 1: _kvalid's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/741524001_17976519564100251_894605750865946723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=FhU2Q4xIDTAQ7kNvwGH5cVp&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSEQmBGexbbhlnADO8-pFdvuBXFfRWqLbeQp3wxg1MtrA&oe=6AFDE1D7&_nc_sid=10d13b)](https://www.threads.com/@_kvalid)
 
-[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+🚨‼️THE US JUST SUSPENDED FLIGHTS UNTIL FURTHUR NOTICE!!!!🚨‼️
+
+76
+
+15
+
+8
+
+12
+
+[![Image 2: hmniajs's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723118658_17970991134104280_8043211043325417991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=DGc6yGE9Sd0Q7kNvwGgG-fd&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQInEWwhhbRekWuQI0qsywVjAacOxje-0j-w1kDX8BpMA&oe=6AFDEF8E&_nc_sid=10d13b)](https://www.threads.com/@hmniajs)
+
+Sean Duffy got $12.5 billion for a "gold-plated, best in the world" air traffic system and swore "failure is not an option." Today comms failed at every regional control center and the FAA grounded the country for the first time since 9/11. Failure was the only thing on the departures board.
+
+724
+
+22
+
+70
+
+14
+
+[![Image 3: djericwright8's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/442465282_289541170901145_213026890272884589_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=Hy4kaor4OfQQ7kNvwFI3S-6&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR7vARz_iOi0xdgn_OgJpOpq4oh8x132-aLSChFSlUY-A&oe=6AFDE775&_nc_sid=10d13b)](https://www.threads.com/@djericwright8)
+
+Joan Cusack is a comedy genius. I’ve selfishly wanted her to be in 10 films a year! 🎭
+
+4.4K
+
+119
+
+86
+
+29
+
+[![Image 4: dan.harumi's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832729_278144601427600_6907141030827808326_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=1_Wmrqh8ukUQ7kNvwFtG05V&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR21CalDGVgn-zqjqbAg5Z99MdgK6-v-7S3BMGOi1yGeQ&oe=6AFDD5D8&_nc_sid=10d13b)](https://www.threads.com/@dan.harumi)
+
+The w
 ```

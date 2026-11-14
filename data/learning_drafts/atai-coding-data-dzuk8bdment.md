@@ -7,11 +7,13 @@ language: "unknown"
 category: "mcp"
 tools:
   - "Claude"
+  - "GPT"
   - "MCP"
+  - "GAS"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0233
-generated_at: "2026-11-13T07:05:06+00:00"
+zh_ratio: 0.0285
+generated_at: "2026-11-14T06:55:17+00:00"
 ---
 
 # atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
@@ -28,7 +30,7 @@ generated_at: "2026-11-13T07:05:06+00:00"
 
 ## 使用工具
 
-Claude、MCP
+Claude、GPT、MCP、GAS
 
 ## 原始工作流拆解
 
@@ -64,20 +66,30 @@ reply_summary_status: `partial`
 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-Final URL: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
-[![Image 1: atai_coding_data's profile pi
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/se
+- Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
+
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+Markdown Content:
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/7584691
 - Markdown Content:
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2F
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2F
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、工具、整理、生成
-- zh_ratio: `0.0233`
+- keyword_hits: AI、Claude、GPT、MCP、Agent、agent、工具、整理、生成
+- zh_ratio: `0.0285`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -85,7 +97,9 @@ Markdown Content:
 ```text
 Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
-URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+Final URL: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -118,7 +132,7 @@ More
 
 11.7K views
 
-[![Image 1: atai_coding_data's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2QPnIf7E0NwQ7kNvwF0-VJu&_nc_oc=AdqOnQteevD1tvVrV2jY5_jIQ0BYR_S-UQssFRDJ92G4MEoOeZyCanJe5gfcb3O4maE&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=cnby9RWO1mexW1BKKSqGpg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQEfmpuDUIYxV6k3SA2rEX68A9skqyysFEURLUdTW4Izg&oe=6AFC9C95)](https://www.threads.com/@atai_coding_data)
+[![Image 1: atai_coding_data's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-zlDF2HZmLMQ7kNvwHG3Drt&_nc_oc=Adpoj3kTwsXR1bH5Lkv-CXVR4GewHjY6TFSzN7dqMR5dL40E8YVxowFE8tLx1ARKkV0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=IbZQsq4o3I-jOHBt-6JH7Q&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTHtXQGKjZgkPnHr6dYHU3hxib_qAZgoMyuWw_0NqW7nA&oe=6AFDEE15)](https://www.threads.com/@atai_coding_data)
 
 [atai_coding_data](https://www.threads.com/@atai_coding_data)
 
@@ -138,7 +152,7 @@ MCP x META 廣告數據串接教學
 
 ** 圖片皆為AI 生成的Demo 數據
 
-[![Image 2](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R0zi9zviDtsQ7kNvwEjoAyR&_nc_oc=AdoG9RCcsHoXk4XlfJL3WeWRQwxTemI7-QOXOlNMakF1B2Ru3SCBFSsxbCSgx_zrg3U&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=EIps4LECgBN7MqPlnBlLIQ&_nc_ss=7b289&oh=00_AQQ9_lUi11uOtkMD3zZZROzBFq-r7WEJmT3Cer6HBITKxg&oe=6AFC9126)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=R0zi9zviDtsQ7kNvwHKiDvk&_nc_oc=Adoklky-xApB9ilotUjeKim_A54FCjo1hU7bqrYoiJN7BwHVuN3Uql14MLMiYA8AGm0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=9NLeBi73IxUf03bY4boncw&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT40fzZ11cNCfo1o-yWMFgpM7SgJLJZQ-P6_RyUjdqHnA&oe=6AFDE2A6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
 
 150
 
@@ -148,5 +162,5 @@ MCP x META 廣告數據串接教學
 
 96
 
-[![Image 3: atai_coding_data's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=2QPnIf7E0NwQ7kNvwF0-VJu&_nc_oc=AdqOnQteevD1tvVrV2jY5_jIQ0BYR_S-UQssFRDJ92G4MEoOeZyCanJe5gfcb3O4maE&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=cnby9RWO1mexW1BKKSqG
+[![Image 3: atai_coding_data's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=-zlDF2HZmLMQ7kNvwHG3Drt&_nc_oc=Adpoj3kTwsXR1bH5Lkv-CXVR4GewHjY6TFSzN7dqMR5dL40E8Y
 ```

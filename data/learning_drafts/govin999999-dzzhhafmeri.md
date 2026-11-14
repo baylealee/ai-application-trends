@@ -1,24 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "automation"
 tools:
+  - "Make"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-13T07:05:06+00:00"
+generated_at: "2026-11-14T06:55:17+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +27,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+Make
 
 ## 原始工作流拆解
 
@@ -60,27 +61,19 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Markdown Content:
-[](https://www.threads.com/)
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://w
-- [![Image 2: thehouseofforgottenvoices's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/844230875_18150554017489361_311469834304832978_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_h
-- [![Image 4: ocean_of_cinnamon's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/652806353_17953099116096571_4745244426823572782_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scont
-- [![Image 5: annabgoodenough's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/357817618_812161487185394_6047886762917604222_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NDkuYzIifQ&_nc_ht=scontent-se
-- [![Image 3: __lilmissxo's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/619911065_17844432732674411_3717955649669872577_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-se
+Markdown Co
+- URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 ## 抓取品質
 
 - content_quality: `medium`
-- keyword_hits: AI
+- keyword_hits: Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -89,70 +82,15 @@ New thread
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
+Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](https://www.threads.com/)
+Log in or sign up for Threads See what people are talking about and join the conversation.
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: thedawnmarie70's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358023605_3595605980712207_5288898670441045784_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=B5SeL7yLgqMQ7kNvwHIDdFk&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQpwdO9tVxJssPfUjmHeBL-vesMSiRKvmw59bx55ldJ0Q&oe=6AFC8E4F&_nc_sid=10d13b)](https://www.threads.com/@thedawnmarie70)
-
-[thedawnmarie70](https://www.threads.com/@thedawnmarie70)
-
-[Washington DC](https://www.threads.com/search?q=Washington%20DC&serp_type=tags&tag_id=18276734077080485)
-
-[7h](https://www.threads.com/@thedawnmarie70/post/DfqRmAWnz4m)
-
-Can someone explain to me why the AP still hasn't called Boeberts race yet? 98%. Up by over 3,000 votes. I'm so confused.
-
-53
-
-14
-
-[![Image 2: deemo.64's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/649235941_17952472062100187_6425406650783194010_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=t_dFUNpxrNgQ7kNvwEiumEG&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQGHYXqUT35qUXvfkIzfaQoFcmaVpoWoUQfRkp-28FGcg&oe=6AFC9810&_nc_sid=10d13b)](https://www.threads.com/@deemo.64)
-
-[deemo.64](https://www.threads.com/@deemo.64)
-
-[11h](https://www.threads.com/@deemo.64/post/DfpzZ2gGH2n)
-
-Does Georgia really need 159 counties? Seems a little excessive
-
-129
-
-54
-
-3
-
-[![Image 3: savedbydave's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/527377700_17920234632103951_675174059241423258_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gHQ1lqU9JVcS5x40Ijk3Cn7H6T0AYv2CezGMlZWnwA-Nr9Z_B1jEtvEa918v7GK-Hs&_nc_ohc=xruQAPbXojEQ7kNvwFTrS1B&_nc_gid=IlQHfVoVm_trPPNKe6R-qw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQqevdSyvZ6pr6xG1ygDrZN65h552wlUztd5rK4MdNcZA&oe=6AFC93E4&_nc_sid=10d13b)](https://www.threads.com/@savedbydave)
-
-[savedbydave](https://www.threads.com/@savedbydave)
-
-[Microsoft Outage](https://www.threads.com/search?q=Microsoft%20Outage&serp_type=tags&ta
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 ```

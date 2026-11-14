@@ -4,14 +4,17 @@ source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "Claude"
+  - "GPT"
   - "Notion"
+  - "Slack"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0851
-generated_at: "2026-11-13T07:05:06+00:00"
+zh_ratio: 0.0456
+generated_at: "2026-11-14T06:55:17+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -28,11 +31,15 @@ generated_at: "2026-11-13T07:05:06+00:00"
 
 ## 使用工具
 
-Notion、GitHub
+Claude、GPT、Notion、Slack、GitHub
 
 ## 原始工作流拆解
 
 1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
+2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
+3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續 Translate](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
+4. Project 本身其實就只是把你寫的 Issue 抓過來整理而已，所以本質上還是看寫 Issue 的人怎麼寫需求～
+5. 那需求進入和整理轉譯的媒介是什麼？
 
 ## 可以直接複製的做法
 
@@ -68,16 +75,13 @@ Markdown Content:
 [](https://www.threads.com/)
 
 [Home](htt
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUA4F4DZWc76AFm4TxcMETEaRKFHzy3ro0yj0tuv3A2Sgk3mTMjcTW9BGTp
-- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/554566732739513915?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe1738421a36d466af2f187d7ffe029cf63d8a7b10d97f865
-- [![Image 15: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- [![Image 21: GitHub - oliviaiii1224/issue_tmp](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
+- 原本的GitHub帳號被誤封了! 這裡是備用REPO! [github.com/Olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FOliviaiii%2Fissue_tmp&e=AUDTbjWzIkUP_g3mCGYudY2V-bMlvL2na29GyNQwRxva9wHNFa_8vDf_-euZ4mJOB6g-6bWu9fIiLkmxQnV6H2D5VV_YBS6c1zYLzg7l8mC2a8lKfTk)
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、流程、工具、Notion、GitHub
-- zh_ratio: `0.0851`
+- keyword_hits: AI、Claude、GPT、Agent、agent、流程、工具、整理、小工具、Slack、Notion、GitHub
+- zh_ratio: `0.0456`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -104,7 +108,7 @@ Profile
 
 Insights
 
-[Log in](https://www.threads.com/login?next=https%3A%2F%2Fwww.threads.com%2F%40pmenance.manager%2Fpost%2FDZEgVRcGVJR&show_choice_screen=false)
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
 More
 
@@ -116,15 +120,15 @@ More
 
 # [Thread](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
-28.1K views
+28.2K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MIE4agQIfPoQ7kNvwG02ycW&_nc_oc=AdqxrVXBHgenkRk3LzjPeWl1-C7MKVXoLc1_bgTGsVFJgDyKxzqSVmOprK8dVNw1s14&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=BLdjGnCk5XsvZ_3EItkAyg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR_WFG9mXaVN99d4Pl46VMBCNyiaLhrFSGrXzGSEp5Mtw&oe=6AFC9370)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=MIE4agQIfPoQ7kNvwHf0qYo&_nc_oc=AdpLVbK1lh1Cb-Jl8b44w75ygh7aSrtLF8RsWZD74a9gaVjVc_efeO8khyLJJi6Xlss&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=DNJiLwM0-HROAftYj0uClg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTAeF89p-03Y2k3DMwmWeSaiMD60eH2XihqUhp-v69u1g&oe=6AFDE4F0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
 [pm日常](https://www.threads.com/search?q=pm%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
 
-[06/01/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
+[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
 
 以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
 
@@ -144,7 +148,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=o9jyJRQFpbAQ7kNvwGNlrv1&_nc_oc=Adow712u9_IwCVeeyx2Roo_MwrUJJ6zTUp4CMl4tAC18Q4PylwwvO4-CfC5nmf9YUd4&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=BLdjGnCk5XsvZ_3EItkAyg&_nc_ss=7b289&oh=00_AQS71j8izaXfJ1QQTXJTJe5uW4tZ20G7cK-Y49jdwwphdw&oe=6AFC7B88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8Fk-O6f-fF0Q7kNvwFwWz2M&_nc_oc=AdqgKzFEQTp6PSAVA-3C_9icNjwCbJWSZAqQS3gZ0AY1LuLPNHTf9uNMLf8zL0FZAXA&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=WlZGLsyxPUMftWHjpr4kMw&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQRfmMglEBDGg_XfRsUxjlepQKgjbKX_Hd39ykwtLLMu0Q&oe=6AFDCD08)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 
@@ -154,5 +158,7 @@ Translate
 
 467
 
-Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?next=https%3A%2F%2Fwww.threads.com%2F%40pmenance.manager%2Fpost%2FDZ
+Pinned
+
+[![Image 3: pmenance.manager's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-b
 ```
