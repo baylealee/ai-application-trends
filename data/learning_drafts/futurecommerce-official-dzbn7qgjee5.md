@@ -10,8 +10,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0221
-generated_at: "2026-11-14T06:55:17+00:00"
+zh_ratio: 0.0293
+generated_at: "2026-11-15T07:00:08+00:00"
 ---
 
 # futurecommerce_official 的 AI 工作流案例：台灣國考題庫現在可以直接問 Claude 了。
@@ -61,28 +61,26 @@ reply_summary_status: `partial`
 
 - Title: 未來商務 (@futurecommerce_official) on Threads
 
-URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
-
-Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/6
-- Title: 未來商務 (@futurecommerce_official) on Threads
-
 URL Source: http://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Final URL: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 Markdown Content:
 [![Image 1: futurecommerce_official
+- Title: 未來商務 (@futurecommerce_official) on Threads
+
+URL Source: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
+
+Markdown Content:
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/6
 - Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=G
-- Markdown Content:
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=G
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=G
 
 ## 抓取品質
 
 - content_quality: `strong`
 - keyword_hits: AI、Claude、MCP、工具
-- zh_ratio: `0.0221`
+- zh_ratio: `0.0293`
 - source_url: https://www.threads.com/@futurecommerce_official/post/DZBN7QgjEe5
 
 ## 原始抓取內容
@@ -123,7 +121,7 @@ More
 
 138K views
 
-[![Image 1: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=r3-Fo5wZ0dgQ7kNvwFB9Zxb&_nc_oc=AdqUhYY1O8KYP2swMnP7M6NDQYFMqfm1gILY3EybIdYWbu_Ca-nWOJ3dIbKLfZ7hzzs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=y-wQzipsKYLQFaBL9j2sUQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQIy1WOXeU7rn4Jo7Sqg8bPdoUumx-N5xpQA4uxNNqSAg&oe=6AFDCDE8)](https://www.threads.com/@futurecommerce_official)
+[![Image 1: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=V0OxTh0T-vsQ7kNvwFi2T4Z&_nc_oc=AdoCVOGQ66e16Bx9poHeD8STC_9FJQuEjghzo-OpDDrzCOI8VYVftk8n7IzLnUkDV8k&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=I3G5aiSVzcatlqLX6h7PGw&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQuEpKMWf0xRRvlT8ROLrgSF09r4LyW7YASjtZqqVWz2w&oe=6AFF1F68)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -147,7 +145,7 @@ Translate
 
 2.4K
 
-[![Image 2: futurecommerce_official's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=r3-Fo5wZ0dgQ7kNvwFB9Zxb&_nc_oc=AdqUhYY1O8KYP2swMnP7M6NDQYFMqfm1gILY3EybIdYWbu_Ca-nWOJ3dIbKLfZ7hzzs&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=y-wQzipsKYLQFaBL9j2sUQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQIy1WOXeU7rn4Jo7Sqg8bPdoUumx-N5xpQA4uxNNqSAg&oe=6AFDCDE8)](https://www.threads.com/@futurecommerce_official)
+[![Image 2: futurecommerce_official's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/609072457_17938530288108209_3695138565425826547_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GEm1TSSxgp2N-7o-APOKDZTyxEczbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDQwLkMzIn0%3D&_nc_ohc=V0OxTh0T-vsQ7kNvwFi2T4Z&_nc_oc=AdoCVOGQ66e16Bx9poHeD8STC_9FJQuEjghzo-OpDDrzCOI8VYVftk8n7IzLnUkDV8k&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=I3G5aiSVzcatlqLX6h7PGw&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQuEpKMWf0xRRvlT8ROLrgSF09r4LyW7YASjtZqqVWz2w&oe=6AFF1F68)](https://www.threads.com/@futurecommerce_official)
 
 [futurecommerce_official](https://www.threads.com/@futurecommerce_official)
 
@@ -155,9 +153,9 @@ Translate
 
 ·Author
 
-三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUATwRrNSrJDaQKj04HgVtB0ffj4mZNfaIdXDf_WkeWwtfxbjDOfDe9oqurrHxvzh2kXzjzjGYQ-OyHFd9Pq46Af1EEH9Q8HA3FIkKbEkjSfKZc-Gak)
+三種串接方法（難度都不高），步驟教學看這裡： [fc.bnext.com.tw/artic…](https://l.threads.com/?u=https%3A%2F%2Ffc.bnext.com.tw%2Farticles%2Fview%2F4605%3Futm_source%3Dthreads%26utm_medium%3Dtext_post&e=AUC48qdIwRvNXmf_pYxlm0oc5BEHfka3sVRbaxqUBa2RSPdLvPmApBd2jMjvr6V04_7DSuM3UoD8GSPiEbb7o1YZAfCn2jQ3QN3H2gBc5K0QABKyjsY)
 
 Translate
 
-[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/87
+[![Image 3: Claude 就能查國考考古題、房價、政府採購案？Twinkle Hub 實測，超過 5 萬筆政府資料直接問 AI｜未來商務](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/87
 ```

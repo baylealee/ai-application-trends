@@ -1,25 +1,25 @@
 ---
-title: "govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "govin999999 的 AI 工作流案例：Courage comes in small sizes. ⚖️📜"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "automation"
+category: "knowledge_base"
 tools:
-  - "Make"
+  - "RAG"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-14T06:55:17+00:00"
+generated_at: "2026-11-15T07:00:08+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# govin999999 的 AI 工作流案例：Courage comes in small sizes. ⚖️📜
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Courage comes in small sizes. ⚖️📜
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +27,7 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+RAG
 
 ## 原始工作流拆解
 
@@ -57,23 +57,14 @@ Make
 
 ## 回覆區重點
 
-reply_summary_status: `partial`
+reply_summary_status: `unavailable`
 
-- Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Co
-- URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+- 目前公開抓取結果沒有可可靠分離的回覆內容。
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: Make
+- content_quality: `strong`
+- keyword_hits: AI、RAG
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -86,11 +77,70 @@ URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
 Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
+[](https://www.threads.com/)
 
-[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Activity
+
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: bebothebold's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729062383_17936069670302746_6110398058027411286_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=P1LRS_3WdFsQ7kNvwGEWQHV&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRwT5fsmUrdY39qRpGQJoGmIhXwWSTf1WOZXTjO4hb4SA&oe=6AFF1194&_nc_sid=10d13b)](https://www.threads.com/@bebothebold)
+
+[bebothebold](https://www.threads.com/@bebothebold)
+
+[Houston](https://www.threads.com/search?q=Houston&serp_type=tags&tag_id=18315002515119306)
+
+[14h](https://www.threads.com/@bebothebold/post/DfuoqoeoIaf)
+
+What’s the craziest freeway in Houston in your opinion and why?
+
+28
+
+60
+
+2
+
+[![Image 2: randaquraan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/886904153_18643295359034359_6693714611006337283_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=_XuKYTUU5p8Q7kNvwFkKnka&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRxyQzGmlyAwduTRW6oojFI1AmH4bGZTf_HHZ32_2bzEQ&oe=6AFF33B6&_nc_sid=10d13b)](https://www.threads.com/@randaquraan)
+
+[randaquraan](https://www.threads.com/@randaquraan)
+
+[14h](https://www.threads.com/@randaquraan/post/Dfunxjxlkon)
+
+40+ peeps in Florida like were do we hang out?
+
+60
+
+163
+
+2
+
+[![Image 3: designwithkzh's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/414450461_3544538979127370_4961136106201787858_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=vVYKFuAHDUAQ7kNvwFTa7Tb&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS-mfmJ06rieWEfddTbgrxB5q8UiDkWmi3_0vqPh4NbAg&oe=6AFF3F16&_nc_sid=10d13b)](https://www.threads.com/@designwithkzh)
+
+[designwithkzh](https://www.threads.com/@designwithkzh)
+
+[Disney Threads](https://www.threads.com/search?q=Disney%20Threads&serp_type=tags&tag_id=18408717076060926)
+
+[16h](https://www.threads.com/@designwithkzh/post/DfuYv3
 ```

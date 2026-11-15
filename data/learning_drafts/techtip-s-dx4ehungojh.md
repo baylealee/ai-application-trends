@@ -1,24 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
+title: "techtip_s 的 AI 工作流案例：I do 4-5 days of weight training and my tr"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "coding"
+category: "ai_workflow"
 tools:
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-14T06:55:17+00:00"
+generated_at: "2026-11-15T07:00:08+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：Title: Threads • Log in
+# techtip_s 的 AI 工作流案例：I do 4-5 days of weight training and my tr
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+I do 4-5 days of weight training and my trainer just upped me from 3 to 4 days of cardio (35 minutes max incline treadmill or stair master)
 
 ## 這篇在解決什麼問題
 
@@ -58,6 +58,7 @@ Title: Threads • Log in
 
 reply_summary_status: `partial`
 
+- [![Image 5: thisone0verhere's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/170089772_457767508764605_5232143763012006841_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42NTguYzIifQ&_nc_ht=scontent-at
 - Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -65,75 +66,39 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: elizpagelhoganauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://www
 - Title: Threads • Log in
-
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe req
-- Warning: This page maybe not yet fully loaded, consider explicitly specify a timeout.
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- I thought the opening theme song of China Beach was Paint it Black but I just learned it’s Reflections. So what show would I have seen as a teen that had Paint it Black?
-- Markdown Content:
-[![Image 1: elizpagelhoganauthor's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/358023599_186505754152515_2132545241224616758_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NjIuYzIifQ&_n
-
-## 抓取品質
-
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
-
-## 原始抓取內容
-
-```text
-Title: Threads • Log in
 
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: _kvalid's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/741524001_17976519564100251_894605750865946723_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=FhU2Q4xIDTAQ7kNvwGH5cVp&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSEQmBGexbbhlnADO8-pFdvuBXFfRWqLbeQp3wxg1MtrA&oe=6AFDE1D7&_nc_sid=10d13b)](https://www.threads.com/@_kvalid)
+[](https://www.threads.com/)
 
-🚨‼️THE US JUST SUSPENDED FLIGHTS UNTIL FURTHUR NOTICE!!!!🚨‼️
+[Home](https://www.threads.com/)
 
-76
+New thread
 
-15
+[Search](https://www.
+- The President of the United States made a million dollars on a stock sale involving NVIDIA, knowing full well that there was damaging information about Jensen Huang. Sean Duffy, the Secretary of Transportation, gave a company that donated $12,500 to his son-in
+- [![Image 7: jayrodriguez321's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/890308134_18107075060274285_6826517490785322293_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sconten
 
-8
+## 抓取品質
 
-12
+- content_quality: `strong`
+- keyword_hits: AI、CLI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[![Image 2: hmniajs's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/723118658_17970991134104280_8043211043325417991_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=DGc6yGE9Sd0Q7kNvwGgG-fd&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQInEWwhhbRekWuQI0qsywVjAacOxje-0j-w1kDX8BpMA&oe=6AFDEF8E&_nc_sid=10d13b)](https://www.threads.com/@hmniajs)
+## 原始抓取內容
 
-Sean Duffy got $12.5 billion for a "gold-plated, best in the world" air traffic system and swore "failure is not an option." Today comms failed at every regional control center and the FAA grounded the country for the first time since 9/11. Failure was the only thing on the departures board.
-
-724
-
-22
-
-70
-
-14
-
-[![Image 3: djericwright8's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/442465282_289541170901145_213026890272884589_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=Hy4kaor4OfQQ7kNvwFI3S-6&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR7vARz_iOi0xdgn_OgJpOpq4oh8x132-aLSChFSlUY-A&oe=6AFDE775&_nc_sid=10d13b)](https://www.threads.com/@djericwright8)
-
-Joan Cusack is a comedy genius. I’ve selfishly wanted her to be in 10 films a year! 🎭
-
-4.4K
-
-119
-
-86
-
-29
-
-[![Image 4: dan.harumi's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/357832729_278144601427600_6907141030827808326_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTcuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gGsPQXm0WfrDX5aF9SNqaH8Z6ZD_Ucxd0OxXMRTsBF8blUFsbMkxKcm5toMaAtnC6A&_nc_ohc=1_Wmrqh8ukUQ7kNvwFtG05V&_nc_gid=jHLhBOEFZ9-KpMvC7VbHcg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQR21CalDGVgn-zqjqbAg5Z99MdgK6-v-7S3BMGOi1yGeQ&oe=6AFDD5D8&_nc_sid=10d13b)](https://www.threads.com/@dan.harumi)
-
-The w
+```text
+I do 4-5 days of weight training and my trainer just upped me from 3 to 4 days of cardio (35 minutes max incline treadmill or stair master)
 ```

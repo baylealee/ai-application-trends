@@ -4,17 +4,13 @@ source_url: "https://www.threads.com/@henry.wen/post/DYrzDyumRsq"
 source_author: "henry.wen"
 post_id: "DYrzDyumRsq"
 language: "unknown"
-category: "mcp"
+category: "coding"
 tools:
   - "Manus"
-  - "MCP"
-  - "Notion"
-  - "GAS"
-  - "Canva"
 status: "draft"
-content_quality: "strong"
-zh_ratio: 0.0702
-generated_at: "2026-11-14T06:55:17+00:00"
+content_quality: "medium"
+zh_ratio: 0.0996
+generated_at: "2026-11-15T07:00:08+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -31,15 +27,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、MCP、Notion、GAS、Canva
+Manus
 
 ## 原始工作流拆解
 
 1. Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
-2. Manus AI的知識變現分析，這不就是我現在在做的事嗎
-3. Creatify – 貼上產品連結，60秒內直出AI數字人廣告影片 Canva AI – 一句話生帶貨圖卡、限動賣場連結 Jasper – 用你的口吻寫業配文、訂閱者專屬內容 Patreon – 付費訂閱平台，AI幫你分析哪類內容最吸會員 Calendly – 約廠商談合作不用來回信件 Gamma – 變現成效報告一句話生12頁 Notion AI – 多種變現管道的收入、內容、排程一站管理 Fomofly – 產品開箱、業配訪談錄影丟進去，自動剪成多支帶貨短影音
-4. 2️⃣ 提升文案效率：提供初稿、優化語氣，甚至幫你生成不同風格的文案。
-5. 3️⃣ 分析社群數據：找出發文的最佳時間、最受歡迎的內容類型。
 
 ## 可以直接複製的做法
 
@@ -67,24 +59,20 @@ reply_summary_status: `partial`
 
 - Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 
-URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
-- Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
-
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.c
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-2.c
+- URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
+- Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、MCP、流程、工具、整理、生成、Notion
-- zh_ratio: `0.0702`
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0996`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -95,55 +83,13 @@ Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
-
-799 views
-
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=6320BPCNVgsQ7kNvwG4ktbo&_nc_oc=AdpT1NSRdo4MbXFgCdG_P299hM1FLQYIYBDX1uQsxPhEn3IE0pXcK6nXtJlH4X6QToA&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=MdGWYpxRzBa1Z3LbT0aCzQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRHx0UCgSTnOQQI6p72UHHctC6fLnBCOPABG3sAyUnxsg&oe=6AFDD285)](https://www.threads.com/@henry.wen)
-
-[henry.wen](https://www.threads.com/@henry.wen)
-
-[自媒體](https://www.threads.com/search?q=%E8%87%AA%E5%AA%92%E9%AB%94&serp_type=tags&tag_id=18406776172026488)
-
-[05/23/26](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
+[![Image 1: henry.wen's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=j_TMD7Ix0hYQ7kNvwGDreQZ&_nc_oc=AdpTBCibqn_pkcRphOcmoY8pqmSPs1Kgy3NqKlvnMXaaJgZ4Jguuc3lISkuQ1eR53i4&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=JIhVDtLo7qVvG6WgGLkdaQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQug0aaMqVrwJEq44QZxBsGJBvnYNEDTX-X4EPfY5nTaA&oe=6AFF2405)](https://www.threads.com/@henry.wen)
 
 Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 
 👇🏻用1分鐘看我的使用方式&成果
 
 Translate
-
-![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=ajyrhfDK234Q7kNvwGCvFmZ&_nc_oc=AdoT2LljXmFPVJ28bp96DQEdifG8Z09y7qLZUQ8rElFCfYV1BaYXgWcqDbXT-8Di7BE&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=x3v16wwWcLQmJuu9hqDDCA&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQRFSjQdIGrMeND4RkccByJqyRt9Uw8ZapElvK3QSkGg7g&oe=6AFDDC3D)
-
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUAwVox_eJR547OxjiZteKABpnlzH6SYfVEJyjMcVy7cfLPpEMwQhWmhqpj91jsgmNBTKAR_kjBXEl9HZbTcUvWhoP7ubov9-v7nLIJNr5g9YRrk9eA)
 
 henry.wen
 
@@ -152,6 +98,4 @@ henry.wen
 1
 
 9
-
-[![Image 3: nosugar_greentea's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=d9-y2Ms94e8Q7kNvwHaxrb2&_nc_oc=AdrR5LEp4YGyKgkyUKoHm6Z4ZWbTYvROgLs6Y7VAeIelrK_Py
 ```
