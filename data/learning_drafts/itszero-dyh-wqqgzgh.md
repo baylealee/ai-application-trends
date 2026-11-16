@@ -15,8 +15,8 @@ tools:
   - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0704
-generated_at: "2026-11-15T07:00:08+00:00"
+zh_ratio: 0.0587
+generated_at: "2026-11-16T07:06:02+00:00"
 ---
 
 # itszero 的 AI 工作流案例：我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我
@@ -39,9 +39,8 @@ Claude、Claude Code、Gemini、RAG、Cursor、Codex、GitHub
 
 1. 我的 Feed：各種新的 AI Skills 跟 prompting 技巧 實際上我的 Codex chat log： 1. <test name> this fails, fix it 2. "<command>" I need to run this, figure it out
 2. 信我，之後用係任何AI之間遷移都方便好多 - 以Markdown File為依歸，對提升AI輸出嘅穩定性，都好大幫助 - 講咩都假，用左先，邊用邊學，唔好得個睇字
-3. [Image 6: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/16699760707949315808?
+3. [Image 12: GitHub - yetone/magpie: Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/16699760707949315808?
 4. 這類工具的出現，對於同時使用多個 AI 輔助開發工具的使用者來說，確實能簡化帳號管理的流程。
-5. 後來我才發現， 用 AI Coding，管理對話本身就是開發流程的一部分。
 
 ## 可以直接複製的做法
 
@@ -94,8 +93,8 @@ Markdown Content:
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Gemini、RAG、Cursor、Codex、Agent、agent、流程、prompt、工具、記憶、整理、GitHub、開源、CLI
-- zh_ratio: `0.0704`
+- keyword_hits: AI、Claude、Gemini、RAG、Cursor、Codex、Agent、agent、流程、prompt、工具、記憶、GitHub、CLI
+- zh_ratio: `0.0587`
 - source_url: https://www.threads.com/@itszero/post/DYH_wqQGzgH
 
 ## 原始抓取內容
@@ -138,7 +137,7 @@ More
 
 619 views
 
-[![Image 1: itszero's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ueqf6vT8VQ0Q7kNvwFHN4cG&_nc_oc=AdqJT3uIqc-ccIwnKEmV8B9nVM3_ArrxT2mym22sdzkE_x9Dt6VtxY9hId5jgAEbdXY&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=T9NppLhbrTrgkDLN47IpZQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSx864CWW9ZNeC-BHZu-mFinHe1jFXCrodAFG6DOSStbw&oe=6AFF1F8B)](https://www.threads.com/@itszero)
+[![Image 1: itszero's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/706064815_17966663367113941_7868265287128240054_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GK_xFSrVvMvLldQ-ALbP0D2XsTFtbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=Ls_4zXFftCsQ7kNvwFfKsVa&_nc_oc=AdreOlKbeSBLL_1BV6cIVCouWUv1b4-c6kmQ90q9zyWTPnIVrFN6kL7ydwpXlP_4_U8&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=DNNto-AKz38u_H3rexxAVg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQyVtQ4bnjpfOV8bznzsG5aabdFR8bZcODvq8QXJs142w&oe=6B00710B)](https://www.threads.com/@itszero)
 
 [itszero](https://www.threads.com/@itszero)
 
@@ -152,7 +151,7 @@ it just works™
 
 1
 
-[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UJ5L4POCSYwQ7kNvwGDKr74&_nc_oc=Adqp3LevwjX584vacdgKeRtSJiBVl5mnJRzIvOpKzpUGeHSN4IAEoSsArRLmXb4QCKo&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=T9NppLhbrTrgkDLN47IpZQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTispZRs0Xu_ghAMHi1lhajs4rBFBmuDsLbxxHpfiwkNA&oe=6AFF36D1)](https://www.threads.com/@ethanhuang13)
+[![Image 2: ethanhuang13's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/735286913_17973562635112799_451343123367212440_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GIGW0ytf0TYo3No-AJg1HuwtfkMGbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=UJ5L4POCSYwQ7kNvwEeToQF&_nc_oc=AdpsZP2yDepobx2uafd8YwF8Cij0LRbrZEJoytDw26MQ9UKPhB5QwoNU-4MmjNF2g9Y&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=DNNto-AKz38u_H3rexxAVg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQR6u0bjvM5GLetta8BkkLjp2c_lw88jL1WpX0T91_22lQ&oe=6B008851)](https://www.threads.com/@ethanhuang13)
 
 [ethanhuang13](https://www.threads.com/@ethanhuang13)
 
@@ -162,5 +161,5 @@ it just works™
 
 Related threads
 
-[![Image 3: terry42hk's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/691674209_17962559976099043_6511145092408601753_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GGEcOinjzKFm2tA-AJnsCsr2O1xabmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=j7EhPcQOL0oQ7kNvwEoDbD9&_nc_oc=AdpvMSInhc1LaidYlvMZAn5Gwsu6X2p2tA_2BHm9g5QTeFwyOBkDTNeELlF5-vBHiPc&_nc_zt=24&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=T9NppLhbrTrgkDLN47IpZQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS18C8xYzPOcs
+[![Image 3: cs2pm_ghost's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/486616588_609315855434671_6411448859237287813_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GAwuAR2vgx5nKyoCAIUHbKbECvpYbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=ShvUiKIFey4Q7kNvwGP5LZw&_nc_oc=Adph68YH0WuG1i8BOp1XS9oxuOx0ddt-WvnxA7FCDKF-izQtbyVQ9Eq6iOt6Bqzz5AU&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRl_Q-p27jwGg0uhBKQ9a8HGB8U1_raKjgNRHHCcVK3JQ
 ```

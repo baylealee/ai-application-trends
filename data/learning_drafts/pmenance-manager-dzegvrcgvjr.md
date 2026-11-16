@@ -11,7 +11,7 @@ tools:
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0888
-generated_at: "2026-11-15T07:00:08+00:00"
+generated_at: "2026-11-16T07:06:02+00:00"
 ---
 
 # pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
@@ -68,10 +68,6 @@ Markdown Content:
 [](https://www.threads.com/)
 
 [Home](htt
-- [稍早有跟大家分享用 GitHub 管理專案，結果收到不少私訊問我：「那實際上要怎麼開始？」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2Foliviaiii1224%2Fissue_tmp&e=AUDNkzIwL4ndsAMYE1dUASgBr7_Itj9JuNAZZ3rp-9LKIaYlupOciQL1LNU
-- [![Image 10: GitHub - Oliviaiii/issue_tmp: GitHub Issue Forms、Pull Request 模板與 Projects 繁體中文實作教學](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/554566732739513915?url=https%3A%2F%2Fopengraph.githubassets.com%2Fe1738421a36d466af2f187d7ffe029cf63d8a7b10d97f865
-- [![Image 28: GitHub - oliviaiii1224/issue_tmp](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/8017211224499971911?url=https%3A%2F%2Fopengraph.githubassets.com%2Fada4f1658ae1ce73dd0c1abfd727456140f85c3a5913acba3fb64d8e0425d7a8%2Foliviaiii1224%2Fissue_tmp&utld=
-- 原本的GitHub帳號被誤封了! 這裡是備用REPO! [github.com/Olivi…](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FOliviaiii%2Fissue_tmp&e=AUDNkzIwL4ndsAMYE1dUASgBr7_Itj9JuNAZZ3rp-9LKIaYlupOciQL1LNUZ5MaQXEbV_8b7mYx5BC-dgjA-9aQMTvlK3YSA5_lPMqEriAwcDeHcYxM)
 
 ## 抓取品質
 
@@ -118,7 +114,7 @@ More
 
 28.2K views
 
-[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=qLVIRvOZWfkQ7kNvwEeiZ9A&_nc_oc=Adr_rS9CPIjFK5MX75drDM_LFhN4XRpTpqKwD9EKFTjITftEt2LVbLNLGOZemun2HTE&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=FFBtxMMgjyQMcmVq6Pd9HQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQCSs9m3gjOMhhCk5AxqykEgYQ8255nqySXGE-ZvF3OCA&oe=6AFF3670)](https://www.threads.com/@pmenance.manager)
+[![Image 1: pmenance.manager's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=qLVIRvOZWfkQ7kNvwHjnATj&_nc_oc=AdomzaeMHPyWMggiDiBMh3LhlqErDmS7WBe85C0PpmdZJm2QJbH2L4hiP8TDZfFAMjY&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=n-PV_IRLHaaCJmlYcoacyA&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSypX1uo3OZvXVXJ-2gXXzlloTMvxUpV-iTqMfyHKAYBw&oe=6B0087F0)](https://www.threads.com/@pmenance.manager)
 
 [pmenance.manager](https://www.threads.com/@pmenance.manager)
 
@@ -144,7 +140,7 @@ PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel�
 
 Translate
 
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8Fk-O6f-fF0Q7kNvwF0L3Uz&_nc_oc=Ado_PjOqZ7mYgoUs0Slx06kWYBiA7r9QueiGwDOMeMTPPtYUw0amOXH-H62xhSSLa-E&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=FFBtxMMgjyQMcmVq6Pd9HQ&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQR9nM080g6zyZIWQ7q50isj1GrW18QmB7Zynur8aKYqEw&oe=6AFF1E88)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=8Fk-O6f-fF0Q7kNvwF6sXIJ&_nc_oc=Adog69ldUSEEBvBwQfJ0FYz3ZBlkEpO7ZYfEIwT63COrLc6tcFAtdlIg6jm9gtv0rAA&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=n-PV_IRLHaaCJmlYcoacyA&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTlgi7pduZhwDddxwLjHjdmhkt9c4VezUH8NTN5mmNNyQ&oe=6B007008)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
 
 505
 

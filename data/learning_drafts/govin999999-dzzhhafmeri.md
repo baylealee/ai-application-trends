@@ -1,25 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：Courage comes in small sizes. ⚖️📜"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-15T07:00:08+00:00"
+generated_at: "2026-11-16T07:06:02+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Courage comes in small sizes. ⚖️📜
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Courage comes in small sizes. ⚖️📜
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ Courage comes in small sizes. ⚖️📜
 
 ## 使用工具
 
-RAG
+待人工確認
 
 ## 原始工作流拆解
 
@@ -57,14 +56,32 @@ RAG
 
 ## 回覆區重點
 
-reply_summary_status: `unavailable`
+reply_summary_status: `partial`
 
-- 目前公開抓取結果沒有可可靠分離的回覆內容。
+- Title: Threads • Log in
+
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown C
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Co
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG
+- content_quality: `medium`
+- keyword_hits: AI
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -106,41 +123,39 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: bebothebold's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/729062383_17936069670302746_6110398058027411286_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41MDIuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=P1LRS_3WdFsQ7kNvwGEWQHV&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRwT5fsmUrdY39qRpGQJoGmIhXwWSTf1WOZXTjO4hb4SA&oe=6AFF1194&_nc_sid=10d13b)](https://www.threads.com/@bebothebold)
+[![Image 1: criscarter1965's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/469224809_579154498039963_3272582016387034252_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-MmypS3RgGK7dl3&_nc_ohc=J3_N8ldyIfAQ7kNvwGUp1lb&_nc_gid=8eUqNURjn1AndDVYRtRNfQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTHYWOxPAupkV-mcO2lgzF2wUt0csTQZxPwlxnj7dwx7Q&oe=6B0062E8&_nc_sid=68810c)](https://www.threads.com/@criscarter1965)
 
-[bebothebold](https://www.threads.com/@bebothebold)
+[criscarter1965](https://www.threads.com/@criscarter1965)
 
-[Houston](https://www.threads.com/search?q=Houston&serp_type=tags&tag_id=18315002515119306)
+[18h](https://www.threads.com/@criscarter1965/post/Dfw0vcqlbm3)
 
-[14h](https://www.threads.com/@bebothebold/post/DfuoqoeoIaf)
+Great news from the Minneapolis airport early this morning, TSA lines very short, and most flights are running on time Skol
 
-What’s the craziest freeway in Houston in your opinion and why?
+494
 
-28
+7
 
-60
+6
 
-2
+[![Image 2: skz_stay2025_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/874419161_17988676419089889_5549655870549872849_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-MmypS3RgGK7dl3&_nc_ohc=xl2KHBUCbX0Q7kNvwFx08RY&_nc_gid=8eUqNURjn1AndDVYRtRNfQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTh50dtzzekDfzo05kNlf5rQ9ke6ZWTaw8cRe3vu3uLDA&oe=6B007806&_nc_sid=68810c)](https://www.threads.com/@skz_stay2025_)
 
-[![Image 2: randaquraan's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/886904153_18643295359034359_6693714611006337283_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=_XuKYTUU5p8Q7kNvwFkKnka&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRxyQzGmlyAwduTRW6oojFI1AmH4bGZTf_HHZ32_2bzEQ&oe=6AFF33B6&_nc_sid=10d13b)](https://www.threads.com/@randaquraan)
+[skz_stay2025_](https://www.threads.com/@skz_stay2025_)
 
-[randaquraan](https://www.threads.com/@randaquraan)
+[![Image 3](https://scontent.xx.fbcdn.net/v/t1.6435-9/723790588_18394575646092688_7341028683432305344_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQQREcxyhWP18z2ffe6EKFG0ebcYpvI9yOJY6SlKYijhOw&oe=6B223632) Stray Kids STAY](https://www.threads.com/search?q=straykidsstay&serp_type=tags&tag_id=18424498144036000)
 
-[14h](https://www.threads.com/@randaquraan/post/Dfunxjxlkon)
+[19h](https://www.threads.com/@skz_stay2025_/post/Dfwt1X_Ezkr)
 
-40+ peeps in Florida like were do we hang out?
+Minsung Hard Launch! JeongChan Soft Launch! AO3 back up!
 
-60
+What a SUNDAY MAN!!! 😂😂😂😂😂
 
-163
+1.3K
 
-2
+36
 
-[![Image 3: designwithkzh's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/414450461_3544538979127370_4961136106201787858_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gGyAA1Bs0ifNm5BUVUYoSeMXM6liI4mJRQdAtAaXXS3kEocG_Cb7CYb1JAM9WVFtAk&_nc_ohc=vVYKFuAHDUAQ7kNvwFTa7Tb&_nc_gid=bCdbj2PpLT-0sCpNJglJZA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS-mfmJ06rieWEfddTbgrxB5q8UiDkWmi3_0vqPh4NbAg&oe=6AFF3F16&_nc_sid=10d13b)](https://www.threads.com/@designwithkzh)
+37
 
-[designwithkzh](https://www.threads.com/@designwithkzh)
+24
 
-[Disney Threads](https://www.threads.com/search?q=Disney%20Threads&serp_type=tags&tag_id=18408717076060926)
-
-[16h](https://www.threads.com/@designwithkzh/post/DfuYv3
+[![Image 4: domijayyy's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/731417546_18108821083866565_5446579275149078942_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-
 ```
