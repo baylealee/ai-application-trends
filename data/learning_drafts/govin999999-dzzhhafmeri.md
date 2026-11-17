@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-16T07:06:02+00:00"
+generated_at: "2026-11-17T08:20:08+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,6 +60,20 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://ww
+- Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -67,15 +81,6 @@ Final URL: https://www.threads.com/?error=invalid_post
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown C
-- Title: Threads • Log in
-
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Co
 - Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 抓取品質
@@ -123,39 +128,37 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: criscarter1965's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/469224809_579154498039963_3272582016387034252_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-MmypS3RgGK7dl3&_nc_ohc=J3_N8ldyIfAQ7kNvwGUp1lb&_nc_gid=8eUqNURjn1AndDVYRtRNfQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTHYWOxPAupkV-mcO2lgzF2wUt0csTQZxPwlxnj7dwx7Q&oe=6B0062E8&_nc_sid=68810c)](https://www.threads.com/@criscarter1965)
+[![Image 1: strltspams's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/472552287_1278538226759400_8221706121021208461_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE48yrNx9BeQQPyTdhj1IWpQnZn1TfX3Rtzx1AgwmPoK_gVCNNr61v1MTyzU6SEM-uBEPQfmdSZu25VlpvwQGqO&_nc_ohc=hbjusenf504Q7kNvwG6kVZ2&_nc_gid=wKxz5aAbr3d5nLWfwkuqCA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRlTbuJ1GVEjgDnnp9MZ7gZme_1lzKuvdUcWNpQ51zI8w&oe=6B01DA67&_nc_sid=68810c)](https://www.threads.com/@strltspams)
 
-[criscarter1965](https://www.threads.com/@criscarter1965)
+[strltspams](https://www.threads.com/@strltspams)
 
-[18h](https://www.threads.com/@criscarter1965/post/Dfw0vcqlbm3)
+[Job Hunting](https://www.threads.com/search?q=Job%20Hunting&serp_type=tags&tag_id=18322813120112850)
 
-Great news from the Minneapolis airport early this morning, TSA lines very short, and most flights are running on time Skol
+[17h](https://www.threads.com/@strltspams/post/DfzlHcUGB6H)
 
-494
+CAN SOMEONE JUST HIRE WITHOUT AN INTERVIEW? I CAN DO THE JOB BUT I CAN’T HANDLE THE INTERVIEW 😭
 
-7
+1.8K
 
-6
+74
 
-[![Image 2: skz_stay2025_'s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/874419161_17988676419089889_5549655870549872849_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-MmypS3RgGK7dl3&_nc_ohc=xl2KHBUCbX0Q7kNvwFx08RY&_nc_gid=8eUqNURjn1AndDVYRtRNfQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTh50dtzzekDfzo05kNlf5rQ9ke6ZWTaw8cRe3vu3uLDA&oe=6B007806&_nc_sid=68810c)](https://www.threads.com/@skz_stay2025_)
+134
 
-[skz_stay2025_](https://www.threads.com/@skz_stay2025_)
+9
 
-[![Image 3](https://scontent.xx.fbcdn.net/v/t1.6435-9/723790588_18394575646092688_7341028683432305344_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQQREcxyhWP18z2ffe6EKFG0ebcYpvI9yOJY6SlKYijhOw&oe=6B223632) Stray Kids STAY](https://www.threads.com/search?q=straykidsstay&serp_type=tags&tag_id=18424498144036000)
+[![Image 2: syllysal07's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/473743851_639799648616512_5833464714792703642_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE48yrNx9BeQQPyTdhj1IWpQnZn1TfX3Rtzx1AgwmPoK_gVCNNr61v1MTyzU6SEM-uBEPQfmdSZu25VlpvwQGqO&_nc_ohc=ztuVgwCx1XEQ7kNvwG94SiW&_nc_gid=wKxz5aAbr3d5nLWfwkuqCA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRHex3-lfOGJCf9GNVo1bBd6_ThUBLi1xJGcVKO6JI2pA&oe=6B01D3CB&_nc_sid=68810c)](https://www.threads.com/@syllysal07)
 
-[19h](https://www.threads.com/@skz_stay2025_/post/Dfwt1X_Ezkr)
+[syllysal07](https://www.threads.com/@syllysal07)
 
-Minsung Hard Launch! JeongChan Soft Launch! AO3 back up!
+[13h](https://www.threads.com/@syllysal07/post/Df0EoH_kqUG)
 
-What a SUNDAY MAN!!! 😂😂😂😂😂
+How has the FAA fiasco affected you? I'll go first. My sister is retiring from the Airforce after 28 years of honorable service TODAY. I was taking a red eye from Houston to Ohio for this last milestone and to help her with the livestream. My flight was canceled 4 hours before takeoff and I was told my new flight wouldn't get me there until 8 pm (no guarantees of course). After crying and cursing this incompetent administration, my daughter and I jumped in the car and are now driving to Ohio.
 
-1.3K
+335
 
-36
+50
 
-37
+4
 
-24
-
-[![Image 4: domijayyy's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/731417546_18108821083866565_5446579275149078942_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gE3ELDyKICzgwel4k3jjcDoXTmvvpk5O-D5gy--SewRg918we134ii-MD4UQCBmdEKjJqB-p-
+[![Image 3: pb609's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/339314662_631237562350565_884726089568133609_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdni
 ```
