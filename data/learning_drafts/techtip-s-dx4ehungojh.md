@@ -1,25 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：He reportedly moved up to the front seat a"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
 category: "coding"
 tools:
-  - "GAS"
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-17T08:20:08+00:00"
+generated_at: "2026-11-18T07:53:23+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：He reportedly moved up to the front seat a
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-He reportedly moved up to the front seat after the first gas stop, and he and the driver spent the rest of the nearly nine hour trip swapping stories and music. The two are reporte
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -27,7 +26,7 @@ He reportedly moved up to the front seat after the first gas stop, and he and th
 
 ## 使用工具
 
-GAS
+待人工確認
 
 ## 原始工作流拆解
 
@@ -65,19 +64,18 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Markdown Content:
+[](https://www.threads.com/)
 
-Markdown Con
-- Title: Threads • Log in
+[Home](https://www.threads.com/)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+New thread
 
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown Cont
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+[Search](https://www
+- [![Image 3: katelynbeckerwrites's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/459361471_1308794220092303_4098389825745862343_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDguYzIifQ&_nc_ht=sconte
+- [![Image 4: schooledinbooks's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/395440790_1422757381612064_6838981064688690126_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-
+- [![Image 2: jonsavoy's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/883558990_18645655969008887_7943676726581696109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzIuYzIifQ&_nc_ht=scontent-ord5-1
+- [![Image 6: 5209c_h's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/831049325_17945098767341458_4223265987477004684_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2
 
 ## 抓取品質
 
@@ -91,58 +89,46 @@ Markdown Cont
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: casualfoodist's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/548859540_18077504876047877_7119696802372262717_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=dA_vDhWzKgAQ7kNvwE2Vsdi&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ_9woq1vYGeztNXC7xjgesWhelkJsgZjo7Ju4IMI6vQw&oe=6B0311FF&_nc_sid=10d13b)](https://www.threads.com/@casualfoodist)
 
-[Home](https://www.threads.com/)
+To be fair I would react the same way Aunt Ada did to meeting President Allstate
 
-New thread
+2.3K
 
-[Search](https://www.threads.com/search)
+65
 
-Messages
+21
 
-Activity
+53
 
-Profile
+[![Image 2: tmmip's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/439592914_801190538107811_4473155434730711519_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42OTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=PHmGEUXejvsQ7kNvwH0WpN2&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQgyJ2oeXxUO_3wOAlTLbI5lOl_GocSl9_i-nVu8l_dew&oe=6B031074&_nc_sid=10d13b)](https://www.threads.com/@tmmip)
 
-Insights
+Agatha in the first episode of Agatha all along foreshadows scarlet witch being alive in the first 5 min & winks lol crazy
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+642
 
-More
+16
 
-[](https://www.threads.com/)
+12
 
-[](https://www.threads.com/)
+[![Image 3: sigelarts's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/799202195_17987428719106623_8259636315925879749_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=3f7XTe6e0g8Q7kNvwEbi8bN&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ7lw2IL8qbLGR0qmNaMdKTqfkOtTIW8Wt7IMZEJlfURA&oe=6B032A8D&_nc_sid=10d13b)](https://www.threads.com/@sigelarts)
 
-[](https://www.threads.com/search)
+IN WHAT WORLD?? Did the judges not see the same misteps and mistakes we did? Maura was a little sloppy and definitely not a 10
 
-# [Home](https://www.threads.com/?error=invalid_post)
+216
 
-[![Image 1: the_rap_alert's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/358054852_810078330692025_2822270352232856508_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45OTguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHsLO3OBWM10U5kBhIxwlrmAHUNt8qnZ32OSpLNs799XS-bEEsqr0R4kOhW7Vr-y8uh7J0Yodg4zFqRewwQtK_r&_nc_ohc=GZpXWO-_mb4Q7kNvwH0hCMy&_nc_gid=UqurohjcDgLoTnRnDUYtXA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRKE9tEpscQoHcrwgwrf0JSpkAALCGILX9JxORnQUT5xQ&oe=6B01CDB7&_nc_sid=68810c)](https://www.threads.com/@the_rap_alert)
+22
 
-[the_rap_alert](https://www.threads.com/@the_rap_alert)
+6
 
-[16h](https://www.threads.com/@the_rap_alert/post/DfzxK1lEqUZ)
+[![Image 4: eleraonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730313108_18088388150158370_1698872823416218319_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=RSnY-9x3jekQ7kNvwGo8jcy&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTMbRbI2doy1-Na-qnjrxKbwBBshW6WV8dD7HpYXLKoGw&oe=6B031B37&_nc_sid=10d13b)](https://www.threads.com/@eleraonline)
 
-A traveler stuck in Atlanta after his flight was canceled reportedly decided the only way home was an $850 Lyft ride to Indianapolis, after six drivers accepted and then canceled before the seventh finally said yes 😳💸
+Girl to girl: SUPPLEMENTS THAT ACTUALLY STOP CORTISOL HAIR THINNING *(ranked by how fast women see results)*
 
-He reportedly moved up to the front seat after the first gas stop, and he and the driver spent the rest of the nearly nine hour trip swapping stories and music. The two are reportedly still texting, and his boss even covered the fare.
-
-[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/904136199_18195687163405794_8060658962158679675_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ig_cache_key=NDAzMTc4MjM0MDQzMDgzMjkyMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjA2NC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=GZxWvrGTNXAQ7kNvwGbLFO_&_nc_oc=AdreX5h1YmWDmB80koRdedT4IkA0C5HWQCFVuWhBu4ilYMTt1IJ-oEP4yPgIP0pwa3EMucPK3LVgKZ02yhhzd6cl&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=UqurohjcDgLoTnRnDUYtXA&_nc_ss=7a20f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTFAwb-Nv4kjj3BKOhu3uHdm4FrWcZBYmeeQ37yS_vDvw&oe=6B01F789)](https://www.threads.com/@the_rap_alert/post/DfzxK1lEqUZ/media)
-
-797
-
-56
-
-7
-
-14
-
-[![Image 3: howdypolitics's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/466422440_456802403677254_4719226921359990665_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gHsLO3OBWM10U5kBhIxwlrmAHUNt8qnZ32OSpLNs799XS-bEEsqr0R4kOhW7Vr-y8uh7J0Yodg4zFqRewwQtK_r&_nc_ohc=dqcKYBc-lcsQ7kNvwF-1f6N&_nc_gid=UqurohjcDgLoTnRnDUYtXA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQTxckdLKyLTZqqa-DY9IJ
+Not t
 ```

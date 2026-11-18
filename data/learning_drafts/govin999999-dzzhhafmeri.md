@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：[Image 1: walsh_freedom's profile picture]"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-17T08:20:08+00:00"
+generated_at: "2026-11-18T07:53:23+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：[Image 1: walsh_freedom's profile picture]
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+[Image 1: walsh_freedom's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/474383283_9396000687086909_4928040314804918050_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -58,9 +58,13 @@ Title: Threads • Log in
 
 reply_summary_status: `partial`
 
+- [![Image 4: v.nessa_bee's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/504511346_17893140144251648_5008150318074748781_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord
+- [![Image 2: nipa816682's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/863060629_18014309144765459_6987738851857559433_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord
+- [![Image 3: reprokhanna's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/358337906_124268847347424_1704213749668922325_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-
+- [![Image 7: dzcakes22's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/758409447_17979194733113280_6880653101268759708_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
@@ -71,17 +75,7 @@ Markdown Content:
 
 New thread
 
-[Search](https://ww
-- Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
-Markdown C
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+[Search](https://w
 
 ## 抓取品質
 
@@ -93,72 +87,5 @@ Markdown C
 ## 原始抓取內容
 
 ```text
-Title: Threads • Log in
-
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: strltspams's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/472552287_1278538226759400_8221706121021208461_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gE48yrNx9BeQQPyTdhj1IWpQnZn1TfX3Rtzx1AgwmPoK_gVCNNr61v1MTyzU6SEM-uBEPQfmdSZu25VlpvwQGqO&_nc_ohc=hbjusenf504Q7kNvwG6kVZ2&_nc_gid=wKxz5aAbr3d5nLWfwkuqCA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRlTbuJ1GVEjgDnnp9MZ7gZme_1lzKuvdUcWNpQ51zI8w&oe=6B01DA67&_nc_sid=68810c)](https://www.threads.com/@strltspams)
-
-[strltspams](https://www.threads.com/@strltspams)
-
-[Job Hunting](https://www.threads.com/search?q=Job%20Hunting&serp_type=tags&tag_id=18322813120112850)
-
-[17h](https://www.threads.com/@strltspams/post/DfzlHcUGB6H)
-
-CAN SOMEONE JUST HIRE WITHOUT AN INTERVIEW? I CAN DO THE JOB BUT I CAN’T HANDLE THE INTERVIEW 😭
-
-1.8K
-
-74
-
-134
-
-9
-
-[![Image 2: syllysal07's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/473743851_639799648616512_5833464714792703642_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45ODguYzIifQ&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gE48yrNx9BeQQPyTdhj1IWpQnZn1TfX3Rtzx1AgwmPoK_gVCNNr61v1MTyzU6SEM-uBEPQfmdSZu25VlpvwQGqO&_nc_ohc=ztuVgwCx1XEQ7kNvwG94SiW&_nc_gid=wKxz5aAbr3d5nLWfwkuqCA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRHex3-lfOGJCf9GNVo1bBd6_ThUBLi1xJGcVKO6JI2pA&oe=6B01D3CB&_nc_sid=68810c)](https://www.threads.com/@syllysal07)
-
-[syllysal07](https://www.threads.com/@syllysal07)
-
-[13h](https://www.threads.com/@syllysal07/post/Df0EoH_kqUG)
-
-How has the FAA fiasco affected you? I'll go first. My sister is retiring from the Airforce after 28 years of honorable service TODAY. I was taking a red eye from Houston to Ohio for this last milestone and to help her with the livestream. My flight was canceled 4 hours before takeoff and I was told my new flight wouldn't get me there until 8 pm (no guarantees of course). After crying and cursing this incompetent administration, my daughter and I jumped in the car and are now driving to Ohio.
-
-335
-
-50
-
-4
-
-[![Image 3: pb609's profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/339314662_631237562350565_884726089568133609_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdni
+[![Image 1: walsh_freedom's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/474383283_9396000687086909_4928040314804918050_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTkuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFMTFoR-pQKnOAi737fVOhKTnnhmUUnr_a9AsxTe_e45zrNIk9Fsb87_GFEWt1hi9_V4kPzD8LEQVWKtxqjW3p0&_nc_ohc=YPmIfnQYk8UQ7kNvwHo0PHt&_nc_gid=q96gy33agFivG37hsBJMxA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTC3dyawFdXalLwuzsZfLHTc7seSMhzB5paVACWTpexwQ&oe=6B03453D&_nc_sid=68810c)](https://www.threads.com/@walsh_freedom)
 ```

@@ -6,13 +6,10 @@ post_id: "DNRi-WKzgeC"
 language: "unknown"
 category: "coding"
 tools:
-  - "Claude"
-  - "Claude Code"
-  - "GAS"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0077
-generated_at: "2026-11-17T08:20:08+00:00"
+zh_ratio: 0.033
+generated_at: "2026-11-18T07:53:23+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -29,12 +26,11 @@ Title: 高見龍.agent (@kaochenlong) on Threads
 
 ## 使用工具
 
-Claude、Claude Code、GAS
+待人工確認
 
 ## 原始工作流拆解
 
 1. Title: 高見龍.agent (@kaochenlong) on Threads
-2. 我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以後叫 agent 做事，現在終於內建了
 
 ## 可以直接複製的做法
 
@@ -62,18 +58,17 @@ reply_summary_status: `partial`
 
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
-
-Final URL: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
+- URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工具、CLI
-- zh_ratio: `0.0077`
+- keyword_hits: Agent、agent
+- zh_ratio: `0.033`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -81,52 +76,16 @@ Markdown Content:
 ```text
 Title: 高見龍.agent (@kaochenlong) on Threads
 
-URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
+
+Final URL: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
-
-12.3K views
-
-[![Image 1: kaochenlong's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GKzIgBs-yOvcxrwDALcQEb0MxGZebkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=qrIh96sCfNgQ7kNvwEAIUu7&_nc_oc=AdrvEKRDihpN-KgU_cy1LUUnm68scWGoN4hLaCzlcx3rofywtiBHJxNtBacwkgEzX4Q&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTL3ggfiwKEWidjr69bURGBzEVsOJ-USnN29aEprxwJXg&oe=6B01F58B)](https://www.threads.com/@kaochenlong)
-
-[kaochenlong](https://www.threads.com/@kaochenlong)
-
-[AI Coding](https://www.threads.com/search?q=AI%20Coding&serp_type=tags&tag_id=18459619093014492)
-
-[08/12/25](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GKzIgBs-yOvcxrwDALcQEb0MxGZebkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=sm1x77PY9KMQ7kNvwHAqC3J&_nc_oc=Adra3hWaOq4Px-1fqr93v9Xh5vu4OoHQUG77eNfakNKZ_vcVih_9MgZaqs24pGG4yME&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSXMZ6fV0R-DgB9QOikwX-p1z3ly3SB24qtuhuByxwl8A&oe=6B03470B)](https://www.threads.com/@kaochenlong)
 
 CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台話「精的出嘴，憨的出力」的意思啦 :)
 
 Translate
-
-[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=97sBmBUbBnoQ7kNvwHE6HvA&_nc_oc=AdqYbBOW7xXOw8SSUBC40psmTQpRjuguRUhVOyiC53QAHnHwWjm_i_h2C-nyuRO9y8g&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=_NA0rakKlri0gg4KH69GlA&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQjN5d7puYTchWTf84StMa0typG7FwWb3Q3yulpPAallQ&oe=6B01EC20)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -135,12 +94,4 @@ Translate
 18
 
 16
-
-[![Image 3: hydai's profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/422768959_1088526665673234_4039006746009258262_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GD-xMhkSajxdAt4DABbJSWU8bw04bkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=_2gFEKLaM4oQ7kNvwEkolZq&_nc_oc=Adqaa7mw-Zdh5txfoyybIVa-K-2-KM_6HHJP6ucILVdAmIHD6ovGtPlaBo4oaU-Zf9I&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS6fx4Vak3rtrU4RByFqIiWgkHxoRcU_zprRFt1vuOzYQ&oe=6B01F67C)](https://www.threads.com/@hydai)
-
-[hydai](https://www.threads.com/@hydai)
-
-[08/13/25](https://www.threads.com/@hydai/post/DNSAYInhhWk)
-
-我之前是靠 Sub agent 選 sonnet ，然後在規劃階段讓 Opus 出嘴以
 ```
