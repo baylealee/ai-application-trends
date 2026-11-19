@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-18T07:53:23+00:00"
+generated_at: "2026-11-19T07:47:43+00:00"
 ---
 
 # techtip_s 的 AI 工作流案例：Title: Threads • Log in
@@ -64,18 +64,19 @@ URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Markdown Content:
-[](https://www.threads.com/)
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-[Home](https://www.threads.com/)
+Markdown Con
+- Title: Threads • Log in
 
-New thread
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
-[Search](https://www
-- [![Image 3: katelynbeckerwrites's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/459361471_1308794220092303_4098389825745862343_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NDguYzIifQ&_nc_ht=sconte
-- [![Image 4: schooledinbooks's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/395440790_1422757381612064_6838981064688690126_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-
-- [![Image 2: jonsavoy's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/883558990_18645655969008887_7943676726581696109_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MzIuYzIifQ&_nc_ht=scontent-ord5-1
-- [![Image 6: 5209c_h's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/831049325_17945098767341458_4223265987477004684_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Cont
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 抓取品質
 
@@ -89,46 +90,62 @@ New thread
 ```text
 Title: Threads • Log in
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[![Image 1: casualfoodist's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/548859540_18077504876047877_7119696802372262717_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=dA_vDhWzKgAQ7kNvwE2Vsdi&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ_9woq1vYGeztNXC7xjgesWhelkJsgZjo7Ju4IMI6vQw&oe=6B0311FF&_nc_sid=10d13b)](https://www.threads.com/@casualfoodist)
+[](https://www.threads.com/)
 
-To be fair I would react the same way Aunt Ada did to meeting President Allstate
+[](https://www.threads.com/)
 
-2.3K
+[](https://www.threads.com/search)
 
-65
+# [Home](https://www.threads.com/?error=invalid_post)
 
-21
+[![Image 1: wildgina's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/713023559_18467520073109470_6213199770041189826_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gH-HVOMsjRmqm3scocrnP7Y5zlfi20pTRqErYt82IyJVvLgE-t9Jbxvi96Ak2DSdW1ontqI5OpyZjiJg72FhBr6&_nc_ohc=pUwXTHSRHYQQ7kNvwGBIZRy&_nc_gid=MkUCAxxqIM4rPsV2MyyymQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRt4VT-5qFwCMwdPLsArfe9HKtOW9gknzvGEyfKMBfl8w&oe=6B046F5C&_nc_sid=68810c)](https://www.threads.com/@wildgina)
 
-53
+[wildgina](https://www.threads.com/@wildgina)
 
-[![Image 2: tmmip's profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/439592914_801190538107811_4473155434730711519_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42OTQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=PHmGEUXejvsQ7kNvwH0WpN2&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQgyJ2oeXxUO_3wOAlTLbI5lOl_GocSl9_i-nVu8l_dew&oe=6B031074&_nc_sid=10d13b)](https://www.threads.com/@tmmip)
+[3h](https://www.threads.com/@wildgina/post/Df6Nz3vGzSg)
 
-Agatha in the first episode of Agatha all along foreshadows scarlet witch being alive in the first 5 min & winks lol crazy
+I JUST WANNA GO TO BLOCKBUSTER AND RENT OUT A MOVIE. AND GRAB SOME SOUR CANDY!!!!
 
-642
+587
 
-16
+26
 
-12
+25
 
-[![Image 3: sigelarts's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/799202195_17987428719106623_8259636315925879749_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby42MzQuYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=3f7XTe6e0g8Q7kNvwEbi8bN&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ7lw2IL8qbLGR0qmNaMdKTqfkOtTIW8Wt7IMZEJlfURA&oe=6B032A8D&_nc_sid=10d13b)](https://www.threads.com/@sigelarts)
+3
 
-IN WHAT WORLD?? Did the judges not see the same misteps and mistakes we did? Maura was a little sloppy and definitely not a 10
+[![Image 2: dondotty_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/779017835_17978462343120711_6365062868552214170_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=103&_nc_oc=Q6cZ2gH-HVOMsjRmqm3scocrnP7Y5zlfi20pTRqErYt82IyJVvLgE-t9Jbxvi96Ak2DSdW1ontqI5OpyZjiJg72FhBr6&_nc_ohc=iIWLHJWafowQ7kNvwFrdBup&_nc_gid=MkUCAxxqIM4rPsV2MyyymQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSSlKR7u8mA1q5hE5eSfHgYXe-miAFSGO0iM4Dc5wbpUw&oe=6B046FDA&_nc_sid=68810c)](https://www.threads.com/@dondotty_)
 
-216
+[dondotty_](https://www.threads.com/@dondotty_)
 
-22
+[Atlanta Threads](https://www.threads.com/search?q=Atlanta%20Threads&serp_type=tags&tag_id=18407820874001267)
 
-6
+[10h](https://www.threads.com/@dondotty_/post/Df5gJ8RD68B)
 
-[![Image 4: eleraonline's profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/730313108_18088388150158370_1698872823416218319_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFOcmESjItP0EAWUJpi7QSdL5_QlwiXrR2h3obcM7H2Lsm39E1GfaCd2Pwr5uPOzu0&_nc_ohc=RSnY-9x3jekQ7kNvwGo8jcy&_nc_gid=DLWoWp6ae5T1PnoPYPtyUw&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTMbRbI2doy1-Na-qnjrxKbwBBshW6WV8dD7HpYXLKoGw&oe=6B031B37&_nc_sid=10d13b)](https://www.threads.com/@eleraonline)
+Best Hotels for a romantic Staycation in Atlanta ?
 
-Girl to girl: SUPPLEMENTS THAT ACTUALLY STOP CORTISOL HAIR THINNING *(ranked by how fast women see results)*
+64
 
-Not t
+31
+
+4
+
+19
+
+[![Image 3: theelsieescobar's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/408312497_1023932525549444_4282702481337429728_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gH-HVOMsjRmqm3scocrnP7Y5zlfi20pTRqErYt82IyJVvLgE-t9Jbxvi96Ak2DSdW1ontqI5OpyZjiJg72FhBr6&_nc_ohc=z34Kk3N73-oQ7kNvwHsotIe&_nc_gid=MkUCAxxqIM4rPsV2MyyymQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSfgnPtm59DoCDWBmWnPr31OXB3DlZC-MrYZoKaq9xTGw&oe=6B048259&_nc_sid=68810c)](https://www.threads.com/@theelsieescobar)
+
+[theelsieescobar](https://www.threads.com/@theelsieescobar)
+
+[15h](https://www.threads.com/@theelsieescobar/post/Df48qqAEXZh)
+
+Women and femmes: let's talk chin hairs.
+
+HOW DO YOU GET RID OF THEM?
+
+I know they will come back, but I'm having a heck of a time seeing them to pluck them! I only seem to find them in a weird 
 ```

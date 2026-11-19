@@ -1,5 +1,5 @@
 ---
-title: "_3cpj_ 的 AI 工作流案例：Recently, I saw a great person named Chris"
+title: "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短"
 source_url: "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0"
 source_author: "_3cpj_"
 post_id: "DNORrH7Pau0"
@@ -8,19 +8,21 @@ category: "coding"
 tools:
   - "Claude"
   - "Claude Code"
+  - "GPT"
+  - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0
-generated_at: "2026-11-18T07:53:23+00:00"
+zh_ratio: 0.0957
+generated_at: "2026-11-19T07:47:43+00:00"
 ---
 
-# _3cpj_ 的 AI 工作流案例：Recently, I saw a great person named Chris
+# _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Recently, I saw a great person named Chris Dzombak online, who wrote 12 items in a short time using Claude Code, with an astonishing level of efficiency.
+最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
 
 ## 這篇在解決什麼問題
 
@@ -28,11 +30,14 @@ Recently, I saw a great person named Chris Dzombak online, who wrote 12 items in
 
 ## 使用工具
 
-Claude、Claude Code
+Claude、Claude Code、GPT、GitHub
 
 ## 原始工作流拆解
 
-1. I dug deeper into his method and found that the ultimate secret is not some fancy prompt, but to implant a "senior engineer's soul" into Claude.
+1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
+2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/963945014613287014?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDCtus3ge7qKa_7h1Cn3WYSwXs-Ss4e3LXonTGn_1MU1gKrUSiVlrNCiNGaEkhJK53iw8PazmoqrOSK-EK_0N522QluWXeHuqWcswB2zVVSdc9i8Po)
 
 ## 可以直接複製的做法
 
@@ -56,15 +61,28 @@ Claude、Claude Code
 
 ## 回覆區重點
 
-reply_summary_status: `unavailable`
+reply_summary_status: `partial`
 
-- 目前公開抓取結果沒有可可靠分離的回覆內容。
+- Title: Jun CP (@_3cpj_) on Threads
+
+URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Final URL: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search]
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、prompt、workflow
-- zh_ratio: `0.0`
+- keyword_hits: AI、Claude、GPT、工作流、prompt、工具、GitHub
+- zh_ratio: `0.0957`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -75,21 +93,73 @@ Title: Jun CP (@_3cpj_) on Threads
 URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Markdown Content:
-Recently, I saw a great person named Chris Dzombak online, who wrote 12 items in a short time using Claude Code, with an astonishing level of efficiency.
+[](https://www.threads.com/)
 
-I dug deeper into his method and found that the ultimate secret is not some fancy prompt, but to implant a "senior engineer's soul" into Claude.
+[Home](https://www.threads.com/)
 
-He created a comprehensive configuration file called CLAUDE .md, which is the AI's personal operating system. This file defines:
+New thread
 
-> Development philosophy: such as "addition is better than total reconstruction" and "code should be clear rather than smart".
+[Search](https://www.threads.com/search)
 
-> Standard workflow: planning -> writing tests -> implementation -> reconstruction -> submission.
+Messages
 
-> "What to do when stuck" plan: after 3 failed attempts, you must stop, record failures, study alternative solutions, and reflect on the root problem.
+Activity
 
-> Decision framework: when there are multiple options, choose the one that is testable > readable > consistent > simple.
+Profile
 
-The most important thing is that he emphasized that "AI code is ultimately the responsibility of humans," and all code must be manually reviewed and tested. This CLAUDE .md file is simply a way of thinking and professional development that is being injected into AI, transforming it from a "tool" into a well-structured, discerning "colleague."
+Insights
 
-I have already forked his "AI training bible," and I strongly recommend that everyone else also go and learn from it.
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+
+115K views
+
+[![Image 1: _3cpj_'s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GGU6xRzkIanCT0YCAJwsWw0Ja8JFbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=6rz1Xkt67UsQ7kNvwGEknZe&_nc_oc=AdpmNfoBkW3Ryah7OX0DhqyzTzFNlPJJWgo9bWIsbOnnZHk5f2tttJWky-U4Dg5e8MI&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQZ0G-kXF5RArg8VBN_LP0XSQ1qFvlErfGNkV45ibgC7g&oe=6B048CB4)](https://www.threads.com/@_3cpj_)
+
+[_3cpj_](https://www.threads.com/@_3cpj_)
+
+[08/11/25](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
+
+最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
+
+我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
+
+他創建了一個全局配置文件 CLAUDE .md，也就是AI的個人操作系統。這個文件里定義了：
+
+> 開發哲學：比如“增量優於全部重構”、“代碼要清晰而非聰明”。
+
+> 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
+
+> “卡住怎麼辦”預案：嘗試3次失敗後，必須停下來，記錄失敗、研究替代方案、反思根本問題。
+
+> 決策框架：當有多種方案時，按可測試性 > 可讀性 > 一致性 > 簡單性的順序選擇。
+
+最關鍵的是，他強調“AI寫的代碼，最終責任在人”，所有代碼都必須手動審查和測試。
+
+這個 CLAUDE .md 文件簡直是把高級工程師的思維模式和職業素養灌輸給了AI，讓它從一個“工具”變成了一個有章法、懂取捨的“准同事”。
+
+我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
+
+Translate
+
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/963945014613287014?url=https%3A%2F%2Fopengraph.githubassets.com%2F1d8083e61d9a9f6eeadb718f2714a0bca01e74213e5a537ccdd77aa9bbe90056%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=fr&ccb=18-1&_nc_gid=rn0rSdlYko2AVmJJGo3ppg&_nc_map=urlgen_bucketless&_nc_zt=3&oh=06_Q3_FAWYgL4pD_k_06q32hjlf7_E_O_SNmsm_JzRoQ7w7wvyN&oe=6B007A4D) ![Image 3](https://external-sea5-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-sea5-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=rn0rSdlYko2AVmJJGo3ppg&_nc_map=urlgen_bucketless&_nc_zt=3&oh=06_Q3_FAXE3y6EZke1U2YFBAptzTHuXRAV7JEI-wF4g4twhW5Wd&oe=6B009187) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDCtus3ge7qKa_7h1Cn3WYSwXs-Ss4e3LXonTGn_1MU1gKrUSiVlrNCiNGaEkhJK53iw8PazmoqrOSK-EK_0N522QluWXeHuqWcswB2zVVSdc9i8Po)
+
+1.9K
+
+54
+
+368
+
+2.1K
+
+Log in or sign up
 ```

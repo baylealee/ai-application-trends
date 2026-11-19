@@ -4,15 +4,16 @@ source_url: "https://www.threads.com/@henry.wen/post/DYrzDyumRsq"
 source_author: "henry.wen"
 post_id: "DYrzDyumRsq"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
   - "Manus"
+  - "RAG"
   - "Notion"
   - "Canva"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0718
-generated_at: "2026-11-18T07:53:23+00:00"
+generated_at: "2026-11-19T07:47:43+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -29,7 +30,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、Notion、Canva
+Manus、RAG、Notion、Canva
 
 ## 原始工作流拆解
 
@@ -68,7 +69,7 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
+[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
 - Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
@@ -76,14 +77,12 @@ URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.c
-- Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA
+[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.c
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、工作流、自動化、流程、工具、整理、生成、Notion
+- keyword_hits: AI、RAG、工作流、自動化、流程、工具、整理、生成、Notion
 - zh_ratio: `0.0718`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
@@ -125,7 +124,7 @@ More
 
 801 views
 
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=QQUVdCjVRhEQ7kNvwHIXK-x&_nc_oc=AdpNRQnFqLnQxCWoCDtpkdfdbDwpigFphN2E7vhHozgILsrHG83zhalc8i_N0PbUIrc&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=TPtseJUWPoPnRACbi6NRdw&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQ042w28Gv8DuNV00Min_DfGxu9pEyQ9tA9SGWzPmwW-A&oe=6B031885)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=QQUVdCjVRhEQ7kNvwG1Kjzr&_nc_oc=AdpNJFJ6yp2pvORjjix2unFrrSJjFbtaWNqWiMY61dvKWGX0rSRDCfZ0sziCp6scsi0&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=nvV_KXvi8QsjfAxUAwZ_DQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSxCYX9C6bN-0PNDrXopoT7t5O55urpyPnSwQf-_D5NNw&oe=6B046A05)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -139,11 +138,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kLfqR5FyvtUQ7kNvwFwE_0U&_nc_oc=AdoeUydHqZQGPoPO7celnFRbz7FC2rZ7f4qhCpj2Faw5gPmAHs2oENkHlLCbiQLo7Ns&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=stzBMKTwb-JtI-BMF0j3OQ&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQRbD3jYNZEGOpyAAhfQonVNW1qesaHmxLoUToiHmpm8PQ&oe=6B03223D)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kLfqR5FyvtUQ7kNvwHtPwwg&_nc_oc=Adr03EMToyvmrAgQRmKr-0kZaMYfzllnHd_iB60JJJT9ZDdYHa5QWBMjTC7AonFdJBs&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=B093IRU5_5iD8fH51yv05w&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQS3vo4MVTdV5ykSL4TOQLElckuor5MEEoufXsDLTLk-FQ&oe=6B0473BD)
 
 Sorry, we're having trouble playing this video.
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUC33hgyfqIEH4ogk3ltizQopraWL_IMsVu4RQGx4iFCERcHUBzMwMM983Nn5x4G-E2bOhwk3U89GcGOEuhosrI0yi9jxNGM4Ddz_Lk_MNfEhKAbAP4)
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBzchVRe3DhU9BNmJjPRvkctpQAxvo5cmnlrRij6wvGRBoY1DP3C68Ld6FNpNZikCupbKHFp3qh2U5AmkApWqOPjD6quQI6LWR5ulhXzQyeW0jottk)
 
 henry.wen
 
@@ -153,5 +152,5 @@ henry.wen
 
 9
 
-[![Image 3: nosugar_greentea's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nNqtm7QpL5wQ7kNvwG6yz8a&_nc_oc=Adrf-BkUCBxpx4kbJXaDzr2F1t2wFUtzcnHEskkHPeJFEyEG2
+[![Image 3: nosugar_greentea's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nNqtm7QpL5wQ7kNvwFqPgC9&_nc_oc=AdqwDWFmybFH7C45lFCvhhQqIxHEB5zhU9dNck9FzfzTJDksj
 ```

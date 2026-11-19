@@ -1,5 +1,5 @@
 ---
-title: "govin999999 的 AI 工作流案例：[Image 1: walsh_freedom's profile picture]"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-18T07:53:23+00:00"
+generated_at: "2026-11-19T07:47:43+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：[Image 1: walsh_freedom's profile picture]
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 1: walsh_freedom's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/474383283_9396000687086909_4928040314804918050_n.jpg?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -58,11 +58,36 @@ generated_at: "2026-11-18T07:53:23+00:00"
 
 reply_summary_status: `partial`
 
-- [![Image 4: v.nessa_bee's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/504511346_17893140144251648_5008150318074748781_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord
-- [![Image 2: nipa816682's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/863060629_18014309144765459_6987738851857559433_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord
-- [![Image 3: reprokhanna's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/358337906_124268847347424_1704213749668922325_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-
-- [![Image 7: dzcakes22's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/758409447_17979194733113280_6880653101268759708_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5
 - Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Markdown Content:
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://ww
+- [![Image 2: theybf_daily's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358352443_801812318161077_6972291150229447860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-sea5-
+- ![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/910169928_18487580239114608_7985714182828684693_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzQyOTU0MTI0Njc2NDY1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg
+- ![Image 4](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/914585072_18487580218114608_6492324172408245431_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzQyOTU0MTM5NzczNTA1MA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg
+- ![Image 5](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/914384753_18487580224114608_2610798512043788931_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAzMzQyOTU0MTU0MDM4NTE4NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -75,17 +100,59 @@ Markdown Content:
 
 New thread
 
-[Search](https://w
+[Search](https://www.threads.com/search)
 
-## 抓取品質
+Messages
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+Activity
 
-## 原始抓取內容
+Profile
 
-```text
-[![Image 1: walsh_freedom's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/474383283_9396000687086909_4928040314804918050_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTkuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gFMTFoR-pQKnOAi737fVOhKTnnhmUUnr_a9AsxTe_e45zrNIk9Fsb87_GFEWt1hi9_V4kPzD8LEQVWKtxqjW3p0&_nc_ohc=YPmIfnQYk8UQ7kNvwHo0PHt&_nc_gid=q96gy33agFivG37hsBJMxA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTC3dyawFdXalLwuzsZfLHTc7seSMhzB5paVACWTpexwQ&oe=6B03453D&_nc_sid=68810c)](https://www.threads.com/@walsh_freedom)
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/)
+
+[](https://www.threads.com/search)
+
+# [Home](https://www.threads.com/?error=invalid_post)
+
+[![Image 1: bird_low22's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/623859896_17940251805112245_1385152153098874203_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gEmkfK0nSmsrGQ50Cxzbnm_zTQ6RkeyrmaZbzL6kb0wll4kTVOy1w5CxOE2-3StpgUbQavL5foHW5eV3GFUrhqb&_nc_ohc=lwcw9GAbLp4Q7kNvwHQ7iju&_nc_gid=puLdfDtSpg1f-OSgsIq_YA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSgCjYiQowZDFDtHiwF0_7ehykApvJRa4Op7YMzRrCNrA&oe=6B04648C&_nc_sid=68810c)](https://www.threads.com/@bird_low22)
+
+[bird_low22](https://www.threads.com/@bird_low22)
+
+[12h](https://www.threads.com/@bird_low22/post/Df5NMaXExUa)
+
+Hey 
+
+[@markwayne_mullin](https://www.threads.com/@markwayne_mullin)
+
+ - we want to see the receipts proving that you paid back the government for your trip to the LSU football game. Until you prove otherwise we assume you are lying. These are OUR tax dollars!
+
+2.1K
+
+30
+
+191
+
+2
+
+[![Image 2: elthediva's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/627052937_17910813606318871_3998216133249993992_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEmkfK0nSmsrGQ50Cxzbnm_zTQ6RkeyrmaZbzL6kb0wll4kTVOy1w5CxOE2-3StpgUbQavL5foHW5eV3GFUrhqb&_nc_ohc=ZjYL6DLpJTQQ7kNvwHWzkNl&_nc_gid=puLdfDtSpg1f-OSgsIq_YA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTqs5ReBfhnT6GXcC4NVF59EG0ukh4QVmN54R9qeyaYaA&oe=6B04839F&_nc_sid=68810c)](https://www.threads.com/@elthediva)
+
+[elthediva](https://www.threads.com/@elthediva)
+
+[7h](https://www.threads.com/@elthediva/post/Df5y4LjETKQ)
+
+I just got my bill from my colonoscopy which I thought was free. My bill is over $5000. I’m in shock.
+
+40
+
+59
+
+[![Image 3: meidastouch's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358355031_1519142135497486_6605009527406147878_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gEmkfK0nSmsrGQ50Cxzbnm_zTQ6RkeyrmaZbzL6kb0wll4kTVOy1w5CxOE2-3StpgUbQavL5foHW5eV3GFUrhqb&_nc_ohc=49-j-N2dBVIQ7kNvwFJHbo0&_nc_gid=puLdfDtSpg1f-OSgsIq_YA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQRZP6ErlQce54BuFo1bjgk35HR3ecCSsBwdcZUaMOyTOQ&oe=6B0487BD&_nc_sid=68810c)](https://www.thr
 ```
