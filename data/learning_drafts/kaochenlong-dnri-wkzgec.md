@@ -10,8 +10,8 @@ tools:
   - "Claude Code"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0082
-generated_at: "2026-11-19T07:47:43+00:00"
+zh_ratio: 0.009
+generated_at: "2026-11-20T07:40:17+00:00"
 ---
 
 # kaochenlong 的 AI 工作流案例：Title: 高見龍.agent (@kaochenlong) on Threads
@@ -66,24 +66,19 @@ URL Source: http://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 Final URL: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-Ne
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2
 - Title: 高見龍.agent (@kaochenlong) on Threads
 
 URL Source: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 Markdown Content:
-[![Image 1: kaochenlong's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
-- [![Image 20: ionicgrey's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/359799324_1584530805408532_243743053947508048_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=GBwachUUw8pTH6EFAFCVAiME82EDbkULAAA
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_680233
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工具、CLI
-- zh_ratio: `0.0082`
+- keyword_hits: AI、Claude、Agent、agent、工具
+- zh_ratio: `0.009`
 - source_url: https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC
 
 ## 原始抓取內容
@@ -124,11 +119,11 @@ More
 
 12.3K views
 
-[![Image 1: A Threads user's profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GKzIgBs-yOvcxrwDALcQEb0MxGZebkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=sm1x77PY9KMQ7kNvwGK4SX0&_nc_oc=AdrWdLO8zyK9BBiKZWha3Q1oXiF8gP6h1HV0rUVh5F__uaEf82Aq5AZBr_D0vuZ8jg8&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS_lBSr5zpklkjtgfIfKFahmrGnpAuaCbNdNT4YPCiZEg&oe=6B04604B)](https://www.threads.com/@kaochenlong)
+[![Image 1: kaochenlong's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/461424812_1051987226118207_6802339846180376759_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GKzIgBs-yOvcxrwDALcQEb0MxGZebkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44NTcuQzMifQ%3D%3D&_nc_ohc=sm1x77PY9KMQ7kNvwGWCAKs&_nc_oc=AdqSGP1Q5GrbxVluj5XIDXNj8okqpqkp9uIse6pdYtfFOnGUERJrl7u5HbwcG62qtbw&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRDnO79i2EnaqZbJHWqWrxzbP4T_pId9BepBXxI2N3IGA&oe=6B05B1CB)](https://www.threads.com/@kaochenlong)
 
 [kaochenlong](https://www.threads.com/@kaochenlong)
 
-[ai coding](https://www.threads.com/search?q=ai%20coding&serp_type=tags&tag_id=18459619093014492)
+[AI Coding](https://www.threads.com/search?q=AI%20Coding&serp_type=tags&tag_id=18459619093014492)
 
 [08/12/25](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC)
 
@@ -136,7 +131,7 @@ CC 有「叫 Opus 想，然後叫 Sonnet 做」的模式了，Good！就是台�
 
 Translate
 
-[![Image 2](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=d9hPwPAejNwQ7kNvwGE7tFp&_nc_oc=AdpTWfYy1qlcSH7fPkTwerXeERG5wti42MCzFdqOLUg2uD90JDgznJgfyCA-GUninOY&_nc_zt=23&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=_hysNwjvkCIpZ_vioMhW8g&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSCu0kXAJPV32bmxfUewt8J72g-Wd5bkLbVVPwpE1nWNA&oe=6B048F20)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
+[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/532421995_17919684408111262_3890387825913535583_n.jpg?stp=cp6_dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzY5Nzg5MDU4NzA0MDQxNzY2Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMjg3Ni5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=d9hPwPAejNwQ7kNvwEIXJeE&_nc_oc=Adqrcmu2_LmXns1AN3BqehH9V5iK8eTb2D5JN39IzbDo58tncUYvzzDTXdH5UQaLrbA&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Mn6PEe1-tkKcCNMcA0w2Hw&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQTmBI6suLp5pE_btC-8UtVEszmjwtrqarnpL6x_xStaAA&oe=6B05E0A0)](https://www.threads.com/@kaochenlong/post/DNRi-WKzgeC/media)
 
 218
 
@@ -146,9 +141,11 @@ Translate
 
 16
 
-[![Image 3: elser.offical's profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/688569152_17966745918099416_3682975672989257694_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GEC7CinYzzcEqdQ-AN4P7oDcjhwzbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ElJqESRlVCwQ7kNvwHKHsjV&_nc_oc=Adrkqs5sod0ciFfvp4yVEKcFd816joBY5HmOQAh54ruYjCLqvYUBnz_S2n6iwMFo-Tk&_nc_zt=24&_nc_ht=scontent-sea5-2.cdninstagram.com&_nc_gid=NOri2yJ0zZXT1IP3kTJDsg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQReFhDTHttZ3jgob_zSkjPnzPLF_POKF0-LrJWe-2UzrA&oe=6B048A4D)](https://www.threads.com/@elser.offical)
+[![Image 3: frencyliu's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.89012-19/573323465_1219825463302212_7278921664109726296_n.png?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ig_cache_key=YW5vbnltb3VzX3Byb2ZpbGVfcGlj.3-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=z4hIGg0C-qgQ7kNvwFXUvQN&_nc_oc=AdoutE-DumR2f48dGpP7J5c_pQ7S2OsM54RjOU3qFs_RgTi9XWSYaqXLSXmA4MWSs2c&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=Tkg_uWVJ2V-yn5ePW-W8dg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTy06S1oj3aVIBTff1GCu-w1YUl-GdcyT6oakFB6VaKUQ&oe=6B05CE59)](https://www.threads.com/@frencyliu)
 
-[elser.offical](https://www.threads.com/@elser.offical)
+[frencyliu](https://www.threads.com/@frencyliu)
 
-[08/13/25](https://www.threads.com/@
+[08/13/25](https://www.threads.com/@frencyliu/post/DNRtpRfhLjO)
+
+酷 話說……pro $20 為什麼不能選模型……永遠 sonn
 ```
