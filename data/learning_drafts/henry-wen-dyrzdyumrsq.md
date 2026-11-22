@@ -11,8 +11,8 @@ tools:
   - "Canva"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.077
-generated_at: "2026-11-20T07:40:17+00:00"
+zh_ratio: 0.0858
+generated_at: "2026-11-22T07:18:31+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -36,8 +36,8 @@ Manus、Notion、Canva
 1. Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 2. Manus AI的知識變現分析，這不就是我現在在做的事嗎
 3. Creatify – 貼上產品連結，60秒內直出AI數字人廣告影片 Canva AI – 一句話生帶貨圖卡、限動賣場連結 Jasper – 用你的口吻寫業配文、訂閱者專屬內容 Patreon – 付費訂閱平台，AI幫你分析哪類內容最吸會員 Calendly – 約廠商談合作不用來回信件 Gamma – 變現成效報告一句話生12頁 Notion AI – 多種變現管道的收入、內容、排程一站管理 Fomofly – 產品開箱、業配訪談錄影丟進去，自動剪成多支帶貨短影音
-4. 這組圖整理了AI短影音最常見的4個卡點，以及發布前一定要想清楚的3件事。
-5. 下一篇，就從最多人卡住的地方繼續拆解。
+4. 我的做法是三步，AI 擺最後： ① 先研究受眾，這篇到底寫給誰，他卡在哪。
+5. ③ 最後才叫 AI，把前面想好的受眾、痛點、觀點，整理成七張輪播。
 
 ## 可以直接複製的做法
 
@@ -68,6 +68,33 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
+[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
+- Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
+
+URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Markdown Content:
+[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.c
+- Markdown Content:
+[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA
+
+## 抓取品質
+
+- content_quality: `strong`
+- keyword_hits: AI、工作流、自動化、流程、工具、整理、生成、Notion
+- zh_ratio: `0.0858`
+- source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+## 原始抓取內容
+
+```text
+Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
+
+URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+
+Markdown Content:
 [](https://www.threads.com/)
 
 [Home](https://www.threads.com/)
@@ -78,41 +105,27 @@ New thread
 
 Messages
 
-A
-- Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
+Activity
 
-URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+Profile
 
-Markdown Content:
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
-- [![Image 21: xoxodee0019's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/525610882_17918988900122840_7807130323064056021_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GIIvVB-YQCC4Oak-ANXoaTWqf1hsbm
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `strong`
-- keyword_hits: AI、工作流、自動化、流程、工具、整理、生成、Notion、CLI
-- zh_ratio: `0.077`
-- source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
+More
 
-## 原始抓取內容
-
-```text
-Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
-
-URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-# [Thread 801 views](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
+# [Thread](https://www.threads.com/@henry.wen/post/DYrzDyumRsq)
 
-[![Image 1: henry.wen's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=QQUVdCjVRhEQ7kNvwFRFaxd&_nc_oc=AdpqF7oc-Fb46haRClFLh2UmP5gOQk5wZUNF6RFrsLKqExxDFI46nJ9DBUhnkkzctqk&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Vt0iau7GZgDnaIl0tQiVyw&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQW7v5RXYR5D9V2ufGC7PZ-8wV631X3_-nQ4RjUgQKYJg&oe=6B05BB85)](https://www.threads.com/@henry.wen)
+802 views
+
+[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=bHE2CO2V4VkQ7kNvwHe9AV_&_nc_oc=AdqVN27Wf2OVI4_2rE0pNn_VoWpoQHzFLDb3Z_Ie-g0JvFGhbWWAS062fZLq9p-AfAM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=OP9HhV2zLyuUvoZUXqt8_Q&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQjnpjtXwU8hO_rtTB22Ms6L-yBCVmhJSHhDd9ZWoHWNQ&oe=6B085E85)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -126,7 +139,11 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=kLfqR5FyvtUQ7kNvwF-Ydiz&_nc_oc=Adq4QvdQTL7QnQrlfukcBTfYrBZD61RLDJ9-_Eu8GyzRF2ryylf7OOXfO1jqZo3rXkw&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=2SWffiYv7QbN8rJGNBUTlQ&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQRn2fnra57Aa-DXQHPZL7XbCsM9-82rVzq-Yv6aenKotA&oe=6B05C53D)
+![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=BmSk_jN6at8Q7kNvwGjji-N&_nc_oc=Adr-n1crJQEtlQlNd1MMO5pTdkSJG7JkWMkcluYRcMXV-TNc8ABQrDeQJbY6KP3fiP8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Rs8T9714cyKVmHLuz2ZZkA&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQQ7R6M7PpCA3nn3NjJDGtQgzhM7BHpfR2o7AdsDp9-SoA&oe=6B08683D)
+
+Sorry, we're having trouble playing this video.
+
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBoL8GRV2to1mBFfoAoz2X6KW7yHboMY3cmCiLdyloHz-lNBHxheZXr1Wk9wrEXBMLORutBS1BZxisauwVARku3MkbDZbyC_HQumfg9KNnFU9oPRNU)
 
 henry.wen
 
@@ -136,15 +153,5 @@ henry.wen
 
 9
 
-[![Image 3: nosugar_greentea's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=nNqtm7QpL5wQ7kNvwGgwDJ9&_nc_oc=Adp8ey0JqpT62HYsgrQmiqX7CTA0_OYIyTWiC3hHX83oR_V0IBjKPEIXpL2GbQYy2lE&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Vt0iau7GZgDnaIl0tQiVyw&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTuMnMTc5g8K4bKfy0KyW1L5wrxzXWVyWC3ay4QT6XIzw&oe=6B05BB4B)](https://www.threads.com/@nosugar_greentea)
-
-[nosugar_greentea](https://www.threads.com/@nosugar_greentea)
-
-[05/24/26](https://www.threads.com/@nosugar_greentea/post/DYuiLKlmNwL)
-
-Manus AI的知識變現分析，這不就是我現在在做的事嗎
-
-Translate
-
-Related thread
+[![Image 3: nosugar_greentea’s profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=cA8gi_c53vwQ7kNvwEQDz3B&_nc_oc=AdqHg3X_pydtHo_aSdupzsQJYnDBRJsRJ18dFgFsHJVdgwRG5
 ```

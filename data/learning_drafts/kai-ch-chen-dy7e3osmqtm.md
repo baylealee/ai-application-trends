@@ -11,8 +11,8 @@ tools:
   - "MCP"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.059
-generated_at: "2026-11-20T07:40:17+00:00"
+zh_ratio: 0.0192
+generated_at: "2026-11-22T07:18:31+00:00"
 ---
 
 # kai_ch_chen 的 AI 工作流案例：今天opus 4.8推出新功能 Claude Code Workflow 但你的跟我
@@ -35,9 +35,6 @@ Claude、Claude Code、MCP
 
 1. 乍看大家都有超棒團隊可以用，但實際上⋯ 它是已存的 subagent / skill 上編排；所以當你的基本功夫越好，workflow的效果也越好￼
 2. 底層機制（Anthropic 官方）： • Workflow = Claude 即時寫的 JS 腳本 • 同一句「audit API」,根據你的 codebase 寫出不同編排 • subagent 一律 acceptEdits + 繼承 allowlist • 同時 16 隻 / 單次 1000 隻上限
-3. [Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-ord5-2.xx.fbcdn.net/emg1/v/t13/11422783865225561921?
-4. 目前使用 Claude Dynamic Workflow的一些實務心得，整理如下：
-5. 以目前的使用經驗來看，對於複雜度不高的單一 Feature，使用 Dynamic Workflow 往往需要較長的執行時間，但最終效果與一般 SDD → Implementation Plan → Implementation 的流程差異不大，反而可能增加 Token 與運算資源的消耗。
 
 ## 可以直接複製的做法
 
@@ -65,22 +62,30 @@ reply_summary_status: `partial`
 
 - Title: Kai Chen (@kai_ch_chen) on Threads
 
-URL Source: http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
-
-Final URL: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
+URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 Markdown Content:
 [](https://www.threads.com/)
 
 [Home](https://www.threads.com/)
 
-New
+New thread
+
+[Search](https://www.threads.com/search)
+
+Messages
+
+Acti
+- [![Image 9: Orchestrate subagents at scale with dynamic workflows - Claude Code Docs](https://external-sea5-2.xx.fbcdn.net/emg1/v/t13/11422783865225561921?url=https%3A%2F%2Fclaude-code.mintlify.app%2F_mintlify%2Fapi%2Fog%2Fv2%3Fdivision%3DAgents%2Band%2Bparall
+- [![Image 16: 深藍紫漸層設計卡，標題「Claude 也有不順的日子」。05.04 對話泡泡：今天不順，Claude 感覺變笨了、瘋狂跳針。05.16 狀態訊息：Elevated error rates on requests to multiple models，claude.ai／API／Claude Code 全部 Partial Outage；回覆：做到一半陣亡了 Oh No。結語「它卡住的那天，我才發現自己有多依賴它」。](https://scontent-sea5-2.cdninstagram
+- 用 Claude Cowork 的彈性去幫 Claude Code 驗證 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 前幾天提到 Claude skill 的彈性，那 Cowork 是一樣的，因為在 Claude Cowork 可以直接對話操作串接好的 MCP，例如直接在 Cowork 裡面執行 Apify 的爬蟲服務等等 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 但是 Claude Cowork 也不是萬能，例如我想整合兩套系統，我下一步想要把不同的社群追蹤起來變成自己的輿情系統，結合我的爬蟲系統得到的數據綜合判斷，此時我就得靠 Claude C
+- 兩週後更直接：做到一半整個斷掉。打開 Status 頁，一整條橘色的「多個模型錯誤率升高」，[claude.ai](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2F&e=AUCcVGSuPckAhGUOHVWEx4dPSJVXVddXR6sYly6IiK3PqnbNKqTw95ZmNALL-8ZfkpX999ofUGSEKky6dKHqzpiKjWHdJeXRlqA7vuAx0HFXNAKsgHo)、API、Claude Code 全部掛著 Partial Out
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Claude、MCP、Agent、agent、工作流、自動化、流程、工具、整理、設計、workflow
-- zh_ratio: `0.059`
+- keyword_hits: AI、Claude、MCP、Agent、agent、workflow
+- zh_ratio: `0.0192`
 - source_url: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 ## 原始抓取內容
@@ -88,7 +93,9 @@ New
 ```text
 Title: Kai Chen (@kai_ch_chen) on Threads
 
-URL Source: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
+URL Source: http://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
+
+Final URL: https://www.threads.com/@kai_ch_chen/post/DY7E3oSmqtm
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -121,7 +128,7 @@ More
 
 1.9K views
 
-[![Image 1: kai_ch_chen's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHdWNjLpqHPGpek-AIPsQHJzvkg5bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=lei7o1BQEJYQ7kNvwGW7nGd&_nc_oc=AdpGi7Ww5U0Q9rSDwB6-aklQmrMPbKJeDM93_AH3ZM55YRaiFGxSdOSwSNcFuXDu5Zg&_nc_zt=24&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=2CEvgnDLMSJTdtMQwJuzZQ&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQSXzB0g-qCUH2-a4TB70Ilmci4HQ7URPG_5zgRh05Ku2A&oe=6B05C536)](https://www.threads.com/@kai_ch_chen)
+[![Image 2: kai_ch_chen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/842421879_17989821741115625_4127758461532433539_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHdWNjLpqHPGpek-AIPsQHJzvkg5bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=lei7o1BQEJYQ7kNvwHW_rik&_nc_oc=Adpj1JyzzGgwNlaCQl3Jl3rZ9zAm_dYwVKvbUQpZyR6VEu_ZUICrK6r63zx8TAnGbJY&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=khVmP6Dw6HLzRDQXkYtIyg&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQKoZb2QStU_LsM46oeiJZfA-BOasgYU8N5KvdUM5-fQA&oe=6B086836)](https://www.threads.com/@kai_ch_chen)
 
 [kai_ch_chen](https://www.threads.com/@kai_ch_chen)
 
@@ -139,7 +146,7 @@ More
 
 Translate
 
-![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YYde3NMw9xEQ7kNvwEhmDOA&_nc_oc=AdqvOjLixwvQt_c60W_RsNMzHPOL7Fsgh6xqr1lCRRMBEzkcJEkZES2lGNummq9Kwc0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=SYE6KfWu-z-rpMAN0d92XA&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQ4EpXGbb01dQzHcxtuhMFo9aKyoChGfaHyPKqbZ4_S5Q&oe=6B05C95C)
+![Image 3](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/708436994_17967927015115625_4354799560386143001_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNzczNzUwOTI3MDkwNTUzOA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=YYde3NMw9xEQ7kNvwHwAlnX&_nc_oc=AdqLsDXcbz455Y4ENsv5CtAF5S8nF84-7zU-z6ZIwckdbcbtFqdoSjs_-Km6nd_qXsA&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=khVmP6Dw6HLzRDQXkYtIyg&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQST6q11TMcPFZDEJU0afm0vaaG4NmxeFliCA3rol_yHew&oe=6B086C5C)
 
-![Image 3](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=F61PcK7MDMQQ7kNvwF11w0M&_nc_oc=AdrVS71WoYBzqkOS8kFKi5wxOzqDRPWMMEvHo2NTD4hCcKWOPLmOlw4pPI6T7c450EI&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=SYE6KfWu-z-rpMAN0d92XA&_nc_ss=7b289&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQSdC
+![Image 4](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/710423704_17967927042115625_806239602093737943_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNzczNzUwOTkyNTYwOTk1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Mc6F_n61N-UQ7kNvwHl2LMM&_nc_oc=AdrKHtn1omYyO34e-8ZoZzIdUZuSEoJCjj8DlWw73JWIxKsvUp0xYqDf5Hy5gK71Lm0&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=khVmP6Dw
 ```

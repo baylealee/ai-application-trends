@@ -1,24 +1,24 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[Image 4](https://scontent-ord5-1.cdninsta"
+title: "techtip_s 的 AI 工作流案例：[Image 8: ellebackenstoewrites’s profile p"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
 language: "unknown"
-category: "ai_workflow"
+category: "coding"
 tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-20T07:40:17+00:00"
+generated_at: "2026-11-22T07:18:31+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[Image 4](https://scontent-ord5-1.cdninsta
+# techtip_s 的 AI 工作流案例：[Image 8: ellebackenstoewrites’s profile p
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 4](https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/916811024_10241052786610935_4744263152961245499_n.jpg?
+[Image 8: ellebackenstoewrites’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/362689255_1016993383075453_1239296307859916233_n.jpg?
 
 ## 這篇在解決什麼問題
 
@@ -72,7 +72,6 @@ Markdown Content:
 New thread
 
 [Search](https://www
-- If you are anywhere in the south and central Florida area, stay off the roads. My son was on 528 Beachline, at the St Johns River bridge, yesterday afternoon on his way back from Brevard County, for work. While driving over that bridge, he hit a slick spot and
 - Title: Threads • Log in
 
 URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
@@ -82,8 +81,9 @@ Final URL: https://www.threads.com/?error=invalid_post
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Cont
-- Today I opened up a package of some new jeans I ordered online. Inside one of the pockets I was surprised to find a second pair of jeans. These ones were super teenie tiny though. Not sure if the person who created the pants was just being adorable..or if this
-- [![Image 2](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/914587814_17993037834119659_7975619340022600172_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ig_cache_key=NDAzNDE5NjUzNzM2MjQzNDc4Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&ef
+- [![Image 4: I-285 bridge separates causing closures, traffic delays in Smyrna: police](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/915849062_17997834522117563_1419842561381863899_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ig_ca
+- [![Image 6: stevesmithsr89’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/793000361_18113019140110524_7399491018819879741_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent
+- [![Image 1: mrsstorysteller’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/902954546_17974017759195197_57024413733330559_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4zMjAuYzIifQ&_nc_ht=scontent-s
 
 ## 抓取品質
 
@@ -95,5 +95,5 @@ Markdown Cont
 ## 原始抓取內容
 
 ```text
-[![Image 4](https://scontent-ord5-1.cdninstagram.com/v/t39.30808-6/916811024_10241052786610935_4744263152961245499_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ig_cache_key=NDAzNDE2Mjc2Mjc1NTE0ODQ3Ng%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTYwMi5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=o62FVYz51BoQ7kNvwHHtNH5&_nc_oc=Adr35brASVhIPAdC8T3pjfO_rLYvwc03oDy2ayG3mD8l5mZDz3AdlBk6pxBcJHweNHNC4ZdOyKOpAqNBRiYBewYF&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=R3NhzuWwZ-P-KkAuBtWNeg&_nc_ss=7a20f&_nc_ct=RQosPBUIFQIlAgAAAA&oh=00_AQRZiIROoVk8Srd91_28XYNfAyYxF-5V9XuQeOImVIhb3Q&oe=6B05DC73&se=-1)](https://www.threads.com/@_.emily.sweeney._/post/Df8OaioIQq8/media)
+[![Image 8: ellebackenstoewrites’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/362689255_1016993383075453_1239296307859916233_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby41OTYuYzIifQ&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gGAp_cBGRdzaf7Hr0C66P7gUk9GDfGuioX-Gu-UZZGWsyQOj76wHHTK-iJVK1-EXN_4hs00OzZ0dPl9sMtTbDAk&_nc_ohc=m3KjR_31WrAQ7kNvwFaIjxb&_nc_gid=Eh58WgHa2_rYCjIeR63N7g&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQTsT8UlYOY4l9VON4qNwIjt_L_Sv_nt3ZmHB9DC7y9KNQ&oe=6B08788F&_nc_sid=68810c)](https://www.threads.com/@ellebackenstoewrites)
 ```
