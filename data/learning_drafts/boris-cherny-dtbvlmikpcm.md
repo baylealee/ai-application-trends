@@ -11,11 +11,12 @@ tools:
   - "MCP"
   - "Make"
   - "Slack"
+  - "GAS"
   - "GitHub"
 status: "draft"
 content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-22T07:18:31+00:00"
+generated_at: "2026-11-24T10:17:02+00:00"
 ---
 
 # boris_cherny 的 AI 工作流案例：I'm Boris and I created Claude Code. Lots 
@@ -32,12 +33,12 @@ I'm Boris and I created Claude Code. Lots of people have asked how I use Claude 
 
 ## 使用工具
 
-Claude、Claude Code、MCP、Make、Slack、GitHub
+Claude、Claude Code、MCP、Make、Slack、GAS、GitHub
 
 ## 原始工作流拆解
 
 1. 7/ I use slash commands for every inner loop workflow that I do many times a day. This saves me from repeated prompting, and makes it so Claude can use these workflows, too. Commands are checked into git and live in .claude/commands/.
-2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUALWh8f5JFVx20K3E2X8V3o85mkGh7oac9KWUkTz4CY9iTLrqd8UWT5sFx-iHaZXSQDiHmTNEeXIHafidrU0in0F7YUmoH-HD1cQpRJao2ca8Q6AFA)
+2. u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fsub-agents&e=AUDmAyIlaFPUHfJCQaM-m-cJenCBfAmxE56jhRl_dRkM4VaOVSAegNVfcpm720aS04Y15GO3pIs_ZALBc1zHiyaIHiven0vdX3lBZiRAoKXA7_EbL_A)
 
 ## 可以直接複製的做法
 
@@ -68,23 +69,7 @@ reply_summary_status: `partial`
 URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-- Title: Boris Cherny (@boris_cherny) on Threads
-
-URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Markdown Content:
-[![Image 1: boris_cherny’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
-- [![Image 26: Claude Code](https://external-sea5-2.xx.fbcdn.net/emg1/v/t13/9428646713738360580?url=https%3A%2F%2Fclaude.ai%2Fimages%2Fcode%2FWeb-v2.png&utld=claude.ai&_nc_sid=1d65fc&_nc_ht=external-sea5-2.xx.fbcdn.net&stp=fr&ccb=18-1&_nc_gid=y1Tesq8mgdkNfK3cQwk
-- 2/ I also run 5-10 Claudes on [claude.ai/code](https://l.threads.com/?u=http%3A%2F%2Fclaude.ai%2Fcode&e=AUCk7REXUQvjmEsJ83Djib9ZMKftRZTZYi1HjvogKfKv_LewKOc0jKQaCFlhnR5ep99JTBfXNEm1XlOwXSXsWOO3tfhqX_sL11n5BzDbZoEFXTN1GqI), in parallel with my local Claudes. As 
+[![Image 1: boris_cherny’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_
 
 ## 抓取品質
 
@@ -98,9 +83,7 @@ Markdown Content:
 ```text
 Title: Boris Cherny (@boris_cherny) on Threads
 
-URL Source: http://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
-
-Final URL: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
+URL Source: https://www.threads.com/@boris_cherny/post/DTBVlMIkpcm
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -133,7 +116,7 @@ More
 
 488K views
 
-[![Image 1: A Threads user’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=PGNKcHOfvtMQ7kNvwGR4dYy&_nc_oc=Adoh9ARKO_AtguWj2GbyopskXAUdLwVPfn_UXWs38hgu6CPc7qWiYIkX1qF5iyS80zc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS2zvHKEyaDdxcuXVxk7SOwe027NDdVHzNP0XvAUgKWfQ&oe=6B086CE2)](https://www.threads.com/@boris_cherny)
+[![Image 1: A Threads user’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=PGNKcHOfvtMQ7kNvwFlEYN5&_nc_oc=AdrTeKynj0gA7J_HZUuUvR5H3jK0UBwQBQu4A9QtYw4TPv7CZjXJFSYtodGWI8bZMOM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS0p91fJQd5iAhJQFlBAHzhFQSudH5e_Pypqsq-5gwTxw&oe=6B0B4822)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -153,7 +136,7 @@ So, here goes.
 
 3K
 
-[![Image 2: A Threads user’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=PGNKcHOfvtMQ7kNvwGR4dYy&_nc_oc=Adoh9ARKO_AtguWj2GbyopskXAUdLwVPfn_UXWs38hgu6CPc7qWiYIkX1qF5iyS80zc&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS2zvHKEyaDdxcuXVxk7SOwe027NDdVHzNP0XvAUgKWfQ&oe=6B086CE2)](https://www.threads.com/@boris_cherny)
+[![Image 2: A Threads user’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/426210628_1187457038892941_684016530427691984_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=GER1ZxmNP-1i-DcEANBDowxpHX4JbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy43NjguQzMifQ%3D%3D&_nc_ohc=PGNKcHOfvtMQ7kNvwFlEYN5&_nc_oc=AdrTeKynj0gA7J_HZUuUvR5H3jK0UBwQBQu4A9QtYw4TPv7CZjXJFSYtodGWI8bZMOM&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQS0p91fJQd5iAhJQFlBAHzhFQSudH5e_Pypqsq-5gwTxw&oe=6B0B4822)](https://www.threads.com/@boris_cherny)
 
 [boris_cherny](https://www.threads.com/@boris_cherny)
 
@@ -161,5 +144,5 @@ So, here goes.
 
 ·Author
 
-1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUALWh8f5JFVx20K3E2X8V3o85mkGh7oa
+1/ I run 5 Claudes in parallel in my terminal. I number my tabs 1-5, and use system notifications to know when a Claude needs input [code.claude.com/docs…](https://l.threads.com/?u=https%3A%2F%2Fcode.claude.com%2Fdocs%2Fen%2Fterminal-config%23iterm-2-system-notifications&e=AUDmAyIlaFPUHfJCQaM-m-cJenCBfAmxE56jhRl_dRkM4VaOVSAegNVfcpm720aS04Y15GO3pIs_ZALBc1zHiyaIHiven0vdX3l
 ```

@@ -7,12 +7,10 @@ language: "unknown"
 category: "coding"
 tools:
   - "Manus"
-  - "Notion"
-  - "Canva"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0858
-generated_at: "2026-11-22T07:18:31+00:00"
+zh_ratio: 0.0747
+generated_at: "2026-11-24T10:17:02+00:00"
 ---
 
 # henry.wen 的 AI 工作流案例：Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競
@@ -29,15 +27,15 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 ## 使用工具
 
-Manus、Notion、Canva
+Manus
 
 ## 原始工作流拆解
 
 1. Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫助很大 1. 競爭對手分析，精準規劃漲粉攻略 2. 產出內容策略，一定搞定每月主題 3. 知識變現分析，盤點粉絲需求，給予變現建議
 2. Manus AI的知識變現分析，這不就是我現在在做的事嗎
-3. Creatify – 貼上產品連結，60秒內直出AI數字人廣告影片 Canva AI – 一句話生帶貨圖卡、限動賣場連結 Jasper – 用你的口吻寫業配文、訂閱者專屬內容 Patreon – 付費訂閱平台，AI幫你分析哪類內容最吸會員 Calendly – 約廠商談合作不用來回信件 Gamma – 變現成效報告一句話生12頁 Notion AI – 多種變現管道的收入、內容、排程一站管理 Fomofly – 產品開箱、業配訪談錄影丟進去，自動剪成多支帶貨短影音
-4. 我的做法是三步，AI 擺最後： ① 先研究受眾，這篇到底寫給誰，他卡在哪。
-5. ③ 最後才叫 AI，把前面想好的受眾、痛點、觀點，整理成七張輪播。
+3. 我的做法是三步，AI 擺最後： ① 先研究受眾，這篇到底寫給誰，他卡在哪。
+4. ③ 最後才叫 AI，把前面想好的受眾、痛點、觀點，整理成七張輪播。
+5. 完整流程跟我實際在用的指令，我放在社群裡。
 
 ## 可以直接複製的做法
 
@@ -65,26 +63,22 @@ reply_summary_status: `partial`
 
 - Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
 
-URL Source: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
-
-Markdown Content:
-[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165
-- Title: 亨利溫｜AI應用 x 斜槓創業 (@henry.wen) on Threads
-
 URL Source: http://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Final URL: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 Markdown Content:
-[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.c
-- Markdown Content:
-[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA
+[](https://www.threads.com/)
+
+[Home](https://www.threads.com/)
+
+Ne
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、工作流、自動化、流程、工具、整理、生成、Notion
-- zh_ratio: `0.0858`
+- keyword_hits: AI、工作流、自動化、流程、工具、整理、生成
+- zh_ratio: `0.0747`
 - source_url: https://www.threads.com/@henry.wen/post/DYrzDyumRsq
 
 ## 原始抓取內容
@@ -125,7 +119,7 @@ More
 
 802 views
 
-[![Image 1: henry.wen’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=bHE2CO2V4VkQ7kNvwHe9AV_&_nc_oc=AdqVN27Wf2OVI4_2rE0pNn_VoWpoQHzFLDb3Z_Ie-g0JvFGhbWWAS062fZLq9p-AfAM&_nc_zt=24&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=OP9HhV2zLyuUvoZUXqt8_Q&_nc_ss=7b289&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQjnpjtXwU8hO_rtTB22Ms6L-yBCVmhJSHhDd9ZWoHWNQ&oe=6B085E85)](https://www.threads.com/@henry.wen)
+[![Image 1: henry.wen’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/897045626_17996914248109679_3165695357007900665_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GHrUdzVvzs8gGfA-APkvj5Unz_4rbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy44ODYuQzMifQ%3D%3D&_nc_ohc=pyTjMeC07zIQ7kNvwFrQHxZ&_nc_oc=AdqPS1iUONpovgbNRGMHVXdMpdE_LetR0z-jv3UaOn7ogWbm-nvMm6EWKmNq2PNKyR0&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=Rv4nw9Jz07NKCHZRbF6wdA&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQPbUDSx7GJ9-2fom-yBIeEcXdXPuUtXQjDX_4tfmOfYw&oe=6B0B39C5)](https://www.threads.com/@henry.wen)
 
 [henry.wen](https://www.threads.com/@henry.wen)
 
@@ -139,19 +133,7 @@ Manus AI 的分析能力有夠強 我覺得這3大用途對自媒體經營者幫
 
 Translate
 
-![Image 2](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=BmSk_jN6at8Q7kNvwGjji-N&_nc_oc=Adr-n1crJQEtlQlNd1MMO5pTdkSJG7JkWMkcluYRcMXV-TNc8ABQrDeQJbY6KP3fiP8&_nc_zt=23&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_gid=Rs8T9714cyKVmHLuz2ZZkA&_nc_ss=7b289&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQQ7R6M7PpCA3nn3NjJDGtQgzhM7BHpfR2o7AdsDp9-SoA&oe=6B08683D)
+![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/705259302_18587927410029292_198851330198745150_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ig_cache_key=MzkwMzM4MTA0MjUzMjUzNjk0MjE4NTg3OTI3NDA0MDI5Mjky.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNMSVBTLnhwaWRzLjEyMTUuc2RyLnZpZGVvX2RlZmF1bHRfY292ZXJfZnJhbWUuQzMifQ%3D%3D&_nc_ohc=4_WqSzqQ2b8Q7kNvwHEgLZC&_nc_oc=AdpDUK57iSgDv7fKfV_4fm4iBOWWVy-t4-SKJLHdtOoKy-745U0HGVbLxgHjV6f17Vo&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=M8swZKKb6SeI57Z8ykfZ8g&_nc_ss=7b389&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQSa7PjRFKojStmAipJJnQ9zDzaQLWxcAv1AQ1C2iFka5A&oe=6B0B437D)
 
-Sorry, we're having trouble playing this video.
-
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUBoL8GRV2to1mBFfoAoz2X6KW7yHboMY3cmCiLdyloHz-lNBHxheZXr1Wk9wrEXBMLORutBS1BZxisauwVARku3MkbDZbyC_HQumfg9KNnFU9oPRNU)
-
-henry.wen
-
-13
-
-1
-
-9
-
-[![Image 3: nosugar_greentea’s profile picture](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-19/887160497_17941157991397006_4695248567028436286_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GLH_4DSOtu9cY70-AD5N5Pmx3yhBbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=cA8gi_c53vwQ7kNvwEQDz3B&_nc_oc=AdqHg3X_pydtHo_aSdupzsQJYnDBRJsRJ18dFgFsHJVdgwRG5
+[Video 4](https://scontent-ord5-2.cdninstagram.com/o1/v/t2/f2/m86/AQNsjbO1iGPmsgygwhUK6TPg4rzvxekYcKtZsuOkHOowqVsNVGuQm5A2Qm3GiskVBRx5Mw9hlpFkhELpffQaj5viTNoiC2CUEjONU9s.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_ohc=FSpb-rXvAc0Q7kNvwEKzNvL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MzMyMjMzODkyNDU5OTkyMywiYXNzZXRfYWdlX2RheXMiOjE4NCwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjcwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=fba47b055de6ea80&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENTRCMDM2ODVGQkQ3RjAzM0VBNDQwMkRDNkM4MTJBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EyNDAwNzhFQ
 ```

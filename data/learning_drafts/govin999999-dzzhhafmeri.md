@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-20T07:40:17+00:00"
+generated_at: "2026-11-24T10:17:02+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -60,20 +60,6 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
-
-Final URL: https://www.threads.com/?error=invalid_post
-
-Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://ww
-- Title: Threads • Log in
-
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -81,8 +67,15 @@ Final URL: https://www.threads.com/?error=invalid_post
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown C
-- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-- Log in or sign up for Threads See what people are talking about and join the conversation.[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Co
 
 ## 抓取品質
 
@@ -129,41 +122,23 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: stephan_smith_gallery's profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-19/883558832_17989718997108945_3652776689373080012_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40NDYuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gExaxH2_7pJNEhe4kv7Xujj1DeZv__KdY25o_q2Hn_ivheG5iGuwoasRK4BKGu2rc4-xrad2vR_bI3Gux623nZ2&_nc_ohc=vB-724kuS6gQ7kNvwHD4XtT&_nc_gid=Cb6CX5P5VflViWp5SSS9Ng&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSUljr7V_j0CQxjSJk_da8vvfZYag75iogmh8X1GqnN4w&oe=6B05E0D8&_nc_sid=68810c)](https://www.threads.com/@stephan_smith_gallery)
+[![Image 1: vnessa_002’s profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/368533866_303777312205751_2411246980680053460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1Lg4LurDfwKSa7tGiiXACjXHyHp5sNN_EYh9w_X72Kh96gc_cn4V1_bLKr5SWKFzWWSvapdSECHW1Vri1FXrt&_nc_ohc=4vl0TuPhSCUQ7kNvwHXtVDT&_nc_gid=C8nqbcEel3U1l6QwEKq6JQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSYS5kvWIguaCssIsONMam9MzgCMiinGABs3JDbWgWQTw&oe=6B0B3ED1&_nc_sid=68810c)](https://www.threads.com/@vnessa_002)
 
-[stephan_smith_gallery](https://www.threads.com/@stephan_smith_gallery)
+[vnessa_002](https://www.threads.com/@vnessa_002)
 
-[6h](https://www.threads.com/@stephan_smith_gallery/post/Df8ZhFhD9xe)
+[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719350972_18563013931070377_1311846397797993530_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQShPa5kXfFoBAsy9BqGVwVztkukivaRY9PTJ8wuOEUW3w&oe=6B2CE8B4) Music Threads](https://www.threads.com/search?q=musicthreads&serp_type=tags&tag_id=18314965846116669)
 
-The coming scandal with Nvidia is dark and deep. It is going to force the Congress to file articles of impeachment.
+[21h](https://www.threads.com/@vnessa_002/post/DgFZuH_kWAI)
 
-887
+In the 90’s, when In Living Color ended every show with the hottest Artists in Hip Hop. Back When we were a proper country The good Ole Days 🔥￼ Pt 2 Rosie Perez>
 
-58
+![Image 3](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/706859017_18089199473618514_1735227860237565056_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNDUzODA3NjYzOTIyNTU1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=d5MK15A2-NQQ7kNvwGsiR46&_nc_oc=AdqKQRhQyLCNGrRJSp1YZdj2tZKiB-d5ou9ZLP8n-urPA38mwlnTIsru7-dH-EH5fMQuTAIHjALMAAoElPt8S5TM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=C8nqbcEel3U1l6QwEKq6JQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQQr3dywp_0kSSfmCNSAbJc8FCAdMS__q4aKUthDHi8W5A&oe=6B0B520A)
 
-69
+Sorry, we're having trouble playing this video.
 
-8
+[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUC8bNX1QSW_q6yv4o7K7TbHbp4XBRLmCXiLVg_OMa4nKHwgq5vWTd7Zuy45T9hWphF7q1SNLudqHyCOh0jxLD1pczP_xOnuB9-0r8r1q4f1mvQs_9I)
 
-[![Image 2: cg3music's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/629652324_18555567295014142_955459797781061004_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gExaxH2_7pJNEhe4kv7Xujj1DeZv__KdY25o_q2Hn_ivheG5iGuwoasRK4BKGu2rc4-xrad2vR_bI3Gux623nZ2&_nc_ohc=fx4UL07PcIYQ7kNvwFkmLou&_nc_gid=Cb6CX5P5VflViWp5SSS9Ng&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS4XvimQcnO043Eu3-O9_hdpcOlWrxi4EQmxlksCKREzQ&oe=6B05CB33&_nc_sid=68810c)](https://www.threads.com/@cg3music)
+90s.museum
 
-[cg3music](https://www.threads.com/@cg3music)
-
-[10h](https://www.threads.com/@cg3music/post/Df8CAMLHFm7)
-
-Now that GTA is out… can we bring back a new polished updated version of CRAZY TAXI?!
-
-243
-
-48
-
-48
-
-3
-
-[![Image 3: imbabars's profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/825324630_17986491162114832_5502729524562656175_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gExaxH2_7pJNEhe4kv7Xujj1DeZv__KdY25o_q2Hn_ivheG5iGuwoasRK4BKGu2rc4-xrad2vR_bI3Gux623nZ2&_nc_ohc=HB1szFQhlvQQ7kNvwEBzr7r&_nc_gid=Cb6CX5P5VflViWp5SSS9Ng&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQS6-vweHPcv5nVm1IYe_902lftBuNAPddU4Rw6xn8CeuA&oe=6B05DE43&_nc_sid=68810c)](https://www.threads.com/@imbabars)
-
-[imbabars](https://www.threads.com/@imbabars)
-
-[Sunrise on the Reaping](https://www.
+![Image 4](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/706676935_18089199563618514_827695936187526791_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNDUzODE5MDk2NzU5Nzk4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_si
 ```
