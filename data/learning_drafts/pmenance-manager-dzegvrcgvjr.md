@@ -1,28 +1,25 @@
 ---
-title: "pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實"
+title: "pmenance.manager 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
 source_url: "https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR"
 source_author: "pmenance.manager"
 post_id: "DZEgVRcGVJR"
 language: "unknown"
-category: "knowledge_base"
+category: "automation"
 tools:
-  - "Claude"
-  - "Notion"
-  - "Slack"
-  - "GitHub"
+  - "Make"
 status: "draft"
-content_quality: "strong"
-zh_ratio: 0.0326
-generated_at: "2026-11-24T10:17:02+00:00"
+content_quality: "medium"
+zh_ratio: 0.009
+generated_at: "2026-11-25T09:00:25+00:00"
 ---
 
-# pmenance.manager 的 AI 工作流案例：以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實
+# pmenance.manager 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 ## 這篇在解決什麼問題
 
@@ -30,15 +27,13 @@ generated_at: "2026-11-24T10:17:02+00:00"
 
 ## 使用工具
 
-Claude、Notion、Slack、GitHub
+Make
 
 ## 原始工作流拆解
 
-1. 以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
-2. 」 所以我來分享我目前的做法 👇 第一步，先建立 Issue Template 我自己整理了一份範例放在這裡： [github.com/olivi…](https://l.threads.com/?
-3. 接著要建立 Labels，可以請 Agent 依照 README 協助建立，也可以到 Repo 的 /issues/labels 頁面手動新增 不過要注意一件事 ⚠️ Labels 名稱一定要跟模板裡設定的一模一樣，不然表單建立時可能會對不到 完成後回到 Issue 頁面，點選 New Issue 就可以開始開票了 留言續 Translate](https://www.threads.com/@pmenance.manager/post/DZE_DakGRcv)
-4. Project 本身其實就只是把你寫的 Issue 抓過來整理而已，所以本質上還是看寫 Issue 的人怎麼寫需求～
-5. 那需求進入和整理轉譯的媒介是什麼？
+1. 閱讀原文後，先確認它實際解決的工作情境。
+2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
+3. 再判斷是否能轉成自己的工作流範本。
 
 ## 可以直接複製的做法
 
@@ -68,20 +63,17 @@ reply_summary_status: `partial`
 
 URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/s
+Log in o
+- URL Source: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 抓取品質
 
-- content_quality: `strong`
-- keyword_hits: AI、Claude、Agent、agent、工作流、流程、工具、整理、Slack、Notion、GitHub
-- zh_ratio: `0.0326`
+- content_quality: `medium`
+- keyword_hits: Make
+- zh_ratio: `0.009`
 - source_url: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 ## 原始抓取內容
@@ -93,74 +85,10 @@ URL Source: http://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
 Final URL: https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR
 
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
 Markdown Content:
-[](https://www.threads.com/)
+Log in or sign up for Threads See what people are talking about and join the conversation.
 
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Thread](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
-
-28.3K views
-
-[![Image 1: pmenance.manager’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=GBKuMSotNJ-ww0lAACAQ07LKIrE-bmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xNTAuQzMifQ%3D%3D&_nc_ohc=fitlyjMeKGYQ7kNvwGvwbfX&_nc_oc=AdoyN3R_mjvUqWF4beVwAOvlxH5R0vmTD-WNJJJ6n9WVF2v37kz3aQuL_9dRfxEK40Y&_nc_zt=24&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=ycXWKp00G5AW5ZvsAZWdJw&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQTBS5LasXFV25IguPgLewOTywSITO5hgzy38Y3LLHDwIQ&oe=6B0B4C30)](https://www.threads.com/@pmenance.manager)
-
-[pmenance.manager](https://www.threads.com/@pmenance.manager)
-
-[pm日常](https://www.threads.com/search?q=pm%E6%97%A5%E5%B8%B8&serp_type=tags&tag_id=18311946088124543)
-
-[06/02/26](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR)
-
-以前一直覺得 GitHub 就是工程師放 code 的地方，但後來越用越發現，它其實也能拿來做專案管理~
-
-需求進來先開 Issue，再用 Issue Form 把需求背景、範圍、驗收條件填完整，避免看到一句「幫我改一下」，就直接進入渡劫模式 😭
-
-接著用 Project 管理進度，Status、Priority、Sprint、Target Date 都能自己定義!
-
-PM 看時程，工程師看看板，主管看 Roadmap，大家看的都是同一份資料!
-
-最方便的是 PR 跟 Issue 可以綁在一起，工程師只要在 PR 寫上關聯，Merge 後 Issue 就會自動關閉!!
-
-以前我以為專案管理工具一定要另外買，後來才發現，如果團隊本來就在 GitHub 開發，把流程留在 GitHub 裡，反而少了很多資訊散落各處的問題
-
-PM 也不用一直當人肉同步器，至少比每天在 Jira、Notion、Excel、LINE、Email 之間來回橫跳好多了
-
-如果你也好奇怎麼用 GitHub Project 做專案管理，歡迎留言或私訊我，我可以分享一份免費的 GitHub Issue 模板給你!
-
-Translate
-
-[![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/711801860_18096851026897773_1407406576277235763_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=MzkxMDM5MjU3NTc4NjgzMjQ2NQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA1NS5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=VubzTfcaWUQQ7kNvwESkx5-&_nc_oc=Adr-X4EGN_9SKQE6QRJBgP_dMJxJGx56H92pq-_zo8wBh5S3Iy1q5VGVcuyf_Fl9HWM&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_gid=6QDcJ1Vq-RNj_iF0SklczQ&_nc_ss=7b389&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT_Sqoy3JaGx-1qt_vCMalbCUvElM-WYiasGCVgvucxPA&oe=6B0B3448)](https://www.threads.com/@pmenance.manager/post/DZEgVRcGVJR/media)
-
-506
-
-46
-
-74
-
-467
-
-Pinned
-
-[![Image 3: pmenance.manager’s profile picture](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-19/707898898_18095504413897773_4589487749246160928_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=10
+[Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
 ```
