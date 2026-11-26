@@ -1,25 +1,29 @@
 ---
-title: "atai_coding_data 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?"
 source_url: "https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT"
 source_author: "atai_coding_data"
 post_id: "DZUK8bdmenT"
 language: "unknown"
-category: "coding"
+category: "mcp"
 tools:
-  - "Make"
+  - "Claude"
+  - "ChatGPT"
+  - "GPT"
+  - "MCP"
+  - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0214
-generated_at: "2026-11-25T09:00:25+00:00"
+zh_ratio: 0.0177
+generated_at: "2026-11-26T08:46:51+00:00"
 ---
 
-# atai_coding_data 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# atai_coding_data 的 AI 工作流案例：[數據分析](https://www.threads.com/search?
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+[數據分析](https://www.threads.com/search?
 
 ## 這篇在解決什麼問題
 
@@ -27,13 +31,15 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+Claude、ChatGPT、GPT、MCP、GitHub
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. [數據分析](https://www.threads.com/search?
+2. MCP x META 廣告數據串接教學
+3. 近期要開一門課程包括： • Data Studio 串接操作 • MCP 串接教學
+4. 學會MCP 串接能夠： 1. 離線讀取廣告數據 2. 在手機端透過Agent 與數據互動 3. 讓頂尖 CLAUDE 提供成效提升策略 4. 輕鬆打造數據報表
+5. ** 圖片皆為AI 生成的Demo 數據
 
 ## 可以直接複製的做法
 
@@ -61,22 +67,28 @@ reply_summary_status: `partial`
 
 - Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
+URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+
+Markdown Content:
+[![Image 1: atai_coding_data’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/7584691
+- Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
+
 URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 Final URL: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
-Warning: This page maybe requiring CAPTCHA, please make sur
-- URL Source: http://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-- Final URL: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
+Markdown Content:
+[![Image 1: atai_coding_data’s profile pi
 - Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
-- [Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
+[![Image 1: atai_coding_data’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2F
+- Markdown Content:
+[![Image 1: atai_coding_data’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2F
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0214`
+- keyword_hits: AI、Claude、ChatGPT、GPT、MCP、Agent、agent、自動化、工具、整理、生成、設計、GitHub
+- zh_ratio: `0.0177`
 - source_url: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
 
 ## 原始抓取內容
@@ -85,8 +97,6 @@ Log in or sign up for Threads See what people are talking about and join the con
 Title: 數據自動流 | 數位行銷 | 阿泰 | (@atai_coding_data) on Threads
 
 URL Source: https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT
-
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
 Markdown Content:
 [](https://www.threads.com/)
@@ -114,4 +124,40 @@ More
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
+
+# [Thread](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+
+11.8K views
+
+[![Image 1: atai_coding_data’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=drh1DK5aMagQ7kNvwEKsnZP&_nc_oc=AdqhbgZDJi3MrmCukngr13lzajeeADKstlLJaddlntchdv2i0ozUJPinZGZ1axlOB5U&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=t8q9VVYRUszgCRzJSv8Itw&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQRTRKhAzwzdqZlBRq1ZgYjQv7FMtQwokT0ldd47q5B3Hg&oe=6B0DC015)](https://www.threads.com/@atai_coding_data)
+
+[atai_coding_data](https://www.threads.com/@atai_coding_data)
+
+[數據分析](https://www.threads.com/search?q=%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90&serp_type=tags&tag_id=18423481333053834)
+
+[06/08/26](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT)
+
+MCP x META 廣告數據串接教學
+
+近期要開一門課程包括： • Data Studio 串接操作 • MCP 串接教學
+
+學會MCP 串接能夠： 1. 離線讀取廣告數據 2. 在手機端透過Agent 與數據互動 3. 讓頂尖 CLAUDE 提供成效提升策略 4. 輕鬆打造數據報表
+
+下方是用 CLAUDE 4.8 最新模型跑出來的，不過因為畫面太長，只有擷取一小部分。學會MCP 操作後，可以在電腦、手機端與廣告數據互動。
+
+有興趣 +1 傳送報名連結給你
+
+** 圖片皆為AI 生成的Demo 數據
+
+[![Image 2](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/720031476_17972772141105477_18957545394604620_n.webp?_nc_cat=109&_nc_map=urlgen_bucketless&ig_cache_key=MzkxNDgwMjEwOTIxMzE3NDIyNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA0MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Qz-kqrDUzrsQ7kNvwH2xvPc&_nc_oc=Adp0dkbN_BTkYqphaWczbvioY6YSoWo1NJurTtFaWEmNmYeOrEQVbqQeQ6BwO5uDcOo&_nc_zt=23&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_gid=AsfvIsjTuDz9hVlJlp-bCA&_nc_ss=7b389&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQQiI8uQ-mfiF9SfrFOcouWpYWn5MyLaKfvqn7ahckyljQ&oe=6B0DB4A6)](https://www.threads.com/@atai_coding_data/post/DZUK8bdmenT/media)
+
+150
+
+331
+
+14
+
+96
+
+[![Image 3: atai_coding_data’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/758469174_17981658618105477_7637633018042329082_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ig_cache_key=GDZSNS2FjmcmOeI-APonNZXDUv5pbmNDAQAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=drh1DK5aMagQ7kNvwEKsnZP&_nc_oc=AdqhbgZDJi3MrmCukngr13lzajeeADKstlLJaddlntchdv2i0ozUJPinZGZ1axlOB5U&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_n
 ```

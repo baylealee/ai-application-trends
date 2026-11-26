@@ -1,25 +1,28 @@
 ---
-title: "_3cpj_ 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA"
+title: "_3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短"
 source_url: "https://www.threads.com/@_3cpj_/post/DNORrH7Pau0"
 source_author: "_3cpj_"
 post_id: "DNORrH7Pau0"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
-  - "Make"
+  - "Claude"
+  - "Claude Code"
+  - "GPT"
+  - "GitHub"
 status: "draft"
 content_quality: "strong"
-zh_ratio: 0.0
-generated_at: "2026-11-25T09:00:25+00:00"
+zh_ratio: 0.0312
+generated_at: "2026-11-26T08:46:51+00:00"
 ---
 
-# _3cpj_ 的 AI 工作流案例：Warning: This page maybe requiring CAPTCHA
+# _3cpj_ 的 AI 工作流案例：最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
 
 ## 這篇在解決什麼問題
 
@@ -27,13 +30,15 @@ Warning: This page maybe requiring CAPTCHA, please make sure you are authorized 
 
 ## 使用工具
 
-Make
+Claude、Claude Code、GPT、GitHub
 
 ## 原始工作流拆解
 
-1. 閱讀原文後，先確認它實際解決的工作情境。
-2. 拆出輸入資料、AI 工具、處理步驟與輸出成果。
-3. 再判斷是否能轉成自己的工作流範本。
+1. 我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
+2. > 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
+3. [Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/554017123579966266?
+4. u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDU9JL24ewThLNjXBKNGANs2_Cgwa0pLkcLM_Kx6_1k-CCDC4SGFq9d_WATkxbTg19wolOWSG7foJc8ivqxCRYJQlWJcGuueZHui9MB19tFty1saio)
+5. 現在都是直接用 agent skills 體系去做
 
 ## 可以直接複製的做法
 
@@ -65,20 +70,21 @@ URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 Final URL: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Markdown Content:
+[](https://www.threads.com/)
 
+[Home](https://www.threads.com/)
 
-- Markdown Content:
-Log in or sign up for Threads See what people are talking about and join the conversation.
-- [Log in with username instead](https://www.threads.com/login?show_choice_screen=false)
-- URL Source: http://www.threads.com/@_3cpj_/post/DNORrH7Pau0
-- Final URL: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
+New thread
+
+[Search]
+- [![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-2.xx.fbcdn.net/emg1/v/t13/554017123579966266?url=https%3A%2F%2Fopengraph.githubassets.com%2Fa0a66bcb682aa24cb3369b890eec6ef3823d6ed51c84c954206ef1755762bfb1%2FLich
 
 ## 抓取品質
 
 - content_quality: `strong`
-- keyword_hits: AI、Make
-- zh_ratio: `0.0`
+- keyword_hits: AI、Claude、GPT、Agent、agent、工作流、prompt、工具、知識庫、GitHub
+- zh_ratio: `0.0312`
 - source_url: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
 ## 原始抓取內容
@@ -88,42 +94,52 @@ Title: Jun CP (@_3cpj_) on Threads
 
 URL Source: https://www.threads.com/@_3cpj_/post/DNORrH7Pau0
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
-
 Markdown Content:
-[](https://www.threads.com/)
-
-[Home](https://www.threads.com/)
-
-New thread
-
-[Search](https://www.threads.com/search)
-
-Messages
-
-Activity
-
-Profile
-
-Insights
-
-[Log in](https://www.threads.com/login?show_choice_screen=false)
-
-More
-
 [](https://www.threads.com/)
 
 [](https://www.threads.com/)
 
 [](https://www.threads.com/search)
 
-Something went wrong, please try again later.
+# [Thread 115K views](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
-Retry
+[![Image 1: A Threads user’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.2885-19/482687589_640258335646180_5026697820721851548_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ig_cache_key=GGU6xRzkIanCT0YCAJwsWw0Ja8JFbkULAAAB1501500j-ccb7-5&ccb=7-5&_nc_sid=43db74&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDI0LkMzIn0%3D&_nc_ohc=X3O4pp1NH1wQ7kNvwGifXsU&_nc_oc=AdqTfqbC_i3HTPqzIDK_M0xeThAwq9pyIbZHc6-wezdkhEsDMH1KDEnYBMme362B5bw&_nc_zt=24&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_ss=7b389&_nc_ct=RQosPBUCFQIAAAA&oh=00_AQQLkjXkPrKuGtxraARVMW4t017bk4CRSo8Z6IuRzczfqQ&oe=6B0DC734)](https://www.threads.com/@_3cpj_)
 
-Say more with Threads
+[_3cpj_](https://www.threads.com/@_3cpj_)
 
-Join Threads to share thoughts, find out what’s going on, follow your people and more.
+[08/11/25](https://www.threads.com/@_3cpj_/post/DNORrH7Pau0)
 
-Continue with Instagram
+最近在網上看到一位大神 Chris Dzombak，用 Claude Code 在短時間內寫了整整12個項目，效率高到嚇人。
+
+我深挖了一下他的方法，發現終極秘訣不是什麼花哨的Prompt，而是給 Claude 植入一個“資深工程師”的靈魂。
+
+他創建了一個全局配置文件 CLAUDE .md，也就是AI的個人操作系統。這個文件里定義了：
+
+> 開發哲學：比如“增量優於全部重構”、“代碼要清晰而非聰明”。
+
+> 標準工作流：規劃 -> 寫測試 -> 實現 -> 重構 -> 提交。
+
+> “卡住怎麼辦”預案：嘗試3次失敗後，必須停下來，記錄失敗、研究替代方案、反思根本問題。
+
+> 決策框架：當有多種方案時，按可測試性 > 可讀性 > 一致性 > 簡單性的順序選擇。
+
+最關鍵的是，他強調“AI寫的代碼，最終責任在人”，所有代碼都必須手動審查和測試。
+
+這個 CLAUDE .md 文件簡直是把高級工程師的思維模式和職業素養灌輸給了AI，讓它從一個“工具”變成了一個有章法、懂取捨的“准同事”。
+
+我已經把他的這份“AI調教聖經”fork了，強烈建議大家也去學習一下。
+
+Translate
+
+[![Image 2: GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/554017123579966266?url=https%3A%2F%2Fopengraph.githubassets.com%2Fa0a66bcb682aa24cb3369b890eec6ef3823d6ed51c84c954206ef1755762bfb1%2FLichAmnesia%2FGPT-Prompt-Hub&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=fr&ccb=18-1&_nc_gid=Lt9EFuQh1WFWJB-CjFJB9A&_nc_zt=3&oh=06_Q3_FAS6K9j-4k0sCCeCyF3YgRRDbv2tNn6_FM2A8NK7uGILG&oe=6B09E828) ![Image 3](https://external-atl3-1.xx.fbcdn.net/emg1/v/t13/16987156186558036987?url=https%3A%2F%2Fgithub.githubassets.com%2Ffavicons%2Ffavicon.svg&utld=githubassets.com&_nc_sid=1d65fc&_nc_ht=external-atl3-1.xx.fbcdn.net&stp=dst-png_s42x42&ccb=18-1&_nc_gid=Lt9EFuQh1WFWJB-CjFJB9A&_nc_zt=3&_nc_enc=Ujrv_PgErh8AE3BVtFEEFDgF6nCZpDXcMILAwloCZ4iKKeTZM6E_5Qet4q4mdZZP1rnQn43zzZ2wmQ2Z&oh=06_Q3_FAYaj2ysQ5-DAiN6IW7c6lUD13_czS79VS2kDyxcX-i0o&oe=6B09CC07) github.com GPT-Prompt-Hub/CLAUDE.md at main · LichAmnesia/GPT-Prompt-Hub](https://l.threads.com/?u=https%3A%2F%2Fgithub.com%2FLichAmnesia%2FGPT-Prompt-Hub%2Fblob%2Fmain%2FCLAUDE.md&e=AUDU9JL24ewThLNjXBKNGANs2_Cgwa0pLkcLM_Kx6_1k-CCDC4SGFq9d_WATkxbTg19wolOWSG7foJc8ivqxCRYJQlWJcGuueZHui9MB19tFty1saio)
+
+1.9K
+
+54
+
+368
+
+2.1K
+
+[![Image 4: li_203370’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/526001211_17928967155066939_821622462963169443_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&_nc_map=urlgen_
 ```

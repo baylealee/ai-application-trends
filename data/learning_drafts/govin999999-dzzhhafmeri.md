@@ -9,7 +9,7 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-24T10:17:02+00:00"
+generated_at: "2026-11-26T08:46:51+00:00"
 ---
 
 # govin999999 的 AI 工作流案例：Title: Threads • Log in
@@ -122,23 +122,29 @@ More
 
 # [Home](https://www.threads.com/?error=invalid_post)
 
-[![Image 1: vnessa_002’s profile picture](https://scontent-ord5-1.cdninstagram.com/v/t51.2885-19/368533866_303777312205751_2411246980680053460_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NjAuYzIifQ&_nc_ht=scontent-ord5-1.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gF1Lg4LurDfwKSa7tGiiXACjXHyHp5sNN_EYh9w_X72Kh96gc_cn4V1_bLKr5SWKFzWWSvapdSECHW1Vri1FXrt&_nc_ohc=4vl0TuPhSCUQ7kNvwHXtVDT&_nc_gid=C8nqbcEel3U1l6QwEKq6JQ&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSYS5kvWIguaCssIsONMam9MzgCMiinGABs3JDbWgWQTw&oe=6B0B3ED1&_nc_sid=68810c)](https://www.threads.com/@vnessa_002)
+[![Image 1: nfloncbs’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/927887997_18081492230773090_5346254994433980652_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHaVrXo0pdxplKQ5qn8PlUHUVr8PGibPVD1vRXIveS73IUSjM3grE7-uu4aQLXmTlXd9FIJYURQey0714oZix6z&_nc_ohc=hlQKhn6nlOAQ7kNvwHCUk_s&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSOQysaugx2kyOXKZ0ZNeTmnudqCMtrM_bXkupgtI875A&oe=6B0DAC8F&_nc_sid=68810c)](https://www.threads.com/@nfloncbs)
 
-[vnessa_002](https://www.threads.com/@vnessa_002)
+[nfloncbs](https://www.threads.com/@nfloncbs)
 
-[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719350972_18563013931070377_1311846397797993530_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQShPa5kXfFoBAsy9BqGVwVztkukivaRY9PTJ8wuOEUW3w&oe=6B2CE8B4) Music Threads](https://www.threads.com/search?q=musicthreads&serp_type=tags&tag_id=18314965846116669)
+[13h](https://www.threads.com/@nfloncbs/post/DgLPa2Immc6)
 
-[21h](https://www.threads.com/@vnessa_002/post/DgFZuH_kWAI)
+Aaron Rodgers says Steelers coach Mike McCarthy mistakenly shouted the wrong team name while trailing at halftime in Philadelphia.
 
-In the 90’s, when In Living Color ended every show with the hottest Artists in Hip Hop. Back When we were a proper country The good Ole Days 🔥￼ Pt 2 Rosie Perez>
+[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/928712418_18081641021773090_1568237748848177338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODM4OTMwNjM5ODIzODUyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zL_rHCfSr_kQ7kNvwGz4ZNl&_nc_oc=AdrG7tz2XOerH8sUdw3c0BfA25Li1BySPPouru3sY5fwvLly3dIFViqSDOA233R0WAEEwHNw-aId7hcgggun4f__&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT4fFPGTtCZoPsUJWP054W9iS9RRCSwaRu9el5Q5PBYcg&oe=6B0DB190)](https://www.threads.com/@nfloncbs/post/DgLPa2Immc6/media)
 
-![Image 3](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/706859017_18089199473618514_1735227860237565056_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNDUzODA3NjYzOTIyNTU1OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuNzIwLnNkci52aWRlb19kZWZhdWx0X2NvdmVyX2ZyYW1lLkMzIn0%3D&_nc_ohc=d5MK15A2-NQQ7kNvwGsiR46&_nc_oc=AdqKQRhQyLCNGrRJSp1YZdj2tZKiB-d5ou9ZLP8n-urPA38mwlnTIsru7-dH-EH5fMQuTAIHjALMAAoElPt8S5TM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_gid=C8nqbcEel3U1l6QwEKq6JQ&_nc_ss=7a30f&_nc_ct=RQosPBUIFQQlBAAAAA&oh=00_AQQr3dywp_0kSSfmCNSAbJc8FCAdMS__q4aKUthDHi8W5A&oe=6B0B520A)
+82
 
-Sorry, we're having trouble playing this video.
+17
 
-[Learn more](https://l.threads.com/?u=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F396404120401278%2Flist&e=AUC8bNX1QSW_q6yv4o7K7TbHbp4XBRLmCXiLVg_OMa4nKHwgq5vWTd7Zuy45T9hWphF7q1SNLudqHyCOh0jxLD1pczP_xOnuB9-0r8r1q4f1mvQs_9I)
+2
 
-90s.museum
+10
 
-![Image 4](https://scontent-ord5-2.cdninstagram.com/v/t51.82787-15/706676935_18089199563618514_827695936187526791_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=MzkwNDUzODE5MDk2NzU5Nzk4MQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_si
+[![Image 3: theburnedoutassistant’s profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/870985915_17989927194116771_6318815561123697290_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHaVrXo0pdxplKQ5qn8PlUHUVr8PGibPVD1vRXIveS73IUSjM3grE7-uu4aQLXmTlXd9FIJYURQey0714oZix6z&_nc_ohc=gx4KjSgbxfQQ7kNvwGrVPAw&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQMhrSkUDpXk1_nz75DN0dYxyYXiZ2GxF-RrCJHd2bnEw&oe=6B0DAE17&_nc_sid=68810c)](https://www.threads.com/@theburnedoutassistant)
+
+[theburnedoutassistant](https://www.threads.com/@theburnedoutassistant)
+
+[10h](https://www.threads.com/@theburnedoutassistant/post/DgLohYHmyUp)
+
+No one tells you that peak marriage is just like, being really 
 ```

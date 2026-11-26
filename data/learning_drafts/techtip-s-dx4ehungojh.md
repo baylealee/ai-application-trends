@@ -1,5 +1,5 @@
 ---
-title: "techtip_s 的 AI 工作流案例：[Image 3: butterscotchcollins’s profile pi"
+title: "techtip_s 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@techtip_s/post/DX4ehuNGOJh"
 source_author: "techtip_s"
 post_id: "DX4ehuNGOJh"
@@ -9,16 +9,16 @@ tools:
 status: "draft"
 content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-25T09:00:25+00:00"
+generated_at: "2026-11-26T08:46:51+00:00"
 ---
 
-# techtip_s 的 AI 工作流案例：[Image 3: butterscotchcollins’s profile pi
+# techtip_s 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-[Image 3: butterscotchcollins’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358002458_1507051146789669_3441479668770571379_n.jpg?
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -58,8 +58,37 @@ generated_at: "2026-11-25T09:00:25+00:00"
 
 reply_summary_status: `partial`
 
-- [![Image 1: jazmynjw’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/710373017_17968987191116793_8404744291888853175_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDc4LmMyIn0&_nc_ht=scontent-sea5-
 - Title: Threads • Log in
+
+URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Con
+- Title: Threads • Log in
+
+URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Cont
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
 
 URL Source: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
 
@@ -72,33 +101,51 @@ Markdown Content:
 
 New thread
 
-[Search](https://www
-- Title: Threads • Log in
+[Search](https://www.threads.com/search)
 
-URL Source: http://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+Messages
 
-Final URL: https://www.threads.com/?error=invalid_post
+Activity
 
-Markdown Content:
+Profile
+
+Insights
+
+[Log in](https://www.threads.com/login?show_choice_screen=false)
+
+More
+
 [](https://www.threads.com/)
 
-[Home](https://www.threads.com/)
+[](https://www.threads.com/)
 
-New thread
+[](https://www.threads.com/search)
 
-[Search](https://www.
-- [![Image 6](https://scontent-sea5-2.cdninstagram.com/v/t51.82787-15/915696465_17997848940110060_33973351689786978_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ig_cache_key=NDAzNzUzODQ0NjM5MDQ2Mjk1OQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=
-- [![Image 7: julioroblespuppeteer’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.82787-19/841928609_17991250335108423_4042524575928604696_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=sc
+# [Home](https://www.threads.com/?error=invalid_post)
 
-## 抓取品質
+[![Image 1: omgitstiab’s profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/622616514_17941175532112348_4405060889550284813_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gFTWRW4vSgHjzoXNQ9UIXnyoLwBj407m2Fiw4OP_r2Nr_wQsF5juL9yCjOWybFzjQkMU-kQuDNbUdv8VMIKyrPP&_nc_ohc=Yhdlh0Vs2b8Q7kNvwGqzy-D&_nc_gid=TGVG6Tw0_UIBdBGMt0hdWw&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQztR4i96-JsupobwfrZ8tWJbbLlMqHNGoi3K_Y10E54Q&oe=6B0DD790&_nc_sid=68810c)](https://www.threads.com/@omgitstiab)
 
-- content_quality: `medium`
-- keyword_hits: AI
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@techtip_s/post/DX4ehuNGOJh
+[omgitstiab](https://www.threads.com/@omgitstiab)
 
-## 原始抓取內容
+[![Image 2](https://scontent.xx.fbcdn.net/v/t1.6435-9/719350972_18563013931070377_1311846397797993530_n.png?_nc_ht=scontent.xx.fbcdn.net&_nc_sid=b55947&ccb=14-4&oh=00_AQRzqgxyWnuU7CPHLkvbwATSYhM0e1Dm4ROTDHOesBzOBA&oe=6B2F5374) Music Threads](https://www.threads.com/search?q=musicthreads&serp_type=tags&tag_id=18314965846116669)
 
-```text
-[![Image 3: butterscotchcollins’s profile picture](https://scontent-sea5-1.cdninstagram.com/v/t51.2885-19/358002458_1507051146789669_3441479668770571379_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sea5-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gG0wbqDQGzKKgXQJpIOcREyUeKzvjIgU3dt6p49JV3RmaGO8MJmplvzT6LWORT6ZtMTWyw5juZAWjBM_ce7aj5a&_nc_ohc=RYxdx5E4Jl8Q7kNvwEaU_XO&_nc_gid=-TN2SGaHo0tD6Rp3zU55fg&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQNRiQlYkasxaIHfxt8Qh22sK1Uj4TArymo8Q-l3y4qZA&oe=6B0C877B&_nc_sid=68810c)](https://www.threads.com/@butterscotchcollins)
+[14h](https://www.threads.com/@omgitstiab/post/DgLH2_IGJ5R)
+
+Started a rich auntie playlist. Not going to lie to you I’m struggling a little bit with the songs.
+
+58
+
+34
+
+4
+
+[![Image 3: mytrueroots’s profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.2885-19/466543666_1524838774859465_3252901269311723701_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=105&_nc_oc=Q6cZ2gFTWRW4vSgHjzoXNQ9UIXnyoLwBj407m2Fiw4OP_r2Nr_wQsF5juL9yCjOWybFzjQkMU-kQuDNbUdv8VMIKyrPP&_nc_ohc=q5GYQQhDWjEQ7kNvwFHvOyB&_nc_gid=TGVG6Tw0_UIBdBGMt0hdWw&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQ5pbR9TJiGtvxYKR1CYDeHVSUUr4LVsaaYiXrqvvvqeg&oe=6B0DB4F9&_nc_sid=68810c)](https://www.threads.com/@mytrueroots)
+
+[mytrueroots](https://www.threads.com/@mytrueroots)
+
+[14h](https://www.threads.com/@mytrueroots/post/DgLKC7VG-Ml)
+
+👀 I ain’t seen the Smucker’s people in all this holiday brand shenanigans.
+
+[![Image 4](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-15/931556738_17997873213110955_7348360367934678274_n.jpg?stp=cp6_dst-jpegr_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODM2NTY3MjQ3Njc2MjkxNw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMzAyNC5oZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=gAgdBa7XLGIQ7kNvwEYUlHu&_nc_oc=AdpiNS5iCUKYK6HFwmO82jBr1V-Rnj7d3wEd0cS1BtuxXo0Z7OTJ-fQlf1D9RyvMAG1oKZQupKjTMoYdyOD
 ```
