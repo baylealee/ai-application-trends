@@ -1,24 +1,26 @@
 ---
-title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
+title: "govin999999 的 AI 工作流案例：I bought a pair of Ferragamo sunglasses fo"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "coding"
+category: "knowledge_base"
 tools:
+  - "RAG"
+  - "Make"
 status: "draft"
-content_quality: "medium"
+content_quality: "strong"
 zh_ratio: 0.0
-generated_at: "2026-11-26T08:46:51+00:00"
+generated_at: "2026-11-27T08:57:59+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：Title: Threads • Log in
+# govin999999 的 AI 工作流案例：I bought a pair of Ferragamo sunglasses fo
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-Title: Threads • Log in
+I bought a pair of Ferragamo sunglasses for $23 during Nordstrom’s Black Friday sale. What a steal
 
 ## 這篇在解決什麼問題
 
@@ -26,7 +28,7 @@ Title: Threads • Log in
 
 ## 使用工具
 
-待人工確認
+RAG、Make
 
 ## 原始工作流拆解
 
@@ -64,23 +66,31 @@ URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Markdown Content:
+[](https://www.threads.com/)
 
-Markdown C
+[Home](https://www.threads.com/)
+
+New thread
+
+[Search](https://w
+- [![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/928381675_18196607608405794_5182622194222993761_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzOTI0ODYzMjc3NTYxODgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&ef
+- The older you get, the more you realize that the simple things matter most. Faith, financial stability and a partner who brings you peace can make life feel full without needing all the extras 💯
 - Title: Threads • Log in
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
 
-Markdown Co
+Markdown C
+- ![Image 4](https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/928888979_1855093615525723_4056969768622126391_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzOTAzMjIzODg4NDQyMjc0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=
 
 ## 抓取品質
 
-- content_quality: `medium`
-- keyword_hits: AI
+- content_quality: `strong`
+- keyword_hits: AI、RAG、Make
 - zh_ratio: `0.0`
 - source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
@@ -89,62 +99,48 @@ Markdown Co
 ```text
 Title: Threads • Log in
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
 
 Markdown Content:
-[](https://www.threads.com/)
+[![Image 1: cybercyn11’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/928421793_17996085387117130_2670548012078283860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=Pb9vkK-0WpQQ7kNvwEwR8eh&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQUEbfEi7CQNYpiUk75GDnciuD8NkyTRc2BCeO4V_RAz9g&oe=6B0F13DA&_nc_sid=10d13b)](https://www.threads.com/@cybercyn11)
 
-[Home](https://www.threads.com/)
+Couple things for the skin couple things for the immune system and the gut
 
-New thread
+549
 
-[Search](https://www.threads.com/search)
+27
 
-Messages
+30
 
-Activity
+35
 
-Profile
+[![Image 2: forever_kourt’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/802031177_17938966236362899_4279500377806413934_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=z3PHbG9fDBwQ7kNvwFu3-2F&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQXhWbDA3nmVipIdv7QjHWdg8w6LwdqDCKDEEOX4uf6HJA&oe=6B0F14F4&_nc_sid=10d13b)](https://www.threads.com/@forever_kourt)
 
-Insights
+I bought a pair of Ferragamo sunglasses for $23 during Nordstrom’s Black Friday sale. What a steal
 
-[Log in](https://www.threads.com/login?show_choice_screen=false)
+71
 
-More
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/)
-
-[](https://www.threads.com/search)
-
-# [Home](https://www.threads.com/?error=invalid_post)
-
-[![Image 1: nfloncbs’s profile picture](https://scontent-atl3-1.cdninstagram.com/v/t51.82787-19/927887997_18081492230773090_5346254994433980652_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44MDAuYzIifQ&_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gHaVrXo0pdxplKQ5qn8PlUHUVr8PGibPVD1vRXIveS73IUSjM3grE7-uu4aQLXmTlXd9FIJYURQey0714oZix6z&_nc_ohc=hlQKhn6nlOAQ7kNvwHCUk_s&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQSOQysaugx2kyOXKZ0ZNeTmnudqCMtrM_bXkupgtI875A&oe=6B0DAC8F&_nc_sid=68810c)](https://www.threads.com/@nfloncbs)
-
-[nfloncbs](https://www.threads.com/@nfloncbs)
-
-[13h](https://www.threads.com/@nfloncbs/post/DgLPa2Immc6)
-
-Aaron Rodgers says Steelers coach Mike McCarthy mistakenly shouted the wrong team name while trailing at halftime in Philadelphia.
-
-[![Image 2](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-15/928712418_18081641021773090_1568237748848177338_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ig_cache_key=NDAzODM4OTMwNjM5ODIzODUyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQueHBpZHMuMTA4OC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=zL_rHCfSr_kQ7kNvwGz4ZNl&_nc_oc=AdrG7tz2XOerH8sUdw3c0BfA25Li1BySPPouru3sY5fwvLly3dIFViqSDOA233R0WAEEwHNw-aId7hcgggun4f__&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&_nc_ss=7a30f&_nc_ct=RQosPBUIFQIlBAAAAA&oh=00_AQT4fFPGTtCZoPsUJWP054W9iS9RRCSwaRu9el5Q5PBYcg&oe=6B0DB190)](https://www.threads.com/@nfloncbs/post/DgLPa2Immc6/media)
-
-82
-
-17
+6
 
 2
 
-10
+[![Image 3: micheleinstl’s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/506089940_17844759663508940_2708105990693519744_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=1wxRrKFmdG4Q7kNvwF5oVA_&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQU81QSnJVsMXtXXwyHY3KuMzO8mFs1R-_5W5SxzEfeWZA&oe=6B0F00F4&_nc_sid=10d13b)](https://www.threads.com/@micheleinstl)
 
-[![Image 3: theburnedoutassistant’s profile picture](https://scontent-atl3-2.cdninstagram.com/v/t51.82787-19/870985915_17989927194116771_6318815561123697290_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-atl3-2.cdninstagram.com&_nc_cat=111&_nc_oc=Q6cZ2gHaVrXo0pdxplKQ5qn8PlUHUVr8PGibPVD1vRXIveS73IUSjM3grE7-uu4aQLXmTlXd9FIJYURQey0714oZix6z&_nc_ohc=gx4KjSgbxfQQ7kNvwGrVPAw&_nc_gid=qwbUIv54pJFi2Cu07KAXFA&edm=ACM2rXoBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQQMhrSkUDpXk1_nz75DN0dYxyYXiZ2GxF-RrCJHd2bnEw&oe=6B0DAE17&_nc_sid=68810c)](https://www.threads.com/@theburnedoutassistant)
+How did a social media account for a cranberry collective not only make me want to try canned gelatinous cranberry sauce but also feel warm and fuzzy about … bog spiders?
 
-[theburnedoutassistant](https://www.threads.com/@theburnedoutassistant)
+Seriously, what kind of sorcery is this?
 
-[10h](https://www.threads.com/@theburnedoutassistant/post/DgLohYHmyUp)
+1.4K
 
-No one tells you that peak marriage is just like, being really 
+29
+
+15
+
+1
+
+[![Image 4: scaldedmilk’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/921850527_18149956114588699_7145432414695263844_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=PqY05DJQL1oQ7kNvwGsmZow&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQX1DeLtpy5QOMwTF7rd9yfjc09wcguptAmJITcATugNxQ&oe=6B0F1298&_nc_sid=10d13b)](https://www.threads.com/@scaldedmilk)
+
+MN baddies… tell me about Ground Z
 ```
