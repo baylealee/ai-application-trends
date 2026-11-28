@@ -1,26 +1,24 @@
 ---
-title: "govin999999 的 AI 工作流案例：I bought a pair of Ferragamo sunglasses fo"
+title: "govin999999 的 AI 工作流案例：Title: Threads • Log in"
 source_url: "https://www.threads.com/@govin999999/post/DZzhHaFmErI"
 source_author: "govin999999"
 post_id: "DZzhHaFmErI"
 language: "unknown"
-category: "knowledge_base"
+category: "coding"
 tools:
-  - "RAG"
-  - "Make"
 status: "draft"
-content_quality: "strong"
+content_quality: "medium"
 zh_ratio: 0.0
-generated_at: "2026-11-27T08:57:59+00:00"
+generated_at: "2026-11-28T08:18:25+00:00"
 ---
 
-# govin999999 的 AI 工作流案例：I bought a pair of Ferragamo sunglasses fo
+# govin999999 的 AI 工作流案例：Title: Threads • Log in
 
 > 狀態：自動草稿。本文由公開 Threads 抓取結果產生，尚未人工校稿。
 
 ## 一句話結論
 
-I bought a pair of Ferragamo sunglasses for $23 during Nordstrom’s Black Friday sale. What a steal
+Title: Threads • Log in
 
 ## 這篇在解決什麼問題
 
@@ -28,7 +26,7 @@ I bought a pair of Ferragamo sunglasses for $23 during Nordstrom’s Black Frida
 
 ## 使用工具
 
-RAG、Make
+待人工確認
 
 ## 原始工作流拆解
 
@@ -62,6 +60,27 @@ reply_summary_status: `partial`
 
 - Title: Threads • Log in
 
+URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+Final URL: https://www.threads.com/?error=invalid_post
+
+Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+Markdown Co
+- Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+
+## 抓取品質
+
+- content_quality: `medium`
+- keyword_hits: AI
+- zh_ratio: `0.0`
+- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+
+## 原始抓取內容
+
+```text
+Title: Threads • Log in
+
 URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
 
 Final URL: https://www.threads.com/?error=invalid_post
@@ -73,74 +92,61 @@ Markdown Content:
 
 New thread
 
-[Search](https://w
-- [![Image 2](https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/928381675_18196607608405794_5182622194222993761_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ig_cache_key=NDAzOTI0ODYzMjc3NTYxODgzMQ%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&ef
-- The older you get, the more you realize that the simple things matter most. Faith, financial stability and a partner who brings you peace can make life feel full without needing all the extras 💯
-- Title: Threads • Log in
+[Search](https://www.threads.com/search)
 
-URL Source: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+Messages
 
-Final URL: https://www.threads.com/?error=invalid_post
+Activity
 
-Warning: This page maybe requiring CAPTCHA, please make sure you are authorized to access this page.
+Profile
 
-Markdown C
-- ![Image 4](https://scontent-ord5-1.cdninstagram.com/v/t51.71878-15/928888979_1855093615525723_4056969768622126391_n.jpg?stp=dst-jpg_e15_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ig_cache_key=NDAzOTAzMjIzODg4NDQyMjc0Nw%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=
+Insights
 
-## 抓取品質
+[Log in](https://www.threads.com/login?show_choice_screen=false)
 
-- content_quality: `strong`
-- keyword_hits: AI、RAG、Make
-- zh_ratio: `0.0`
-- source_url: https://www.threads.com/@govin999999/post/DZzhHaFmErI
+More
 
-## 原始抓取內容
+[](https://www.threads.com/)
 
-```text
-Title: Threads • Log in
+[](https://www.threads.com/)
 
-URL Source: http://www.threads.com/@govin999999/post/DZzhHaFmErI
+[](https://www.threads.com/search)
 
-Final URL: https://www.threads.com/?error=invalid_post
+# [Home](https://www.threads.com/?error=invalid_post)
 
-Markdown Content:
-[![Image 1: cybercyn11’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/928421793_17996085387117130_2670548012078283860_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=Pb9vkK-0WpQQ7kNvwEwR8eh&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQUEbfEi7CQNYpiUk75GDnciuD8NkyTRc2BCeO4V_RAz9g&oe=6B0F13DA&_nc_sid=10d13b)](https://www.threads.com/@cybercyn11)
+[![Image 1: hotcombassassin’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/549300612_17923983882111232_1168520883162162857_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2gF-wps1m0sG6P6CSlywNXyBDi--Q64zSvyTAZi-LpBjVi4Q_sARtHWzt8gmYe3CKFQ&_nc_ohc=iz51_tBhNPsQ7kNvwHulSqe&_nc_gid=YL0QsEsiUtomiB8WIS0WMg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQXj8lKVgvOQhOidgYKi1CsBAkFRixPmi2WtGXJKoiDzLQ&oe=6B104545&_nc_sid=10d13b)](https://www.threads.com/@hotcombassassin)
 
-Couple things for the skin couple things for the immune system and the gut
+[hotcombassassin](https://www.threads.com/@hotcombassassin)
 
-549
+[Real Housewives](https://www.threads.com/search?q=Real%20Housewives&serp_type=tags&tag_id=18327507394106278)
 
-27
+[23h](https://www.threads.com/@hotcombassassin/post/DgPVS6xERqB)
 
-30
+Yeah, this is probably gonna be Bronwyn’s last season of Salt Lake 😂😂😂😂
 
-35
+51
 
-[![Image 2: forever_kourt’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/802031177_17938966236362899_4279500377806413934_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=z3PHbG9fDBwQ7kNvwFu3-2F&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQXhWbDA3nmVipIdv7QjHWdg8w6LwdqDCKDEEOX4uf6HJA&oe=6B0F14F4&_nc_sid=10d13b)](https://www.threads.com/@forever_kourt)
+12
 
-I bought a pair of Ferragamo sunglasses for $23 during Nordstrom’s Black Friday sale. What a steal
+[![Image 2: bob.metzger40’s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/420996353_1415573795709745_5814627468385802273_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF-wps1m0sG6P6CSlywNXyBDi--Q64zSvyTAZi-LpBjVi4Q_sARtHWzt8gmYe3CKFQ&_nc_ohc=VYUEFCUPgsUQ7kNvwFITWbI&_nc_gid=YL0QsEsiUtomiB8WIS0WMg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQXWeEkQkXxz9LN8eO5Sgoqj1CXqWAAlC-d0Pcfooou1RA&oe=6B10537E&_nc_sid=10d13b)](https://www.threads.com/@bob.metzger40)
 
-71
+[bob.metzger40](https://www.threads.com/@bob.metzger40)
 
-6
+[16h](https://www.threads.com/@bob.metzger40/post/DgQFf5WDyBC)
+
+The Rick Beato interview of Mick Jagger on You Tube may be the best music interview I have ever seen. Worth your time.
+
+276
+
+34
 
 2
 
-[![Image 3: micheleinstl’s profile picture](https://scontent.cdninstagram.com/v/t51.2885-19/506089940_17844759663508940_2708105990693519744_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=1wxRrKFmdG4Q7kNvwF5oVA_&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQU81QSnJVsMXtXXwyHY3KuMzO8mFs1R-_5W5SxzEfeWZA&oe=6B0F00F4&_nc_sid=10d13b)](https://www.threads.com/@micheleinstl)
+5
 
-How did a social media account for a cranberry collective not only make me want to try canned gelatinous cranberry sauce but also feel warm and fuzzy about … bog spiders?
+[![Image 3: charles_lee_ray89’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/682994643_18097449802880229_8167370637703386507_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby45NTguYzIifQ&_nc_ht=scontent.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2gF-wps1m0sG6P6CSlywNXyBDi--Q64zSvyTAZi-LpBjVi4Q_sARtHWzt8gmYe3CKFQ&_nc_ohc=FTzu10LRS3IQ7kNvwGEpIDO&_nc_gid=YL0QsEsiUtomiB8WIS0WMg&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQWymkKJaVM3GUH_t8Sn6XfwFqSwtB1m0OW673Xpd59PVA&oe=6B1075E8&_nc_sid=10d13b)](https://www.threads.com/@charles_lee_ray89)
 
-Seriously, what kind of sorcery is this?
+[charles_lee_ray89](https://www.threads.com/@charles_lee_ray89)
 
-1.4K
-
-29
-
-15
-
-1
-
-[![Image 4: scaldedmilk’s profile picture](https://scontent.cdninstagram.com/v/t51.82787-19/921850527_18149956114588699_7145432414695263844_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gEnYKll4vS2BnFnJOP2CCEZmWWcXpgfW7o0mkxiwJjHH8v9Y01q8hxNshH1i4wlcto&_nc_ohc=PqY05DJQL1oQ7kNvwGsmZow&_nc_gid=nQOi5nK56h46ZFPVYfwhxA&edm=APs17CUBAAAA&ccb=7-5&_nc_ct=RQAsPBUCFQIAAAA&oh=00_AQX1DeLtpy5QOMwTF7rd9yfjc09wcguptAmJITcATugNxQ&oe=6B0F1298&_nc_sid=10d13b)](https://www.threads.com/@scaldedmilk)
-
-MN baddies… tell me about Ground Z
+[NFL Threads](https:
 ```
